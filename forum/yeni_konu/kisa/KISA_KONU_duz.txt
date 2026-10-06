@@ -1,0 +1,200 @@
+📘 SEXYKO OYUN REHBERİ (KISA) | 24 Sistem Tek Bakışta, Detayı Rehberde | HYPER 16.10 BETA 🔥
+
+[RESİM GSAYIM]
+
+[RESİM R01]
+
+SEXYKO OYUN REHBERİ
+24 başlık, kısa kısa — detay için başlığın altındaki linke tıkla.
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+📖 01 · OYUNUN İÇİNDEKİ REHBER
+[RESİM KR02]
+Sol üstteki 📖 kitap → oyunun içinde rehber: 305 monster, 998 görev, upgrade oranları, drop arama.
+📘 Rehberin tamamı → https://sexyko.com/guide/book
+💬 Rehber Sistemi → https://forum.sexyko.com/d/22
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+⌨️ 02 · KISAYOLLAR VE ARAYÜZ
+[RESİM KR19]
+F10 ayarlar · K skill · U karakter · H komutlar · I envanter · Ctrl + D drop kaynağı.
+📘 Rehber → https://sexyko.com/guide/book
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎁 03 · BAŞLANGIÇ PAKETİ
+[RESİM KF53_4]
+Level 83 · 1.000.000.000 coin · 3 günlük EXP Premium, Valkyrie Set, Pathos, Kanat, Magic Bag, War Tattoo · 24 saat Genie.
+📘 Başlangıç Eşyaları → https://sexyko.com/guide/beginner-items
+💬 Başlangıç Paketi → https://forum.sexyko.com/d/53
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🧞 04 · GELİŞMİŞ GENIE
+[RESİM KR03]
+8 Attack + 8 Buff + 8 Party skill slotu · yüzdeyle HP/MP · sadece listedeki moblara vurur.
+💬 Genie Sistemi → https://forum.sexyko.com/d/16
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚙️ 05 · F10 AYARLAR — 11 SEKME
+[RESİM KR05]
+Grafik, efekt, loot filtresi, font ve 2. şifre — 11 sekme.
+💬 F10 Oyun Ayarları → https://forum.sexyko.com/d/12
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚔️ 06 · SKILL PRESET & QUICK SLOT
+[RESİM KR07]
+K → 4 ayrı Quick Slot — PK, farm, party, event düzenleri arasında hızlı geç.
+💬 Skill Preset & Quick Slot → https://forum.sexyko.com/d/42
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+👥 07 · PARTY AYARLARI
+[RESİM KF11_2]
+Party üyelerinin HP · MP · Buff · Damage bilgisini ayrı ayrı aç / kapat.
+💬 Party Sistemi → https://forum.sexyko.com/d/11
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🖱️ 08 · SAĞ TIK DEVRİ — NPC'YE GİTMEYE SON
+[RESİM KF10_5]
+KC, Gem, Fragment, Chest: sağ tıkla kırdır · Tag Name, Make Over, Nick, Job Changer da sağ tıkla.
+💬 Kırdırma → https://forum.sexyko.com/d/10
+💬 Chaotic Generator → https://forum.sexyko.com/d/43
+💬 Tag Name → https://forum.sexyko.com/d/30
+💬 Make Over → https://forum.sexyko.com/d/31
+💬 Nick → https://forum.sexyko.com/d/32
+💬 Job Changer → https://forum.sexyko.com/d/28
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🦸 09 · SOLO PELERİN
+[RESİM KF44_2]
+Clana girmeden pelerin: 15 gün · 250 HP · 250 MP · 25 DEF · %3 AP · takım pelerinleri.
+💬 Solo Pelerin → https://forum.sexyko.com/d/44
+💬 Solo Cape → https://forum.sexyko.com/d/29
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+💎 10 · GEM & FRAGMENT · NARKİ · PUS KIRDIRMA
+[RESİM KR21]
+Neyi kırdırırsan ne çıkar, yüzde kaç — hepsi rehberde.
+📘 Gem & Fragment → https://sexyko.com/guide/fragment
+📘 Narki → https://sexyko.com/guide/narki
+📘 PUS Kırdırma → https://sexyko.com/guide/pus-crash
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 11 · DROP INFO · DROP SEARCH
+[RESİM KF34_2]
+Moba tıkla → drop yüzdeleri · item üstünde Ctrl + D → hangi mobdan düşer.
+💬 Drop Info → https://forum.sexyko.com/d/34
+💬 Drop Search → https://forum.sexyko.com/d/50
+📘 Monster Listesi → https://sexyko.com/guide/monsters
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌀 12 · SLOT TELEPORT
+[RESİM KF52_2]
+[Teleport] Portal → mobu seç → 250.000 coin ile slotuna ışınlan.
+💬 Slot Teleport → https://forum.sexyko.com/d/52
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 13 · GRIND TRACKER
+[RESİM KR08]
+Sol üst ⏱ → farm süresi, saatlik coin ve saatlik item — slot verimini karşılaştır.
+💬 Farm Grind Tracker → https://forum.sexyko.com/d/14
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+⛏️ 14 · AUTO MINING — MINING INN
+[RESİM KF24_2]
+Auto Mining ürünleri Mining Inn'de birikir · depo tek yönlü: sadece çekilir.
+💬 Auto Mining — Mining Inn → https://forum.sexyko.com/d/24
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛒 15 · POWER UP STORE + KUPON
+[RESİM KR09]
+Basket ile toplu alışveriş · sponsor yayıncı kodu ile %30'a varan indirim.
+💬 Power Up Store → https://forum.sexyko.com/d/27
+💬 PUS İndirim Kodu → https://forum.sexyko.com/d/51
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎡 16 · ÇARKIFELEK
+[RESİM KR10]
+350 KC ile çevir ya da 2 saat online kal, 1 ücretsiz hak.
+💬 Çarkıfelek → https://forum.sexyko.com/d/41
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+📅 17 · GÜNLÜK GÖREVLER
+[RESİM KR20]
+Sol alt Daily Quest → görev seç → Accept → süre dolmadan bitir, ödül otomatik.
+📘 Günlük Görevler → https://sexyko.com/guide/daily-quests
+💬 Daily Quest → https://forum.sexyko.com/d/33
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+⏳ 18 · ETKİNLİK TAKVİMİ
+[RESİM KR11]
+Sağ üst kum saati → takvim · Bildirim kur → etkinlikten 5 dakika önce uyarı.
+💬 Kum Saati → https://forum.sexyko.com/d/38
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 19 · ETKİNLİK KURALLARI
+[RESİM KR12]
+Knight Chaos, Border Defense War, Juraid, Forgotten Temple, Castle Siege, Knight Royale, Under the Castle — kurallar ve ödüller.
+📘 Knight Chaos → https://sexyko.com/guide/book/chaos
+📘 Etkinlik Ödülleri → https://sexyko.com/guide/event-rewards
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🐉 20 · DRAKI'S TOWER
+[RESİM KR24]
+5 bölüm · günde 3 giriş · sıfırlama 18:00 · aylık sıralama.
+📘 Draki's Tower → https://sexyko.com/guide/book/draki
+💬 Draki's Tower → https://forum.sexyko.com/d/45
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔨 21 · UPGRADE ORANLARI
+[RESİM KR13]
+Oranlar rehberde ve Anvil'de canlı · en yüksek +8 · Trina's Piece oranı artırır.
+📘 Upgrade Oranları → https://sexyko.com/guide/upgrade
+💬 Upgrade Oranları → https://forum.sexyko.com/d/26
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ 22 · REBIRTH
+[RESİM KF49_1]
+83 Lv + %100 EXP + 100.000.000 coin + 10.000 NP → Rebirth · her seviye +2 stat.
+💬 Karakter Rebirth → https://forum.sexyko.com/d/49
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+👁️ 23 · EQUIPMENT VIEW
+[RESİM KF46_2]
+Karaktere sağ tık → Equipment View: ekipman, upgrade, stat, resistance, buff listesi.
+💬 Equipment View → https://forum.sexyko.com/d/46
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔗 24 · BAĞLANTILAR
+🌐 sexyko.com → https://sexyko.com
+📘 Rehber → https://sexyko.com/guide/book
+💬 Forum → https://forum.sexyko.com
+📥 Client → https://sexyko.com/download
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+[RESİM GTAKVIM]
+
+🔥 SEXYKO — PVP'NİN BAŞLADIĞI YER 🔥

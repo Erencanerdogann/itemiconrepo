@@ -1,0 +1,12 @@
+{
+ "kaynak": "https://sexyko.com/guide/narki (Chrome, selectPool(4) + selectPool(5)) · NPC: sexyko.com/admin/npcs + /admin/npc-spawns",
+ "cekildi": "2026-10-06",
+ "kural": "Narki'ye bir eşya verirsin, eşya yok olur ve karşılığında tek bir ödül çekilir. Ne çıkacağını verdiğin eşyanın hangi havuza girdiği belirler. Aşağıdaki yüzdeler o havuzdan o ödülün çıkma ihtimalidir. Eşya tek adet olmalı; bağlı, kiralık, mühürlü veya süre sınırlı eşyalar kırdırılamaz. Kırdırma geri alınamaz: verdiğin eşya her durumda yok olur. Her kırdırmadan yalnızca 1 ödül çıkar, envanterinde yer olmalı. 1.893 eşya kırdırılabiliyor; aradığın eşya listede yoksa Narki onu kabul etmez.",
+ "npc": {"id": 31524, "ad": "[Mysterious] Narki", "tip": "Narki exchanger", "bolge": "Moradon Camp 1", "nokta": [[849, 660], [780, 660], [680, 538], [825, 620]]},
+ "havuz": {
+  "4": {"ad": "Eski aksesuarlar", "esya": 64, "ornek": "Akara's Flame Ring · Old Agate Earring · Old Agate Ring · Old Amulet of Curse · Old Amulet of Strength · Old Belt of Life · Old Black Dragon Necklace · Old Crystal Ring …",
+        "odul": "ÇIKABİLECEK ÖDÜLLER 2 Spell Stone Powder 2 adet %40,4 Spell Stone Powder 1 adet %20,2 3 Spell Stone Powder 3 adet %20,2 4 Spell Stone Powder 4 adet %14,14 5 Spell Stone Powder 5 adet %4,04 Forgotten Accessory Box 1 adet %1,01"},
+  "5": {"ad": "Aksesuarlar", "esya": 926, "ornek": "kademeleriyle birlikte 1.573 parça · Agate Earring · Silver Ring · Skeleton Belt · Taurus Ring · Warrior Earring · Warrior Pendant · White Dragon Necklace …",
+        "odul": "ÇIKABİLECEK ÖDÜLLER Spell Stone Powder 1 adet %33,2 Forgotten Accessory Box 1 adet %23,17 2 Spell Stone Powder 2 adet %19,69 3 Spell Stone Powder 3 adet %11,2 4 Spell Stone Powder 4 adet %8,88 5 Spell Stone Powder 5 adet %3,86"}
+ }
+}

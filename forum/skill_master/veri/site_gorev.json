@@ -1,0 +1,221 @@
+{
+ "kaynak": "https://sexyko.com/guide/quests/<id>",
+ "cekildi": "2026-10-06 14:35",
+ "kayit": {
+  "406": {
+   "metin": "Level 10–100 Karus / El Morad Moradon ← Görevler Konum Moradon NPC 1 [Grand Merchant] Kaishan Moradon Görev [Grand Merchant] Kaishan performs job changes. I promised to pay 3,000 Noahs to [Grand Merchant] Kaishan for the job change. Gereksinimler Coin topla 3000× Ödüller Job change 1×",
+   "item_id": [
+    "900000000",
+    "900006000"
+   ]
+  },
+  "408": {
+   "metin": "Level 60–100 Karus / El Morad Warrior Karus El Morad ← Görevler Konum Karus El Morad NPC 2 [Warrior Master] Skaki Karus [Warrior Master] Skaki El Morad Görev [Warrior Master] Skaki performs master job change with required items. I promised to bring [Warrior Master] Skaki collectible items. Gereksinimler Unstable Kentaraus' Heart topla 1× Urkthron's Essence topla 1× Alkeradeua's Essence topla 1× Ödüller Job change 1×",
+   "item_id": [
+    "810095000",
+    "810090000",
+    "810094000",
+    "900006000"
+   ]
+  },
+  "409": {
+   "metin": "Level 60–100 Karus / El Morad Rogue Karus El Morad ← Görevler Konum Karus El Morad NPC 2 [Secret Agent] Clarence Karus [Secret Agent] Clarence El Morad Görev [Secret Agent] Clarence performs master job change with required items. I promised to bring [Secret Agent] Clarence collectible items. Gereksinimler Unstable Kentaraus' Heart topla 1× GaruKonga's Essence topla 1× Trethonz's Essence topla 1× Ödüller Job change 1×",
+   "item_id": [
+    "810095000",
+    "810092000",
+    "810093000",
+    "900006000"
+   ]
+  },
+  "410": {
+   "metin": "Level 60–100 Karus / El Morad Mage Karus El Morad ← Görevler Konum Karus El Morad NPC 2 [Archmage] Drake Karus [Archmage] Drake El Morad Görev [Archmage] Drake performs master job change with required items. I promised to bring [Archmage] Drake collectible items. Gereksinimler Unstable Kentaraus' Heart topla 1× Colmicola's Essence topla 1× GaruKonga's Essence topla 1× Ödüller Job change 1×",
+   "item_id": [
+    "810095000",
+    "810091000",
+    "810092000",
+    "900006000"
+   ]
+  },
+  "411": {
+   "metin": "Level 60–100 Karus / El Morad Priest Karus El Morad ← Görevler Konum Karus El Morad NPC 2 [Priest] Minerva Karus [Priest] Minerva El Morad Görev [Priest] Minerva performs master job change with required items. I promised to bring [Priest] Minerva collectible items. Gereksinimler Unstable Kentaraus' Heart topla 1× Colmicola's Essence topla 1× Trethonz's Essence topla 1× Ödüller Job change 1×",
+   "item_id": [
+    "810095000",
+    "810091000",
+    "810093000",
+    "900006000"
+   ]
+  },
+  "781": {
+   "metin": "Level 60–100 El Morad Warrior El Morad ← Görevler Konum El Morad NPC 1 [Grand Elder] Atlas El Morad Görev [Elder] If brings a necessary item to Atlas, able to master a job. [Elder] Promised to Atlas to deliver item collection Gereksinimler Unstable Kentaraus' Heart topla 1× Urkthron's Essence topla 1× Alkeradeua's Essence topla 1× Ödüller Job change 1×",
+   "item_id": [
+    "810095000",
+    "810090000",
+    "810094000",
+    "900006000"
+   ]
+  },
+  "784": {
+   "metin": "Level 60–100 Karus Warrior Karus ← Görevler Konum Karus NPC 1 [Grand Elder] Morbor Karus Görev [Elder] If brings a necessary item to Morbor, able to master a job. [Elder] Promised to Morbor to deliver item collection Gereksinimler Unstable Kentaraus' Heart topla 1× Urkthron's Essence topla 1× Alkeradeua's Essence topla 1× Ödüller Job change 1×",
+   "item_id": [
+    "810095000",
+    "810090000",
+    "810094000",
+    "900006000"
+   ]
+  },
+  "336": {
+   "metin": "Level 70–100 Karus / El Morad Warrior El Morad Karus ← Görevler Konum El Morad Karus NPC 2 [Warrior Master] Skaki El Morad [Warrior Master] Skaki Karus Görev Learn the true power of the master from [Warrior Master] Skaki. I decided to undergo the test to learn hidden skills from [Warrior Master] Skaki. Gereksinimler Spell Stone Powder topla 5× Ödüller Skill 1×",
+   "item_id": [
+    "810369000",
+    "900007000"
+   ]
+  },
+  "337": {
+   "metin": "Level 70–100 Karus / El Morad Rogue El Morad Karus ← Görevler Konum El Morad Karus NPC 2 [Secret Agent] Clarence El Morad [Secret Agent] Clarence Karus Görev Learn the true power of the master from [Secret Agent] Clarence. I decided to undergo the test to learn hidden skills from [Secret Agent] Clarence. Gereksinimler Spell Stone Powder topla 5× Ödüller Skill 1×",
+   "item_id": [
+    "810369000",
+    "900007000"
+   ]
+  },
+  "338": {
+   "metin": "Level 70–100 Karus / El Morad Mage El Morad Karus ← Görevler Konum El Morad Karus NPC 2 [Archmage] Drake El Morad [Archmage] Drake Karus Görev Learn the true power of the master from [Archmage] Drake. I decided to undergo the test to learn hidden skills from [Archmage] Drake. Gereksinimler Spell Stone Powder topla 5× Ödüller Skill 1×",
+   "item_id": [
+    "810369000",
+    "900007000"
+   ]
+  },
+  "339": {
+   "metin": "Level 70–100 Karus / El Morad Priest El Morad Karus ← Görevler Konum El Morad Karus NPC 2 [Priest] Minerva El Morad [Priest] Minerva Karus Görev Learn the true power of the master from [Priest] Minerva. I decided to undergo the test to learn hidden skills from [Priest] Minerva. Gereksinimler Spell Stone Powder topla 5× Ödüller Skill 1×",
+   "item_id": [
+    "810369000",
+    "900007000"
+   ]
+  },
+  "512": {
+   "metin": "Level 72–100 Karus / El Morad Rogue El Morad Karus ← Görevler Konum El Morad Karus NPC 2 [Secret Agent] Clarence El Morad [Secret Agent] Clarence Karus Görev Learn the true power of the master from [Secret Agent] Clarence. I've decided to undergo the test to learn the hidden skills of [Secret Agent] Clarence. Gereksinimler Spell Stone Powder topla 7× Ödüller Skill 1×",
+   "item_id": [
+    "810369000",
+    "900007000"
+   ]
+  },
+  "515": {
+   "metin": "Level 72–100 Karus / El Morad Mage El Morad Karus ← Görevler Konum El Morad Karus NPC 2 [Archmage] Drake El Morad [Archmage] Drake Karus Görev Learn the true power of the master from [Archmage] Drake. I've decided to undergo the test to learn the hidden skills of [Archmage] Drake. Gereksinimler Spell Stone Powder topla 7× Ödüller Skill 1×",
+   "item_id": [
+    "810369000",
+    "900007000"
+   ]
+  },
+  "518": {
+   "metin": "Level 72–100 Karus / El Morad Priest El Morad Karus ← Görevler Konum El Morad Karus NPC 2 [Priest] Minerva El Morad [Priest] Minerva Karus Görev Learn the true power of the master from [Priest] Minerva. I've decided to undergo the test to learn the hidden skills of [Priest] Minerva. Gereksinimler Spell Stone Powder topla 7× Ödüller Skill 1×",
+   "item_id": [
+    "810369000",
+    "900007000"
+   ]
+  },
+  "519": {
+   "metin": "Level 74–100 Karus / El Morad Priest El Morad Karus ← Görevler Konum El Morad Karus NPC 2 [Priest] Minerva El Morad [Priest] Minerva Karus Görev Learn the true power of the master from [Priest] Minerva. I've decided to undergo the test to learn the hidden skills of [Priest] Minerva. Gereksinimler Spell Stone Powder topla 9× Ödüller Skill 1×",
+   "item_id": [
+    "810369000",
+    "900007000"
+   ]
+  },
+  "510": {
+   "metin": "Level 75–100 Karus / El Morad Warrior El Morad Karus ← Görevler Konum El Morad Karus NPC 2 [Warrior Master] Skaki El Morad [Warrior Master] Skaki Karus Görev Learn the true power of the master from [Warrior Master] Skaki. I've decided to undergo the test to learn the hidden skills of [Warrior Master] Skaki. Gereksinimler Spell Stone Powder topla 10× Ödüller Skill 1×",
+   "item_id": [
+    "810369000",
+    "900007000"
+   ]
+  },
+  "513": {
+   "metin": "Level 75–100 Karus / El Morad Rogue El Morad Karus ← Görevler Konum El Morad Karus NPC 2 [Secret Agent] Clarence El Morad [Secret Agent] Clarence Karus Görev Learn the true power of the master from [Secret Agent] Clarence. I've decided to undergo the test to learn the hidden skills of [Secret Agent] Clarence. Gereksinimler Spell Stone Powder topla 10× Ödüller Skill 1×",
+   "item_id": [
+    "810369000",
+    "900007000"
+   ]
+  },
+  "516": {
+   "metin": "Level 75–100 Karus / El Morad Mage El Morad Karus ← Görevler Konum El Morad Karus NPC 2 [Archmage] Drake El Morad [Archmage] Drake Karus Görev Learn the true power of the master from [Archmage] Drake. I've decided to undergo the test to learn the hidden skills of [Archmage] Drake. Gereksinimler Spell Stone Powder topla 10× Ödüller Skill 1×",
+   "item_id": [
+    "810369000",
+    "900007000"
+   ]
+  },
+  "520": {
+   "metin": "Level 75–100 Karus / El Morad Priest El Morad Karus ← Görevler Konum El Morad Karus NPC 2 [Priest] Minerva El Morad [Priest] Minerva Karus Görev Learn the true power of the master from [Priest] Minerva. I've decided to undergo the test to learn the hidden skills of [Priest] Minerva. Gereksinimler Spell Stone Powder topla 10× Ödüller Skill 1×",
+   "item_id": [
+    "810369000",
+    "900007000"
+   ]
+  },
+  "521": {
+   "metin": "Level 76–100 Karus / El Morad Priest El Morad Karus ← Görevler Konum El Morad Karus NPC 2 [Priest] Minerva El Morad [Priest] Minerva Karus Görev Learn the true power of the master from [Priest] Minerva. I've decided to undergo the test to learn the hidden skills of [Priest] Minerva. Gereksinimler Spell Stone Powder topla 11× Ödüller Skill 1×",
+   "item_id": [
+    "810369000",
+    "900007000"
+   ]
+  },
+  "522": {
+   "metin": "Level 78–100 Karus / El Morad Priest El Morad Karus ← Görevler Konum El Morad Karus NPC 2 [Priest] Minerva El Morad [Priest] Minerva Karus Görev Learn the true power of the master from [Priest] Minerva. I've decided to undergo the test to learn the hidden skills of [Priest] Minerva. Gereksinimler Spell Stone Powder topla 12× Ödüller Skill 1×",
+   "item_id": [
+    "810369000",
+    "900007000"
+   ]
+  },
+  "511": {
+   "metin": "Level 80–100 Karus / El Morad Warrior El Morad Karus ← Görevler Konum El Morad Karus NPC 2 [Warrior Master] Skaki El Morad [Warrior Master] Skaki Karus Görev Learn the true power of the master from [Warrior Master] Skaki. I've decided to undergo the test to learn the hidden skills of [Warrior Master] Skaki. Gereksinimler Spell Stone Powder topla 15× Ödüller Skill 1×",
+   "item_id": [
+    "810369000",
+    "900007000"
+   ]
+  },
+  "514": {
+   "metin": "Level 80–100 Karus / El Morad Rogue El Morad Karus ← Görevler Konum El Morad Karus NPC 2 [Secret Agent] Clarence El Morad [Secret Agent] Clarence Karus Görev Learn the true power of the master from [Secret Agent] Clarence. I've decided to undergo the test to learn the hidden skills of [Secret Agent] Clarence. Gereksinimler Spell Stone Powder topla 15× Ödüller Skill 1×",
+   "item_id": [
+    "810369000",
+    "900007000"
+   ]
+  },
+  "517": {
+   "metin": "Level 80–100 Karus / El Morad Mage El Morad Karus ← Görevler Konum El Morad Karus NPC 2 [Archmage] Drake El Morad [Archmage] Drake Karus Görev Learn the true power of the master from [Archmage] Drake. I've decided to undergo the test to learn the hidden skills of [Archmage] Drake. Gereksinimler Spell Stone Powder topla 15× Ödüller Skill 1×",
+   "item_id": [
+    "810369000",
+    "900007000"
+   ]
+  },
+  "523": {
+   "metin": "Level 80–100 Karus / El Morad Priest El Morad Karus ← Görevler Konum El Morad Karus NPC 2 [Priest] Minerva El Morad [Priest] Minerva Karus Görev Learn the true power of the master from [Priest] Minerva. I've decided to undergo the test to learn the hidden skills of [Priest] Minerva. Gereksinimler Spell Stone Powder topla 15× Ödüller Skill 1×",
+   "item_id": [
+    "810369000",
+    "900007000"
+   ]
+  },
+  "782": {
+   "metin": "Level 75–100 Karus / El Morad Warrior El Morad ← Görevler Konum El Morad NPC 1 [Grand Elder] Atlas El Morad Görev [Elder] Learn true master's strength from Atlas [Elder] To learn a secret skill from Atlas, decides to pass his test. Gereksinimler Spell Stone Powder topla 10× Ödüller Skill 1×",
+   "item_id": [
+    "810369000",
+    "900007000"
+   ]
+  },
+  "783": {
+   "metin": "Level 80–100 Karus / El Morad Warrior El Morad ← Görevler Konum El Morad NPC 1 [Grand Elder] Atlas El Morad Görev [Elder] Learn true master's strength from Atlas [Elder] To learn a secret skill from Atlas, decides to pass his test. Gereksinimler Spell Stone Powder topla 15× Ödüller Skill 1×",
+   "item_id": [
+    "810369000",
+    "900007000"
+   ]
+  },
+  "785": {
+   "metin": "Level 75–100 Karus Warrior Karus ← Görevler Konum Karus NPC 1 [Grand Elder] Morbor Karus Görev [Elder] Learn true master's strength from Morbor [Elder] To learn a secret skill from Morbor, decides to pass his test. Gereksinimler Spell Stone Powder topla 10× Ödüller Skill 1×",
+   "item_id": [
+    "810369000",
+    "900007000"
+   ]
+  },
+  "786": {
+   "metin": "Level 80–100 Karus Warrior Karus ← Görevler Konum Karus NPC 1 [Grand Elder] Morbor Karus Görev [Elder] Learn true master's strength from Morbor [Elder] To learn a secret skill from Morbor, decides to pass his test. Gereksinimler Spell Stone Powder topla 15× Ödüller Skill 1×",
+   "item_id": [
+    "810369000",
+    "900007000"
+   ]
+  }
+ }
+}

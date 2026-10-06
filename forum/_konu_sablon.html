@@ -1,0 +1,328 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Forum Konu Kiti</title>
+<style>
+:root{--bg:#0b1020;--card:#121a33;--card2:#18213f;--bor:#26315a;--txt:#e6e9f5;--sol:#9aa3c7;--ana:#f0b545;--iyi:#3ecf8e;--info:#5aa9ff;--kod:#0a0f1e}
+@media (prefers-color-scheme: light){:root:not([data-theme="dark"]){--bg:#f4f5fa;--card:#fff;--card2:#f0f2f8;--bor:#d6dae8;--txt:#1b2033;--sol:#5a6380;--ana:#b37a10;--iyi:#14935c;--info:#1d6fd6;--kod:#f7f8fc}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--txt);font:15px/1.5 system-ui,Segoe UI,Roboto,sans-serif}
+.kap{max-width:1100px;margin:0 auto;padding:16px}
+h1{font-size:22px;margin:4px 0 2px}
+.alt{color:var(--sol);font-size:13px}
+.alt a{color:var(--info)}
+.kart{background:var(--card);border:1px solid var(--bor);border-radius:12px;padding:14px;margin:14px 0}
+.kart h2{font-size:16px;margin:0 0 10px;color:var(--ana)}
+.adim{margin:0;padding-left:20px}
+.adim li{margin:4px 0}
+.bas{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.bas .m{flex:1;min-width:240px;background:var(--kod);border:1px solid var(--bor);border-radius:8px;padding:10px;font-weight:600;word-break:break-word}
+button{background:var(--card2);color:var(--txt);border:1px solid var(--bor);border-radius:8px;padding:9px 14px;font-size:14px;cursor:pointer}
+button:hover{border-color:var(--info)}
+button.ana{background:var(--ana);color:#1b1400;border-color:var(--ana);font-weight:700}
+.dug{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px}
+.sek{display:flex;gap:6px;flex-wrap:wrap;border-bottom:1px solid var(--bor);margin-bottom:12px}
+.sek button{border-radius:8px 8px 0 0;border-bottom:none;background:transparent;color:var(--sol)}
+.sek button.on{background:var(--card2);color:var(--txt);border-color:var(--bor)}
+.pan{display:none}.pan.on{display:block}
+.onz{background:#1a1a1a;color:#ddd;border-radius:8px;padding:16px;overflow-x:auto}
+.onz a{color:#6cb6ff}
+textarea{width:100%;min-height:420px;background:var(--kod);color:var(--txt);border:1px solid var(--bor);border-radius:8px;padding:10px;font:13px/1.45 Consolas,monospace}
+.rs{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px}
+.rs .r{background:var(--card2);border:1px solid var(--bor);border-radius:10px;padding:10px}
+.rs img{width:100%;height:120px;object-fit:contain;background:#000;border-radius:6px}
+.rs .k{font-size:13px;color:var(--sol);margin-top:6px}
+.rs a{color:var(--info);font-size:13px}
+.uy{color:var(--ana)}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th,td{border-bottom:1px solid var(--bor);padding:7px 6px;text-align:left;vertical-align:top}
+th{color:var(--sol);font-weight:600}
+td a{color:var(--info);word-break:break-all}
+td.n{color:var(--sol);font-size:12px}
+.tbw{overflow-x:auto}
+.say{color:var(--iyi);font-weight:700}
+.toast{position:fixed;left:50%;bottom:20px;transform:translateX(-50%);background:var(--iyi);color:#04140c;padding:10px 16px;border-radius:10px;font-weight:700;opacity:0;transition:opacity .2s;pointer-events:none}
+.toast.on{opacity:1}
+.ksec{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0 4px}
+.ksec button{font-size:15px;padding:10px 16px}
+.ksec button.on{background:var(--ana);color:#1b1400;border-color:var(--ana);font-weight:700}
+.konu{display:none}.konu.on{display:block}
+.ypan{display:none}.ypan.on{display:block}
+.onz.forum{background:#1b1714;color:#e8dcc8;font-size:15px;line-height:1.7;padding:22px;font-family:"Segoe UI",Roboto,Arial,sans-serif}
+/* Forum zemini secimi (patron 4 Eki, secenek A): beyaz forumda onizleme beyaz, BBCode renkleri beyaz karsiliklarina doner */
+.zemin{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:6px 0 2px;font-size:14px}
+.zemin button.on{background:var(--ana);color:#1b1400;border-color:var(--ana);font-weight:700}
+body.zemin-beyaz .onz,body.zemin-beyaz .onz.forum{background:#fff;color:#141414}
+body.zemin-beyaz .onz a{color:#1a5fb4}
+.onz.forum ul{text-align:left}
+.onz.forum li{margin:3px 0}
+.rs .r input{width:100%;margin-top:6px;background:var(--kod);color:var(--txt);border:1px solid var(--bor);border-radius:6px;padding:7px;font-size:12px}
+.rs .r.tamam{border-color:var(--iyi)}
+.rs .r .ok{color:var(--iyi);font-weight:700}
+#ykl li{margin:6px 0}
+@media (max-width:600px){.kap{padding:12px}textarea{min-height:300px}}
+</style>
+</head>
+<body>
+<div class="kap">
+  <h1>🔥 SexyKO — Forum Konu Kiti</h1>
+  <div class="zemin" id="zemin"><b>Forum zemini:</b>
+    <button type="button" data-zemin="koyu">🌙 Koyu</button>
+    <button type="button" data-zemin="beyaz">☀️ Beyaz</button>
+    <span class="alt">Yapıştıracağın forumun mesaj zemini hangisiyse onu seç — BBCode renkleri ve önizleme ona göre değişir.</span>
+  </div>
+  <div class="ksec" id="ksec">
+    <button type="button" class="on" data-konu="k_yeni">📝 Yeni konu: Oyun Rehberi</button>
+    <button type="button" data-konu="k_kisa">📋 Kısa konu: Rehber özeti</button>
+    <button type="button" data-konu="k_skill">⚔️ Skill &amp; Master</button>
+    <button type="button" data-konu="k_tanitim">📣 Tanıtım konusu (Ko-Yardım)</button>
+  </div>
+  <div id="k_yeni" class="konu on">
+  <div class="kart">
+    <h2>📝 Yeni konu: SexyKO Oyun Rehberi</h2>
+    <ol class="adim">
+      <li><b>🖼 Resimler hazır linkli</b> — hepsi GitHub <code>itemiconrepo/forum/</code> deposunda, jsDelivr CDN'den açılır; yükle-yapıştır yok. İstersen bir resmin kutusuna kendi linkini girersin (hazır linkin yerine geçer).</li>
+      <li><b>BBCode kopyala</b> → forumda BBCode moduna yapıştır. Forum uzun mesajı kabul etmezse <b>1. mesaj</b> + <b>2. mesaj</b> olarak böl (bölüm çizgisinden ikiye ayrılır).</li>
+      <li>Flarum tipi forum (forum.sexyko.com) → <b>Markdown kopyala</b>.</li>
+    </ol>
+    <div class="alt">İçerik: <b>sadece oyunun ve forumun bilgisi</b> (oyun içi rehber = sexyko.com/guide, forum.sexyko.com rehber konuları, oyun içi ekranlar · 4 Eki). Kaynakların çeliştiği bilgiler konuya alınmadı → <b>⚠ Kontrol</b>.</div>
+  </div>
+  <div class="kart">
+    <h2>Başlık</h2>
+    <div class="bas"><div class="m" id="ybaslik"></div><button class="ana" data-ykop="baslik">Başlığı kopyala</button></div>
+    <div class="alt" id="ybsay"></div>
+  </div>
+  <div class="kart">
+    <div class="dug">
+      <button class="ana" data-ykop="bbcode">BBCode kopyala</button>
+      <span id="ybolum" style="display:contents"></span>
+      <button data-ykop="gorunum">Görünümü kopyala</button>
+      <button data-ykop="markdown">Markdown kopyala</button>
+      <button data-ykop="duz">Düz metin kopyala</button>
+    </div>
+    <div class="alt" id="ydurum" style="margin-bottom:10px"></div>
+    <div class="sek" id="ysek">
+      <button class="on" data-p="yonz">👁 Önizleme</button>
+      <button data-p="ybb">BBCode</button>
+      <button data-p="ymd">Markdown</button>
+      <button data-p="yrs">🖼 Resimler <span id="yrsay"></span></button>
+      <button data-p="ykt">⚠ Kontrol</button>
+    </div>
+    <div class="ypan on" id="yonz"><div class="onz forum" id="yonzic"></div></div>
+    <div class="ypan" id="ybb"><textarea id="ytbb" readonly></textarea></div>
+    <div class="ypan" id="ymd"><textarea id="ytmd" readonly></textarea></div>
+    <div class="ypan" id="yrs"><div class="rs" id="yrsl"></div></div>
+    <div class="ypan" id="ykt"><ul id="ykl"></ul></div>
+  </div>
+  </div>
+  <div id="k_kisa" class="konu">
+  <div class="kart">
+    <h2>📋 Kısa konu: SexyKO Oyun Rehberi (özet)</h2>
+    <ol class="adim">
+      <li>Uzun konunun <b>24 bölümü aynen</b>; her bölümde <b>küçük bir resim</b>, tek satır ve <b>rehber / forum linkleri</b>. Resme tıklayınca bölümün ilk linki açılır.</li>
+      <li><b>🖼 Resimler hazır linkli</b> (itemiconrepo <code>forum/yeni_konu/kisa/resim/</code>, jsDelivr) — yükleme yok.</li>
+      <li><b>BBCode kopyala</b> → forumda BBCode moduna yapıştır; uzun gelirse <b>1. mesaj</b> + <b>2. mesaj</b>. Flarum tipi forum → <b>Markdown kopyala</b>.</li>
+    </ol>
+    <div class="alt">Bilgi uzun konudan alındı, yeni bilgi yok. ⚠ Kontrol sekmesinde notlar.</div>
+  </div>
+  <div class="kart">
+    <h2>Başlık</h2>
+    <div class="bas"><div class="m" id="zbaslik"></div><button class="ana" data-ykop="baslik">Başlığı kopyala</button></div>
+    <div class="alt" id="zbsay"></div>
+  </div>
+  <div class="kart">
+    <div class="dug">
+      <button class="ana" data-ykop="bbcode">BBCode kopyala</button>
+      <span id="zbolum" style="display:contents"></span>
+      <button data-ykop="gorunum">Görünümü kopyala</button>
+      <button data-ykop="markdown">Markdown kopyala</button>
+      <button data-ykop="duz">Düz metin kopyala</button>
+    </div>
+    <div class="alt" id="zdurum" style="margin-bottom:10px"></div>
+    <div class="sek" id="zsek">
+      <button class="on" data-p="zonz">👁 Önizleme</button>
+      <button data-p="zbb">BBCode</button>
+      <button data-p="zmd">Markdown</button>
+      <button data-p="zrs">🖼 Resimler <span id="zrsay"></span></button>
+      <button data-p="zkt">⚠ Kontrol</button>
+    </div>
+    <div class="ypan on" id="zonz"><div class="onz forum" id="zonzic"></div></div>
+    <div class="ypan" id="zbb"><textarea id="ztbb" readonly></textarea></div>
+    <div class="ypan" id="zmd"><textarea id="ztmd" readonly></textarea></div>
+    <div class="ypan" id="zrs"><div class="rs" id="zrsl"></div></div>
+    <div class="ypan" id="zkt"><ul id="zkl"></ul></div>
+  </div>
+  </div>
+  <div id="k_skill" class="konu">
+  <div class="kart">
+    <h2>⚔️ Skill &amp; Master konusu (tüm joblar)</h2>
+    <ol class="adim">
+      <li>Job job master + skill NPC'leri (isim, bölge, harita), master görevi ve itemleri, 70 – 80 skill görevleri, Spell Stone Powder + Narki — <b>6 job</b> (Warrior, Rogue, Mage, Priest, Kurian, Porutu).</li>
+      <li><b>🖼 Resimler hazır linkli</b> (itemiconrepo <code>forum/skill_master/resim/</code>, jsDelivr) — yükleme yok. R07 uzun konudaki skill penceresiyle aynı.</li>
+      <li><b>BBCode kopyala</b> → forumda BBCode moduna yapıştır; uzun gelirse <b>1. mesaj</b> + <b>2. mesaj</b>. Flarum tipi forum → <b>Markdown kopyala</b>.</li>
+    </ol>
+    <div class="alt">Bilgi: oyun içi rehber (sexyko.com/guide, <b>6 Eki canlı</b>) + admin + korehberi. Patron kararları (6 Eki) işlendi → <b>⚠ Kontrol</b> (ekip notu: Colmicola / Trethonz drop'u admin drop tablosunda tanımlı değil, konuda patron bilgisiyle %100).</div>
+  </div>
+  <div class="kart">
+    <h2>Başlık</h2>
+    <div class="bas"><div class="m" id="sbaslik"></div><button class="ana" data-ykop="baslik">Başlığı kopyala</button></div>
+    <div class="alt" id="sbsay"></div>
+  </div>
+  <div class="kart">
+    <div class="dug">
+      <button class="ana" data-ykop="bbcode">BBCode kopyala</button>
+      <span id="sbolum" style="display:contents"></span>
+      <button data-ykop="gorunum">Görünümü kopyala</button>
+      <button data-ykop="markdown">Markdown kopyala</button>
+      <button data-ykop="duz">Düz metin kopyala</button>
+    </div>
+    <div class="alt" id="sdurum" style="margin-bottom:10px"></div>
+    <div class="sek" id="ssek">
+      <button class="on" data-p="sonz">👁 Önizleme</button>
+      <button data-p="sbb">BBCode</button>
+      <button data-p="smd">Markdown</button>
+      <button data-p="srs">🖼 Resimler <span id="srsay"></span></button>
+      <button data-p="skt">⚠ Kontrol</button>
+    </div>
+    <div class="ypan on" id="sonz"><div class="onz forum" id="sonzic"></div></div>
+    <div class="ypan" id="sbb"><textarea id="stbb" readonly></textarea></div>
+    <div class="ypan" id="smd"><textarea id="stmd" readonly></textarea></div>
+    <div class="ypan" id="srs"><div class="rs" id="srsl"></div></div>
+    <div class="ypan" id="skt"><ul id="skl"></ul></div>
+  </div>
+  </div>
+  <div id="k_tanitim" class="konu">
+  <div class="alt">Kaynak: <a id="kaynak" target="_blank" rel="noopener">Ko-Yardım tanıtım konusu</a> · aynı konuyu başka forumlarda açmak için hazır metin + resimler</div>
+
+  <div class="kart">
+    <h2>Nasıl kullanılır</h2>
+    <ol class="adim">
+      <li>Forumda <b>Yeni konu</b> aç → aşağıdaki <b>Başlığı kopyala</b>.</li>
+      <li><b>XenForo / vBulletin / MyBB</b> (Kocuce, Ko-Yardım, FrmTR, Turkmmo, vSRO …): editörde <b>BBCode moduna</b> geç (genelde <code>[ ]</code> veya "Kaynak" düğmesi) → <b>BBCode kopyala</b> → yapıştır. Editör BBCode moduna geçmiyorsa → <b>Görünümü kopyala</b> → normal editöre yapıştır.</li>
+      <li><b>Flarum / Markdown</b> forumlar (forum.sexyko.com tipi) → <b>Markdown kopyala</b>.</li>
+      <li>Resimler BBCode'da <b>link olarak</b> geliyor (GitHub itemiconrepo → jsDelivr CDN; her forumda açılır). Bir forum dış resmi engellerse → <b>Resimler</b> sekmesinden indir → forumun kendi "resim yükle" düğmesiyle aynı yere koy.</li>
+      <li>Konuyu açınca <b>Forumlar</b> sekmesinde o forumu ✔ işaretle (bu tarayıcıda hatırlanır).</li>
+    </ol>
+  </div>
+
+  <div class="kart">
+    <h2>Başlık</h2>
+    <div class="bas"><div class="m" id="baslik"></div><button class="ana" data-kop="baslik">Başlığı kopyala</button></div>
+    <div class="alt" id="bsay"></div>
+  </div>
+
+  <div class="kart">
+    <div class="dug">
+      <button class="ana" data-kop="bbcode">BBCode kopyala</button>
+      <button data-kop="gorunum">Görünümü kopyala (editöre yapıştır)</button>
+      <button data-kop="markdown">Markdown kopyala</button>
+      <button data-kop="duz">Düz metin kopyala</button>
+    </div>
+    <div class="sek" id="sek">
+      <button class="on" data-p="onz">👁 Önizleme</button>
+      <button data-p="pbb">BBCode</button>
+      <button data-p="pmd">Markdown</button>
+      <button data-p="pdz">Düz metin</button>
+      <button data-p="prs">🖼 Resimler <span id="rsay"></span></button>
+      <button data-p="pfr">📋 Forumlar <span id="fsay"></span></button>
+    </div>
+    <div class="pan on" id="onz"><div class="onz" id="onzic"></div></div>
+    <div class="pan" id="pbb"><textarea id="tbb" readonly></textarea></div>
+    <div class="pan" id="pmd"><textarea id="tmd" readonly></textarea></div>
+    <div class="pan" id="pdz"><textarea id="tdz" readonly></textarea></div>
+    <div class="pan" id="prs"><div class="alt" style="margin-bottom:10px">Linkler hazır: GitHub <code>itemiconrepo/forum/resim/</code> → jsDelivr · bilgisayarda <code>C:\temp\Sexyko\FORUM\resim\</code> · ⚠ 7 MB'lık GIF'ler bazı forumların yükleme sınırını aşabilir — o forumda GIF'i link olarak bırak.</div><div class="rs" id="rs"></div></div>
+    <div class="pan" id="pfr"><div class="tbw"><table><thead><tr><th>✔</th><th>#</th><th>Yer</th><th>Link</th><th>Not (REKLAM listesinden)</th></tr></thead><tbody id="ftb"></tbody></table></div></div>
+  </div>
+  </div>
+</div>
+<div class="toast" id="toast"></div>
+<script>
+var V=/*__VERI__*/null;
+function $(i){return document.getElementById(i);}
+function toast(m){var t=$("toast");t.textContent=m;t.classList.add("on");clearTimeout(t._z);t._z=setTimeout(function(){t.classList.remove("on");},1600);}
+function oku(){try{return JSON.parse(localStorage.getItem("forum_konu_acildi_v1")||"{}");}catch(e){return {};}}
+function yaz(o){try{localStorage.setItem("forum_konu_acildi_v1",JSON.stringify(o));}catch(e){}}
+$("kaynak").href=V.kaynak;
+$("baslik").textContent=V.baslik;
+$("bsay").textContent=V.baslik.length+" karakter";
+// ===== FORUM ZEMINI — BBCode'lar koyu renk setiyle uretilir; "Beyaz" secilince ayni renkler beyaz karsiligina cevrilir (kontrast olculdu, >=4.4)
+var RENK_BEYAZ={"#c8a253":"#a86b0c","#e6c46a":"#9a5300","#a89f91":"#6b6358","#3ecf8e":"#1e8449","#d14841":"#c0392b","#4fa3ff":"#1a5fb4"};
+var ZEMIN=(function(){try{return localStorage.getItem("forum_zemin_v1")==="beyaz"?"beyaz":"koyu";}catch(e){return "koyu";}})();
+function renk(s){return ZEMIN==="beyaz"?s.replace(/#[0-9a-fA-F]{6}\b/g,function(h){return RENK_BEYAZ[h.toLowerCase()]||h;}):s;}
+function tanitimCiz(){$("onzic").innerHTML=renk(V.html);$("tbb").value=renk(V.bbcode);}
+tanitimCiz();
+$("tmd").value=V.markdown; $("tdz").value=V.duz;
+$("rsay").textContent="("+V.resimler.length+")";
+$("rs").innerHTML=V.resimler.map(function(r){return '<div class="r"><img src="'+r.url+'" alt="'+r.ad+'" loading="lazy"><div><b>'+r.no+'. '+r.ad+'</b></div><div class="k">'+r.boyut+' px · '+r.mb+' MB · konuda genişlik: '+r.konudaki_genislik+(r.mb>5?' · <span class="uy">büyük dosya</span>':'')+'</div><a href="'+r.url+'" target="_blank" rel="noopener">Resmi aç / kaydet</a></div>';}).join("");
+function forumCiz(){var ac=oku(),n=0;$("ftb").innerHTML=V.forumlar.map(function(f,i){var k=f.link,on=!!ac[k];if(on)n++;return '<tr><td><input type="checkbox" data-k="'+k+'"'+(on?" checked":"")+'></td><td>'+(i+1)+'</td><td><b>'+f.ad+'</b><div class="n">'+f.grup+'</div></td><td><a href="'+k+'" target="_blank" rel="noopener">'+k+'</a></td><td class="n">'+f.not+'</td></tr>';}).join("");$("fsay").innerHTML='(<span class="say">'+n+'</span>/'+V.forumlar.length+')';}
+forumCiz();
+$("ftb").addEventListener("change",function(e){var k=e.target.dataset.k;if(!k)return;var ac=oku();if(e.target.checked)ac[k]=new Date().toISOString().slice(0,10);else delete ac[k];yaz(ac);forumCiz();toast(e.target.checked?"✔ işaretlendi":"işaret kaldırıldı");});
+$("sek").addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;[].forEach.call(this.children,function(x){x.classList.toggle("on",x===b);});[].forEach.call(document.querySelectorAll(".pan"),function(p){p.classList.toggle("on",p.id===b.dataset.p);});});
+function metinKop(s){if(navigator.clipboard&&navigator.clipboard.writeText){return navigator.clipboard.writeText(s).catch(function(){return eskiKop(s);});}return Promise.resolve(eskiKop(s));}
+function eskiKop(s){var t=document.createElement("textarea");t.value=s;t.style.position="fixed";t.style.opacity="0";document.body.appendChild(t);t.select();var ok=false;try{ok=document.execCommand("copy");}catch(e){}document.body.removeChild(t);if(!ok)throw new Error("kopyalanamadı");}
+function gorunumKop(){var h=renk(V.html);if(window.ClipboardItem&&navigator.clipboard&&navigator.clipboard.write){return navigator.clipboard.write([new ClipboardItem({"text/html":new Blob([h],{type:"text/html"}),"text/plain":new Blob([V.duz],{type:"text/plain"})})]).catch(eskiGorunum);}return Promise.resolve(eskiGorunum());}
+function eskiGorunum(){var d=$("onzic"),r=document.createRange();r.selectNodeContents(d);var s=window.getSelection();s.removeAllRanges();s.addRange(r);var ok=false;try{ok=document.execCommand("copy");}catch(e){}s.removeAllRanges();if(!ok)throw new Error("kopyalanamadı");}
+// ===== YENI KONU (Oyun Rehberi) + KISA KONU (ozet) — ayni makine, P = id oneki ("y" / "z"), LS = resim linklerinin saklandigi anahtar
+var YLIMIT=9500;   // forum mesaj siniri (vBulletin varsayilani 10.000) — parcalar bolum cizgisinden (━━━) kesilir
+function ytr(x){return x.toLocaleString("tr-TR");}
+function yjeton(s,f){return s.replace(/\{\{([A-Z][A-Za-z0-9_]*)\}\}/g,function(m,id){return f(id);});}
+function kur(P,Y,LS){
+  if(!Y)return null;
+  function E(i){return $(P+i);}
+  function oku(){try{return JSON.parse(localStorage.getItem(LS)||"{}");}catch(e){return {};}}
+  function kaydet(o){try{localStorage.setItem(LS,JSON.stringify(o));}catch(e){}}
+  var YU=oku();
+  function res(id){for(var i=0;i<Y.resimler.length;i++)if(Y.resimler[i].id===id)return Y.resimler[i];return {};}
+  function url(id){var r=res(id);return (YU[id]||"").trim()||r.varsayilan_url||(id+"-LINKI-YAPISTIR");}
+  function bb(){return renk(yjeton(Y.bbcode,url));}
+  function md(){return yjeton(Y.markdown,url);}
+  function duz(){return Y.duz;}
+  function htm(onizleme){return yjeton(renk(Y.html),function(id){var r=res(id),u=(YU[id]||"").trim()||r.varsayilan_url;return onizleme?(r.data||u):(u||r.data);});}
+  function bol(){var t=bb(),p=t.split("\n\n"),bloklar=[],cur=[],i;
+    for(i=0;i<p.length;i++){cur.push(p[i]);if(p[i].indexOf("━━━")>=0){bloklar.push(cur.join("\n\n"));cur=[];}}
+    if(cur.length)bloklar.push(cur.join("\n\n"));
+    var parca=[],acik="";
+    bloklar.forEach(function(b){var aday=acik?acik+"\n\n"+b:b;if(acik&&aday.length>YLIMIT){parca.push(acik);acik=b;}else acik=aday;});
+    if(acik)parca.push(acik);return parca;}
+  function say(){var n=0,d=0;Y.resimler.forEach(function(r){if(r.dosya&&!r.varsayilan_url){n++;if((YU[r.id]||"").trim())d++;}});return [d,n];}
+  function guncel(){E("tbb").value=bb();E("tmd").value=md();var s=say(),p=bol();
+    E("rsay").textContent="("+s[0]+"/"+s[1]+" link)";
+    E("bolum").innerHTML=p.map(function(x,i){return '<button data-ykop="bb" data-i="'+i+'">'+(i+1)+'. mesaj ('+ytr(x.length)+')</button>';}).join("");
+    E("durum").innerHTML="BBCode <b>"+ytr(bb().length)+"</b> karakter · "+p.length+" mesaja bölünür (her biri ≤ "+ytr(YLIMIT)+") · yüklemen gereken resim linki <span class=\"say\">"+s[0]+"/"+s[1]+"</span>"+(Y.resimler.some(function(r){return r.kaynak==="forum";})?" · forum resimleri hazır link":"");}
+  E("baslik").textContent=Y.baslik;E("bsay").textContent=Y.baslik.length+" karakter";
+  E("onzic").innerHTML=htm(true);
+  E("rsl").innerHTML=Y.resimler.map(function(r){var t=(r.varsayilan_url||(YU[r.id]||"").trim())?" tamam":"";
+    return '<div class="r'+t+'" data-r="'+r.id+'"><img src="'+(r.data||r.varsayilan_url)+'" alt="'+r.id+'"><div><b>'+r.id+'</b> · '+r.aciklama+'</div>'+
+    (r.varsayilan_url?'<div class="k"><span class="ok">✔ hazır link</span>'+(r.kaynak==="forum"?' (forum.sexyko.com görseli)':'')+(r.boyut?' · '+r.boyut+' px':'')+(r.data?' · <a href="'+r.data+'" download="'+r.dosya.split("/").pop()+'">İndir</a>':'')+'</div>'+
+       (r.dosya?'<input type="url" data-id="'+r.id+'" placeholder="isteğe bağlı: kendi yüklediğin link (hazır linkin yerine geçer)" value="'+(YU[r.id]||"").replace(/"/g,"&quot;")+'">':'')
+     :'<div class="k">'+r.boyut+' px · '+r.kb+' KB · <a href="'+r.data+'" download="'+r.dosya.split("/").pop()+'">İndir</a></div><input type="url" data-id="'+r.id+'" placeholder="yüklediğin resmin linkini yapıştır (…jpg / …png)" value="'+(YU[r.id]||"").replace(/"/g,"&quot;")+'">')+'</div>';}).join("");
+  E("rsl").addEventListener("input",function(e){var id=e.target.dataset.id;if(!id)return;var v=e.target.value.trim();if(v)YU[id]=v;else delete YU[id];kaydet(YU);
+    e.target.closest(".r").classList.toggle("tamam",!!v||!!res(id).varsayilan_url);guncel();});
+  E("kl").innerHTML=Y.kontrol.map(function(k){return "<li>"+k.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/\*\*(.+?)\*\*/g,"<b>$1</b>")+"</li>";}).join("");
+  guncel();
+  E("sek").addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;[].forEach.call(this.children,function(x){x.classList.toggle("on",x===b);});
+    [].forEach.call(this.parentNode.querySelectorAll(".ypan"),function(p){p.classList.toggle("on",p.id===b.dataset.p);});});
+  function htmlKop(){var h=htm(false);if(window.ClipboardItem&&navigator.clipboard&&navigator.clipboard.write){return navigator.clipboard.write([new ClipboardItem({"text/html":new Blob([h],{type:"text/html"}),"text/plain":new Blob([duz()],{type:"text/plain"})})]);}return metinKop(duz());}
+  function yenile(){E("onzic").innerHTML=htm(true);guncel();}
+  return {Y:Y,bb:bb,md:md,duz:duz,bol:bol,htmlKop:htmlKop,yenile:yenile};
+}
+var KONU={k_yeni:kur("y",V.yeni,"yeni_konu_url_v1"),k_kisa:kur("z",V.kisa,"kisa_konu_url_v1"),k_skill:kur("s",V.skill,"skill_konu_url_v1")};
+function zeminSec(z){ZEMIN=z;try{localStorage.setItem("forum_zemin_v1",z);}catch(e){}
+  document.body.classList.toggle("zemin-beyaz",z==="beyaz");
+  [].forEach.call(document.querySelectorAll("#zemin button"),function(b){b.classList.toggle("on",b.dataset.zemin===z);});
+  tanitimCiz();Object.keys(KONU).forEach(function(k){if(KONU[k])KONU[k].yenile();});}
+$("zemin").addEventListener("click",function(e){var b=e.target.closest("button[data-zemin]");if(!b)return;zeminSec(b.dataset.zemin);toast(b.dataset.zemin==="beyaz"?"☀️ Beyaz zemin renkleri":"🌙 Koyu zemin renkleri");});
+zeminSec(ZEMIN);
+var ybb=KONU.k_yeni.bb,ybol=KONU.k_yeni.bol;   // eski adlar (testler)
+$("ksec").addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;[].forEach.call(this.children,function(x){x.classList.toggle("on",x===b);});[].forEach.call(document.querySelectorAll(".konu"),function(k){k.classList.toggle("on",k.id===b.dataset.konu);});});
+document.addEventListener("click",function(e){var b=e.target.closest("[data-ykop]");if(!b)return;var K=KONU[b.closest(".konu").id];if(!K)return;var k=b.dataset.ykop,p;
+  if(k==="gorunum")p=K.htmlKop();else{var m={baslik:K.Y.baslik,bbcode:K.bb(),markdown:K.md(),duz:K.duz()};if(k==="bb")m.bb=K.bol()[+b.dataset.i];p=metinKop(m[k]);}
+  Promise.resolve(p).then(function(){toast("✔ kopyalandı: "+b.textContent);}).catch(function(){toast("kopyalanamadı — metin kutusundan Ctrl+A, Ctrl+C");});});
+document.addEventListener("click",function(e){var b=e.target.closest("[data-kop]");if(!b)return;var k=b.dataset.kop,p;
+  if(k==="gorunum")p=gorunumKop();else p=metinKop(k==="baslik"?V.baslik:k==="bbcode"?renk(V.bbcode):V[k]);
+  Promise.resolve(p).then(function(){toast("✔ kopyalandı: "+b.textContent.replace(" kopyala","").replace("Görünümü kopyala (editöre yapıştır)","Görünüm"));}).catch(function(){toast("kopyalanamadı — metin kutusundan Ctrl+A, Ctrl+C");});});
+</script>
+</body>
+</html>

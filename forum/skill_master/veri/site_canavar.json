@@ -1,0 +1,586 @@
+{
+ "kaynak": "https://sexyko.com/guide/monsters/<id>",
+ "cekildi": "2026-10-06 14:34",
+ "kayit": {
+  "2602": {
+   "ad": "Centaur",
+   "minimap": [],
+   "nokta": [],
+   "metin": "Spawn noktaları Bu monster için spawn kaydı yok. Droplar 3 eşya Unstable Kentaraus' Heart 50% Potion of Wisdom 30% Water of Grace 30%",
+   "durum": 200,
+   "level": 76
+  },
+  "2607": {
+   "ad": "Centaur Foal",
+   "minimap": [
+    "2"
+   ],
+   "nokta": [
+    [
+     5.42,
+     18.604
+    ],
+    [
+     5.566,
+     20.508
+    ],
+    [
+     6.738,
+     17.48
+    ],
+    [
+     10.156,
+     19.922
+    ],
+    [
+     10.547,
+     18.115
+    ],
+    [
+     10.742,
+     17.676
+    ],
+    [
+     11.914,
+     19.873
+    ]
+   ],
+   "metin": "Spawn noktaları El Morad · 7 nokta Droplar 0 eşya Bu monsterın drop kaydı yok.",
+   "durum": 200,
+   "level": 67
+  },
+  "2652": {
+   "ad": "Sayfa bulunamadı",
+   "minimap": [],
+   "nokta": [],
+   "metin": "",
+   "durum": 404
+  },
+  "2657": {
+   "ad": "Centaur Foal",
+   "minimap": [
+    "1"
+   ],
+   "nokta": [
+    [
+     89.844,
+     80.078
+    ],
+    [
+     91.016,
+     78.906
+    ],
+    [
+     91.113,
+     80.713
+    ],
+    [
+     92.432,
+     80.176
+    ],
+    [
+     92.822,
+     79.248
+    ],
+    [
+     92.871,
+     81.348
+    ],
+    [
+     94.043,
+     80.127
+    ]
+   ],
+   "metin": "Spawn noktaları Karus · 7 nokta Droplar 0 eşya Bu monsterın drop kaydı yok.",
+   "durum": 200,
+   "level": 67
+  },
+  "8782": {
+   "ad": "Sayfa bulunamadı",
+   "minimap": [],
+   "nokta": [],
+   "metin": "",
+   "durum": 404
+  },
+  "8653": {
+   "ad": "[Field Boss] Garukonga",
+   "minimap": [
+    "1"
+   ],
+   "nokta": [
+    [
+     55.176,
+     11.182
+    ],
+    [
+     62.207,
+     46.68
+    ],
+    [
+     63.232,
+     47.9
+    ],
+    [
+     65.479,
+     28.516
+    ],
+    [
+     73.193,
+     15.869
+    ]
+   ],
+   "metin": "Spawn noktaları Karus · 5 nokta Droplar 1 eşya GaruKonga's Essence 100%",
+   "durum": 200,
+   "level": 70
+  },
+  "8655": {
+   "ad": "[Field Boss] Kamicollo",
+   "minimap": [
+    "1"
+   ],
+   "nokta": [
+    [
+     7.08,
+     80.322
+    ],
+    [
+     8.936,
+     83.691
+    ],
+    [
+     16.943,
+     81.787
+    ],
+    [
+     20.947,
+     86.279
+    ],
+    [
+     22.021,
+     81.445
+    ]
+   ],
+   "metin": "Spawn noktaları Karus · 5 nokta Droplar 0 eşya Bu monsterın drop kaydı yok.",
+   "durum": 200,
+   "level": 70
+  },
+  "8656": {
+   "ad": "[Field Boss] Urukthrone",
+   "minimap": [
+    "1"
+   ],
+   "nokta": [
+    [
+     79.346,
+     79.932
+    ],
+    [
+     83.008,
+     65.82
+    ],
+    [
+     83.154,
+     68.115
+    ],
+    [
+     86.572,
+     72.119
+    ],
+    [
+     86.865,
+     68.652
+    ]
+   ],
+   "metin": "Spawn noktaları Karus · 5 nokta Droplar 1 eşya Urkthron's Essence 100%",
+   "durum": 200,
+   "level": 70
+  },
+  "8657": {
+   "ad": "[Field Boss] Alkedrada",
+   "minimap": [
+    "1"
+   ],
+   "nokta": [
+    [
+     30.518,
+     83.74
+    ],
+    [
+     39.355,
+     77.295
+    ],
+    [
+     56.934,
+     79.492
+    ],
+    [
+     61.67,
+     64.941
+    ],
+    [
+     82.764,
+     75.342
+    ],
+    [
+     83.643,
+     34.912
+    ]
+   ],
+   "metin": "Spawn noktaları Karus · 6 nokta Droplar 1 eşya Alkeradeua's Essence 100%",
+   "durum": 200,
+   "level": 70
+  },
+  "8658": {
+   "ad": "[Field Boss] Trethorns",
+   "minimap": [
+    "1"
+   ],
+   "nokta": [
+    [
+     45.605,
+     84.521
+    ],
+    [
+     46.729,
+     84.082
+    ],
+    [
+     50.488,
+     83.447
+    ],
+    [
+     65.527,
+     83.154
+    ],
+    [
+     66.699,
+     84.619
+    ]
+   ],
+   "metin": "Spawn noktaları Karus · 5 nokta Droplar 0 eşya Bu monsterın drop kaydı yok.",
+   "durum": 200,
+   "level": 73
+  },
+  "8659": {
+   "ad": "[Field Boss] Garukonga",
+   "minimap": [
+    "2"
+   ],
+   "nokta": [
+    [
+     24.756,
+     70.898
+    ],
+    [
+     32.373,
+     69.141
+    ],
+    [
+     32.568,
+     83.008
+    ],
+    [
+     41.016,
+     56.641
+    ],
+    [
+     64.795,
+     39.16
+    ]
+   ],
+   "metin": "Spawn noktaları El Morad · 5 nokta Droplar 1 eşya GaruKonga's Essence 100%",
+   "durum": 200,
+   "level": 70
+  },
+  "8661": {
+   "ad": "[Field Boss] Kamicollo",
+   "minimap": [
+    "2"
+   ],
+   "nokta": [
+    [
+     41.26,
+     73.926
+    ],
+    [
+     49.072,
+     82.715
+    ],
+    [
+     68.799,
+     27.832
+    ],
+    [
+     69.629,
+     26.611
+    ],
+    [
+     72.9,
+     40.479
+    ]
+   ],
+   "metin": "Spawn noktaları El Morad · 5 nokta Droplar 0 eşya Bu monsterın drop kaydı yok.",
+   "durum": 200,
+   "level": 70
+  },
+  "8662": {
+   "ad": "[Field Boss] Urukthrone",
+   "minimap": [
+    "2"
+   ],
+   "nokta": [
+    [
+     16.797,
+     20.508
+    ],
+    [
+     16.797,
+     20.41
+    ],
+    [
+     17.725,
+     27.051
+    ],
+    [
+     18.066,
+     27.344
+    ],
+    [
+     22.51,
+     13.867
+    ]
+   ],
+   "metin": "Spawn noktaları El Morad · 5 nokta Droplar 1 eşya Urkthron's Essence 100%",
+   "durum": 200,
+   "level": 70
+  },
+  "8663": {
+   "ad": "[Field Boss] Alkedrada",
+   "minimap": [
+    "2"
+   ],
+   "nokta": [
+    [
+     12.158,
+     59.082
+    ],
+    [
+     13.818,
+     29.15
+    ],
+    [
+     34.424,
+     31.934
+    ],
+    [
+     42.969,
+     14.697
+    ],
+    [
+     55.225,
+     17.578
+    ],
+    [
+     67.334,
+     9.473
+    ]
+   ],
+   "metin": "Spawn noktaları El Morad · 6 nokta Droplar 1 eşya Alkeradeua's Essence 100%",
+   "durum": 200,
+   "level": 70
+  },
+  "8664": {
+   "ad": "[Field Boss] Trethorns",
+   "minimap": [
+    "2"
+   ],
+   "nokta": [
+    [
+     15.283,
+     16.406
+    ],
+    [
+     35.938,
+     13.623
+    ],
+    [
+     48.389,
+     82.129
+    ],
+    [
+     53.369,
+     13.281
+    ],
+    [
+     69.922,
+     25.293
+    ]
+   ],
+   "metin": "Spawn noktaları El Morad · 5 nokta Droplar 0 eşya Bu monsterın drop kaydı yok.",
+   "durum": 200,
+   "level": 73
+  },
+  "1311": {
+   "ad": "Lyot",
+   "minimap": [
+    "11"
+   ],
+   "nokta": [
+    [
+     47.314,
+     52.832
+    ],
+    [
+     48.145,
+     55.566
+    ],
+    [
+     48.193,
+     49.951
+    ],
+    [
+     51.367,
+     48.584
+    ],
+    [
+     51.514,
+     56.982
+    ],
+    [
+     53.174,
+     55.469
+    ],
+    [
+     53.467,
+     49.902
+    ],
+    [
+     55.078,
+     52.93
+    ]
+   ],
+   "metin": "Spawn noktaları Ronark Land · 8 nokta Droplar 11 eşya Silver bar 20% Monster Stone 5% Spell Stone Powder 3% Mace of SexyKO Converter 1.25% Two-handed Sword of SexyKO Converter 1.25% Shield of SexyKO Converter 1.25% Dagger of SexyKO Converter 1.25% Staff of SexyKO Converter 1.25% Spear of SexyKO Converter 1.25% Arrow of SexyKO Converter 1.25% Pole of SexyKO Converter 1.25%",
+   "durum": 200,
+   "level": 78
+  },
+  "1402": {
+   "ad": "Atross",
+   "minimap": [
+    "11"
+   ],
+   "nokta": [
+    [
+     47.266,
+     52.344
+    ],
+    [
+     47.461,
+     54.492
+    ],
+    [
+     50.391,
+     57.373
+    ],
+    [
+     50.635,
+     47.461
+    ],
+    [
+     52.588,
+     49.316
+    ],
+    [
+     52.637,
+     55.566
+    ],
+    [
+     54.443,
+     54.297
+    ],
+    [
+     55.176,
+     52.393
+    ]
+   ],
+   "metin": "Spawn noktaları Ronark Land · 8 nokta Droplar 11 eşya Silver bar 25% Monster Stone 5% Spell Stone Powder 3% Mace of SexyKO Converter 1.25% Two-handed Sword of SexyKO Converter 1.25% Shield of SexyKO Converter 1.25% Dagger of SexyKO Converter 1.25% Staff of SexyKO Converter 1.25% Spear of SexyKO Converter 1.25% Arrow of SexyKO Converter 1.25% Pole of SexyKO Converter 1.25%",
+   "durum": 200,
+   "level": 85
+  },
+  "8401": {
+   "ad": "Hellfire",
+   "minimap": [
+    "11"
+   ],
+   "nokta": [
+    [
+     47.559,
+     32.617
+    ],
+    [
+     52.734,
+     70.117
+    ]
+   ],
+   "metin": "Spawn noktaları Ronark Land · 2 nokta Droplar 3 eşya Spell Stone Powder 10% Quest Box 10% Party Monster Stone 0.1%",
+   "durum": 200,
+   "level": 95
+  },
+  "8402": {
+   "ad": "Enigma",
+   "minimap": [
+    "11"
+   ],
+   "nokta": [
+    [
+     32.715,
+     42.871
+    ],
+    [
+     68.359,
+     59.277
+    ]
+   ],
+   "metin": "Spawn noktaları Ronark Land · 2 nokta Droplar 3 eşya Spell Stone Powder 10% Quest Box 10% Party Monster Stone 0.1%",
+   "durum": 200,
+   "level": 95
+  },
+  "8403": {
+   "ad": "Havoc",
+   "minimap": [
+    "11"
+   ],
+   "nokta": [
+    [
+     41.553,
+     34.717
+    ],
+    [
+     58.057,
+     67.334
+    ]
+   ],
+   "metin": "Spawn noktaları Ronark Land · 2 nokta Droplar 3 eşya Spell Stone Powder 10% Quest Box 10% Party Monster Stone 0.1%",
+   "durum": 200,
+   "level": 95
+  },
+  "8404": {
+   "ad": "Cruel",
+   "minimap": [
+    "11"
+   ],
+   "nokta": [
+    [
+     37.061,
+     38.428
+    ],
+    [
+     63.916,
+     64.063
+    ]
+   ],
+   "metin": "Spawn noktaları Ronark Land · 2 nokta Droplar 3 eşya Spell Stone Powder 10% Quest Box 10% Party Monster Stone 0.1%",
+   "durum": 200,
+   "level": 95
+  }
+ }
+}
