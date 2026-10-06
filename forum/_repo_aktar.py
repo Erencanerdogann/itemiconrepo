@@ -10,7 +10,8 @@ KOK = RR.KOK
 HEDEF = os.path.join(RR.REPO_KLASOR, "forum")
 HTML = os.path.join(os.path.dirname(KOK), "HTML", "FORUM_KONU.html")
 DISLA_KLASOR = {"rehber", "kaynak", "__pycache__"}
-DISLA_DOSYA = {"AJAN_KOYARDIM_GOREV.md", "_skill_rehber_admin.py", "_skill_rehber_taslak.py", "_renk_aday.png",
+# .gitignore: Sexyko'nunku /resim/'i disliyor -> repoda resimler commit disi kaliyordu (7 Eki)
+DISLA_DOSYA = {".gitignore", "AJAN_KOYARDIM_GOREV.md", "_skill_rehber_admin.py", "_skill_rehber_taslak.py", "_renk_aday.png",
                "skill_master/admin_state.json", "skill_master/REHBER_SAYFA_TASLAK.md"}
 GIZLI = re.compile(r"gh[pousr]_[A-Za-z0-9]{20,}|xf_session|xf_csrf|_xfToken|bearer\s+[A-Za-z0-9._-]{20,}|api[_-]?key\s*[=:]|"
                    r"password\s*[=:]\s*\S|parola\s*[=:]\s*\S|@gmail\.com|@hotmail\.com|sa_password", re.I)
@@ -39,6 +40,12 @@ for k in ["konu.json", "yeni_konu/konu.json", "yeni_konu/kisa/konu.json", "skill
     for x in json.load(open(os.path.join(KOK, *k.split("/")), encoding="utf-8"))["resimler"]:
         if x.get("repo"): kullanilan.add(x["repo"])
 eksik = [x for x in kullanilan if not os.path.exists(os.path.join(RR.REPO_KLASOR, *x.split("/")))]
+import subprocess                                                     # kullanilan resim repoda git'ce yok sayiliyorsa push'a girmez -> hata
+yok_sayilan = subprocess.run(["git", "check-ignore", "--stdin"], input=chr(10).join(sorted(kullanilan)), capture_output=True, text=True,
+                             cwd=RR.REPO_KLASOR).stdout.split()
+eksik += [f"git yok sayiyor: {x}" for x in yok_sayilan]
+sizinti = [x for x in DISLA_DOSYA | DISLA_KLASOR if os.path.exists(os.path.join(HEDEF, *x.split("/")))]   # dislanan hedefe sizdiysa HATA
+eksik += [f"dislanan hedefte: {x}" for x in sizinti]
 gizli = []
 for kay, hed, rel in kopya:
     if rel.lower().endswith((".py", ".md", ".txt", ".json", ".html")) and rel != "_repo_aktar.py":   # tarayicinin kendi kalibi haric
