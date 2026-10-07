@@ -299,6 +299,19 @@ for i, (e, t) in enumerate(BASLIKLAR, 1):
     NO[(e, t)] = f"{i:02d}"
 
 
+# PATRON 7 Eki: "genel olarak yazi fontlarini biraz buyutelim, ozellikle skill master'da" -> govde SIZE 4 -> 5 (15 -> 18 px),
+# resim alti / kucuk yazi SIZE 3 -> 4 (12 -> 15 px). Tek gecis (cift buyutme yok); basliklar (5-7) ayni. Butun uretilen konular (yeni / kisa / skill / odul).
+FONT_ADIM = {3: 4, 4: 5}
+
+
+def buyut_bb(s):
+    return re.sub(r"\[SIZE=([34])\]", lambda m: f"[SIZE={FONT_ADIM[int(m.group(1))]}]", s)
+
+
+def buyut_ht(s):
+    return re.sub(r"font-size:(12|15)px", lambda m: f"font-size:{PX[FONT_ADIM[{12: 3, 15: 4}[int(m.group(1))]]]}px", s)
+
+
 def satir(t, f):
     def link(m):
         u, x = m.group(1), m.group(2)
@@ -409,6 +422,7 @@ def duz():
 
 
 BB, HT, MD, DZ = bb(), onizleme(), md(), duz()
+BB, HT = buyut_bb(BB), buyut_ht(HT)
 jeton = set(re.findall(r"\{\{([A-Z][A-Za-z0-9_]*)\}\}", BB))
 kullanilmayan = set(RESIM) - jeton
 assert jeton <= set(RESIM), jeton - set(RESIM)

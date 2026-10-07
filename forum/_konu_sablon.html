@@ -77,6 +77,7 @@ body.zemin-beyaz .onz a{color:#1a5fb4}
     <button type="button" class="on" data-konu="k_yeni">📝 Yeni konu: Oyun Rehberi</button>
     <button type="button" data-konu="k_kisa">📋 Kısa konu: Rehber özeti</button>
     <button type="button" data-konu="k_skill">⚔️ Skill &amp; Master</button>
+    <button type="button" data-konu="k_odul">🏆 Hyper Beta Ödülleri</button>
     <button type="button" data-konu="k_tanitim">📣 Tanıtım konusu (Ko-Yardım)</button>
   </div>
   <div id="k_yeni" class="konu on">
@@ -191,6 +192,44 @@ body.zemin-beyaz .onz a{color:#1a5fb4}
     <div class="ypan" id="smd"><textarea id="stmd" readonly></textarea></div>
     <div class="ypan" id="srs"><div class="rs" id="srsl"></div></div>
     <div class="ypan" id="skt"><ul id="skl"></ul></div>
+  </div>
+  </div>
+  <div id="k_odul" class="konu">
+  <div class="kart">
+    <h2>🏆 Hyper Beta Ödülleri konusu (forum.sexyko.com/d/54)</h2>
+    <ol class="adim">
+      <li>4 Beta CSW (takvim, saat, ödüller, ödül kuralı) · Clan sıralaması · Job sıralaması (30 cm heykel) · 100.000+ NP çekilişi · 23 Ekim Official — <b>resimli</b> (6 görsel).</li>
+      <li><b>🖼 Resimler hazır linkli</b> (itemiconrepo <code>forum/odul/resim/</code>, jsDelivr) — yükleme yok.</li>
+      <li><b>BBCode kopyala</b> → forumda BBCode moduna yapıştır; uzun gelirse <b>1. mesaj</b> + <b>2. mesaj</b>. Flarum tipi forum (forum.sexyko.com) → <b>Markdown kopyala</b>.</li>
+    </ol>
+    <div class="alt">Bilgi: <b>forum.sexyko.com/d/54</b> (SexyKO, 5 Eki) — her tarih / tutar birebir, kaynakta olmayan bilgi yok → <b>⚠ Kontrol</b> (Job 4. sırası kaynakta yok).</div>
+  </div>
+  <div class="kart">
+    <h2>Başlık</h2>
+    <div class="bas"><div class="m" id="obaslik"></div><button class="ana" data-ykop="baslik">Başlığı kopyala</button></div>
+    <div class="alt" id="obsay"></div>
+  </div>
+  <div class="kart">
+    <div class="dug">
+      <button class="ana" data-ykop="bbcode">BBCode kopyala</button>
+      <span id="obolum" style="display:contents"></span>
+      <button data-ykop="gorunum">Görünümü kopyala</button>
+      <button data-ykop="markdown">Markdown kopyala</button>
+      <button data-ykop="duz">Düz metin kopyala</button>
+    </div>
+    <div class="alt" id="odurum" style="margin-bottom:10px"></div>
+    <div class="sek" id="osek">
+      <button class="on" data-p="oonz">👁 Önizleme</button>
+      <button data-p="obb">BBCode</button>
+      <button data-p="omd">Markdown</button>
+      <button data-p="ors">🖼 Resimler <span id="orsay"></span></button>
+      <button data-p="okt">⚠ Kontrol</button>
+    </div>
+    <div class="ypan on" id="oonz"><div class="onz forum" id="oonzic"></div></div>
+    <div class="ypan" id="obb"><textarea id="otbb" readonly></textarea></div>
+    <div class="ypan" id="omd"><textarea id="otmd" readonly></textarea></div>
+    <div class="ypan" id="ors"><div class="rs" id="orsl"></div></div>
+    <div class="ypan" id="okt"><ul id="okl"></ul></div>
   </div>
   </div>
   <div id="k_tanitim" class="konu">
@@ -308,7 +347,7 @@ function kur(P,Y,LS){
   function yenile(){E("onzic").innerHTML=htm(true);guncel();}
   return {Y:Y,bb:bb,md:md,duz:duz,bol:bol,htmlKop:htmlKop,yenile:yenile};
 }
-var KONU={k_yeni:kur("y",V.yeni,"yeni_konu_url_v1"),k_kisa:kur("z",V.kisa,"kisa_konu_url_v1"),k_skill:kur("s",V.skill,"skill_konu_url_v1")};
+var KONU={k_yeni:kur("y",V.yeni,"yeni_konu_url_v1"),k_kisa:kur("z",V.kisa,"kisa_konu_url_v1"),k_skill:kur("s",V.skill,"skill_konu_url_v1"),k_odul:kur("o",V.odul,"odul_konu_url_v1")};
 function zeminSec(z){ZEMIN=z;try{localStorage.setItem("forum_zemin_v1",z);}catch(e){}
   document.body.classList.toggle("zemin-beyaz",z==="beyaz");
   [].forEach.call(document.querySelectorAll("#zemin button"),function(b){b.classList.toggle("on",b.dataset.zemin===z);});

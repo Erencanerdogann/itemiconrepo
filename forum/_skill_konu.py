@@ -223,6 +223,7 @@ def duz():
 
 
 BB, HT, MD, DZ = bb(), onizleme(), md(), duz()
+BB, HT = Y.buyut_bb(BB), Y.buyut_ht(HT)        # 7 Eki: fontlar bir adim buyuk (ozellikle skill master)
 jeton = set(re.findall(r"\{\{([A-Z][A-Za-z0-9_]*)\}\}", BB))
 assert jeton == set(RES), (jeton ^ set(RES))
 for a, z in [("[B]", "[/B]"), ("[CENTER]", "[/CENTER]"), ("[SIZE=", "[/SIZE]"), ("[COLOR=", "[/COLOR]"), ("[URL=", "[/URL]")]:

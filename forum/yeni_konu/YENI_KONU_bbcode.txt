@@ -5,10 +5,10 @@
 [CENTER][IMG]{{R01}}[/IMG][/CENTER]
 
 [CENTER][SIZE=7][B][COLOR=#c8a253]SEXYKO OYUN REHBERİ[/COLOR][/B][/SIZE]
-[SIZE=4][COLOR=#a89f91]Yeni başlayan da, 16 yıllık emektar da — bilmen gereken her şey tek konuda, oyun içi görüntülerle.[/COLOR][/SIZE][/CENTER]
+[SIZE=5][COLOR=#a89f91]Yeni başlayan da, 16 yıllık emektar da — bilmen gereken her şey tek konuda, oyun içi görüntülerle.[/COLOR][/SIZE][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]📑 İÇİNDEKİLER[/COLOR][/B][/SIZE]
-[SIZE=4][COLOR=#c8a253]01[/COLOR] · 📖 OYUNUN İÇİNDEKİ REHBER
+[SIZE=5][COLOR=#c8a253]01[/COLOR] · 📖 OYUNUN İÇİNDEKİ REHBER
 [COLOR=#c8a253]02[/COLOR] · ⌨️ KISAYOLLAR VE ARAYÜZ
 [COLOR=#c8a253]03[/COLOR] · 🎁 BAŞLANGIÇ PAKETİ
 [COLOR=#c8a253]04[/COLOR] · 🧞 GELİŞMİŞ GENIE
@@ -37,13 +37,13 @@
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]📖 01 · OYUNUN İÇİNDEKİ REHBER[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4]Sol üstteki [B][COLOR=#e6c46a]📖 kitap[/COLOR][/B] simgesine tıkla, rehber oyunun içinde açılır. Upgrade oranları, dönüşüm ve madencilik sayfaları [B][COLOR=#e6c46a]sunucudan canlı[/COLOR][/B] beslenir. Aynı rehber web'de de açık: [URL=https://sexyko.com/guide/book]sexyko.com/guide[/URL][/SIZE][/CENTER]
+[CENTER][SIZE=5]Sol üstteki [B][COLOR=#e6c46a]📖 kitap[/COLOR][/B] simgesine tıkla, rehber oyunun içinde açılır. Upgrade oranları, dönüşüm ve madencilik sayfaları [B][COLOR=#e6c46a]sunucudan canlı[/COLOR][/B] beslenir. Aynı rehber web'de de açık: [URL=https://sexyko.com/guide/book]sexyko.com/guide[/URL][/SIZE][/CENTER]
 
 [CENTER][URL=https://sexyko.com/guide/book][IMG]{{R02}}[/IMG][/URL]
-[SIZE=3][COLOR=#a89f91]▲ Oyun içi Rehber — 14 sekme: Oyun Rehberi, Monster Listesi, Görevler, Upgrade, Drop Arama, Gem & Fragment, Çapraz Takas, Shozin, Narki, PUS Kırdırma, Madencilik, Günlük Görevler, Etkinlik Ödülleri[/COLOR][/SIZE]
-[SIZE=4][URL=https://sexyko.com/guide/book][B][COLOR=#4fa3ff]📘 Rehberde aç: Rehberin tamamı ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Oyun içi Rehber — 14 sekme: Oyun Rehberi, Monster Listesi, Görevler, Upgrade, Drop Arama, Gem & Fragment, Çapraz Takas, Shozin, Narki, PUS Kırdırma, Madencilik, Günlük Görevler, Etkinlik Ödülleri[/COLOR][/SIZE]
+[SIZE=5][URL=https://sexyko.com/guide/book][B][COLOR=#4fa3ff]📘 Rehberde aç: Rehberin tamamı ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]305 monster[/COLOR][/B] — spawn noktası + yüzdeli drop listesi
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]305 monster[/COLOR][/B] — spawn noktası + yüzdeli drop listesi
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]998 görev[/COLOR][/B] — NPC, şart ve ödül
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]380 Shozin tarifi[/COLOR][/B] — malzeme + çıkma oranı
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]139 çapraz takas[/COLOR][/B] · [B][COLOR=#e6c46a]45 PUS paketi[/COLOR][/B] · Narki'ye verilebilen [B][COLOR=#e6c46a]1.893 eşya[/COLOR][/B]
@@ -53,7 +53,7 @@
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]⌨️ 02 · KISAYOLLAR VE ARAYÜZ[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]F10[/COLOR][/B] — Ayarlar (11 sekme)
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]F10[/COLOR][/B] — Ayarlar (11 sekme)
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]K[/COLOR][/B] — Skill · Preset · Save Quickslot
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]U[/COLOR][/B] — Character Info · Perks · Rebirth · Stat Preset
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]H[/COLOR][/B] — Komutlar · Solo Pelerin · Yayıncı
@@ -65,303 +65,303 @@
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Genie çubuğu[/COLOR][/B] (sağ üst) — ▶ başlat · ■ durdur · ⬇ ayarlar · kalan süre[/SIZE][/CENTER]
 
 [CENTER][IMG]{{R16}}[/IMG] [IMG]{{R19}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ H — Komut listesi · I — Envanter[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ H — Komut listesi · I — Envanter[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]🎁 03 · BAŞLANGIÇ PAKETİ[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4]Karakterini oluşturduğunda [B][COLOR=#e6c46a]seçtiğin job'a uygun başlangıç ekipmanı[/COLOR][/B] hazır gelir.[/SIZE][/CENTER]
+[CENTER][SIZE=5]Karakterini oluşturduğunda [B][COLOR=#e6c46a]seçtiğin job'a uygun başlangıç ekipmanı[/COLOR][/B] hazır gelir.[/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] 3 günlük [B][COLOR=#e6c46a]EXP Premium[/COLOR][/B] · 3 günlük [B][COLOR=#e6c46a]Valkyrie Set[/COLOR][/B] · 3 günlük [B][COLOR=#e6c46a]Pathos (2x)[/COLOR][/B]
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] 3 günlük [B][COLOR=#e6c46a]EXP Premium[/COLOR][/B] · 3 günlük [B][COLOR=#e6c46a]Valkyrie Set[/COLOR][/B] · 3 günlük [B][COLOR=#e6c46a]Pathos (2x)[/COLOR][/B]
 [COLOR=#c8a253]◆[/COLOR] 3 günlük [B][COLOR=#e6c46a]Kanat[/COLOR][/B] · 3 günlük [B][COLOR=#e6c46a]Magic Bag[/COLOR][/B] · 3 günlük [B][COLOR=#e6c46a]War Tattoo[/COLOR][/B]
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]5.000 HP + 5.000 MP[/COLOR][/B] pot · [B][COLOR=#e6c46a]24 saatlik Genie[/COLOR][/B][/SIZE][/CENTER]
 
 [CENTER][IMG]{{F53_4}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Warrior başlangıç ekipmanı[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Warrior başlangıç ekipmanı[/COLOR][/SIZE][/CENTER]
 
 [CENTER][IMG]{{F53_1}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Rogue başlangıç ekipmanı[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Rogue başlangıç ekipmanı[/COLOR][/SIZE][/CENTER]
 
 [CENTER][IMG]{{F53_2}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Mage başlangıç ekipmanı[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Mage başlangıç ekipmanı[/COLOR][/SIZE][/CENTER]
 
 [CENTER][IMG]{{F53_3}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Priest başlangıç ekipmanı[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Priest başlangıç ekipmanı[/COLOR][/SIZE][/CENTER]
 
 [CENTER][IMG]{{F53_5}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Kurian başlangıç ekipmanı[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Kurian başlangıç ekipmanı[/COLOR][/SIZE][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#e6c46a]📋 Her job'un başlangıç değerleri[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Level 83[/COLOR][/B] · [B][COLOR=#e6c46a]1.000.000.000 coin[/COLOR][/B] · [B][COLOR=#e6c46a]1.000 NP[/COLOR][/B]
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Level 83[/COLOR][/B] · [B][COLOR=#e6c46a]1.000.000.000 coin[/COLOR][/B] · [B][COLOR=#e6c46a]1.000 NP[/COLOR][/B]
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]302 bonus stat[/COLOR][/B] · [B][COLOR=#e6c46a]148 serbest skill puanı[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Warrior[/COLOR][/B] — STR 65 · STA 65 · DEX 60 · INT 50 · CHA 50
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Warrior[/COLOR][/B] — STR 65 · STA 65 · DEX 60 · INT 50 · CHA 50
 [COLOR=#c8a253]◆[/COLOR] Thigh Bone · Warrior Earring ×2 · Warrior Pendant · Mercenary Ring ×2 · Body Belt[/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Rogue[/COLOR][/B] — STR 60 · STA 60 · DEX 70 · INT 50 · CHA 50
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Rogue[/COLOR][/B] — STR 60 · STA 60 · DEX 70 · INT 50 · CHA 50
 [COLOR=#c8a253]◆[/COLOR] Skeleton Rib ×2 · Clarence's Training Bow · 500 Arrow · Assassin Earring ×2 · Warrior Pendant · Assassin Ring ×2 · Body Belt[/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Mage[/COLOR][/B] — STR 50 · STA 60 · DEX 60 · INT 70 · CHA 50
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Mage[/COLOR][/B] — STR 50 · STA 60 · DEX 60 · INT 70 · CHA 50
 [COLOR=#c8a253]◆[/COLOR] Eerie Skull Cane ×3 · Priest Earring ×2 · Cleric Pendant · Priest Ring ×2 · Body Belt[/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Priest[/COLOR][/B] — STR 50 · STA 60 · DEX 60 · INT 70 · CHA 50
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Priest[/COLOR][/B] — STR 50 · STA 60 · DEX 60 · INT 70 · CHA 50
 [COLOR=#c8a253]◆[/COLOR] Bone Breaker · Wolf Slayer Shield · Priest Earring ×2 · Cleric Pendant · Priest Ring ×2 · Body Belt[/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Kurian[/COLOR][/B] — STR 65 · STA 65 · DEX 60 · INT 50 · CHA 50
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Kurian[/COLOR][/B] — STR 65 · STA 65 · DEX 60 · INT 50 · CHA 50
 [COLOR=#c8a253]◆[/COLOR] Thigh Bone · Warrior Earring ×2 · Warrior Pendant · Mercenary Ring ×2 · Body Belt[/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Her job'a:[/COLOR][/B] War Helmet · War Pauldron · War Pad · War Gauntlet · War Boots
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Her job'a:[/COLOR][/B] War Helmet · War Pauldron · War Pad · War Gauntlet · War Boots
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Çantada:[/COLOR][/B] 1.000 Holy Water of Grace · 1.000 Spirit Potion · 30 Scroll of 1500HP Up · 30 Scroll of Armor 300 · 30 Scroll of Attack · Speed Up Rice Cake (Priest 30, diğerleri 3)[/SIZE][/CENTER]
 
-[CENTER][SIZE=4][URL=https://sexyko.com/guide/beginner-items][B][COLOR=#4fa3ff]📘 Rehberde aç: Başlangıç Eşyaları ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[CENTER][SIZE=5][URL=https://sexyko.com/guide/beginner-items][B][COLOR=#4fa3ff]📘 Rehberde aç: Başlangıç Eşyaları ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]🧞 04 · GELİŞMİŞ GENIE[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]8 Attack + 8 Buff/Self + 8 Party[/COLOR][/B] skill slotu — her satır ayrı açılır / kapanır
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]8 Attack + 8 Buff/Self + 8 Party[/COLOR][/B] skill slotu — her satır ayrı açılır / kapanır
 [COLOR=#c8a253]◆[/COLOR] HP ve MP potunu [B][COLOR=#e6c46a]yüzdeyle[/COLOR][/B] ayarla (Smart Auto Use)
 [COLOR=#c8a253]◆[/COLOR] Party heal ve self heal eşikleri · [B][COLOR=#e6c46a]Attack range[/COLOR][/B] kaydırıcısı
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Monster List to Attack[/COLOR][/B] — Add Target / Remove / Clear All: Genie sadece listedeki moblara vurur[/SIZE][/CENTER]
 
 [CENTER][IMG]{{R03}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Knight Genie — Main sekmesi[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Knight Genie — Main sekmesi[/COLOR][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Combat:[/COLOR][/B] R ile saldır · hedefe git · avlanma merkezine dön
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Combat:[/COLOR][/B] R ile saldır · hedefe git · avlanma merkezine dön
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Maintenance:[/COLOR][/B] çekiçle tamir · premium flash bonusunu koru · pet besle
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Return to town:[/COLOR][/B] party dağılınca · party ölünce · ok bitince[/SIZE][/CENTER]
 
 [CENTER][IMG]{{R04}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Knight Genie — Misc sekmesi[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Knight Genie — Misc sekmesi[/COLOR][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#3ecf8e]💡 Genie açıkken skill bar kilitlenir; durdurunca elle kullanıma dönersin.[/COLOR][/SIZE][/CENTER]
+[CENTER][SIZE=5][COLOR=#3ecf8e]💡 Genie açıkken skill bar kilitlenir; durdurunca elle kullanıma dönersin.[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]⚙️ 05 · F10 AYARLAR — 11 SEKME[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][B][COLOR=#e6c46a]Oyun · Ses · Ekran · Grafik · Gelişmiş Grafik · Efekt · Kontroller · Loot · Bildirimler · Font · Güvenlik[/COLOR][/B][/SIZE][/CENTER]
+[CENTER][SIZE=5][B][COLOR=#e6c46a]Oyun · Ses · Ekran · Grafik · Gelişmiş Grafik · Efekt · Kontroller · Loot · Bildirimler · Font · Güvenlik[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Oyun:[/COLOR][/B] kamera · görev takip penceresi · hava durumu ve günün saati
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Oyun:[/COLOR][/B] kamera · görev takip penceresi · hava durumu ve günün saati
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Ses:[/COLOR][/B] müzik, çevre, karakter & NPC, öldürme anonsları ayrı ayrı
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Ekran:[/COLOR][/B] pencere modu · çözünürlük · FPS sınırı · [B][COLOR=#e6c46a]arayüz ölçeği 1x / 1.25x / 1.5x / 2x[/COLOR][/B] · HP/MP çubuğu
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Grafik:[/COLOR][/B] gölge, arazi, HDR, Bloom, ACES, MSAA / SMAA, AMD FSR 1[/SIZE][/CENTER]
 
 [CENTER][IMG]{{R05}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ F10 — Oyun · Ses · Ekran · Grafik[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ F10 — Oyun · Ses · Ekran · Grafik[/COLOR][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Gelişmiş Grafik:[/COLOR][/B] kontrast, doygunluk, sıcaklık, ton + hazır renk profilleri
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Gelişmiş Grafik:[/COLOR][/B] kontrast, doygunluk, sıcaklık, ton + hazır renk profilleri
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Efekt:[/COLOR][/B] CZ'de diğer oyuncuların skillerini, hasar yazılarını kapat
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Kontroller:[/COLOR][/B] gamepad + hareket tuşları — değişiklik anında kaydedilir
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Loot:[/COLOR][/B] değer (Magic / Rare / Craft / Unique / Upgrade), upgrade, tür ve coin değerine göre filtre[/SIZE][/CENTER]
 
 [CENTER][IMG]{{R17}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ F10 — Gelişmiş Grafik · Efekt · Kontroller · Loot[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ F10 — Gelişmiş Grafik · Efekt · Kontroller · Loot[/COLOR][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Bildirimler:[/COLOR][/B] sistem önerileri · slave pazar satışı · kritik kaynak · repair · death notice
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Bildirimler:[/COLOR][/B] sistem önerileri · slave pazar satışı · kritik kaynak · repair · death notice
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Font:[/COLOR][/B] chat, sistem, nick, klan, tag ve eşya adet yazı boyutları[/SIZE][/CENTER]
 
 [CENTER][IMG]{{R18}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ F10 — Bildirimler · Font[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ F10 — Bildirimler · Font[/COLOR][/SIZE][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#e6c46a]🔐 Güvenlik — 2. Şifre (Desen)[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4]Desen etkinken her girişte sorulur. [B][COLOR=#e6c46a]F10 → Güvenlik → Deseni Değiştir[/COLOR][/B].[/SIZE][/CENTER]
+[CENTER][SIZE=5]Desen etkinken her girişte sorulur. [B][COLOR=#e6c46a]F10 → Güvenlik → Deseni Değiştir[/COLOR][/B].[/SIZE][/CENTER]
 
 [CENTER][IMG]{{R06}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ F10 — Güvenlik[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ F10 — Güvenlik[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]⚔️ 06 · SKILL PRESET & QUICK SLOT[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][B][COLOR=#e6c46a]K[/COLOR][/B] ile aç. [B][COLOR=#e6c46a]Preset[/COLOR][/B] skill puanı dağılımını, [B][COLOR=#e6c46a]Save Quickslot[/COLOR][/B] skill bar dizilimini kaydeder — [B][COLOR=#e6c46a]4 ayrı Quick Slot[/COLOR][/B], istediğin ismi ver. PK, farm, party ve event düzenleri arasında hızlıca geç.[/SIZE][/CENTER]
+[CENTER][SIZE=5][B][COLOR=#e6c46a]K[/COLOR][/B] ile aç. [B][COLOR=#e6c46a]Preset[/COLOR][/B] skill puanı dağılımını, [B][COLOR=#e6c46a]Save Quickslot[/COLOR][/B] skill bar dizilimini kaydeder — [B][COLOR=#e6c46a]4 ayrı Quick Slot[/COLOR][/B], istediğin ismi ver. PK, farm, party ve event düzenleri arasında hızlıca geç.[/SIZE][/CENTER]
 
 [CENTER][IMG]{{R07}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Skill penceresi (K)[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Skill penceresi (K)[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]👥 07 · PARTY AYARLARI[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4]Party panelindeki ayarlardan party üyelerinin [B][COLOR=#e6c46a]HP · MP · Buff · Damage[/COLOR][/B] bilgisini ayrı ayrı aç / kapat — party ekranını kendi oyun tarzına göre düzenle.[/SIZE][/CENTER]
+[CENTER][SIZE=5]Party panelindeki ayarlardan party üyelerinin [B][COLOR=#e6c46a]HP · MP · Buff · Damage[/COLOR][/B] bilgisini ayrı ayrı aç / kapat — party ekranını kendi oyun tarzına göre düzenle.[/SIZE][/CENTER]
 
 [CENTER][IMG]{{F11_2}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Party Settings — HP · MP · Buff · Damage[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Party Settings — HP · MP · Buff · Damage[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]🖱️ 08 · SAĞ TIK DEVRİ — NPC'YE GİTMEYE SON[/COLOR][/B][/SIZE][/CENTER]
 
 [CENTER][IMG]{{F10_1}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Sağ tık kırdırma[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Sağ tık kırdırma[/COLOR][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]KC · Dragon Wing · Gem · Fragment · Chest:[/COLOR][/B] iteme sağ tıkla, NPC'ye gitmeden kırdır
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]KC · Dragon Wing · Gem · Fragment · Chest:[/COLOR][/B] iteme sağ tıkla, NPC'ye gitmeden kırdır
 [COLOR=#c8a253]◆[/COLOR] Gem / Fragment / Chest kırınca: [B][COLOR=#e6c46a]Direkt Sat[/COLOR][/B] ya da [B][COLOR=#e6c46a]Inventory'ne Al[/COLOR][/B][/SIZE][/CENTER]
 
 [CENTER][IMG]{{F10_5}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ KC itemine sağ tık → direkt kırdır[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ KC itemine sağ tık → direkt kırdır[/COLOR][/SIZE][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#e6c46a]♻️ Chaotic Generator — Tek / Toplu Kırdırma[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Exchange One[/COLOR][/B] — tek tek · [B][COLOR=#e6c46a]Exchange All[/COLOR][/B] — envanterdeki boş slot kadar toplu
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Exchange One[/COLOR][/B] — tek tek · [B][COLOR=#e6c46a]Exchange All[/COLOR][/B] — envanterdeki boş slot kadar toplu
 [COLOR=#c8a253]◆[/COLOR] Gelen ödüllerden istemediğini [B][COLOR=#e6c46a]sağ tıkla karart[/COLOR][/B] → [B][COLOR=#e6c46a]Sell[/COLOR][/B] (sat) · [B][COLOR=#e6c46a]Storage[/COLOR][/B] (bankaya) · [B][COLOR=#e6c46a]Trash[/COLOR][/B] (sil, coin vermez)[/SIZE][/CENTER]
 
 [CENTER][IMG]{{F43_1}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Chaotic Generator penceresi[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Chaotic Generator penceresi[/COLOR][/SIZE][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#e6c46a]🏷️ Tag Name — Make Over — Nick — Job Changer[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Tag Name:[/COLOR][/B] sağ tık → ismini yaz → [B][COLOR=#e6c46a]RGB[/COLOR][/B] ile rengini seç
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Tag Name:[/COLOR][/B] sağ tık → ismini yaz → [B][COLOR=#e6c46a]RGB[/COLOR][/B] ile rengini seç
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Make Over Coupon:[/COLOR][/B] sağ tık → saç ve yüz
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Scroll of Identity:[/COLOR][/B] sağ tık → yeni nick
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Job Changer:[/COLOR][/B] önce üstündeki tüm itemleri çıkar, sonra sağ tık → job seç[/SIZE][/CENTER]
 
 [CENTER][IMG]{{F30_2}}[/IMG] [IMG]{{F30_3}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Tag Name ayar penceresi · karakter üstünde[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Tag Name ayar penceresi · karakter üstünde[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]🦸 09 · SOLO PELERİN[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] Clana girmeden pelerin — PUS'tan al → sağ tık → desen seç → [B][COLOR=#e6c46a]Purchase[/COLOR][/B] → [B][COLOR=#e6c46a]Confirm[/COLOR][/B]
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] Clana girmeden pelerin — PUS'tan al → sağ tık → desen seç → [B][COLOR=#e6c46a]Purchase[/COLOR][/B] → [B][COLOR=#e6c46a]Confirm[/COLOR][/B]
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]15 gün[/COLOR][/B] · [B][COLOR=#e6c46a]250 HP · 250 MP · 25 DEF · %3 AP[/COLOR][/B]
 [COLOR=#c8a253]◆[/COLOR] Takım pelerinleri: [B][COLOR=#e6c46a]Beşiktaş · Galatasaray · Fenerbahçe · Trabzonspor[/COLOR][/B]
 [COLOR=#c8a253]◆[/COLOR] Sonradan değiştir: [B][COLOR=#e6c46a]H → Solo Pelerin[/COLOR][/B] sekmesi · pelerin efekti [B][COLOR=#e6c46a]500 KC[/COLOR][/B][/SIZE][/CENTER]
 
 [CENTER][IMG]{{F44_2}}[/IMG] [IMG]{{F44_3}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Solo Pelerin seçim ekranı · bonuslar[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Solo Pelerin seçim ekranı · bonuslar[/COLOR][/SIZE][/CENTER]
 
 [CENTER][IMG]{{F44_4}}[/IMG] [IMG]{{F44_5}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Beşiktaş · Galatasaray pelerinleri[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Beşiktaş · Galatasaray pelerinleri[/COLOR][/SIZE][/CENTER]
 
 [CENTER][IMG]{{F44_6}}[/IMG] [IMG]{{F44_7}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Fenerbahçe · Trabzonspor pelerinleri[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Fenerbahçe · Trabzonspor pelerinleri[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]💎 10 · GEM & FRAGMENT · NARKİ · PUS KIRDIRMA[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4]Neyi kırdırırsan [B][COLOR=#e6c46a]ne çıkar, yüzde kaç[/COLOR][/B] — hepsi rehberde.[/SIZE][/CENTER]
+[CENTER][SIZE=5]Neyi kırdırırsan [B][COLOR=#e6c46a]ne çıkar, yüzde kaç[/COLOR][/B] — hepsi rehberde.[/SIZE][/CENTER]
 
 [CENTER][URL=https://sexyko.com/guide/fragment][IMG]{{R21}}[/IMG][/URL]
-[SIZE=4][URL=https://sexyko.com/guide/fragment][B][COLOR=#4fa3ff]📘 Rehberde aç: Gem & Fragment ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5][URL=https://sexyko.com/guide/fragment][B][COLOR=#4fa3ff]📘 Rehberde aç: Gem & Fragment ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Narki:[/COLOR][/B] verdiğin eşya yok olur, karşılığında [B][COLOR=#e6c46a]tek ödül[/COLOR][/B] çekilir; havuzu verdiğin eşya belirler
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Narki:[/COLOR][/B] verdiğin eşya yok olur, karşılığında [B][COLOR=#e6c46a]tek ödül[/COLOR][/B] çekilir; havuzu verdiğin eşya belirler
 [COLOR=#c8a253]◆[/COLOR] 4 havuz: [B][COLOR=#e6c46a]Özel silahlar · Silah ve zırhlar · Eski aksesuarlar · Aksesuarlar[/COLOR][/B] — 1.893 eşya kabul edilir
 [COLOR=#c8a253]◆[/COLOR] Bağlı, kiralık, mühürlü veya süreli eşya verilemez · kırdırma geri alınamaz[/SIZE][/CENTER]
 
 [CENTER][URL=https://sexyko.com/guide/narki][IMG]{{R22}}[/IMG][/URL]
-[SIZE=4][URL=https://sexyko.com/guide/narki][B][COLOR=#4fa3ff]📘 Rehberde aç: Narki Kırdırma ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5][URL=https://sexyko.com/guide/narki][B][COLOR=#4fa3ff]📘 Rehberde aç: Narki Kırdırma ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][B][COLOR=#e6c46a]PUS Kırdırma:[/COLOR][/B] 45 paketin içinden çıkanların tamamı — ör. [B][COLOR=#e6c46a]VIP Package[/COLOR][/B] → 20 eşyanın hepsi birden.[/SIZE][/CENTER]
+[CENTER][SIZE=5][B][COLOR=#e6c46a]PUS Kırdırma:[/COLOR][/B] 45 paketin içinden çıkanların tamamı — ör. [B][COLOR=#e6c46a]VIP Package[/COLOR][/B] → 20 eşyanın hepsi birden.[/SIZE][/CENTER]
 
 [CENTER][URL=https://sexyko.com/guide/pus-crash][IMG]{{R23}}[/IMG][/URL]
-[SIZE=4][URL=https://sexyko.com/guide/pus-crash][B][COLOR=#4fa3ff]📘 Rehberde aç: PUS Kırdırma ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5][URL=https://sexyko.com/guide/pus-crash][B][COLOR=#4fa3ff]📘 Rehberde aç: PUS Kırdırma ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]🎯 11 · DROP INFO · DROP SEARCH[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] Moba tıkla → alttaki [B][COLOR=#e6c46a]Drop Info[/COLOR][/B] kutusu: düşen itemler ve yüzdeleri
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] Moba tıkla → alttaki [B][COLOR=#e6c46a]Drop Info[/COLOR][/B] kutusu: düşen itemler ve yüzdeleri
 [COLOR=#c8a253]◆[/COLOR] Üstteki aramaya [B][COLOR=#e6c46a]item adını[/COLOR][/B] yaz → hangi moblardan, yüzde kaçla düştüğü[/SIZE][/CENTER]
 
 [CENTER][IMG]{{F34_2}}[/IMG] [IMG]{{F34_3}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Drop Info — mob görünümü · item arama[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Drop Info — mob görünümü · item arama[/COLOR][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] Listede item'a [B][COLOR=#e6c46a]sağ tık[/COLOR][/B] → kararır → [B][COLOR=#e6c46a]Auto Loot toplamaz[/COLOR][/B]
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] Listede item'a [B][COLOR=#e6c46a]sağ tık[/COLOR][/B] → kararır → [B][COLOR=#e6c46a]Auto Loot toplamaz[/COLOR][/B]
 [COLOR=#c8a253]◆[/COLOR] Yanlış engellediysen [B][COLOR=#e6c46a]Blocked[/COLOR][/B] listesinden kaldır
 [COLOR=#c8a253]◆[/COLOR] Item üstünde açıklamanın altında [B][COLOR=#e6c46a]CTRL + D[/COLOR][/B] yazıyorsa → bas, drop kaynağını gör[/SIZE][/CENTER]
 
 [CENTER][IMG]{{F34_4}}[/IMG] [IMG]{{F50_1}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Blocked listesi · Drop Search (Ctrl + D)[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Blocked listesi · Drop Search (Ctrl + D)[/COLOR][/SIZE][/CENTER]
 
 [CENTER][URL=https://sexyko.com/guide/monsters][IMG]{{R14}}[/IMG][/URL]
-[SIZE=4][URL=https://sexyko.com/guide/monsters][B][COLOR=#4fa3ff]📘 Rehberde aç: Monster Listesi ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5][URL=https://sexyko.com/guide/monsters][B][COLOR=#4fa3ff]📘 Rehberde aç: Monster Listesi ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]🌀 12 · SLOT TELEPORT[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][B][COLOR=#e6c46a][Teleport] Portal[/COLOR][/B] NPC'sine git → mobu seç → [B][COLOR=#e6c46a]250.000 coin[/COLOR][/B] ile direkt slotuna ışınlan. [B][COLOR=#e6c46a]Luferson · El Morad Castle · Eslant[/COLOR][/B].[/SIZE][/CENTER]
+[CENTER][SIZE=5][B][COLOR=#e6c46a][Teleport] Portal[/COLOR][/B] NPC'sine git → mobu seç → [B][COLOR=#e6c46a]250.000 coin[/COLOR][/B] ile direkt slotuna ışınlan. [B][COLOR=#e6c46a]Luferson · El Morad Castle · Eslant[/COLOR][/B].[/SIZE][/CENTER]
 
 [CENTER][IMG]{{F52_1}}[/IMG] [IMG]{{F52_2}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ [Teleport] Portal · mob seçimi[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ [Teleport] Portal · mob seçimi[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]📊 13 · GRIND TRACKER[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4]Sol üstteki [B][COLOR=#e6c46a]⏱[/COLOR][/B] simgesi: farm süresi, toplanan coin, [B][COLOR=#e6c46a]saatlik ortalama coin[/COLOR][/B], düşen itemler ve [B][COLOR=#e6c46a]saatlik item adedi[/COLOR][/B] — slotların verimini oyun içinden karşılaştır.[/SIZE][/CENTER]
+[CENTER][SIZE=5]Sol üstteki [B][COLOR=#e6c46a]⏱[/COLOR][/B] simgesi: farm süresi, toplanan coin, [B][COLOR=#e6c46a]saatlik ortalama coin[/COLOR][/B], düşen itemler ve [B][COLOR=#e6c46a]saatlik item adedi[/COLOR][/B] — slotların verimini oyun içinden karşılaştır.[/SIZE][/CENTER]
 
 [CENTER][IMG]{{F14_2}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Farm Grind Tracker açılışı[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Farm Grind Tracker açılışı[/COLOR][/SIZE][/CENTER]
 
 [CENTER][IMG]{{R08}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Grind Tracker penceresi[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Grind Tracker penceresi[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]⛏️ 14 · AUTO MINING — MINING INN[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] Auto Mining ürünleri [B][COLOR=#e6c46a]Mining Inn[/COLOR][/B]'de birikir — işaretli kutuya tıkla
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] Auto Mining ürünleri [B][COLOR=#e6c46a]Mining Inn[/COLOR][/B]'de birikir — işaretli kutuya tıkla
 [COLOR=#c8a253]◆[/COLOR] Mining Inn deposu [B][COLOR=#e6c46a]tek yönlü[/COLOR][/B]: item [B][COLOR=#e6c46a]çekebilirsin[/COLOR][/B], item [B][COLOR=#e6c46a]bırakamazsın[/COLOR][/B][/SIZE][/CENTER]
 
 [CENTER][IMG]{{F24_2}}[/IMG] [IMG]{{F24_3}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Mining Inn giriş · depo[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Mining Inn giriş · depo[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]🛒 15 · POWER UP STORE + KUPON[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Basket[/COLOR][/B] ile toplu alışveriş · [B][COLOR=#e6c46a]Knight Cash[/COLOR][/B] ve [B][COLOR=#e6c46a]SexyBalance[/COLOR][/B] bakiyesi ayrı görünür
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Basket[/COLOR][/B] ile toplu alışveriş · [B][COLOR=#e6c46a]Knight Cash[/COLOR][/B] ve [B][COLOR=#e6c46a]SexyBalance[/COLOR][/B] bakiyesi ayrı görünür
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Kupon alanı → CHECK:[/COLOR][/B] sponsor yayıncı indirim kodu — kampanya dönemlerinde %30'a varan
 [COLOR=#c8a253]◆[/COLOR] Kupon tekli üründe de, Basket'te de geçer · [B][COLOR=#e6c46a]VIP[/COLOR][/B] ve [B][COLOR=#e6c46a]Farm[/COLOR][/B] paketlerinde geçmez[/SIZE][/CENTER]
 
 [CENTER][IMG]{{R09}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Power Up Store (oyun içi)[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Power Up Store (oyun içi)[/COLOR][/SIZE][/CENTER]
 
 [CENTER][IMG]{{F27_2}}[/IMG] [IMG]{{F51_1}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Basket · indirim kodu[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Basket · indirim kodu[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]🎡 16 · ÇARKIFELEK[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][B][COLOR=#e6c46a]350 KC[/COLOR][/B] ile sınırsız çevir ya da [B][COLOR=#e6c46a]2 saat online[/COLOR][/B] kal, [B][COLOR=#e6c46a]1 ücretsiz[/COLOR][/B] çevirme hakkı kazan.[/SIZE][/CENTER]
+[CENTER][SIZE=5][B][COLOR=#e6c46a]350 KC[/COLOR][/B] ile sınırsız çevir ya da [B][COLOR=#e6c46a]2 saat online[/COLOR][/B] kal, [B][COLOR=#e6c46a]1 ücretsiz[/COLOR][/B] çevirme hakkı kazan.[/SIZE][/CENTER]
 
 [CENTER][IMG]{{R10}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Çarkıfelek (Lucky Wheel)[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Çarkıfelek (Lucky Wheel)[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]📅 17 · GÜNLÜK GÖREVLER[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] Sol alttaki [B][COLOR=#e6c46a]Daily Quest[/COLOR][/B] bölümüne tıkla → görevi seç → [B][COLOR=#e6c46a]Detail[/COLOR][/B] → [B][COLOR=#e6c46a]Accept[/COLOR][/B]
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] Sol alttaki [B][COLOR=#e6c46a]Daily Quest[/COLOR][/B] bölümüne tıkla → görevi seç → [B][COLOR=#e6c46a]Detail[/COLOR][/B] → [B][COLOR=#e6c46a]Accept[/COLOR][/B]
 [COLOR=#c8a253]◆[/COLOR] Accept'e basınca süre başlar — süre dolmadan tamamla, [B][COLOR=#e6c46a]ödül otomatik[/COLOR][/B] gelir
 [COLOR=#c8a253]◆[/COLOR] Rehberde [B][COLOR=#e6c46a]23 günlük görev[/COLOR][/B] (Ronark Land) — ör. [B][COLOR=#e6c46a]Atross & Riote:[/COLOR][/B] 10 Atross + 10 Lyot → [B][COLOR=#e6c46a]500 Knight Cash[/COLOR][/B][/SIZE][/CENTER]
 
 [CENTER][IMG]{{F33_2}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Daily Quest giriş (sol alt)[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Daily Quest giriş (sol alt)[/COLOR][/SIZE][/CENTER]
 
 [CENTER][URL=https://sexyko.com/guide/daily-quests][IMG]{{R20}}[/IMG][/URL]
-[SIZE=4][URL=https://sexyko.com/guide/daily-quests][B][COLOR=#4fa3ff]📘 Rehberde aç: Günlük Görevler ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5][URL=https://sexyko.com/guide/daily-quests][B][COLOR=#4fa3ff]📘 Rehberde aç: Günlük Görevler ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]⏳ 18 · ETKİNLİK TAKVİMİ[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4]Sağ üstteki [B][COLOR=#e6c46a]kum saati[/COLOR][/B]: üzerine gel = anlık bilgi · tıkla = takvim · [B][COLOR=#e6c46a]Bildirim kur[/COLOR][/B] → etkinlikten 5 dakika önce uyarı.[/SIZE][/CENTER]
+[CENTER][SIZE=5]Sağ üstteki [B][COLOR=#e6c46a]kum saati[/COLOR][/B]: üzerine gel = anlık bilgi · tıkla = takvim · [B][COLOR=#e6c46a]Bildirim kur[/COLOR][/B] → etkinlikten 5 dakika önce uyarı.[/SIZE][/CENTER]
 
 [CENTER][IMG]{{F38_2}}[/IMG] [IMG]{{F38_3}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Kum saati — bilgi penceresi · event penceresi[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Kum saati — bilgi penceresi · event penceresi[/COLOR][/SIZE][/CENTER]
 
 [CENTER][IMG]{{R11}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Etkinlik Takvimi (oyun içi)[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Etkinlik Takvimi (oyun içi)[/COLOR][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Chaos Dungeon[/COLOR][/B] — her gün 00:00
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Chaos Dungeon[/COLOR][/B] — her gün 00:00
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Border Defense War[/COLOR][/B] — her gün 01:00 · 15:30 · 19:30
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Juraid Mountain[/COLOR][/B] — her gün 02:00 · 18:00
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Chaos Stone War[/COLOR][/B] — her gün 18:30
@@ -373,7 +373,7 @@
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]🏆 19 · ETKİNLİK KURALLARI[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Knight Chaos:[/COLOR][/B] 18 kişi, ücretsiz, 20 dakika — herkes aynı karakter, 10.000 HP; en çok öldüren, en az ölen öne geçer
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Knight Chaos:[/COLOR][/B] 18 kişi, ücretsiz, 20 dakika — herkes aynı karakter, 10.000 HP; en çok öldüren, en az ölen öne geçer
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Border Defense War:[/COLOR][/B] 8v8, 30 dakika — altarı üsse taşı 80 puan, kill 2 puan; 600 puana ilk ulaşan kazanır
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Juraid Mountain:[/COLOR][/B] 8v8 PvPvE, 50 dakika, Lv 70+ — Devabird'ü öldüren ırk kazanır
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Forgotten Temple:[/COLOR][/B] 80 kişi, 100.000 Noah — [Priest] Iris (Moradon 815,921), dalga dalga gelen canavarlar
@@ -382,68 +382,68 @@
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Under the Castle:[/COLOR][/B] Lv 75+, 4 boss — ölünce ekipman yanar, [B][COLOR=#e6c46a]Life Crystal[/COLOR][/B] taşı[/SIZE][/CENTER]
 
 [CENTER][URL=https://sexyko.com/guide/book/chaos][IMG]{{R12}}[/IMG][/URL]
-[SIZE=4][URL=https://sexyko.com/guide/book/chaos][B][COLOR=#4fa3ff]📘 Rehberde aç: Knight Chaos ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5][URL=https://sexyko.com/guide/book/chaos][B][COLOR=#4fa3ff]📘 Rehberde aç: Knight Chaos ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][URL=https://sexyko.com/guide/event-rewards][IMG]{{R25}}[/IMG][/URL]
-[SIZE=4][URL=https://sexyko.com/guide/event-rewards][B][COLOR=#4fa3ff]📘 Rehberde aç: Etkinlik Ödülleri ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5][URL=https://sexyko.com/guide/event-rewards][B][COLOR=#4fa3ff]📘 Rehberde aç: Etkinlik Ödülleri ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]🐉 20 · DRAKI'S TOWER[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] Giriş: El Morad'lar [B][COLOR=#e6c46a]El Morad Castle[/COLOR][/B], Karus'lar [B][COLOR=#e6c46a]Luferson Castle[/COLOR][/B] — [B][COLOR=#e6c46a]Draki Rift[/COLOR][/B]
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] Giriş: El Morad'lar [B][COLOR=#e6c46a]El Morad Castle[/COLOR][/B], Karus'lar [B][COLOR=#e6c46a]Luferson Castle[/COLOR][/B] — [B][COLOR=#e6c46a]Draki Rift[/COLOR][/B]
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]5 bölüm[/COLOR][/B], her bölümde katlar ve bosslar · son boss [B][COLOR=#e6c46a]Draki El Rasaga[/COLOR][/B]
 [COLOR=#c8a253]◆[/COLOR] Günde [B][COLOR=#e6c46a]3 giriş[/COLOR][/B] · sıfırlama her gün [B][COLOR=#e6c46a]18:00[/COLOR][/B] · zamana karşı yarış, [B][COLOR=#e6c46a]aylık sıralama[/COLOR][/B]
 [COLOR=#c8a253]◆[/COLOR] 1-3. bölüm sonlarında [B][COLOR=#e6c46a][Sundries] Ghost[/COLOR][/B] (tamir + iksir) ve [B][COLOR=#e6c46a][Monster Strategist][/COLOR][/B] (AP · DEF · 1.000 HP takviyesi)[/SIZE][/CENTER]
 
 [CENTER][URL=https://sexyko.com/guide/book/draki][IMG]{{R24}}[/IMG][/URL]
-[SIZE=4][URL=https://sexyko.com/guide/book/draki][B][COLOR=#4fa3ff]📘 Rehberde aç: Draki's Tower ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5][URL=https://sexyko.com/guide/book/draki][B][COLOR=#4fa3ff]📘 Rehberde aç: Draki's Tower ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]🔨 21 · UPGRADE ORANLARI[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4]Oranlar rehberde ve [B][COLOR=#e6c46a]Anvil'de canlı[/COLOR][/B] görünür; en yüksek kademe [B][COLOR=#e6c46a]+8[/COLOR][/B]. Örnek — [B][COLOR=#e6c46a]Blessed Upgrade Scroll (High Class):[/COLOR][/B][/SIZE][/CENTER]
+[CENTER][SIZE=5]Oranlar rehberde ve [B][COLOR=#e6c46a]Anvil'de canlı[/COLOR][/B] görünür; en yüksek kademe [B][COLOR=#e6c46a]+8[/COLOR][/B]. Örnek — [B][COLOR=#e6c46a]Blessed Upgrade Scroll (High Class):[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] +1 → +2 [B][COLOR=#e6c46a]%100[/COLOR][/B] · +2 → +3 [B][COLOR=#e6c46a]%100[/COLOR][/B] · +3 → +4 [B][COLOR=#e6c46a]%95[/COLOR][/B] · +4 → +5 [B][COLOR=#e6c46a]%75[/COLOR][/B]
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] +1 → +2 [B][COLOR=#e6c46a]%100[/COLOR][/B] · +2 → +3 [B][COLOR=#e6c46a]%100[/COLOR][/B] · +3 → +4 [B][COLOR=#e6c46a]%95[/COLOR][/B] · +4 → +5 [B][COLOR=#e6c46a]%75[/COLOR][/B]
 [COLOR=#c8a253]◆[/COLOR] +5 → +6 [B][COLOR=#e6c46a]%50[/COLOR][/B] · +6 → +7 [B][COLOR=#e6c46a]%25[/COLOR][/B] · +7 → +8 [B][COLOR=#e6c46a]%4[/COLOR][/B]
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Trina's Piece[/COLOR][/B] ile oran artar · ücret 120.000 – 360.000 coin[/SIZE][/CENTER]
 
 [CENTER][URL=https://sexyko.com/guide/upgrade][IMG]{{R13}}[/IMG][/URL]
-[SIZE=4][URL=https://sexyko.com/guide/upgrade][B][COLOR=#4fa3ff]📘 Rehberde aç: Upgrade Oranları ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5][URL=https://sexyko.com/guide/upgrade][B][COLOR=#4fa3ff]📘 Rehberde aç: Upgrade Oranları ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]⭐ 22 · REBIRTH[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][B][COLOR=#e6c46a]83 Level + %100 EXP + 100.000.000 coin + 10.000 NP[/COLOR][/B] → Rebirth. Her Rebirth seviyesi [B][COLOR=#e6c46a]+2 stat puanı[/COLOR][/B]. Durumunu [B][COLOR=#e6c46a]U → Rebirth[/COLOR][/B] sekmesinden gör.[/SIZE][/CENTER]
+[CENTER][SIZE=5][B][COLOR=#e6c46a]83 Level + %100 EXP + 100.000.000 coin + 10.000 NP[/COLOR][/B] → Rebirth. Her Rebirth seviyesi [B][COLOR=#e6c46a]+2 stat puanı[/COLOR][/B]. Durumunu [B][COLOR=#e6c46a]U → Rebirth[/COLOR][/B] sekmesinden gör.[/SIZE][/CENTER]
 
 [CENTER][IMG]{{F49_1}}[/IMG] [IMG]{{F49_2}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Rebirth gereksinimleri · Rebirth işlemi[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Rebirth gereksinimleri · Rebirth işlemi[/COLOR][/SIZE][/CENTER]
 
 [CENTER][IMG]{{R15}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Character Info (U)[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Character Info (U)[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]👁️ 23 · EQUIPMENT VIEW[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] Karaktere [B][COLOR=#e6c46a]sağ tık → Equipment View[/COLOR][/B]
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] Karaktere [B][COLOR=#e6c46a]sağ tık → Equipment View[/COLOR][/B]
 [COLOR=#c8a253]◆[/COLOR] Takılı ekipmanlar ve [B][COLOR=#e6c46a]upgrade seviyeleri[/COLOR][/B] · inventory
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Level · HP · MP · SP · STR · DEX · INT[/COLOR][/B] · Attack · Defence
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]6 resistance[/COLOR][/B] (Fire · Ice · Lightning · Magic · Curse · Poison) · aktif [B][COLOR=#e6c46a]Buff List[/COLOR][/B][/SIZE][/CENTER]
 
 [CENTER][IMG]{{F46_1}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Equipment View açılışı[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Equipment View açılışı[/COLOR][/SIZE][/CENTER]
 
 [CENTER][IMG]{{F46_2}}[/IMG]
-[SIZE=3][COLOR=#a89f91]▲ Equipment / Ability penceresi[/COLOR][/SIZE][/CENTER]
+[SIZE=4][COLOR=#a89f91]▲ Equipment / Ability penceresi[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]🔗 24 · BAĞLANTILAR[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][SIZE=4][COLOR=#c8a253]◆[/COLOR] 🌐 Web: [URL=https://sexyko.com]sexyko.com[/URL]
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] 🌐 Web: [URL=https://sexyko.com]sexyko.com[/URL]
 [COLOR=#c8a253]◆[/COLOR] 📘 Rehber: [URL=https://sexyko.com/guide/book]sexyko.com/guide[/URL]
 [COLOR=#c8a253]◆[/COLOR] 💬 Forum: [URL=https://forum.sexyko.com]forum.sexyko.com[/URL]
 [COLOR=#c8a253]◆[/COLOR] 📥 Client: [URL=https://sexyko.com/download]sexyko.com/download[/URL][/SIZE][/CENTER]

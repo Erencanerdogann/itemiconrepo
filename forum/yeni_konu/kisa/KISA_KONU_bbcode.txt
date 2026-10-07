@@ -4,173 +4,173 @@
 
 [CENTER][IMG]{{R01}}[/IMG]
 [SIZE=7][B][COLOR=#c8a253]SEXYKO OYUN REHBERİ[/COLOR][/B][/SIZE]
-[SIZE=4][COLOR=#a89f91]24 başlık, kısa kısa — detay için başlığın altındaki linke tıkla.[/COLOR][/SIZE][/CENTER]
+[SIZE=5][COLOR=#a89f91]24 başlık, kısa kısa — detay için başlığın altındaki linke tıkla.[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]📖 01 · OYUNUN İÇİNDEKİ REHBER[/COLOR][/B][/SIZE]
 [URL=https://sexyko.com/guide/book][IMG]{{KR02}}[/IMG][/URL]
-[SIZE=4]Sol üstteki [B][COLOR=#e6c46a]📖 kitap[/COLOR][/B] → oyunun içinde rehber: [B][COLOR=#e6c46a]305 monster[/COLOR][/B], [B][COLOR=#e6c46a]998 görev[/COLOR][/B], upgrade oranları, drop arama.[/SIZE]
-[SIZE=4][URL=https://sexyko.com/guide/book][B][COLOR=#4fa3ff]📘 Rehberin tamamı ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/22][B][COLOR=#4fa3ff]💬 Rehber Sistemi ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5]Sol üstteki [B][COLOR=#e6c46a]📖 kitap[/COLOR][/B] → oyunun içinde rehber: [B][COLOR=#e6c46a]305 monster[/COLOR][/B], [B][COLOR=#e6c46a]998 görev[/COLOR][/B], upgrade oranları, drop arama.[/SIZE]
+[SIZE=5][URL=https://sexyko.com/guide/book][B][COLOR=#4fa3ff]📘 Rehberin tamamı ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/22][B][COLOR=#4fa3ff]💬 Rehber Sistemi ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]⌨️ 02 · KISAYOLLAR VE ARAYÜZ[/COLOR][/B][/SIZE]
 [URL=https://sexyko.com/guide/book][IMG]{{KR19}}[/IMG][/URL]
-[SIZE=4][B][COLOR=#e6c46a]F10[/COLOR][/B] ayarlar · [B][COLOR=#e6c46a]K[/COLOR][/B] skill · [B][COLOR=#e6c46a]U[/COLOR][/B] karakter · [B][COLOR=#e6c46a]H[/COLOR][/B] komutlar · [B][COLOR=#e6c46a]I[/COLOR][/B] envanter · [B][COLOR=#e6c46a]Ctrl + D[/COLOR][/B] drop kaynağı.[/SIZE]
-[SIZE=4][URL=https://sexyko.com/guide/book][B][COLOR=#4fa3ff]📘 Rehber ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5][B][COLOR=#e6c46a]F10[/COLOR][/B] ayarlar · [B][COLOR=#e6c46a]K[/COLOR][/B] skill · [B][COLOR=#e6c46a]U[/COLOR][/B] karakter · [B][COLOR=#e6c46a]H[/COLOR][/B] komutlar · [B][COLOR=#e6c46a]I[/COLOR][/B] envanter · [B][COLOR=#e6c46a]Ctrl + D[/COLOR][/B] drop kaynağı.[/SIZE]
+[SIZE=5][URL=https://sexyko.com/guide/book][B][COLOR=#4fa3ff]📘 Rehber ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]🎁 03 · BAŞLANGIÇ PAKETİ[/COLOR][/B][/SIZE]
 [URL=https://sexyko.com/guide/beginner-items][IMG]{{KF53_4}}[/IMG][/URL]
-[SIZE=4][B][COLOR=#e6c46a]Level 83[/COLOR][/B] · [B][COLOR=#e6c46a]1.000.000.000 coin[/COLOR][/B] · 3 günlük EXP Premium, Valkyrie Set, Pathos, Kanat, Magic Bag, War Tattoo · [B][COLOR=#e6c46a]24 saat Genie[/COLOR][/B].[/SIZE]
-[SIZE=4][URL=https://sexyko.com/guide/beginner-items][B][COLOR=#4fa3ff]📘 Başlangıç Eşyaları ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/53][B][COLOR=#4fa3ff]💬 Başlangıç Paketi ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5][B][COLOR=#e6c46a]Level 83[/COLOR][/B] · [B][COLOR=#e6c46a]1.000.000.000 coin[/COLOR][/B] · 3 günlük EXP Premium, Valkyrie Set, Pathos, Kanat, Magic Bag, War Tattoo · [B][COLOR=#e6c46a]24 saat Genie[/COLOR][/B].[/SIZE]
+[SIZE=5][URL=https://sexyko.com/guide/beginner-items][B][COLOR=#4fa3ff]📘 Başlangıç Eşyaları ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/53][B][COLOR=#4fa3ff]💬 Başlangıç Paketi ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]🧞 04 · GELİŞMİŞ GENIE[/COLOR][/B][/SIZE]
 [URL=https://forum.sexyko.com/d/16][IMG]{{KR03}}[/IMG][/URL]
-[SIZE=4][B][COLOR=#e6c46a]8 Attack + 8 Buff + 8 Party[/COLOR][/B] skill slotu · yüzdeyle HP/MP · sadece listedeki moblara vurur.[/SIZE]
-[SIZE=4][URL=https://forum.sexyko.com/d/16][B][COLOR=#4fa3ff]💬 Genie Sistemi ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5][B][COLOR=#e6c46a]8 Attack + 8 Buff + 8 Party[/COLOR][/B] skill slotu · yüzdeyle HP/MP · sadece listedeki moblara vurur.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/16][B][COLOR=#4fa3ff]💬 Genie Sistemi ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]⚙️ 05 · F10 AYARLAR — 11 SEKME[/COLOR][/B][/SIZE]
 [URL=https://forum.sexyko.com/d/12][IMG]{{KR05}}[/IMG][/URL]
-[SIZE=4]Grafik, efekt, [B][COLOR=#e6c46a]loot filtresi[/COLOR][/B], font ve [B][COLOR=#e6c46a]2. şifre[/COLOR][/B] — 11 sekme.[/SIZE]
-[SIZE=4][URL=https://forum.sexyko.com/d/12][B][COLOR=#4fa3ff]💬 F10 Oyun Ayarları ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5]Grafik, efekt, [B][COLOR=#e6c46a]loot filtresi[/COLOR][/B], font ve [B][COLOR=#e6c46a]2. şifre[/COLOR][/B] — 11 sekme.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/12][B][COLOR=#4fa3ff]💬 F10 Oyun Ayarları ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]⚔️ 06 · SKILL PRESET & QUICK SLOT[/COLOR][/B][/SIZE]
 [URL=https://forum.sexyko.com/d/42][IMG]{{KR07}}[/IMG][/URL]
-[SIZE=4][B][COLOR=#e6c46a]K[/COLOR][/B] → [B][COLOR=#e6c46a]4 ayrı Quick Slot[/COLOR][/B] — PK, farm, party, event düzenleri arasında hızlı geç.[/SIZE]
-[SIZE=4][URL=https://forum.sexyko.com/d/42][B][COLOR=#4fa3ff]💬 Skill Preset & Quick Slot ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5][B][COLOR=#e6c46a]K[/COLOR][/B] → [B][COLOR=#e6c46a]4 ayrı Quick Slot[/COLOR][/B] — PK, farm, party, event düzenleri arasında hızlı geç.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/42][B][COLOR=#4fa3ff]💬 Skill Preset & Quick Slot ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]👥 07 · PARTY AYARLARI[/COLOR][/B][/SIZE]
 [URL=https://forum.sexyko.com/d/11][IMG]{{KF11_2}}[/IMG][/URL]
-[SIZE=4]Party üyelerinin [B][COLOR=#e6c46a]HP · MP · Buff · Damage[/COLOR][/B] bilgisini ayrı ayrı aç / kapat.[/SIZE]
-[SIZE=4][URL=https://forum.sexyko.com/d/11][B][COLOR=#4fa3ff]💬 Party Sistemi ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5]Party üyelerinin [B][COLOR=#e6c46a]HP · MP · Buff · Damage[/COLOR][/B] bilgisini ayrı ayrı aç / kapat.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/11][B][COLOR=#4fa3ff]💬 Party Sistemi ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]🖱️ 08 · SAĞ TIK DEVRİ — NPC'YE GİTMEYE SON[/COLOR][/B][/SIZE]
 [URL=https://forum.sexyko.com/d/10][IMG]{{KF10_5}}[/IMG][/URL]
-[SIZE=4]KC, Gem, Fragment, Chest: [B][COLOR=#e6c46a]sağ tıkla kırdır[/COLOR][/B] · Tag Name, Make Over, Nick, Job Changer da sağ tıkla.[/SIZE]
-[SIZE=4][URL=https://forum.sexyko.com/d/10][B][COLOR=#4fa3ff]💬 Kırdırma ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/43][B][COLOR=#4fa3ff]💬 Chaotic Generator ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/30][B][COLOR=#4fa3ff]💬 Tag Name ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/31][B][COLOR=#4fa3ff]💬 Make Over ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/32][B][COLOR=#4fa3ff]💬 Nick ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/28][B][COLOR=#4fa3ff]💬 Job Changer ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5]KC, Gem, Fragment, Chest: [B][COLOR=#e6c46a]sağ tıkla kırdır[/COLOR][/B] · Tag Name, Make Over, Nick, Job Changer da sağ tıkla.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/10][B][COLOR=#4fa3ff]💬 Kırdırma ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/43][B][COLOR=#4fa3ff]💬 Chaotic Generator ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/30][B][COLOR=#4fa3ff]💬 Tag Name ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/31][B][COLOR=#4fa3ff]💬 Make Over ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/32][B][COLOR=#4fa3ff]💬 Nick ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/28][B][COLOR=#4fa3ff]💬 Job Changer ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]🦸 09 · SOLO PELERİN[/COLOR][/B][/SIZE]
 [URL=https://forum.sexyko.com/d/44][IMG]{{KF44_2}}[/IMG][/URL]
-[SIZE=4]Clana girmeden pelerin: [B][COLOR=#e6c46a]15 gün · 250 HP · 250 MP · 25 DEF · %3 AP[/COLOR][/B] · takım pelerinleri.[/SIZE]
-[SIZE=4][URL=https://forum.sexyko.com/d/44][B][COLOR=#4fa3ff]💬 Solo Pelerin ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/29][B][COLOR=#4fa3ff]💬 Solo Cape ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5]Clana girmeden pelerin: [B][COLOR=#e6c46a]15 gün · 250 HP · 250 MP · 25 DEF · %3 AP[/COLOR][/B] · takım pelerinleri.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/44][B][COLOR=#4fa3ff]💬 Solo Pelerin ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/29][B][COLOR=#4fa3ff]💬 Solo Cape ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]💎 10 · GEM & FRAGMENT · NARKİ · PUS KIRDIRMA[/COLOR][/B][/SIZE]
 [URL=https://sexyko.com/guide/fragment][IMG]{{KR21}}[/IMG][/URL]
-[SIZE=4]Neyi kırdırırsan [B][COLOR=#e6c46a]ne çıkar, yüzde kaç[/COLOR][/B] — hepsi rehberde.[/SIZE]
-[SIZE=4][URL=https://sexyko.com/guide/fragment][B][COLOR=#4fa3ff]📘 Gem & Fragment ↗[/COLOR][/B][/URL] · [URL=https://sexyko.com/guide/narki][B][COLOR=#4fa3ff]📘 Narki ↗[/COLOR][/B][/URL] · [URL=https://sexyko.com/guide/pus-crash][B][COLOR=#4fa3ff]📘 PUS Kırdırma ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5]Neyi kırdırırsan [B][COLOR=#e6c46a]ne çıkar, yüzde kaç[/COLOR][/B] — hepsi rehberde.[/SIZE]
+[SIZE=5][URL=https://sexyko.com/guide/fragment][B][COLOR=#4fa3ff]📘 Gem & Fragment ↗[/COLOR][/B][/URL] · [URL=https://sexyko.com/guide/narki][B][COLOR=#4fa3ff]📘 Narki ↗[/COLOR][/B][/URL] · [URL=https://sexyko.com/guide/pus-crash][B][COLOR=#4fa3ff]📘 PUS Kırdırma ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]🎯 11 · DROP INFO · DROP SEARCH[/COLOR][/B][/SIZE]
 [URL=https://forum.sexyko.com/d/34][IMG]{{KF34_2}}[/IMG][/URL]
-[SIZE=4]Moba tıkla → [B][COLOR=#e6c46a]drop yüzdeleri[/COLOR][/B] · item üstünde [B][COLOR=#e6c46a]Ctrl + D[/COLOR][/B] → hangi mobdan düşer.[/SIZE]
-[SIZE=4][URL=https://forum.sexyko.com/d/34][B][COLOR=#4fa3ff]💬 Drop Info ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/50][B][COLOR=#4fa3ff]💬 Drop Search ↗[/COLOR][/B][/URL] · [URL=https://sexyko.com/guide/monsters][B][COLOR=#4fa3ff]📘 Monster Listesi ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5]Moba tıkla → [B][COLOR=#e6c46a]drop yüzdeleri[/COLOR][/B] · item üstünde [B][COLOR=#e6c46a]Ctrl + D[/COLOR][/B] → hangi mobdan düşer.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/34][B][COLOR=#4fa3ff]💬 Drop Info ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/50][B][COLOR=#4fa3ff]💬 Drop Search ↗[/COLOR][/B][/URL] · [URL=https://sexyko.com/guide/monsters][B][COLOR=#4fa3ff]📘 Monster Listesi ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]🌀 12 · SLOT TELEPORT[/COLOR][/B][/SIZE]
 [URL=https://forum.sexyko.com/d/52][IMG]{{KF52_2}}[/IMG][/URL]
-[SIZE=4][B][COLOR=#e6c46a][Teleport] Portal[/COLOR][/B] → mobu seç → [B][COLOR=#e6c46a]250.000 coin[/COLOR][/B] ile slotuna ışınlan.[/SIZE]
-[SIZE=4][URL=https://forum.sexyko.com/d/52][B][COLOR=#4fa3ff]💬 Slot Teleport ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5][B][COLOR=#e6c46a][Teleport] Portal[/COLOR][/B] → mobu seç → [B][COLOR=#e6c46a]250.000 coin[/COLOR][/B] ile slotuna ışınlan.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/52][B][COLOR=#4fa3ff]💬 Slot Teleport ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]📊 13 · GRIND TRACKER[/COLOR][/B][/SIZE]
 [URL=https://forum.sexyko.com/d/14][IMG]{{KR08}}[/IMG][/URL]
-[SIZE=4]Sol üst [B][COLOR=#e6c46a]⏱[/COLOR][/B] → farm süresi, [B][COLOR=#e6c46a]saatlik coin[/COLOR][/B] ve [B][COLOR=#e6c46a]saatlik item[/COLOR][/B] — slot verimini karşılaştır.[/SIZE]
-[SIZE=4][URL=https://forum.sexyko.com/d/14][B][COLOR=#4fa3ff]💬 Farm Grind Tracker ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5]Sol üst [B][COLOR=#e6c46a]⏱[/COLOR][/B] → farm süresi, [B][COLOR=#e6c46a]saatlik coin[/COLOR][/B] ve [B][COLOR=#e6c46a]saatlik item[/COLOR][/B] — slot verimini karşılaştır.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/14][B][COLOR=#4fa3ff]💬 Farm Grind Tracker ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]⛏️ 14 · AUTO MINING — MINING INN[/COLOR][/B][/SIZE]
 [URL=https://forum.sexyko.com/d/24][IMG]{{KF24_2}}[/IMG][/URL]
-[SIZE=4]Auto Mining ürünleri [B][COLOR=#e6c46a]Mining Inn[/COLOR][/B]'de birikir · depo tek yönlü: sadece çekilir.[/SIZE]
-[SIZE=4][URL=https://forum.sexyko.com/d/24][B][COLOR=#4fa3ff]💬 Auto Mining — Mining Inn ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5]Auto Mining ürünleri [B][COLOR=#e6c46a]Mining Inn[/COLOR][/B]'de birikir · depo tek yönlü: sadece çekilir.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/24][B][COLOR=#4fa3ff]💬 Auto Mining — Mining Inn ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]🛒 15 · POWER UP STORE + KUPON[/COLOR][/B][/SIZE]
 [URL=https://forum.sexyko.com/d/27][IMG]{{KR09}}[/IMG][/URL]
-[SIZE=4][B][COLOR=#e6c46a]Basket[/COLOR][/B] ile toplu alışveriş · sponsor yayıncı kodu ile [B][COLOR=#e6c46a]%30'a varan[/COLOR][/B] indirim.[/SIZE]
-[SIZE=4][URL=https://forum.sexyko.com/d/27][B][COLOR=#4fa3ff]💬 Power Up Store ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/51][B][COLOR=#4fa3ff]💬 PUS İndirim Kodu ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5][B][COLOR=#e6c46a]Basket[/COLOR][/B] ile toplu alışveriş · sponsor yayıncı kodu ile [B][COLOR=#e6c46a]%30'a varan[/COLOR][/B] indirim.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/27][B][COLOR=#4fa3ff]💬 Power Up Store ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/51][B][COLOR=#4fa3ff]💬 PUS İndirim Kodu ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]🎡 16 · ÇARKIFELEK[/COLOR][/B][/SIZE]
 [URL=https://forum.sexyko.com/d/41][IMG]{{KR10}}[/IMG][/URL]
-[SIZE=4][B][COLOR=#e6c46a]350 KC[/COLOR][/B] ile çevir ya da [B][COLOR=#e6c46a]2 saat online[/COLOR][/B] kal, [B][COLOR=#e6c46a]1 ücretsiz[/COLOR][/B] hak.[/SIZE]
-[SIZE=4][URL=https://forum.sexyko.com/d/41][B][COLOR=#4fa3ff]💬 Çarkıfelek ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5][B][COLOR=#e6c46a]350 KC[/COLOR][/B] ile çevir ya da [B][COLOR=#e6c46a]2 saat online[/COLOR][/B] kal, [B][COLOR=#e6c46a]1 ücretsiz[/COLOR][/B] hak.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/41][B][COLOR=#4fa3ff]💬 Çarkıfelek ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]📅 17 · GÜNLÜK GÖREVLER[/COLOR][/B][/SIZE]
 [URL=https://sexyko.com/guide/daily-quests][IMG]{{KR20}}[/IMG][/URL]
-[SIZE=4]Sol alt [B][COLOR=#e6c46a]Daily Quest[/COLOR][/B] → görev seç → [B][COLOR=#e6c46a]Accept[/COLOR][/B] → süre dolmadan bitir, ödül otomatik.[/SIZE]
-[SIZE=4][URL=https://sexyko.com/guide/daily-quests][B][COLOR=#4fa3ff]📘 Günlük Görevler ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/33][B][COLOR=#4fa3ff]💬 Daily Quest ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5]Sol alt [B][COLOR=#e6c46a]Daily Quest[/COLOR][/B] → görev seç → [B][COLOR=#e6c46a]Accept[/COLOR][/B] → süre dolmadan bitir, ödül otomatik.[/SIZE]
+[SIZE=5][URL=https://sexyko.com/guide/daily-quests][B][COLOR=#4fa3ff]📘 Günlük Görevler ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/33][B][COLOR=#4fa3ff]💬 Daily Quest ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]⏳ 18 · ETKİNLİK TAKVİMİ[/COLOR][/B][/SIZE]
 [URL=https://forum.sexyko.com/d/38][IMG]{{KR11}}[/IMG][/URL]
-[SIZE=4]Sağ üst [B][COLOR=#e6c46a]kum saati[/COLOR][/B] → takvim · [B][COLOR=#e6c46a]Bildirim kur[/COLOR][/B] → etkinlikten 5 dakika önce uyarı.[/SIZE]
-[SIZE=4][URL=https://forum.sexyko.com/d/38][B][COLOR=#4fa3ff]💬 Kum Saati ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5]Sağ üst [B][COLOR=#e6c46a]kum saati[/COLOR][/B] → takvim · [B][COLOR=#e6c46a]Bildirim kur[/COLOR][/B] → etkinlikten 5 dakika önce uyarı.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/38][B][COLOR=#4fa3ff]💬 Kum Saati ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]🏆 19 · ETKİNLİK KURALLARI[/COLOR][/B][/SIZE]
 [URL=https://sexyko.com/guide/book/chaos][IMG]{{KR12}}[/IMG][/URL]
-[SIZE=4]Knight Chaos, Border Defense War, Juraid, Forgotten Temple, Castle Siege, Knight Royale, Under the Castle — kurallar ve ödüller.[/SIZE]
-[SIZE=4][URL=https://sexyko.com/guide/book/chaos][B][COLOR=#4fa3ff]📘 Knight Chaos ↗[/COLOR][/B][/URL] · [URL=https://sexyko.com/guide/event-rewards][B][COLOR=#4fa3ff]📘 Etkinlik Ödülleri ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5]Knight Chaos, Border Defense War, Juraid, Forgotten Temple, Castle Siege, Knight Royale, Under the Castle — kurallar ve ödüller.[/SIZE]
+[SIZE=5][URL=https://sexyko.com/guide/book/chaos][B][COLOR=#4fa3ff]📘 Knight Chaos ↗[/COLOR][/B][/URL] · [URL=https://sexyko.com/guide/event-rewards][B][COLOR=#4fa3ff]📘 Etkinlik Ödülleri ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]🐉 20 · DRAKI'S TOWER[/COLOR][/B][/SIZE]
 [URL=https://sexyko.com/guide/book/draki][IMG]{{KR24}}[/IMG][/URL]
-[SIZE=4][B][COLOR=#e6c46a]5 bölüm[/COLOR][/B] · günde [B][COLOR=#e6c46a]3 giriş[/COLOR][/B] · sıfırlama [B][COLOR=#e6c46a]18:00[/COLOR][/B] · aylık sıralama.[/SIZE]
-[SIZE=4][URL=https://sexyko.com/guide/book/draki][B][COLOR=#4fa3ff]📘 Draki's Tower ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/45][B][COLOR=#4fa3ff]💬 Draki's Tower ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5][B][COLOR=#e6c46a]5 bölüm[/COLOR][/B] · günde [B][COLOR=#e6c46a]3 giriş[/COLOR][/B] · sıfırlama [B][COLOR=#e6c46a]18:00[/COLOR][/B] · aylık sıralama.[/SIZE]
+[SIZE=5][URL=https://sexyko.com/guide/book/draki][B][COLOR=#4fa3ff]📘 Draki's Tower ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/45][B][COLOR=#4fa3ff]💬 Draki's Tower ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]🔨 21 · UPGRADE ORANLARI[/COLOR][/B][/SIZE]
 [URL=https://sexyko.com/guide/upgrade][IMG]{{KR13}}[/IMG][/URL]
-[SIZE=4]Oranlar rehberde ve [B][COLOR=#e6c46a]Anvil'de canlı[/COLOR][/B] · en yüksek [B][COLOR=#e6c46a]+8[/COLOR][/B] · [B][COLOR=#e6c46a]Trina's Piece[/COLOR][/B] oranı artırır.[/SIZE]
-[SIZE=4][URL=https://sexyko.com/guide/upgrade][B][COLOR=#4fa3ff]📘 Upgrade Oranları ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/26][B][COLOR=#4fa3ff]💬 Upgrade Oranları ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5]Oranlar rehberde ve [B][COLOR=#e6c46a]Anvil'de canlı[/COLOR][/B] · en yüksek [B][COLOR=#e6c46a]+8[/COLOR][/B] · [B][COLOR=#e6c46a]Trina's Piece[/COLOR][/B] oranı artırır.[/SIZE]
+[SIZE=5][URL=https://sexyko.com/guide/upgrade][B][COLOR=#4fa3ff]📘 Upgrade Oranları ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/26][B][COLOR=#4fa3ff]💬 Upgrade Oranları ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]⭐ 22 · REBIRTH[/COLOR][/B][/SIZE]
 [URL=https://forum.sexyko.com/d/49][IMG]{{KF49_1}}[/IMG][/URL]
-[SIZE=4][B][COLOR=#e6c46a]83 Lv + %100 EXP + 100.000.000 coin + 10.000 NP[/COLOR][/B] → Rebirth · her seviye [B][COLOR=#e6c46a]+2 stat[/COLOR][/B].[/SIZE]
-[SIZE=4][URL=https://forum.sexyko.com/d/49][B][COLOR=#4fa3ff]💬 Karakter Rebirth ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5][B][COLOR=#e6c46a]83 Lv + %100 EXP + 100.000.000 coin + 10.000 NP[/COLOR][/B] → Rebirth · her seviye [B][COLOR=#e6c46a]+2 stat[/COLOR][/B].[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/49][B][COLOR=#4fa3ff]💬 Karakter Rebirth ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]👁️ 23 · EQUIPMENT VIEW[/COLOR][/B][/SIZE]
 [URL=https://forum.sexyko.com/d/46][IMG]{{KF46_2}}[/IMG][/URL]
-[SIZE=4]Karaktere [B][COLOR=#e6c46a]sağ tık → Equipment View[/COLOR][/B]: ekipman, upgrade, stat, resistance, buff listesi.[/SIZE]
-[SIZE=4][URL=https://forum.sexyko.com/d/46][B][COLOR=#4fa3ff]💬 Equipment View ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5]Karaktere [B][COLOR=#e6c46a]sağ tık → Equipment View[/COLOR][/B]: ekipman, upgrade, stat, resistance, buff listesi.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/46][B][COLOR=#4fa3ff]💬 Equipment View ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=5][B][COLOR=#c8a253]🔗 24 · BAĞLANTILAR[/COLOR][/B][/SIZE]
-[SIZE=4][URL=https://sexyko.com][B][COLOR=#4fa3ff]🌐 sexyko.com ↗[/COLOR][/B][/URL] · [URL=https://sexyko.com/guide/book][B][COLOR=#4fa3ff]📘 Rehber ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com][B][COLOR=#4fa3ff]💬 Forum ↗[/COLOR][/B][/URL] · [URL=https://sexyko.com/download][B][COLOR=#4fa3ff]📥 Client ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+[SIZE=5][URL=https://sexyko.com][B][COLOR=#4fa3ff]🌐 sexyko.com ↗[/COLOR][/B][/URL] · [URL=https://sexyko.com/guide/book][B][COLOR=#4fa3ff]📘 Rehber ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com][B][COLOR=#4fa3ff]💬 Forum ↗[/COLOR][/B][/URL] · [URL=https://sexyko.com/download][B][COLOR=#4fa3ff]📥 Client ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 

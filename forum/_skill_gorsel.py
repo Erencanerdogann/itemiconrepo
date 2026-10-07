@@ -3,7 +3,7 @@
 # Her kart HTML olarak kurulur, Playwright ile 960 px genislikte JPG cekilir. Ikon + minimap: site onbellegi rehber/web/resim/ (cdn.sexyko.com).
 # CIKTI: skill_master/resim/S01..S07 (*.jpg) -> _skill_konu.py konuya koyar.
 import sys; sys.stdout.reconfigure(encoding="utf-8")
-import os, io, base64, html
+import os, io, re, base64, html
 from PIL import Image
 from playwright.sync_api import sync_playwright
 import _skill_veri as V
@@ -66,9 +66,18 @@ tr.sat td:last-child{{border-right:1px solid #3a2e20;border-radius:0 6px 6px 0}}
 """
 
 
+def buyut_css(s):
+    """PATRON 7 Eki: 'yazi fontlarini biraz buyutelim, ozellikle skill master'da' -> resim genisligi ayni (960), yazi buyur (forumda gercekten buyuk gorunsun).
+    <=16 px x1,22 (12 -> 14,6 · 13 -> 15,9 · 15 -> 18,3) · 17-24 px x1,1 · buyuk basliklar ayni."""
+    def f(m):
+        v = float(m.group(1)); k = 1.22 if v <= 16 else 1.1 if v <= 24 else 1.0
+        return f"font-size:{round(v * k, 1):g}px"
+    return re.sub(r"font-size:(\d+(?:\.\d+)?)px", f, s)
+
+
 def kart(govde, baslik, alt, etiket="SEXYKO · SKILL & MASTER", ek_css=""):
-    return f'<!doctype html><html><head><meta charset="utf-8"><style>{CSS}{ek_css}</style></head><body><div id="kart"><div class="etiket">{etiket}</div>' \
-           f'<h1>{baslik}</h1><div class="alt">{alt}</div>{govde}</div></body></html>'
+    return buyut_css(f'<!doctype html><html><head><meta charset="utf-8"><style>{CSS}{ek_css}</style></head><body><div id="kart"><div class="etiket">{etiket}</div>'
+                     f'<h1>{baslik}</h1><div class="alt">{alt}</div>{govde}</div></body></html>')
 
 
 def yer(j):
@@ -326,6 +335,8 @@ if __name__ == "__main__":
         pg = b.new_page(viewport={"width": 1000, "height": 800}, device_scale_factor=1)
         for ad, f in KARTLAR:
             pg.set_content(f(), wait_until="load")
+            tas = pg.evaluate("(()=>{const k=document.querySelector('#kart'),kr=k.getBoundingClientRect().right;let m=0;k.querySelectorAll('*').forEach(e=>{m=Math.max(m,e.getBoundingClientRect().right)});return [kr,m,k.scrollWidth,k.clientWidth]})()")
+            assert tas[1] <= tas[0] + 1 and tas[2] <= tas[3] + 1, (ad, "yazi kartin disina tasiyor", tas)   # 7 Eki: buyuk font -> tasma olmasin
             pg.locator("#kart").screenshot(path=os.path.join(RD, ad), type="jpeg", quality=90)
             print(ad, os.path.getsize(os.path.join(RD, ad)) // 1024, "KB")
         b.close()
