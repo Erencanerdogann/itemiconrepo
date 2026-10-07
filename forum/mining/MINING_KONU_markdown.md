@@ -1,20 +1,21 @@
-# ⛏️ SEXYKO 24 SAATLİK MADENCİLİK SONUÇLARI | Golden Mattock vs Normal Mattock · Oranlar
+# ⛏️ SEXYKO 24 SAATLİK MADENCİLİK SONUÇLARI | Auto Mining · Golden · Normal Mattock · Oranlar
 
 ![]({{R01}})
 
 # 24 SAATLİK MADENCİLİK SONUÇLARI
 
-*Golden Mattock ile Normal Mattock — 24 saatte gerçekten ne çıktı?*
+*Auto Mining, Golden Mattock ve Normal Mattock — 24 saatte gerçekten ne çıktı?*
 
 ## 📑 İçindekiler
 
 01 · ⛏️ BİR BAKIŞTA  
-02 · 🥇 GOLDEN MATTOCK — 24 SAAT  
-03 · 🥈 NORMAL MATTOCK — 24 SAAT  
-04 · 📊 ITEM ITEM KARŞILAŞTIRMA  
-05 · 📘 RESMÎ ÇIKMA ORANLARI  
-06 · 💡 BİLMEN GEREKENLER  
-07 · 🔗 BAĞLANTILAR  
+02 · 🤖 PLATINUM AUTO MINING — 24 SAAT  
+03 · 🥇 GOLDEN MATTOCK — 24 SAAT  
+04 · 🥈 NORMAL MATTOCK — 24 SAAT  
+05 · 📊 ITEM ITEM KARŞILAŞTIRMA  
+06 · 📘 RESMÎ ÇIKMA ORANLARI  
+07 · 💡 BİLMEN GEREKENLER  
+08 · 🔗 BAĞLANTILAR  
 
 ---
 
@@ -22,11 +23,41 @@
 
 ![]({{M00}})
 
-Aynı süre — **24 saat** madencilik: **Golden Mattock 1.601 item**, **Normal Mattock 508 item** çıkardı. Golden, Normal'in yaklaşık **3,15 katı** item verdi.
+Aynı süre — **24 saat** madencilik: **Platinum Auto Mining 1.970 item**, **Golden Mattock 1.601 item**, **Normal Mattock 508 item** çıkardı. Normal'e göre Auto Mining yaklaşık **3,88 katı**, Golden **3,15 katı** item verdi.
 
 ---
 
-## 🥇 02 · GOLDEN MATTOCK — 24 SAAT
+## 🤖 02 · PLATINUM AUTO MINING — 24 SAAT
+
+![]({{M05}})
+
+- **Stone of life** — 181 adet (%1,00)
+- **Black Gem** — 169 adet (%1,00)
+- **Red Treasure Chest** — 169 adet (%1,00)
+- **Green Gem** — 127 adet (%0,80)
+- **Elemental Scroll** — 116 adet (%0,65)
+- **Fragment of Arrogance** — 116 adet (%0,70)
+- **Fragment of Gluttony** — 114 adet (%0,70)
+- **Upgrade Scroll** — 103 adet (%0,65)
+- **Fragment of Rage** — 102 adet (%0,60)
+- **Immune Scroll** — 92 adet (%0,65)
+- **Fragment of Sloth** — 89 adet (%0,50)
+- **Blue Gem** — 84 adet (%0,65)
+- **Gem of Defense** — 81 adet (%0,40)
+- **Armor Enchant Scroll** — 79 adet (%0,45)
+- **Gem of Experience** — 79 adet (%0,40)
+- **Crude Sapphire** — 60 adet (%0,40)
+- **Crystal** — 60 adet (%0,35)
+- **Weapon Enchant Scroll** — 60 adet (%0,40)
+- **Bezoar** — 46 adet (%0,20)
+- **Opal** — 37 adet (%0,20)
+- **Automatic Mining Gift Box** — 6 adet (%0,05)
+
+💡 **Sadece Auto Mining'de çıkan:** Automatic Mining Gift Box (6) — Golden ve Normal Mattock listesinde yok.
+
+---
+
+## 🥇 03 · GOLDEN MATTOCK — 24 SAAT
 
 ![]({{M01}})
 
@@ -53,7 +84,7 @@ Aynı süre — **24 saat** madencilik: **Golden Mattock 1.601 item**, **Normal 
 
 ---
 
-## 🥈 03 · NORMAL MATTOCK — 24 SAAT
+## 🥈 04 · NORMAL MATTOCK — 24 SAAT
 
 ![]({{M02}})
 
@@ -78,17 +109,17 @@ Aynı süre — **24 saat** madencilik: **Golden Mattock 1.601 item**, **Normal 
 
 ---
 
-## 📊 04 · ITEM ITEM KARŞILAŞTIRMA
+## 📊 05 · ITEM ITEM KARŞILAŞTIRMA
 
 ![]({{M03}})
 
-En çok çıkan item iki kazmada farklı: Golden'da **Bezoar (166)**, Normal'de **Fragment of Arrogance (49)**.
+En çok çıkan item üç yöntemde farklı: Auto Mining'de **Stone of life (181)**, Golden'da **Bezoar (166)**, Normal'de **Fragment of Arrogance (49)**.
 
-💡 **Sadece Golden Mattock'ta çıkanlar:** Blue Gem (113) · Fragment of Sloth (79) — Normal Mattock'un listesinde yok.
+💡 **Normal Mattock'ta çıkmayanlar:** Blue Gem · Fragment of Sloth (Golden + Auto Mining) · Automatic Mining Gift Box (sadece Auto Mining).
 
 ---
 
-## 📘 05 · RESMÎ ÇIKMA ORANLARI
+## 📘 06 · RESMÎ ÇIKMA ORANLARI
 
 ![]({{M04}})
 
@@ -100,15 +131,16 @@ En çok çıkan item iki kazmada farklı: Golden'da **Bezoar (166)**, Normal'de 
 
 ---
 
-## 💡 06 · BİLMEN GEREKENLER
+## 💡 07 · BİLMEN GEREKENLER
 
 - Golden Mattock'ta EXP oranı düşük (%5,00, Normal'de %50,00) — Golden **item odaklı**, Normal daha çok EXP verir
+- Platinum Auto Mining listesinde **EXP yok** — 21 itemin hepsi item; Automatic Mining Gift Box (%0,05) sadece burada
 - Bir itemin nereden çıktığını bilmiyorsan: item üstünde **Ctrl + D**
 - Bütün oranlar: oyunda **Rehber → Madencilik & Balıkçılık** ya da sexyko.com/guide/mining-fishing
 
 ---
 
-## 🔗 07 · BAĞLANTILAR
+## 🔗 08 · BAĞLANTILAR
 
 - 📘 Madencilik & Balıkçılık: [sexyko.com/guide/mining-fishing](https://sexyko.com/guide/mining-fishing)
 - 💬 Forum: [forum.sexyko.com](https://forum.sexyko.com) · Discord: [discord.gg/sexyko](https://discord.gg/sexyko)

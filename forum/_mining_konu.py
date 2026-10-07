@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 # 24 SAATLIK MADENCILIK SONUCLARI FORUM KONUSU (patron 7 Eki: Semih "24 saatlik drop sonuclarinin konusu acilacak" -> "go, admin sayfasindan
 # oranlarina vs bakabilirsin, amacin forumda bilgi vermek, kurguyu sen yap" · "forum.html'e atacaksin, ben copy ederim").
-# Veri: _mining_veri.py · resimler: _mining_gorsel.py (M00-M04) + R01 logo · cevirici: _konu_blok.py
+# Veri: _mining_veri.py · resimler: _mining_gorsel.py (M00-M05) + R01 logo · cevirici: _konu_blok.py
+# 7 Eki 14:59 PATRON: "automining eklemeyi unutmusuz, onu da ilave edelim, ayni sistemde ayni ozenle" -> Platinum Auto Mining bolumu (M05) + M00/M03 uc yontem.
 # CIKTI: mining/ (konu.json, MINING_KONU_bbcode.txt / _markdown.md / _duz.txt) -> _konu_kit.py "24 Saat Madencilik" sekmesi.
 import sys; sys.stdout.reconfigure(encoding="utf-8")
 import os, json, base64
@@ -11,29 +12,36 @@ import _mining_veri as V
 
 Y = KB.Y
 OUT = V.MD; RD = os.path.join(OUT, "resim")
-BASLIK = "⛏️ SEXYKO 24 SAATLİK MADENCİLİK SONUÇLARI | Golden Mattock vs Normal Mattock · Oranlar"
+BASLIK = "⛏️ SEXYKO 24 SAATLİK MADENCİLİK SONUÇLARI | Auto Mining · Golden · Normal Mattock · Oranlar"
 KAT = f"{V.KAT:.2f}".replace(".", ",")
+KAT_P = f"{V.KAT_P:.2f}".replace(".", ",")
 tr = lambda n: f"{n:,}".replace(",", ".")
 yz = lambda o: f"%{o:.2f}".replace(".", ",")
 
 RES = {"R01": Y.RESIM["R01"]}
 for rid, dosya, acik in [("M00", "M00_ozet.jpg", "24 saat — bir bakışta"), ("M01", "M01_golden.jpg", "Golden Mattock — 24 saat envanter"),
                          ("M02", "M02_normal.jpg", "Normal Mattock — 24 saat envanter"), ("M03", "M03_karsilastirma.jpg", "Item item karşılaştırma"),
-                         ("M04", "M04_oranlar.jpg", "Resmî çıkma oranları (Normal / Golden / Platinum)")]:
+                         ("M04", "M04_oranlar.jpg", "Resmî çıkma oranları (Normal / Golden / Platinum)"), ("M05", "M05_auto.jpg", "Platinum Auto Mining — 24 saat envanter")]:
     RES[rid] = (dosya, acik, "")
 
 B = []
 def ekle(*b): B.append(b)
 
 ekle("banner", "R01")
-ekle("baslik", "24 SAATLİK MADENCİLİK SONUÇLARI", "Golden Mattock ile Normal Mattock — 24 saatte gerçekten ne çıktı?")
+ekle("baslik", "24 SAATLİK MADENCİLİK SONUÇLARI", "Auto Mining, Golden Mattock ve Normal Mattock — 24 saatte gerçekten ne çıktı?")
 ekle("icindekiler")
 ekle("ayrac")
 
 ekle("h", "⛏️", "BİR BAKIŞTA")
 ekle("img", "M00", "")
-ekle("p", f"Aynı süre — **24 saat** madencilik: **Golden Mattock {tr(V.TOPLAM_G)} item**, **Normal Mattock {tr(V.TOPLAM_N)} item** çıkardı. "
-          f"Golden, Normal'in yaklaşık **{KAT} katı** item verdi.")
+ekle("p", f"Aynı süre — **24 saat** madencilik: **Platinum Auto Mining {tr(V.TOPLAM_P)} item**, **Golden Mattock {tr(V.TOPLAM_G)} item**, **Normal Mattock {tr(V.TOPLAM_N)} item** çıkardı. "
+          f"Normal'e göre Auto Mining yaklaşık **{KAT_P} katı**, Golden **{KAT} katı** item verdi.")
+ekle("ayrac")
+
+ekle("h", "🤖", "PLATINUM AUTO MINING — 24 SAAT")
+ekle("img", "M05", "")
+ekle("liste", [f"**{x['ad']}** — {x['adet']} adet ({yz(x['oran'])})" for x in V.P24])
+ekle("not", f"**Sadece Auto Mining'de çıkan:** " + " · ".join(f"{x['ad']} ({x['adet']})" for x in V.SADECE_P) + " — Golden ve Normal Mattock listesinde yok.")
 ekle("ayrac")
 
 ekle("h", "🥇", "GOLDEN MATTOCK — 24 SAAT")
@@ -50,8 +58,9 @@ ekle("h", "📊", "ITEM ITEM KARŞILAŞTIRMA")
 ekle("img", "M03", "")
 _n = {x["id"]: x for x in V.N24}
 _b = V.G24[0]
-ekle("p", f"En çok çıkan item iki kazmada farklı: Golden'da **{_b['ad']} ({_b['adet']})**, Normal'de **{V.N24[0]['ad']} ({V.N24[0]['adet']})**.")
-ekle("not", f"**Sadece Golden Mattock'ta çıkanlar:** " + " · ".join(f"{x['ad']} ({x['adet']})" for x in V.SADECE_G) + " — Normal Mattock'un listesinde yok.")
+ekle("p", f"En çok çıkan item üç yöntemde farklı: Auto Mining'de **{V.P24[0]['ad']} ({V.P24[0]['adet']})**, Golden'da **{_b['ad']} ({_b['adet']})**, Normal'de **{V.N24[0]['ad']} ({V.N24[0]['adet']})**.")
+ekle("not", f"**Normal Mattock'ta çıkmayanlar:** " + " · ".join(f"{x['ad']}" for x in V.SADECE_G) + " (Golden + Auto Mining) · "
+            + " · ".join(f"{x['ad']}" for x in V.SADECE_P) + " (sadece Auto Mining).")
 ekle("ayrac")
 
 ekle("h", "📘", "RESMÎ ÇIKMA ORANLARI")
@@ -65,6 +74,7 @@ ekle("ayrac")
 
 ekle("h", "💡", "BİLMEN GEREKENLER")
 ekle("liste", [f"Golden Mattock'ta EXP oranı düşük ({yz(_exp_g)}, Normal'de {yz(_exp_n)}) — Golden **item odaklı**, Normal daha çok EXP verir",
+               f"Platinum Auto Mining listesinde **EXP yok** — {len(V.PLATIN)} itemin hepsi item; Automatic Mining Gift Box ({yz(V.SADECE_P[0]['oran'])}) sadece burada",
                "Bir itemin nereden çıktığını bilmiyorsan: item üstünde **Ctrl + D**",
                "Bütün oranlar: oyunda **Rehber → Madencilik & Balıkçılık** ya da sexyko.com/guide/mining-fishing"])
 ekle("ayrac")
@@ -82,16 +92,18 @@ KONTROL = [
     f"**Oranlar:** oyun içi rehber canlı ({V.CEKIM}) = admin dökümü (24 Eyl) — 38 oranın hepsi birebir (`_mining_veri.py` assert). Bölge: admin ZoneID 21 – Moradon Camp 1.",
     f"Kat hesabı: {tr(V.TOPLAM_G)} / {tr(V.TOPLAM_N)} = {KAT}. Golden 20 / Normal 18 çeşit = havuzların EXP hariç tamamı.",
     "Admin'de 'IsPremiumFarmItemDurabilityDrop' (Golden Mattock dayanıklılığı) ayarı var ama döküm 24 Eyl — güncelliği bilinmediği için konuya ALINMADI.",
-    "**5 resim (M00–M04)** — hazır linkli (itemiconrepo `forum/mining/resim/`, içerik özetli). R01 logo ortak.",
+    "**Auto Mining (7 Eki 14:59, patron):** envanter görüntüsü `_HASSAS/mining_auto_envanter_2026-10-07.png` (git dışı) — 21 yuva = Platinum Auto Mining havuzunun tamamı; aynı yöntemle eşlendi (ikon + bire bir atama) ve gözle doğrulandı; adetler görüntüden (toplam 1.970).",
+    "⚠ **Auto Mining süresi görüntüde yazmıyor** — 'aynı sistemde' denildiği için **24 saat** yazıldı (`_mining_veri.SURE_P`); farklıysa tek yerden değişir.",
+    "**6 resim (M00–M05)** — hazır linkli (itemiconrepo `forum/mining/resim/`, içerik özetli). R01 logo ortak.",
 ]
 
 L, NO = KB.basliklar(B)
 BB, HT, MD, DZ = KB.bb(B), KB.onizleme(B), KB.md(B), KB.duz(B, RES)
 KB.denetle(BB, RES)
-for x in V.G24 + V.N24: assert f"{x['ad']}" in BB, x["ad"]
-assert tr(V.TOPLAM_G) in BB and tr(V.TOPLAM_N) in BB and KAT in BB and len(BASLIK) <= 100, len(BASLIK)
+for x in V.G24 + V.N24 + V.P24: assert f"{x['ad']}" in BB, x["ad"]
+assert tr(V.TOPLAM_G) in BB and tr(V.TOPLAM_N) in BB and tr(V.TOPLAM_P) in BB and KAT in BB and KAT_P in BB and len(BASLIK) <= 100, len(BASLIK)
 res = []
-for rid in ["R01", "M00", "M01", "M02", "M03", "M04"]:
+for rid in ["R01", "M00", "M05", "M01", "M02", "M03", "M04"]:
     dosya, acik, url = RES[rid]
     d = {"id": rid, "aciklama": acik, "varsayilan_url": url, "dosya": None, "data": None, "kb": None, "boyut": None, "kaynak": "oyun/rehber"}
     if dosya:
@@ -102,7 +114,7 @@ for rid in ["R01", "M00", "M01", "M02", "M03", "M04"]:
     res.append(d)
 import _repo_resim; _repo_resim.uygula(res)
 VERI = {"baslik": BASLIK, "bbcode": BB, "html": HT, "markdown": MD, "duz": DZ, "resimler": res, "kontrol": KONTROL,
-        "bolum": [f"{NO[x]} · {x[0]} {x[1]}" for x in L], "kaynak": "mining/sonuc_24saat.json (Semih 24 saat) + rehber mining-fishing (canlı) + admin"}
+        "bolum": [f"{NO[x]} · {x[0]} {x[1]}" for x in L], "kaynak": "mining/sonuc_24saat.json (Semih 24 saat + patron Auto Mining) + rehber mining-fishing (canlı) + admin"}
 json.dump(VERI, open(os.path.join(OUT, "konu.json"), "w", encoding="utf-8"), ensure_ascii=False)
 open(os.path.join(OUT, "MINING_KONU_bbcode.txt"), "w", encoding="utf-8").write(BASLIK + "\n\n" + BB + "\n")
 open(os.path.join(OUT, "MINING_KONU_markdown.md"), "w", encoding="utf-8").write("# " + BASLIK + "\n\n" + MD + "\n")

@@ -233,6 +233,135 @@
     "ad": "Stone of life",
     "adet": 20
    }
+  ],
+  "Platinum Auto Mining": [
+   {
+    "yuva": 1,
+    "id": 810546000,
+    "ad": "Automatic Mining Gift Box",
+    "adet": 6
+   },
+   {
+    "yuva": 2,
+    "id": 810242000,
+    "ad": "Gem of Defense",
+    "adet": 81
+   },
+   {
+    "yuva": 3,
+    "id": 810241000,
+    "ad": "Gem of Experience",
+    "adet": 79
+   },
+   {
+    "yuva": 4,
+    "id": 389205000,
+    "ad": "Black Gem",
+    "adet": 169
+   },
+   {
+    "yuva": 5,
+    "id": 389201000,
+    "ad": "Green Gem",
+    "adet": 127
+   },
+   {
+    "yuva": 6,
+    "id": 389199000,
+    "ad": "Blue Gem",
+    "adet": 84
+   },
+   {
+    "yuva": 7,
+    "id": 389163000,
+    "ad": "Fragment of Sloth",
+    "adet": 89
+   },
+   {
+    "yuva": 8,
+    "id": 389162000,
+    "ad": "Fragment of Rage",
+    "adet": 102
+   },
+   {
+    "yuva": 9,
+    "id": 389161000,
+    "ad": "Fragment of Gluttony",
+    "adet": 114
+   },
+   {
+    "yuva": 10,
+    "id": 389160000,
+    "ad": "Fragment of Arrogance",
+    "adet": 116
+   },
+   {
+    "yuva": 11,
+    "id": 389156000,
+    "ad": "Armor Enchant Scroll",
+    "adet": 79
+   },
+   {
+    "yuva": 12,
+    "id": 389155000,
+    "ad": "Weapon Enchant Scroll",
+    "adet": 60
+   },
+   {
+    "yuva": 13,
+    "id": 389076000,
+    "ad": "Opal",
+    "adet": 37
+   },
+   {
+    "yuva": 14,
+    "id": 389075000,
+    "ad": "Crystal",
+    "adet": 60
+   },
+   {
+    "yuva": 15,
+    "id": 389074000,
+    "ad": "Crude Sapphire",
+    "adet": 60
+   },
+   {
+    "yuva": 16,
+    "id": 389034000,
+    "ad": "Bezoar",
+    "adet": 46
+   },
+   {
+    "yuva": 17,
+    "id": 379154000,
+    "ad": "Red Treasure Chest",
+    "adet": 169
+   },
+   {
+    "yuva": 18,
+    "id": 379020000,
+    "ad": "Elemental Scroll",
+    "adet": 116
+   },
+   {
+    "yuva": 19,
+    "id": 379018000,
+    "ad": "Immune Scroll",
+    "adet": 92
+   },
+   {
+    "yuva": 20,
+    "id": 379016000,
+    "ad": "Upgrade Scroll",
+    "adet": 103
+   },
+   {
+    "yuva": 21,
+    "id": 379006000,
+    "ad": "Stone of life",
+    "adet": 181
+   }
   ]
- }
+ },
+ "kaynak_platinum": "Patron ekran goruntusu 7 Eki 14:59 (Auto Mining envanteri, 'automining eklemeyi unutmusuz') — _HASSAS/mining_auto_envanter_2026-10-07.png (git disi); 21 yuva = Platinum Auto Mining havuzunun tamami, ikon eslemesi ayni yontem (piksel + bire bir atama) + gozle dogrulandi; adetler goruntuden"
 }

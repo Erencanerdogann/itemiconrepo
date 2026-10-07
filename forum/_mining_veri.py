@@ -3,6 +3,7 @@
 # "go, admin sayfasindan oranlarina vs bakabilirsin, amacin forumda bilgi vermek, kurguyu sen yap" · "forum.html'e atacaksin, ben copy ederim").
 # KAYNAK: oranlar = rehber/web/sayfa/mining-fishing/tum.html (sexyko.com/guide/mining-fishing CANLI, 7 Eki 06:18) — admin dokumu (24 Eyl) ile assert.
 #         sonuc = mining/sonuc_24saat.json (Semih'in envanter goruntusu: ikon eslemesi + adet; goruntu _HASSAS/ git disi).
+#         Platinum Auto Mining (patron 7 Eki 14:59 "automining eklemeyi unutmusuz, ayni sistemde ayni ozenle"): _HASSAS/mining_auto_envanter_2026-10-07.png (git disi)
 import os, re, html, json
 
 KOK = os.path.dirname(os.path.abspath(__file__))
@@ -38,6 +39,11 @@ N24 = _birles(NORMAL, SONUC["Normal Mattock"])
 TOPLAM_G, TOPLAM_N = sum(x["adet"] for x in G24), sum(x["adet"] for x in N24)
 KAT = TOPLAM_G / TOPLAM_N
 SADECE_G = [x for x in G24 if x["id"] not in {y["id"] for y in N24}]
+P24 = _birles(PLATIN, SONUC["Platinum Auto Mining"])     # Auto Mining (Platinum) — havuzun tamami (21)
+TOPLAM_P = sum(x["adet"] for x in P24)
+KAT_P = TOPLAM_P / TOPLAM_N                                # Normal'e gore kat
+SADECE_P = [x for x in P24 if x["id"] not in {y["id"] for y in G24}]
+SURE_P = "24 saat"                                         # VARSAYIM: goruntude sure yazmiyor; patron 'ayni sistemde' dedi -> teyit bekliyor
 ZONE = "Moradon Camp 1"
 
 # ---------- dogrulama
@@ -46,6 +52,8 @@ assert len(G24) == 20 and len(N24) == 18                                        
 assert {x["id"] for x in G24} == {x["id"] for x in GOLDEN if x["ad"] != "EXP"} and {x["id"] for x in N24} == {x["id"] for x in NORMAL if x["ad"] != "EXP"}
 assert sorted(x["ad"] for x in SADECE_G) == ["Blue Gem", "Fragment of Sloth"]
 assert TOPLAM_G == 1601 and TOPLAM_N == 508
+assert len(P24) == 21 and {x["id"] for x in P24} == {x["id"] for x in PLATIN} and TOPLAM_P == 1970        # Auto Mining: havuzun tamami goruntude
+assert [x["ad"] for x in SADECE_P] == ["Automatic Mining Gift Box"] and SADECE_P[0]["adet"] == 6
 for x in NORMAL + GOLDEN + PLATIN: assert os.path.exists(ikon_yolu(x["ikon"])), x
 _a = json.load(open(ADMIN, encoding="utf-8"))["veri"]["ham:item-mining-lists"]   # admin 24 Eyl: sRate 1/100 % (15 = %0,15)
 _adm = {r["r"]["Num"]: r["r"] for r in _a if r["r"].get("Status")}
