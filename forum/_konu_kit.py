@@ -284,6 +284,24 @@ _sz = os.path.join(KOK, "sezon", "konu.json")
 VERI["sezon"] = json.load(open(_sz, encoding="utf-8")) if os.path.exists(_sz) else None
 json.dump(VERI, open(os.path.join(KOK, "konu.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
+# --- 7 Eki: FLARUM (forum.sexyko.com) BBCode dosyalari — [SIZE=n] orada n PIKSEL (s9e {RANGE=8,36}); 1-7 olcegi 8 px'e dusuyordu (d/54, d/56).
+# Dogrudan yapistirilir: resim linkleri yerlesik, boyut px (sayfadaki "Forum turu: Flarum" ile birebir). Koyu zemin renkleri.
+SIZE_PX = {1: 9, 2: 10, 3: 12, 4: 15, 5: 18, 6: 22, 7: 26}
+def flarum(bb, resimler=None):
+    if resimler is not None:
+        u = {r["id"]: r.get("varsayilan_url") for r in resimler}
+        bb = re.sub(r"\{\{([A-Z][A-Za-z0-9_]*)\}\}", lambda m: u[m.group(1)] or m.group(0), bb)
+    bb = re.sub(r"\[SIZE=([1-7])\]", lambda m: f"[SIZE={SIZE_PX[int(m.group(1))]}]", bb)
+    assert "{{" not in bb and not re.search(r"\[SIZE=[1-7]\]", bb)
+    return bb
+FLARUM = {"SEXYKO_TANITIM_bbcode_flarum.txt": (BASLIK, flarum(BB))}
+for k, yol in [("yeni", "yeni_konu/YENI_KONU_bbcode_flarum.txt"), ("kisa", "yeni_konu/kisa/KISA_KONU_bbcode_flarum.txt"), ("skill", "skill_master/SKILL_KONU_bbcode_flarum.txt"),
+               ("odul", "odul/ODUL_KONU_bbcode_flarum.txt"), ("sezon", "sezon/SEZON_KONU_bbcode_flarum.txt")]:
+    if VERI.get(k): FLARUM[yol] = (VERI[k]["baslik"], flarum(VERI[k]["bbcode"], VERI[k]["resimler"]))
+for yol, (bas_, bb_) in FLARUM.items():
+    open(os.path.join(KOK, *yol.split("/")), "w", encoding="utf-8").write(bas_ + "\n\n" + bb_ + "\n")
+print("flarum bbcode:", len(FLARUM), "dosya ·", ", ".join(f"{y.split('/')[-1]} {len(b)}" for y, (_, b) in FLARUM.items()))
+
 # --- sayfa
 sab = open(os.path.join(KOK, "_konu_sablon.html"), encoding="utf-8").read()
 gom = json.dumps(VERI, ensure_ascii=False).replace("</", "<\\/")
