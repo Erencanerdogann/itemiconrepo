@@ -100,7 +100,24 @@ def z04():
     return SG.kart(f'<div class="iki">{tv}{gb}</div>' + nt, "🏆 TURNUVA & 💰 GB ALIMI", "Her sezonun turnuvası ve GB alımı", ET, css)
 
 
-KARTLAR = [("Z00_ozet.jpg", z00), ("Z01_takvim.jpg", z01), ("Z02_akis.jpg", z02), ("Z03_oran.jpg", z03), ("Z04_turnuva_gb.jpg", z04)]
+def z05():
+    """7 Eki PATRON (32 satirlik metin listesi icin): 'bu alani da daha anlasilir yap, grafik ile olabilir' -> 8 sezon karti (2 x 4)."""
+    css = ORTAK + f""".g{{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}}
+.k{{background:#1d1712;border:1px solid #3a2e20;border-top:5px solid var(--r);border-radius:10px;padding:12px 12px 10px;text-align:center}}
+.k .sn{{font-size:15px;font-weight:900;letter-spacing:2px;color:{G}}} .k .no{{font-size:38px;font-weight:900;color:var(--r);line-height:1.05}}
+.k .or{{display:inline-block;margin:6px 0 10px;padding:3px 12px;border-radius:14px;background:var(--r);color:#14100c;font-size:20px;font-weight:900}}
+.k .s{{text-align:left;font-size:14px;color:{G};margin:5px 0 0;line-height:1.3}} .k .s b{{display:block;color:#e8dcc8;font-size:16px;font-weight:800}}
+.ok{{text-align:center;color:{G};font-size:14px;margin-top:10px}} .ok b{{color:{A2}}}"""
+    renk = ["#8fd16a", "#6fd1a0", "#4fd1ff", "#5fa8ff", "#a98bff", "#d07cff", "#ff8ac6", "#ffa94d"]
+    k = "".join(f'<div class="k" style="--r:{renk[i]}"><div class="sn">SEZON</div><div class="no">{z["no"]:02d}</div><div class="or">%{z["oran"]}</div>'
+                f'<div class="s">🟢 Açılış<b>{V.kisa(z["acilis"])}</b>Cuma · 22:00</div>'
+                f'<div class="s">🏆 Turnuva kaydı<b>{V.kisa(z["turnuva"])}</b>Pazartesi · 12:00</div>'
+                f'<div class="s">🔄 Birleşim<b>{V.kisa(z["birlesim"])}</b>Pazartesi · 22:00</div></div>' for i, z in enumerate(V.SEZON))
+    alt = '<div class="ok">Oran = <b>EXP · DROP · COIN</b> (üçü birlikte) · saatler <b>TSİ</b></div>'
+    return SG.kart(f'<div class="g">{k}</div>' + alt, "🗓️ SEZON SEZON — TARİHLER", "Her kart bir sezon: açılış → turnuva kaydı → ana sunucuyla birleşim", ET, css)
+
+
+KARTLAR = [("Z00_ozet.jpg", z00), ("Z01_takvim.jpg", z01), ("Z02_akis.jpg", z02), ("Z03_oran.jpg", z03), ("Z04_turnuva_gb.jpg", z04), ("Z05_sezon_kartlari.jpg", z05)]
 
 if __name__ == "__main__":
     with sync_playwright() as p:

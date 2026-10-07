@@ -16,7 +16,7 @@ BASLIK = "⚔️ SEXYKO SEZON SİSTEMİ (ACADEMY) | 8 Sezon Takvimi · EXP/DROP/
 RES = {"R01": Y.RESIM["R01"], "GTAKVIM": Y.RESIM["GTAKVIM"]}
 for rid, dosya, acik in [("Z00", "Z00_ozet.jpg", "Sezon Sistemi — bir bakışta"), ("Z01", "Z01_takvim.jpg", "2026 – 2027 sezon takvimi (8 sezon)"),
                          ("Z02", "Z02_akis.jpg", "Bir sezonun akışı"), ("Z03", "Z03_oran.jpg", "Kademeli oranlar %100 → %800"),
-                         ("Z04", "Z04_turnuva_gb.jpg", "Turnuva + GB alımı")]:
+                         ("Z04", "Z04_turnuva_gb.jpg", "Turnuva + GB alımı"), ("Z05", "Z05_sezon_kartlari.jpg", "Sezon sezon tarihler (8 kart)")]:
     RES[rid] = (dosya, acik, "")
 
 B = []
@@ -34,9 +34,10 @@ ekle("ayrac")
 
 ekle("h", "📅", "2026 – 2027 SEZON TAKVİMİ")
 ekle("img", "Z01", "")
-for z in V.SEZON:                                                  # 7 Eki PATRON "burasi cok kotu olmus": tek uzun satir yerine sezon basina 4 kisa satir (d/57 duzeni)
-    ekle("satirlar", [f"🟢 **SEZON {z['no']:02d}** — EXP / DROP / COIN **%{z['oran']}**", f"📅 Açılış: **{V.kisa(z['acilis'])} Cuma 22:00**",
-                      f"🏆 Turnuva kaydı: {V.kisa(z['turnuva'])} Pazartesi 12:00", f"🔄 Birleşim: **{V.kisa(z['birlesim'])} Pazartesi 22:00**"])
+# 7 Eki PATRON: "burasi cok kotu olmus" -> 4 kisa satir -> "bu alani da daha anlasilir yap, grafik ile olabilir" -> sezon kartlari grafigi (Z05)
+# + metin olarak sezon basina TEK kisa satir (acilis -> birlesim; turnuva tarihi grafikte)
+ekle("img", "Z05", "")
+ekle("liste", [f"**SEZON {z['no']:02d}** · **%{z['oran']}** · {V.kisa(z['acilis'])} → {V.kisa(z['birlesim'])}" for z in V.SEZON])
 ekle("not", f"Official **{V.OFFICIAL}** · sezon açılışları **28 günde bir Cuma 22:00** · bitiş / birleşim **sonraki haftanın Pazartesi 22:00** · saatler TSİ")
 ekle("ayrac")
 
@@ -82,18 +83,18 @@ KONTROL = [
     "**Forum d/57'ye düzeltme:** konunun en sonunda yapay zekâ notu kalmış ('Bu yapıda özellikle “SEZON 01 / tarih / oranlar …” düzeni var. Oyuncu sayfayı aşağı kaydırırken …') → silinmeli. Sezon 09 – 10 da forumda duruyor.",
     "Forum 'turnuva kayıtları her sezonun 3. günü' diyor; konuda gün numarası yerine 'ilk Pazartesi 12:00' (iki kaynakta da aynı) yazıldı.",
     "Academy kutuları (A1 – A10, `HTML/ACADEMY_KUTULARI.html`) bu konuda YOK — duyurulmuş bir bilgi değil.",
-    "**5 resim (Z00–Z04)** — hazır linkli (itemiconrepo `forum/sezon/resim/`, jsDelivr). R01 logo + takvim GIF ortak.",
+    "**6 resim (Z00–Z05)** — hazır linkli (itemiconrepo `forum/sezon/resim/`, jsDelivr). R01 logo + takvim GIF ortak.",
 ]
 
 L, NO = KB.basliklar(B)
 BB, HT, MD, DZ = KB.bb(B), KB.onizleme(B), KB.md(B), KB.duz(B, RES)
 KB.denetle(BB, RES)
 for z in V.SEZON:
-    for d in (z["acilis"], z["turnuva"], z["birlesim"]): assert V.kisa(d) in BB, V.kisa(d)
+    for d in (z["acilis"], z["birlesim"]): assert V.kisa(d) in BB, V.kisa(d)          # turnuva tarihi grafikte (Z01 + Z05)
 assert "SEZON 09" not in BB and "%800" in BB and "BursaGB.com" in BB
 assert len(BASLIK) <= 100, len(BASLIK)
 res = []
-for rid in ["R01", "Z00", "Z01", "Z02", "Z03", "Z04", "GTAKVIM"]:
+for rid in ["R01", "Z00", "Z01", "Z05", "Z02", "Z03", "Z04", "GTAKVIM"]:
     dosya, acik, url = RES[rid]
     d = {"id": rid, "aciklama": acik, "varsayilan_url": url, "dosya": None, "data": None, "kb": None, "boyut": None, "kaynak": "oyun/rehber"}
     if dosya:
