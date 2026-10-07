@@ -76,7 +76,7 @@ body.zemin-beyaz .onz a{color:#1a5fb4}
   <div class="zemin" id="ftur"><b>Forum türü:</b>
     <button type="button" data-ftur="xf">XenForo / vBulletin / MyBB</button>
     <button type="button" data-ftur="flarum">Flarum — forum.sexyko.com</button>
-    <span class="alt">Flarum'da BBCode yazı boyutu <b>piksel</b> — yanlış seçilirse yazılar minicik (8 px) çıkar. Seçim bütün sekmelerin BBCode'una uygulanır.</span>
+    <span class="alt">Varsayılan <b>Flarum</b> (forum.sexyko.com). Flarum'da BBCode yazı boyutu <b>piksel</b> — XenForo / vBulletin forumuna yapıştıracaksan önce onu seç (yoksa yazılar dev gelir). Seçim bütün sekmelerin BBCode'una uygulanır.</span>
   </div>
   <div class="ksec" id="ksec">
     <button type="button" class="on" data-konu="k_yeni">📝 Yeni konu: Oyun Rehberi</button>
@@ -336,7 +336,7 @@ var ZEMIN=(function(){try{return localStorage.getItem("forum_zemin_v1")==="beyaz
 // ===== FORUM TURU — XenForo / vBulletin / MyBB: [SIZE=1..7] olcek · Flarum (forum.sexyko.com): [SIZE=n] = n px (8-36)
 // 7 Eki: d/54'e yapistirilan BBCode'da 29 yazinin hepsi font-size:8px cikti ([SIZE=5] -> 5 px -> en az 8) -> Flarum secilince 1-7 olcegi px'e cevrilir
 var SIZE_PX={1:9,2:10,3:12,4:15,5:18,6:22,7:26};
-var FTUR=(function(){try{return localStorage.getItem("forum_tur_v1")==="flarum"?"flarum":"xf";}catch(e){return "xf";}})();
+var FTUR=(function(){try{return localStorage.getItem("forum_tur_v1")==="xf"?"xf":"flarum";}catch(e){return "flarum";}})();   // 7 Eki: varsayilan Flarum (patron forum.sexyko.com'a yapistiriyor)
 function boyut(s){return FTUR==="flarum"?s.replace(/\[SIZE=([1-7])\]/g,function(m,n){return "[SIZE="+SIZE_PX[n]+"]";}):s;}
 function renk(s){s=boyut(s);return ZEMIN==="beyaz"?s.replace(/#[0-9a-fA-F]{6}\b/g,function(h){return RENK_BEYAZ[h.toLowerCase()]||h;}):s;}
 function tanitimCiz(){$("onzic").innerHTML=renk(V.html);$("tbb").value=renk(V.bbcode);}
@@ -412,7 +412,7 @@ var ybb=KONU.k_yeni.bb,ybol=KONU.k_yeni.bol;   // eski adlar (testler)
 $("ksec").addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;[].forEach.call(this.children,function(x){x.classList.toggle("on",x===b);});[].forEach.call(document.querySelectorAll(".konu"),function(k){k.classList.toggle("on",k.id===b.dataset.konu);});});
 document.addEventListener("click",function(e){var b=e.target.closest("[data-ykop]");if(!b)return;var K=KONU[b.closest(".konu").id];if(!K)return;var k=b.dataset.ykop,p;
   if(k==="gorunum")p=K.htmlKop();else{var m={baslik:K.Y.baslik,bbcode:K.bb(),markdown:K.md(),duz:K.duz()};if(k==="bb")m.bb=K.bol()[+b.dataset.i];p=metinKop(m[k]);}
-  Promise.resolve(p).then(function(){toast("✔ kopyalandı: "+b.textContent);}).catch(function(){toast("kopyalanamadı — metin kutusundan Ctrl+A, Ctrl+C");});});
+  Promise.resolve(p).then(function(){toast("✔ kopyalandı: "+b.textContent+((k==="bbcode"||k==="bb")?" · "+(FTUR==="flarum"?"Flarum":"XenForo / vBulletin"):""));}).catch(function(){toast("kopyalanamadı — metin kutusundan Ctrl+A, Ctrl+C");});});
 document.addEventListener("click",function(e){var b=e.target.closest("[data-kop]");if(!b)return;var k=b.dataset.kop,p;
   if(k==="gorunum")p=gorunumKop();else p=metinKop(k==="baslik"?V.baslik:k==="bbcode"?renk(V.bbcode):V[k]);
   Promise.resolve(p).then(function(){toast("✔ kopyalandı: "+b.textContent.replace(" kopyala","").replace("Görünümü kopyala (editöre yapıştır)","Görünüm"));}).catch(function(){toast("kopyalanamadı — metin kutusundan Ctrl+A, Ctrl+C");});});

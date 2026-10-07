@@ -46,7 +46,7 @@
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Kurian[/COLOR][/B] ve [B][COLOR=#e6c46a]Porutu[/COLOR][/B] — Attack · Defence · Devil · Master[/SIZE]
 
 [CENTER][IMG]{{R07}}[/IMG]
-[SIZE=4][COLOR=#a89f91]▲ Örnek Rogue: Assassinate 80 + Search 48 + Master 20 = 148 puan[/COLOR][/SIZE][/CENTER]
+[SIZE=5][COLOR=#a89f91]▲ Örnek Rogue: Assassinate 80 + Search 48 + Master 20 = 148 puan[/COLOR][/SIZE][/CENTER]
 
 [SIZE=5][COLOR=#3ecf8e]💡 Master sekmesine puan verebilmek için önce [B][COLOR=#e6c46a]Master görevini[/COLOR][/B] bitir.[/COLOR][/SIZE]
 

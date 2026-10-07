@@ -218,6 +218,7 @@ BB_ORIJINAL = temizle_bb(bb(KOKN))
 # patron 4 Eki: orijinal icerik + sadece renk/boyut/cerceve (_tanitim_duzen.py — metin/resim/link ayni, assert)
 import _tanitim_duzen
 BB = _tanitim_duzen.duzenle(BB_ORIJINAL, {r[0]: r[4] for r in RESIM if r[4]})
+BB = re.sub(r"\[SIZE=[1-4]\]", "[SIZE=5]", BB)          # 7 Eki PATRON: "abartili buyuk kucuk farklar olmasin, basliklar haric" -> baslik disi tek boy (5)
 HT = _tanitim_duzen.onizleme(BB)
 MD = temizle_metin(md(KOKN))
 DZ = temizle_metin(duz(KOKN))

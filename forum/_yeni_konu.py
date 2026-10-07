@@ -299,9 +299,10 @@ for i, (e, t) in enumerate(BASLIKLAR, 1):
     NO[(e, t)] = f"{i:02d}"
 
 
-# PATRON 7 Eki: "genel olarak yazi fontlarini biraz buyutelim, ozellikle skill master'da" -> govde SIZE 4 -> 5 (15 -> 18 px),
-# resim alti / kucuk yazi SIZE 3 -> 4 (12 -> 15 px). Tek gecis (cift buyutme yok); basliklar (5-7) ayni. Butun uretilen konular (yeni / kisa / skill / odul).
-FONT_ADIM = {3: 4, 4: 5}
+# PATRON 7 Eki: "genel olarak yazi fontlarini biraz buyutelim, ozellikle skill master'da" -> sonra: "butun forum bbcode'larina duzen getir,
+# abartili buyuk kucuk farklar olmasin, basliklar haric" -> basliklar DISINDAKI her yazi (govde, liste, not, resim alti) TEK BOY: SIZE 5 (18 px).
+# Basliklar (5-7) ayni. Tek gecis. Butun uretilen konular (yeni / kisa / skill / odul / sezon); tanitim _konu_kit.py'de ayni kural.
+FONT_ADIM = {3: 5, 4: 5}
 
 
 def buyut_bb(s):
