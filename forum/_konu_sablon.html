@@ -87,6 +87,7 @@ body.zemin-beyaz .onz a{color:#1a5fb4}
     <button type="button" data-konu="k_mining">⛏️ 24 Saat Madencilik</button>
     <button type="button" data-konu="k_teamspeak">🎙️ Ücretsiz TeamSpeak</button>
     <button type="button" data-konu="k_pus">🎟️ PUS İndirim Kodu</button>
+    <button type="button" data-konu="k_yayinci">🎥 Yayıncı Sistemi</button>
     <button type="button" data-konu="k_tanitim">📣 Tanıtım konusu (Ko-Yardım)</button>
   </div>
   <div id="k_yeni" class="konu on">
@@ -317,6 +318,44 @@ body.zemin-beyaz .onz a{color:#1a5fb4}
     <div class="ypan" id="mkt"><ul id="mkl"></ul></div>
   </div>
   </div>
+  <div id="k_yayinci" class="konu">
+  <div class="kart">
+    <h2>🎥 Yayıncı Sistemi &amp; Sponsor Yayıncı Başvurusu konusu (forum.sexyko.com/d/37)</h2>
+    <ol class="adim">
+      <li>Yayıncılar bölümü · canlı yayıncı takibi · destek · başvuru (kurallar + form + 7 adım) · Sponsor Yayıncı şartları — <b>resimli</b>.</li>
+      <li><b>🖼 Resimler hazır linkli</b> (itemiconrepo <code>forum/yayinci/resim/</code>, jsDelivr) — yükleme yok.</li>
+      <li>forum.sexyko.com (Flarum) → üstte <b>Forum türü: Flarum</b> (varsayılan) → <b>BBCode kopyala</b> → yeni konuya yapıştır.</li>
+    </ol>
+    <div class="alt">Bilgi: <b>forum.sexyko.com/d/37</b> (SexyKO) — her cümle / şart kaynakta birebir → <b>⚠ Kontrol</b>.</div>
+  </div>
+  <div class="kart">
+    <h2>Başlık</h2>
+    <div class="bas"><div class="m" id="vbaslik"></div><button class="ana" data-ykop="baslik">Başlığı kopyala</button></div>
+    <div class="alt" id="vbsay"></div>
+  </div>
+  <div class="kart">
+    <div class="dug">
+      <button class="ana" data-ykop="bbcode">BBCode kopyala</button>
+      <span id="vbolum" style="display:contents"></span>
+      <button data-ykop="gorunum">Görünümü kopyala</button>
+      <button data-ykop="markdown">Markdown kopyala</button>
+      <button data-ykop="duz">Düz metin kopyala</button>
+    </div>
+    <div class="alt" id="vdurum" style="margin-bottom:10px"></div>
+    <div class="sek" id="vsek">
+      <button class="on" data-p="vonz">👁 Önizleme</button>
+      <button data-p="vbb">BBCode</button>
+      <button data-p="vmd">Markdown</button>
+      <button data-p="vrs">🖼 Resimler <span id="vrsay"></span></button>
+      <button data-p="vkt">⚠ Kontrol</button>
+    </div>
+    <div class="ypan on" id="vonz"><div class="onz forum" id="vonzic"></div></div>
+    <div class="ypan" id="vbb"><textarea id="vtbb" readonly></textarea></div>
+    <div class="ypan" id="vmd"><textarea id="vtmd" readonly></textarea></div>
+    <div class="ypan" id="vrs"><div class="rs" id="vrsl"></div></div>
+    <div class="ypan" id="vkt"><ul id="vkl"></ul></div>
+  </div>
+  </div>
   <div id="k_pus" class="konu">
   <div class="kart">
     <h2>🎟️ PUS İndirim Kodu Sistemi konusu (forum.sexyko.com/d/51)</h2>
@@ -513,7 +552,7 @@ function kur(P,Y,LS){
   function yenile(){E("onzic").innerHTML=htm(true);guncel();}
   return {Y:Y,bb:bb,md:md,duz:duz,bol:bol,htmlKop:htmlKop,yenile:yenile};
 }
-var KONU={k_yeni:kur("y",V.yeni,"yeni_konu_url_v1"),k_kisa:kur("z",V.kisa,"kisa_konu_url_v1"),k_skill:kur("s",V.skill,"skill_konu_url_v1"),k_odul:kur("o",V.odul,"odul_konu_url_v1"),k_sezon:kur("a",V.sezon,"sezon_konu_url_v1"),k_mining:kur("m",V.mining,"mining_konu_url_v1"),k_pus:kur("u",V.pus,"pus_konu_url_v1"),k_teamspeak:kur("q",V.teamspeak,"teamspeak_konu_url_v1")};
+var KONU={k_yeni:kur("y",V.yeni,"yeni_konu_url_v1"),k_kisa:kur("z",V.kisa,"kisa_konu_url_v1"),k_skill:kur("s",V.skill,"skill_konu_url_v1"),k_odul:kur("o",V.odul,"odul_konu_url_v1"),k_sezon:kur("a",V.sezon,"sezon_konu_url_v1"),k_mining:kur("m",V.mining,"mining_konu_url_v1"),k_yayinci:kur("v",V.yayinci,"yayinci_konu_url_v1"),k_pus:kur("u",V.pus,"pus_konu_url_v1"),k_teamspeak:kur("q",V.teamspeak,"teamspeak_konu_url_v1")};
 function zeminSec(z){ZEMIN=z;try{localStorage.setItem("forum_zemin_v1",z);}catch(e){}
   document.body.classList.toggle("zemin-beyaz",z==="beyaz");
   [].forEach.call(document.querySelectorAll("#zemin button"),function(b){b.classList.toggle("on",b.dataset.zemin===z);});

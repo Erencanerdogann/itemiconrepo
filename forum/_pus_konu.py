@@ -55,7 +55,8 @@ ekle("h", "⚠️", V.PAKET_BAS)
 ekle("img", "U04", "")
 ekle("liste", [f"**{x}**" for x in V.PAKET])
 ekle("p", V.PAKET_NEDEN[0])
-ekle("not", f"Bu ürünler hali hazırda paket indirimi içerdiği için **{V.PAKET_NEDEN[1].lower()}**")
+_ikinci = ("i" + V.PAKET_NEDEN[1][1:]) if V.PAKET_NEDEN[1].startswith("İ") else V.PAKET_NEDEN[1]   # Python lower() 'İ' -> 'i' + birlesik nokta yapiyordu
+ekle("not", f"Bu ürünler hali hazırda paket indirimi içerdiği için **{_ikinci}**")
 ekle("ayrac")
 
 ekle("h", "🎥", V.SPONSOR_BAS)
@@ -101,7 +102,7 @@ L, NO = KB.basliklar(B)
 BB, HT, MD, DZ = KB.bb(B), KB.onizleme(B), KB.md(B), KB.duz(B, RES)
 KB.denetle(BB, RES)
 for s in [V.NASIL[0], *V.TEKLI, *V.SEPET, *V.PAKET, V.PAKET_NEDEN[0], *V.SPONSOR, *V.TAKIP, *V.OZEL, *V.OZEL_L, V.OZEL_SON]: assert s in BB, s
-assert len(BASLIK) <= 100, len(BASLIK)
+assert len(BASLIK) <= 100 and "̇" not in BB, len(BASLIK)       # Turkce harf donusumu bozulmasin (birlesik nokta)
 res = []
 for rid in ["R01", "U00", "U01", "U02", "U03", "U04", "U05"]:
     dosya, acik, url = RES[rid]

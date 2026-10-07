@@ -70,7 +70,7 @@ PUS üzerinde birden fazla ürünü Basket içerisine eklediğinizde de kupon si
 
 Bunun nedeni bu paketlerin zaten birden fazla ürünün bir araya getirilmesiyle oluşturulması ve normal toplam fiyatlarının altında avantajlı şekilde satışa sunulmasıdır.
 
-💡 Bu ürünler hali hazırda paket indirimi içerdiği için **i̇kinci bir kupon indirimi uygulanmaz.**
+💡 Bu ürünler hali hazırda paket indirimi içerdiği için **ikinci bir kupon indirimi uygulanmaz.**
 
 ---
 

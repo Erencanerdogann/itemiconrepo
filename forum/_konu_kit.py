@@ -291,6 +291,9 @@ VERI["teamspeak"] = json.load(open(_kq, encoding="utf-8")) if os.path.exists(_kq
 # 🎟️ PUS İndirim Kodu KONUSU (8 Eki) — once python _pus_gorsel.py + _pus_konu.py
 _ku = os.path.join(KOK, "pus_kupon", "konu.json")
 VERI["pus"] = json.load(open(_ku, encoding="utf-8")) if os.path.exists(_ku) else None
+# 🎥 Yayıncı Sistemi KONUSU (8 Eki) — once python _yayinci_gorsel.py + _yayinci_konu.py
+_kv = os.path.join(KOK, "yayinci", "konu.json")
+VERI["yayinci"] = json.load(open(_kv, encoding="utf-8")) if os.path.exists(_kv) else None
 json.dump(VERI, open(os.path.join(KOK, "konu.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
 # --- 7 Eki: FLARUM (forum.sexyko.com) BBCode dosyalari — [SIZE=n] orada n PIKSEL (s9e {RANGE=8,36}); 1-7 olcegi 8 px'e dusuyordu (d/54, d/56).
@@ -305,7 +308,7 @@ def flarum(bb, resimler=None):
     return bb
 FLARUM = {"SEXYKO_TANITIM_bbcode_flarum.txt": (BASLIK, flarum(BB))}
 for k, yol in [("yeni", "yeni_konu/YENI_KONU_bbcode_flarum.txt"), ("kisa", "yeni_konu/kisa/KISA_KONU_bbcode_flarum.txt"), ("skill", "skill_master/SKILL_KONU_bbcode_flarum.txt"),
-               ("odul", "odul/ODUL_KONU_bbcode_flarum.txt"), ("sezon", "sezon/SEZON_KONU_bbcode_flarum.txt"), ("mining", "mining/MINING_KONU_bbcode_flarum.txt"), ("pus", "pus_kupon/PUS_KONU_bbcode_flarum.txt"), ("teamspeak", "teamspeak/TS_KONU_bbcode_flarum.txt")]:
+               ("odul", "odul/ODUL_KONU_bbcode_flarum.txt"), ("sezon", "sezon/SEZON_KONU_bbcode_flarum.txt"), ("mining", "mining/MINING_KONU_bbcode_flarum.txt"), ("yayinci", "yayinci/YAYINCI_KONU_bbcode_flarum.txt"), ("pus", "pus_kupon/PUS_KONU_bbcode_flarum.txt"), ("teamspeak", "teamspeak/TS_KONU_bbcode_flarum.txt")]:
     if VERI.get(k): FLARUM[yol] = (VERI[k]["baslik"], flarum(VERI[k]["bbcode"], VERI[k]["resimler"]))
 for yol, (bas_, bb_) in FLARUM.items():
     open(os.path.join(KOK, *yol.split("/")), "w", encoding="utf-8").write(bas_ + "\n\n" + bb_ + "\n")
