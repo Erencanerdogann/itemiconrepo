@@ -28,7 +28,9 @@ def ekle(onek, anahtar, klasor, dosya_on):
     # ---------- sablon
     p = os.path.join(KOK, "_konu_sablon.html"); t = open(p, encoding="utf-8").read()
     if f'id="k_{anahtar}"' not in t:
-        i = t.index('<div id="k_mining" class="konu">'); j = re.compile(r'\n  <div id="k_[a-z]+" class="konu').search(t, i + 10).start() + 1
+        i = t.index('<div id="k_mining" class="konu">')
+        # 8 Eki: blok sonu aramasi girintiye bagliydi -> girintisiz eklenen TeamSpeak blogu PUS'a KOPYALANDI (cift k_teamspeak). Artik girintiden bagimsiz.
+        j = re.compile(r'\n[ \t]*<div id="k_[a-z]+" class="konu').search(t, i + 10).start() + 1
         blok = t[i:j]
         assert not re.search(rf'id="{onek}[a-z]', t), f"onek {onek} kullanimda"
         blok = blok.replace('id="k_mining"', f'id="k_{anahtar}"').replace('id="m', f'id="{onek}').replace('data-p="m', f'data-p="{onek}')
@@ -37,7 +39,9 @@ def ekle(onek, anahtar, klasor, dosya_on):
         blok = blok.replace(li, li[:li.index("<li>")] + f"<li>{s['adim1']}</li>", 1)
         blok = blok.replace("forum/mining/resim/", f"forum/{klasor}/resim/")
         alt = re.search(r'<div class="alt">Bilgi:.*?</div>', blok).group(0); blok = blok.replace(alt, f'<div class="alt">{s["alt"]}</div>', 1)
-        t = t[:j] + blok + t[j:]
+        blok = blok.rstrip(" \t")                                    # sonraki blogun girintisi bloga girmesin
+        t = t[:j] + "  " + blok + t[j:]                               # yeni blok da 2 bosluk girintili
+        assert t.count(f'id="k_{anahtar}"') == 1 and t.count(f'id="{onek}onzic"') == 1, "cift blok"
         b0 = '    <button type="button" data-konu="k_mining">⛏️ 24 Saat Madencilik</button>\n'
         assert t.count(b0) == 1
         # yeni butonlar madencilikten sonra, SIRAYLA (ts -> pus -> yayinci): son eklenen butonun arkasina
