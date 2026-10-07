@@ -1,8 +1,8 @@
 📘 SEXYKO OYUN REHBERİ | Tüm Sistemler, Kısayollar ve Etkinlikler Tek Konuda | HYPER 16.10 BETA 🔥
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/resim/1_geri_sayim.gif[/IMG][/CENTER]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/resim/1_geri_sayim.b3746cf9.gif[/IMG][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/resim/2_logo.png[/IMG][/CENTER]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/resim/2_logo.3a3f29a4.png[/IMG][/CENTER]
 
 [CENTER][SIZE=26][B][COLOR=#c8a253]SEXYKO OYUN REHBERİ[/COLOR][/B][/SIZE]
 [SIZE=18][COLOR=#a89f91]Yeni başlayan da, 16 yıllık emektar da — bilmen gereken her şey tek konuda, oyun içi görüntülerle.[/COLOR][/SIZE][/CENTER]
@@ -39,7 +39,7 @@
 
 [CENTER][SIZE=18]Sol üstteki [B][COLOR=#e6c46a]📖 kitap[/COLOR][/B] simgesine tıkla, rehber oyunun içinde açılır. Upgrade oranları, dönüşüm ve madencilik sayfaları [B][COLOR=#e6c46a]sunucudan canlı[/COLOR][/B] beslenir. Aynı rehber web'de de açık: [URL=https://sexyko.com/guide/book]sexyko.com/guide[/URL][/SIZE][/CENTER]
 
-[CENTER][URL=https://sexyko.com/guide/book][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R02_rehber.jpg[/IMG][/URL]
+[CENTER][URL=https://sexyko.com/guide/book][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R02_rehber.76bb5a36.jpg[/IMG][/URL]
 [SIZE=18][COLOR=#a89f91]▲ Oyun içi Rehber — 14 sekme: Oyun Rehberi, Monster Listesi, Görevler, Upgrade, Drop Arama, Gem & Fragment, Çapraz Takas, Shozin, Narki, PUS Kırdırma, Madencilik, Günlük Görevler, Etkinlik Ödülleri[/COLOR][/SIZE]
 [SIZE=18][URL=https://sexyko.com/guide/book][B][COLOR=#4fa3ff]📘 Rehberde aç: Rehberin tamamı ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
@@ -64,7 +64,7 @@
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]🛒[/COLOR][/B] (sol alt) — Power Up Store · [B][COLOR=#e6c46a]🎡[/COLOR][/B] (sol alt) — Çarkıfelek
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Genie çubuğu[/COLOR][/B] (sağ üst) — ▶ başlat · ■ durdur · ⬇ ayarlar · kalan süre[/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R16_komut_H.jpg[/IMG] [IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R19_envanter.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R16_komut_H.58f5328e.jpg[/IMG] [IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R19_envanter.407d373c.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ H — Komut listesi · I — Envanter[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
@@ -77,19 +77,19 @@
 [COLOR=#c8a253]◆[/COLOR] 3 günlük [B][COLOR=#e6c46a]Kanat[/COLOR][/B] · 3 günlük [B][COLOR=#e6c46a]Magic Bag[/COLOR][/B] · 3 günlük [B][COLOR=#e6c46a]War Tattoo[/COLOR][/B]
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]5.000 HP + 5.000 MP[/COLOR][/B] pot · [B][COLOR=#e6c46a]24 saatlik Genie[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F53_4.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F53_4.8c7894c2.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Warrior başlangıç ekipmanı[/COLOR][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F53_1.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F53_1.a248872a.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Rogue başlangıç ekipmanı[/COLOR][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F53_2.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F53_2.121f2d1e.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Mage başlangıç ekipmanı[/COLOR][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F53_3.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F53_3.d2929cbe.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Priest başlangıç ekipmanı[/COLOR][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F53_5.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F53_5.3dbf0132.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Kurian başlangıç ekipmanı[/COLOR][/SIZE][/CENTER]
 
 [CENTER][SIZE=18][B][COLOR=#e6c46a]📋 Her job'un başlangıç değerleri[/COLOR][/B][/SIZE][/CENTER]
@@ -126,14 +126,14 @@
 [COLOR=#c8a253]◆[/COLOR] Party heal ve self heal eşikleri · [B][COLOR=#e6c46a]Attack range[/COLOR][/B] kaydırıcısı
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Monster List to Attack[/COLOR][/B] — Add Target / Remove / Clear All: Genie sadece listedeki moblara vurur[/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R03_genie_main.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R03_genie_main.007c7e5d.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Knight Genie — Main sekmesi[/COLOR][/SIZE][/CENTER]
 
 [CENTER][SIZE=18][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Combat:[/COLOR][/B] R ile saldır · hedefe git · avlanma merkezine dön
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Maintenance:[/COLOR][/B] çekiçle tamir · premium flash bonusunu koru · pet besle
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Return to town:[/COLOR][/B] party dağılınca · party ölünce · ok bitince[/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R04_genie_misc.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R04_genie_misc.db69fe19.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Knight Genie — Misc sekmesi[/COLOR][/SIZE][/CENTER]
 
 [CENTER][SIZE=18][COLOR=#3ecf8e]💡 Genie açıkken skill bar kilitlenir; durdurunca elle kullanıma dönersin.[/COLOR][/SIZE][/CENTER]
@@ -149,7 +149,7 @@
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Ekran:[/COLOR][/B] pencere modu · çözünürlük · FPS sınırı · [B][COLOR=#e6c46a]arayüz ölçeği 1x / 1.25x / 1.5x / 2x[/COLOR][/B] · HP/MP çubuğu
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Grafik:[/COLOR][/B] gölge, arazi, HDR, Bloom, ACES, MSAA / SMAA, AMD FSR 1[/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R05_f10_1.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R05_f10_1.46a17927.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ F10 — Oyun · Ses · Ekran · Grafik[/COLOR][/SIZE][/CENTER]
 
 [CENTER][SIZE=18][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Gelişmiş Grafik:[/COLOR][/B] kontrast, doygunluk, sıcaklık, ton + hazır renk profilleri
@@ -157,20 +157,20 @@
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Kontroller:[/COLOR][/B] gamepad + hareket tuşları — değişiklik anında kaydedilir
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Loot:[/COLOR][/B] değer (Magic / Rare / Craft / Unique / Upgrade), upgrade, tür ve coin değerine göre filtre[/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R17_f10_2.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R17_f10_2.51e12dbd.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ F10 — Gelişmiş Grafik · Efekt · Kontroller · Loot[/COLOR][/SIZE][/CENTER]
 
 [CENTER][SIZE=18][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Bildirimler:[/COLOR][/B] sistem önerileri · slave pazar satışı · kritik kaynak · repair · death notice
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Font:[/COLOR][/B] chat, sistem, nick, klan, tag ve eşya adet yazı boyutları[/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R18_f10_3.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R18_f10_3.a9fd9cb7.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ F10 — Bildirimler · Font[/COLOR][/SIZE][/CENTER]
 
 [CENTER][SIZE=18][B][COLOR=#e6c46a]🔐 Güvenlik — 2. Şifre (Desen)[/COLOR][/B][/SIZE][/CENTER]
 
 [CENTER][SIZE=18]Desen etkinken her girişte sorulur. [B][COLOR=#e6c46a]F10 → Güvenlik → Deseni Değiştir[/COLOR][/B].[/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R06_f10_guvenlik.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R06_f10_guvenlik.97fe1d78.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ F10 — Güvenlik[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
@@ -179,7 +179,7 @@
 
 [CENTER][SIZE=18][B][COLOR=#e6c46a]K[/COLOR][/B] ile aç. [B][COLOR=#e6c46a]Preset[/COLOR][/B] skill puanı dağılımını, [B][COLOR=#e6c46a]Save Quickslot[/COLOR][/B] skill bar dizilimini kaydeder — [B][COLOR=#e6c46a]4 ayrı Quick Slot[/COLOR][/B], istediğin ismi ver. PK, farm, party ve event düzenleri arasında hızlıca geç.[/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R07_skill.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R07_skill.7cf15901.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Skill penceresi (K)[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
@@ -188,20 +188,20 @@
 
 [CENTER][SIZE=18]Party panelindeki ayarlardan party üyelerinin [B][COLOR=#e6c46a]HP · MP · Buff · Damage[/COLOR][/B] bilgisini ayrı ayrı aç / kapat — party ekranını kendi oyun tarzına göre düzenle.[/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F11_2.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F11_2.5e51adb4.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Party Settings — HP · MP · Buff · Damage[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
 [CENTER][SIZE=22][B][COLOR=#c8a253]🖱️ 08 · SAĞ TIK DEVRİ — NPC'YE GİTMEYE SON[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F10_1.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F10_1.99546830.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Sağ tık kırdırma[/COLOR][/SIZE][/CENTER]
 
 [CENTER][SIZE=18][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]KC · Dragon Wing · Gem · Fragment · Chest:[/COLOR][/B] iteme sağ tıkla, NPC'ye gitmeden kırdır
 [COLOR=#c8a253]◆[/COLOR] Gem / Fragment / Chest kırınca: [B][COLOR=#e6c46a]Direkt Sat[/COLOR][/B] ya da [B][COLOR=#e6c46a]Inventory'ne Al[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F10_5.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F10_5.1a23f99a.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ KC itemine sağ tık → direkt kırdır[/COLOR][/SIZE][/CENTER]
 
 [CENTER][SIZE=18][B][COLOR=#e6c46a]♻️ Chaotic Generator — Tek / Toplu Kırdırma[/COLOR][/B][/SIZE][/CENTER]
@@ -209,7 +209,7 @@
 [CENTER][SIZE=18][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Exchange One[/COLOR][/B] — tek tek · [B][COLOR=#e6c46a]Exchange All[/COLOR][/B] — envanterdeki boş slot kadar toplu
 [COLOR=#c8a253]◆[/COLOR] Gelen ödüllerden istemediğini [B][COLOR=#e6c46a]sağ tıkla karart[/COLOR][/B] → [B][COLOR=#e6c46a]Sell[/COLOR][/B] (sat) · [B][COLOR=#e6c46a]Storage[/COLOR][/B] (bankaya) · [B][COLOR=#e6c46a]Trash[/COLOR][/B] (sil, coin vermez)[/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F43_1.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F43_1.815a2ad3.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Chaotic Generator penceresi[/COLOR][/SIZE][/CENTER]
 
 [CENTER][SIZE=18][B][COLOR=#e6c46a]🏷️ Tag Name — Make Over — Nick — Job Changer[/COLOR][/B][/SIZE][/CENTER]
@@ -219,7 +219,7 @@
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Scroll of Identity:[/COLOR][/B] sağ tık → yeni nick
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Job Changer:[/COLOR][/B] önce üstündeki tüm itemleri çıkar, sonra sağ tık → job seç[/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F30_2.jpg[/IMG] [IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F30_3.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F30_2.cf956fec.jpg[/IMG] [IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F30_3.c69f9afe.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Tag Name ayar penceresi · karakter üstünde[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
@@ -231,13 +231,13 @@
 [COLOR=#c8a253]◆[/COLOR] Takım pelerinleri: [B][COLOR=#e6c46a]Beşiktaş · Galatasaray · Fenerbahçe · Trabzonspor[/COLOR][/B]
 [COLOR=#c8a253]◆[/COLOR] Sonradan değiştir: [B][COLOR=#e6c46a]H → Solo Pelerin[/COLOR][/B] sekmesi · pelerin efekti [B][COLOR=#e6c46a]500 KC[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F44_2.jpg[/IMG] [IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F44_3.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F44_2.cfffa0ae.jpg[/IMG] [IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F44_3.3e49cd47.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Solo Pelerin seçim ekranı · bonuslar[/COLOR][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F44_4.jpg[/IMG] [IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F44_5.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F44_4.3a480248.jpg[/IMG] [IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F44_5.666e8104.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Beşiktaş · Galatasaray pelerinleri[/COLOR][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F44_6.jpg[/IMG] [IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F44_7.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F44_6.4e2f0425.jpg[/IMG] [IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F44_7.3f213912.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Fenerbahçe · Trabzonspor pelerinleri[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
@@ -246,19 +246,19 @@
 
 [CENTER][SIZE=18]Neyi kırdırırsan [B][COLOR=#e6c46a]ne çıkar, yüzde kaç[/COLOR][/B] — hepsi rehberde.[/SIZE][/CENTER]
 
-[CENTER][URL=https://sexyko.com/guide/fragment][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R21_rehber_fragment.jpg[/IMG][/URL]
+[CENTER][URL=https://sexyko.com/guide/fragment][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R21_rehber_fragment.8c2221cb.jpg[/IMG][/URL]
 [SIZE=18][URL=https://sexyko.com/guide/fragment][B][COLOR=#4fa3ff]📘 Rehberde aç: Gem & Fragment ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][SIZE=18][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Narki:[/COLOR][/B] verdiğin eşya yok olur, karşılığında [B][COLOR=#e6c46a]tek ödül[/COLOR][/B] çekilir; havuzu verdiğin eşya belirler
 [COLOR=#c8a253]◆[/COLOR] 4 havuz: [B][COLOR=#e6c46a]Özel silahlar · Silah ve zırhlar · Eski aksesuarlar · Aksesuarlar[/COLOR][/B] — 1.893 eşya kabul edilir
 [COLOR=#c8a253]◆[/COLOR] Bağlı, kiralık, mühürlü veya süreli eşya verilemez · kırdırma geri alınamaz[/SIZE][/CENTER]
 
-[CENTER][URL=https://sexyko.com/guide/narki][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R22_rehber_narki.jpg[/IMG][/URL]
+[CENTER][URL=https://sexyko.com/guide/narki][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R22_rehber_narki.034c3389.jpg[/IMG][/URL]
 [SIZE=18][URL=https://sexyko.com/guide/narki][B][COLOR=#4fa3ff]📘 Rehberde aç: Narki Kırdırma ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][SIZE=18][B][COLOR=#e6c46a]PUS Kırdırma:[/COLOR][/B] 45 paketin içinden çıkanların tamamı — ör. [B][COLOR=#e6c46a]VIP Package[/COLOR][/B] → 20 eşyanın hepsi birden.[/SIZE][/CENTER]
 
-[CENTER][URL=https://sexyko.com/guide/pus-crash][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R23_rehber_pus_kirdirma.jpg[/IMG][/URL]
+[CENTER][URL=https://sexyko.com/guide/pus-crash][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R23_rehber_pus_kirdirma.9cf8a040.jpg[/IMG][/URL]
 [SIZE=18][URL=https://sexyko.com/guide/pus-crash][B][COLOR=#4fa3ff]📘 Rehberde aç: PUS Kırdırma ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
@@ -268,17 +268,17 @@
 [CENTER][SIZE=18][COLOR=#c8a253]◆[/COLOR] Moba tıkla → alttaki [B][COLOR=#e6c46a]Drop Info[/COLOR][/B] kutusu: düşen itemler ve yüzdeleri
 [COLOR=#c8a253]◆[/COLOR] Üstteki aramaya [B][COLOR=#e6c46a]item adını[/COLOR][/B] yaz → hangi moblardan, yüzde kaçla düştüğü[/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F34_2.jpg[/IMG] [IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F34_3.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F34_2.a57beba6.jpg[/IMG] [IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F34_3.84905e26.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Drop Info — mob görünümü · item arama[/COLOR][/SIZE][/CENTER]
 
 [CENTER][SIZE=18][COLOR=#c8a253]◆[/COLOR] Listede item'a [B][COLOR=#e6c46a]sağ tık[/COLOR][/B] → kararır → [B][COLOR=#e6c46a]Auto Loot toplamaz[/COLOR][/B]
 [COLOR=#c8a253]◆[/COLOR] Yanlış engellediysen [B][COLOR=#e6c46a]Blocked[/COLOR][/B] listesinden kaldır
 [COLOR=#c8a253]◆[/COLOR] Item üstünde açıklamanın altında [B][COLOR=#e6c46a]CTRL + D[/COLOR][/B] yazıyorsa → bas, drop kaynağını gör[/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F34_4.jpg[/IMG] [IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F50_1.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F34_4.6970321e.jpg[/IMG] [IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F50_1.a88d321c.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Blocked listesi · Drop Search (Ctrl + D)[/COLOR][/SIZE][/CENTER]
 
-[CENTER][URL=https://sexyko.com/guide/monsters][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R14_rehber_monster.jpg[/IMG][/URL]
+[CENTER][URL=https://sexyko.com/guide/monsters][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R14_rehber_monster.35d46503.jpg[/IMG][/URL]
 [SIZE=18][URL=https://sexyko.com/guide/monsters][B][COLOR=#4fa3ff]📘 Rehberde aç: Monster Listesi ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
@@ -287,7 +287,7 @@
 
 [CENTER][SIZE=18][B][COLOR=#e6c46a][Teleport] Portal[/COLOR][/B] NPC'sine git → mobu seç → [B][COLOR=#e6c46a]250.000 coin[/COLOR][/B] ile direkt slotuna ışınlan. [B][COLOR=#e6c46a]Luferson · El Morad Castle · Eslant[/COLOR][/B].[/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F52_1.jpg[/IMG] [IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F52_2.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F52_1.40d144a0.jpg[/IMG] [IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F52_2.497e4496.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ [Teleport] Portal · mob seçimi[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
@@ -296,10 +296,10 @@
 
 [CENTER][SIZE=18]Sol üstteki [B][COLOR=#e6c46a]⏱[/COLOR][/B] simgesi: farm süresi, toplanan coin, [B][COLOR=#e6c46a]saatlik ortalama coin[/COLOR][/B], düşen itemler ve [B][COLOR=#e6c46a]saatlik item adedi[/COLOR][/B] — slotların verimini oyun içinden karşılaştır.[/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F14_2.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F14_2.6cdc9c24.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Farm Grind Tracker açılışı[/COLOR][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R08_grind_tracker.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R08_grind_tracker.7a0b9024.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Grind Tracker penceresi[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
@@ -309,7 +309,7 @@
 [CENTER][SIZE=18][COLOR=#c8a253]◆[/COLOR] Auto Mining ürünleri [B][COLOR=#e6c46a]Mining Inn[/COLOR][/B]'de birikir — işaretli kutuya tıkla
 [COLOR=#c8a253]◆[/COLOR] Mining Inn deposu [B][COLOR=#e6c46a]tek yönlü[/COLOR][/B]: item [B][COLOR=#e6c46a]çekebilirsin[/COLOR][/B], item [B][COLOR=#e6c46a]bırakamazsın[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F24_2.jpg[/IMG] [IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F24_3.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F24_2.860b3e7d.jpg[/IMG] [IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F24_3.2acc48cd.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Mining Inn giriş · depo[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
@@ -320,10 +320,10 @@
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Kupon alanı → CHECK:[/COLOR][/B] sponsor yayıncı indirim kodu — kampanya dönemlerinde %30'a varan
 [COLOR=#c8a253]◆[/COLOR] Kupon tekli üründe de, Basket'te de geçer · [B][COLOR=#e6c46a]VIP[/COLOR][/B] ve [B][COLOR=#e6c46a]Farm[/COLOR][/B] paketlerinde geçmez[/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R09_pus.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R09_pus.20db81a3.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Power Up Store (oyun içi)[/COLOR][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F27_2.jpg[/IMG] [IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F51_1.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F27_2.f57a511b.jpg[/IMG] [IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F51_1.53d5ce76.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Basket · indirim kodu[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
@@ -332,7 +332,7 @@
 
 [CENTER][SIZE=18][B][COLOR=#e6c46a]350 KC[/COLOR][/B] ile sınırsız çevir ya da [B][COLOR=#e6c46a]2 saat online[/COLOR][/B] kal, [B][COLOR=#e6c46a]1 ücretsiz[/COLOR][/B] çevirme hakkı kazan.[/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R10_cark.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R10_cark.6aaed2a4.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Çarkıfelek (Lucky Wheel)[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
@@ -343,10 +343,10 @@
 [COLOR=#c8a253]◆[/COLOR] Accept'e basınca süre başlar — süre dolmadan tamamla, [B][COLOR=#e6c46a]ödül otomatik[/COLOR][/B] gelir
 [COLOR=#c8a253]◆[/COLOR] Rehberde [B][COLOR=#e6c46a]23 günlük görev[/COLOR][/B] (Ronark Land) — ör. [B][COLOR=#e6c46a]Atross & Riote:[/COLOR][/B] 10 Atross + 10 Lyot → [B][COLOR=#e6c46a]500 Knight Cash[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F33_2.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F33_2.d3855830.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Daily Quest giriş (sol alt)[/COLOR][/SIZE][/CENTER]
 
-[CENTER][URL=https://sexyko.com/guide/daily-quests][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R20_rehber_gunluk.jpg[/IMG][/URL]
+[CENTER][URL=https://sexyko.com/guide/daily-quests][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R20_rehber_gunluk.76675dba.jpg[/IMG][/URL]
 [SIZE=18][URL=https://sexyko.com/guide/daily-quests][B][COLOR=#4fa3ff]📘 Rehberde aç: Günlük Görevler ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
@@ -355,10 +355,10 @@
 
 [CENTER][SIZE=18]Sağ üstteki [B][COLOR=#e6c46a]kum saati[/COLOR][/B]: üzerine gel = anlık bilgi · tıkla = takvim · [B][COLOR=#e6c46a]Bildirim kur[/COLOR][/B] → etkinlikten 5 dakika önce uyarı.[/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F38_2.jpg[/IMG] [IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F38_3.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F38_2.565748fe.jpg[/IMG] [IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F38_3.e7e5d119.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Kum saati — bilgi penceresi · event penceresi[/COLOR][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R11_takvim.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R11_takvim.7e51cba2.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Etkinlik Takvimi (oyun içi)[/COLOR][/SIZE][/CENTER]
 
 [CENTER][SIZE=18][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Chaos Dungeon[/COLOR][/B] — her gün 00:00
@@ -381,10 +381,10 @@
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Knight Royale:[/COLOR][/B] 80 kişilik battle royale, herkes 1. seviyeden başlar
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Under the Castle:[/COLOR][/B] Lv 75+, 4 boss — ölünce ekipman yanar, [B][COLOR=#e6c46a]Life Crystal[/COLOR][/B] taşı[/SIZE][/CENTER]
 
-[CENTER][URL=https://sexyko.com/guide/book/chaos][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R12_rehber_chaos.jpg[/IMG][/URL]
+[CENTER][URL=https://sexyko.com/guide/book/chaos][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R12_rehber_chaos.8bbb3041.jpg[/IMG][/URL]
 [SIZE=18][URL=https://sexyko.com/guide/book/chaos][B][COLOR=#4fa3ff]📘 Rehberde aç: Knight Chaos ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
-[CENTER][URL=https://sexyko.com/guide/event-rewards][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R25_rehber_etkinlik_odul.jpg[/IMG][/URL]
+[CENTER][URL=https://sexyko.com/guide/event-rewards][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R25_rehber_etkinlik_odul.be46141c.jpg[/IMG][/URL]
 [SIZE=18][URL=https://sexyko.com/guide/event-rewards][B][COLOR=#4fa3ff]📘 Rehberde aç: Etkinlik Ödülleri ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
@@ -396,7 +396,7 @@
 [COLOR=#c8a253]◆[/COLOR] Günde [B][COLOR=#e6c46a]3 giriş[/COLOR][/B] · sıfırlama her gün [B][COLOR=#e6c46a]18:00[/COLOR][/B] · zamana karşı yarış, [B][COLOR=#e6c46a]aylık sıralama[/COLOR][/B]
 [COLOR=#c8a253]◆[/COLOR] 1-3. bölüm sonlarında [B][COLOR=#e6c46a][Sundries] Ghost[/COLOR][/B] (tamir + iksir) ve [B][COLOR=#e6c46a][Monster Strategist][/COLOR][/B] (AP · DEF · 1.000 HP takviyesi)[/SIZE][/CENTER]
 
-[CENTER][URL=https://sexyko.com/guide/book/draki][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R24_rehber_draki.jpg[/IMG][/URL]
+[CENTER][URL=https://sexyko.com/guide/book/draki][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R24_rehber_draki.bc50ad88.jpg[/IMG][/URL]
 [SIZE=18][URL=https://sexyko.com/guide/book/draki][B][COLOR=#4fa3ff]📘 Rehberde aç: Draki's Tower ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
@@ -409,7 +409,7 @@
 [COLOR=#c8a253]◆[/COLOR] +5 → +6 [B][COLOR=#e6c46a]%50[/COLOR][/B] · +6 → +7 [B][COLOR=#e6c46a]%25[/COLOR][/B] · +7 → +8 [B][COLOR=#e6c46a]%4[/COLOR][/B]
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Trina's Piece[/COLOR][/B] ile oran artar · ücret 120.000 – 360.000 coin[/SIZE][/CENTER]
 
-[CENTER][URL=https://sexyko.com/guide/upgrade][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R13_rehber_upgrade.jpg[/IMG][/URL]
+[CENTER][URL=https://sexyko.com/guide/upgrade][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R13_rehber_upgrade.77e5debe.jpg[/IMG][/URL]
 [SIZE=18][URL=https://sexyko.com/guide/upgrade][B][COLOR=#4fa3ff]📘 Rehberde aç: Upgrade Oranları ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
@@ -418,10 +418,10 @@
 
 [CENTER][SIZE=18][B][COLOR=#e6c46a]83 Level + %100 EXP + 100.000.000 coin + 10.000 NP[/COLOR][/B] → Rebirth. Her Rebirth seviyesi [B][COLOR=#e6c46a]+2 stat puanı[/COLOR][/B]. Durumunu [B][COLOR=#e6c46a]U → Rebirth[/COLOR][/B] sekmesinden gör.[/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F49_1.jpg[/IMG] [IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F49_2.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F49_1.daa73432.jpg[/IMG] [IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F49_2.9210d009.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Rebirth gereksinimleri · Rebirth işlemi[/COLOR][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R15_karakter.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R15_karakter.3f08451e.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Character Info (U)[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
@@ -433,10 +433,10 @@
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Level · HP · MP · SP · STR · DEX · INT[/COLOR][/B] · Attack · Defence
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]6 resistance[/COLOR][/B] (Fire · Ice · Lightning · Magic · Curse · Poison) · aktif [B][COLOR=#e6c46a]Buff List[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F46_1.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F46_1.8cfcc006.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Equipment View açılışı[/COLOR][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F46_2.jpg[/IMG]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/F46_2.25de14d5.jpg[/IMG]
 [SIZE=18][COLOR=#a89f91]▲ Equipment / Ability penceresi[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
@@ -450,6 +450,6 @@
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/resim/5_takvim.gif[/IMG][/CENTER]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/resim/5_takvim.758e0738.gif[/IMG][/CENTER]
 
 [CENTER][SIZE=22][B][COLOR=#d14841]🔥 SEXYKO — PVP'NİN BAŞLADIĞI YER 🔥[/COLOR][/B][/SIZE][/CENTER]

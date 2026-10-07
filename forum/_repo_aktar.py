@@ -25,6 +25,14 @@ for d, alt, dosyalar in os.walk(KOK):
         if rel in DISLA_DOSYA or f.endswith(".pyc"): continue
         kopya.append((os.path.join(d, f), os.path.join(HEDEF, *rel.split("/")), rel))
 kopya.append((HTML, os.path.join(HEDEF, "FORUM_KONU.html"), "FORUM_KONU.html"))
+# 7 Eki: konularin kullandigi her resmin ICERIK OZETLI kopyasi (link bu ada gider; eski adli dosya da kalir, eski forum linkleri bozulmaz)
+KONULAR = ["konu.json", "yeni_konu/konu.json", "yeni_konu/kisa/konu.json", "skill_master/konu.json", "odul/konu.json", "sezon/konu.json"]
+_ozet = {}
+for k in KONULAR:
+    for x in json.load(open(os.path.join(KOK, *k.split("/")), encoding="utf-8"))["resimler"]:
+        if x.get("repo") and x.get("repo_kaynak"): _ozet[x["repo"][len("forum/"):]] = RR.yerel(x["repo_kaynak"])
+for rel_, kay_ in sorted(_ozet.items()):
+    kopya.append((kay_, os.path.join(HEDEF, *rel_.split("/")), rel_))
 
 boyut = 0
 for kay, hed, rel in kopya:
@@ -36,7 +44,7 @@ for kay, hed, rel in kopya:
 # dogrulama: ad + boyut birebir; uretici zincirinin kullandigi BUTUN resimler hedefte
 hata = [rel for kay, hed, rel in kopya if not os.path.exists(hed) or os.path.getsize(hed) != os.path.getsize(kay)]
 kullanilan = set()
-for k in ["konu.json", "yeni_konu/konu.json", "yeni_konu/kisa/konu.json", "skill_master/konu.json", "odul/konu.json", "sezon/konu.json"]:
+for k in KONULAR:
     for x in json.load(open(os.path.join(KOK, *k.split("/")), encoding="utf-8"))["resimler"]:
         if x.get("repo"): kullanilan.add(x["repo"])
 eksik = [x for x in kullanilan if not os.path.exists(os.path.join(RR.REPO_KLASOR, *x.split("/")))]

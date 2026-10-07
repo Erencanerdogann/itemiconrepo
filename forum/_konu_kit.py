@@ -242,7 +242,7 @@ import _repo_resim
 for x in RES:
     yeni = _repo_resim.url(x["dosya"]); assert x["url"] in BB, x["url"]
     BB, MD, HT = BB.replace(x["url"], yeni), MD.replace(x["url"], yeni), HT.replace(x["url"], yeni)
-    x["koyardim_url"] = x["url"]; x["url"] = yeni; x["repo"] = "forum/" + _repo_resim.rel(x["dosya"])
+    x["koyardim_url"] = x["url"]; x["url"] = yeni; x["repo"] = "forum/" + _repo_resim.surumlu(x["dosya"]); x["repo_kaynak"] = x["dosya"]
 
 # --- dosyalar
 open(os.path.join(KOK, "SEXYKO_TANITIM_bbcode.txt"), "w", encoding="utf-8").write(BASLIK + "\n\n" + BB + "\n")

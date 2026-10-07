@@ -1,14 +1,14 @@
 # 🔥 SEXYKO 🔥 BETA 16.10.2026 🔥 | ⚔️ 2010'DAN BERİ, 16 YILLIK EFSANE | EŞSİZ GERÇEK v2 64BIT CLIENT 🔥
 
-![Hazır Ol! SexyKO İçin Geri Sayım Başladı!   _ 16 Ekim Beta, 23 Ekim Official.gif](https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/resim/1_geri_sayim.gif)
+![Hazır Ol! SexyKO İçin Geri Sayım Başladı!   _ 16 Ekim Beta, 23 Ekim Official.gif](https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/resim/1_geri_sayim.b3746cf9.gif)
 
-![logo_big.png](https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/resim/2_logo.png)
+![logo_big.png](https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/resim/2_logo.3a3f29a4.png)
 
 **2010'DAN BERİ 16 YILLIK EFSANE!**
 
 ***Eşsiz ve Gerçek v2 64-Bit Client***
 
-![stonesoft_medium.png](https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/resim/3_stonesoft.png)
+![stonesoft_medium.png](https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/resim/3_stonesoft.51b938eb.png)
 **StoneSoft**
 **Altyapı ve Anti-Cheat Koruması**
 
@@ -16,7 +16,7 @@
 
 🔥 ALIŞILMIŞIN DIŞINDA BİR DENEYİME HAZIR OLUN!
 
-![SexyKO Hyper.png](https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/resim/4_hyper_odul_havuzu.png)
+![SexyKO Hyper.png](https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/resim/4_hyper_odul_havuzu.ececd7b7.png)
 Bildiğiniz tüm **64-Bit Clientleri**,
 **Light Farm DB'leri** ve klasikleşmiş **Event sistemlerini** bir kenara bırakın!
 
@@ -66,7 +66,7 @@ Beta ödül tablosu ve ödül havuzunun tüm detayları resmi forumumuzda yayın
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-![Takvimleri İşaretle! _ 16 Ekim Beta • 23 Ekim Official.gif](https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/resim/5_takvim.gif)
+![Takvimleri İşaretle! _ 16 Ekim Beta • 23 Ekim Official.gif](https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/resim/5_takvim.758e0738.gif)
 
 **🔥 NEDEN SEXYKO?**
 ✅**16 yıllık tecrübe:** 2010'dan beri kesintisiz hizmet

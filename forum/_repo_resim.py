@@ -3,7 +3,7 @@
 # Her resmin varsayilan_url'si = repodaki kopyasi (jsDelivr CDN, GitHub herkese acik repo). Yerel yol "FORUM/<x>" -> repo "forum/<x>".
 # Dosyasi olmayan (eskiden Ko-Yardim ek linki) resimler yerel kopyaya baglanir (FORUM/resim/ — _konu_kit.py indirir).
 # Resim degisirse: ayni ad -> jsDelivr @main 12 saate kadar eskiyi gosterebilir -> https://purge.jsdelivr.net/gh/<REPO>@main/forum/<yol>
-import os
+import os, hashlib
 from urllib.parse import quote
 
 REPO = "Erencanerdogann/itemiconrepo"
@@ -20,8 +20,15 @@ def rel(dosya):
     return dosya[len("FORUM/"):]
 
 
+def surumlu(dosya):
+    """7 Eki: 'skill_master/resim/S00_yol_haritasi.jpg' -> 'skill_master/resim/S00_yol_haritasi.c8f2a003.jpg' (icerik md5 ilk 8).
+    jsDelivr @main ayni adli dosyayi gunlerce eski gosterdi (S00 / S06: 2 purge + ?v= ise yaramadi) -> icerik degisince LINK degisir, bayat kalamaz."""
+    r = rel(dosya); b, e = os.path.splitext(r)
+    return f"{b}.{hashlib.md5(open(yerel(dosya), 'rb').read()).hexdigest()[:8]}{e}"
+
+
 def url(dosya):
-    return TABAN + "/".join(quote(p) for p in rel(dosya).split("/"))
+    return TABAN + "/".join(quote(p) for p in surumlu(dosya).split("/"))
 
 
 def yerel(dosya):
@@ -37,5 +44,5 @@ def uygula(res):
         assert os.path.exists(yerel(dosya)), yerel(dosya)
         d["eski_url"] = d.get("varsayilan_url") or ""
         d["varsayilan_url"] = url(dosya)
-        d["repo"] = "forum/" + rel(dosya)
+        d["repo"] = "forum/" + surumlu(dosya); d["repo_kaynak"] = dosya          # _repo_aktar.py ozetli kopyayi buradan yazar
     return res
