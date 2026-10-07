@@ -36,7 +36,7 @@ for kay, hed, rel in kopya:
 # dogrulama: ad + boyut birebir; uretici zincirinin kullandigi BUTUN resimler hedefte
 hata = [rel for kay, hed, rel in kopya if not os.path.exists(hed) or os.path.getsize(hed) != os.path.getsize(kay)]
 kullanilan = set()
-for k in ["konu.json", "yeni_konu/konu.json", "yeni_konu/kisa/konu.json", "skill_master/konu.json", "odul/konu.json"]:
+for k in ["konu.json", "yeni_konu/konu.json", "yeni_konu/kisa/konu.json", "skill_master/konu.json", "odul/konu.json", "sezon/konu.json"]:
     for x in json.load(open(os.path.join(KOK, *k.split("/")), encoding="utf-8"))["resimler"]:
         if x.get("repo"): kullanilan.add(x["repo"])
 eksik = [x for x in kullanilan if not os.path.exists(os.path.join(RR.REPO_KLASOR, *x.split("/")))]

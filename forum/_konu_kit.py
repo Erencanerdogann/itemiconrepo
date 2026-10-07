@@ -278,6 +278,9 @@ VERI["skill"] = json.load(open(_sk, encoding="utf-8")) if os.path.exists(_sk) el
 # HYPER BETA ODULLERI KONUSU (_odul_konu.py, 7 Eki — forum.sexyko.com/d/54) — "Hyper Beta Odulleri" sekmesi; once python _odul_gorsel.py + _odul_konu.py
 _od = os.path.join(KOK, "odul", "konu.json")
 VERI["odul"] = json.load(open(_od, encoding="utf-8")) if os.path.exists(_od) else None
+# SEZON SISTEMI (ACADEMY) KONUSU (_sezon_konu.py, 7 Eki — patron tablosu + forum.sexyko.com/d/57) — once python _sezon_gorsel.py + _sezon_konu.py
+_sz = os.path.join(KOK, "sezon", "konu.json")
+VERI["sezon"] = json.load(open(_sz, encoding="utf-8")) if os.path.exists(_sz) else None
 json.dump(VERI, open(os.path.join(KOK, "konu.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
 # --- sayfa

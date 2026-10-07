@@ -1,0 +1,221 @@
+KAYNAK: https://forum.sexyko.com/d/57 (Flarum API /api/discussions/57, okundu 7 Eki 2026) · baslik: 🏆 SexyKO Sezon Sistemi · yazildi: 2026-10-07T02:38:50+00:00 · duzenleme: 2026-10-07T02:44:10+00:00
+
+⚔️ SEXYKO SEZON SİSTEMİ
+
+Yeni Mücadele • Hızlandırılmış Gelişim • Ana Sunucuyla Birleşim
+
+SexyKO’da rekabeti yıl boyunca canlı tutacak Sezon Sistemi başlıyor.
+
+Her sezon, yeni başlayan oyuncuların ana sunucuya daha hızlı yetişebilmesi için artırılmış EXP • DROP • COIN oranlarıyla açılacak.
+
+Sezon tamamlandığında oyuncular gelişimleriyle birlikte ana SexyKO sunucusuna aktarılacak.
+
+📅 2026 — 2027 SEZON TAKVİMİ
+
+🟢 SEZON 01
+
+20 Kasım 2026 • Cuma • 22:00
+
+EXP %100　•　DROP %100　•　COIN %100
+
+🏆 Turnuva Kayıtları
+
+23 Kasım 2026 • Pazartesi • 12:00
+
+🔄 Ana Sunucuyla Birleşim
+
+30 Kasım 2026 • Pazartesi • 22:00
+
+🟢 SEZON 02
+
+18 Aralık 2026 • Cuma • 22:00
+
+EXP %200　•　DROP %200　•　COIN %200
+
+🏆 Turnuva Kayıtları
+
+21 Aralık 2026 • Pazartesi • 12:00
+
+🔄 Ana Sunucuyla Birleşim
+
+28 Aralık 2026 • Pazartesi • 22:00
+
+🟢 SEZON 03
+
+15 Ocak 2027 • Cuma • 22:00
+
+EXP %300　•　DROP %300　•　COIN %300
+
+🏆 Turnuva Kayıtları
+
+18 Ocak 2027 • Pazartesi • 12:00
+
+🔄 Ana Sunucuyla Birleşim
+
+25 Ocak 2027 • Pazartesi • 22:00
+
+🟢 SEZON 04
+
+12 Şubat 2027 • Cuma • 22:00
+
+EXP %400　•　DROP %400　•　COIN %400
+
+🏆 Turnuva Kayıtları
+
+15 Şubat 2027 • Pazartesi • 12:00
+
+🔄 Ana Sunucuyla Birleşim
+
+22 Şubat 2027 • Pazartesi • 22:00
+
+🟢 SEZON 05
+
+12 Mart 2027 • Cuma • 22:00
+
+EXP %500　•　DROP %500　•　COIN %500
+
+🏆 Turnuva Kayıtları
+
+15 Mart 2027 • Pazartesi • 12:00
+
+🔄 Ana Sunucuyla Birleşim
+
+22 Mart 2027 • Pazartesi • 22:00
+
+🟢 SEZON 06
+
+9 Nisan 2027 • Cuma • 22:00
+
+EXP %600　•　DROP %600　•　COIN %600
+
+🏆 Turnuva Kayıtları
+
+12 Nisan 2027 • Pazartesi • 12:00
+
+🔄 Ana Sunucuyla Birleşim
+
+19 Nisan 2027 • Pazartesi • 22:00
+
+🟢 SEZON 07
+
+7 Mayıs 2027 • Cuma • 22:00
+
+EXP %700　•　DROP %700　•　COIN %700
+
+🏆 Turnuva Kayıtları
+
+10 Mayıs 2027 • Pazartesi • 12:00
+
+🔄 Ana Sunucuyla Birleşim
+
+17 Mayıs 2027 • Pazartesi • 22:00
+
+🟢 SEZON 08
+
+4 Haziran 2027 • Cuma • 22:00
+
+EXP %800　•　DROP %800　•　COIN %800
+
+🏆 Turnuva Kayıtları
+
+7 Haziran 2027 • Pazartesi • 12:00
+
+🔄 Ana Sunucuyla Birleşim
+
+14 Haziran 2027 • Pazartesi • 22:00
+
+🟢 SEZON 09
+
+2 Temmuz 2027 • Cuma • 22:00
+
+EXP %800　•　DROP %800　•　COIN %800
+
+🏆 Turnuva Kayıtları
+
+5 Temmuz 2027 • Pazartesi • 12:00
+
+🔄 Ana Sunucuyla Birleşim
+
+12 Temmuz 2027 • Pazartesi • 22:00
+
+🟢 SEZON 10
+
+30 Temmuz 2027 • Cuma • 22:00
+
+EXP %800　•　DROP %800　•　COIN %800
+
+🏆 Turnuva Kayıtları
+
+2 Ağustos 2027 • Pazartesi • 12:00
+
+🔄 Ana Sunucuyla Birleşim
+
+9 Ağustos 2027 • Pazartesi • 22:00
+
+⚡ SEZON SİSTEMİ NASIL ÇALIŞIR?
+
+01 — SEZON AÇILIŞI
+
+Her yeni sezon Cuma günü saat 22:00’da açılır.
+
+02 — HIZLANDIRILMIŞ GELİŞİM
+
+Sezon sunucularında EXP, DROP ve COIN oranları artırılmıştır.
+
+03 — KADEMELİ ORANLAR
+
+İlk sezon %100 ile başlar. İlerleyen sezonlarda oranlar kademeli olarak %800’e kadar yükselir.
+
+04 — TURNUVA KAYITLARI
+
+Sezon başladıktan sonraki Pazartesi günü saat 12:00’da turnuva kayıtları açılır.
+
+05 — ANA SUNUCUYLA BİRLEŞİM
+
+Sezon tamamlandığında oyuncular gelişimleriyle birlikte ana SexyKO sunucusuna aktarılır.
+
+🏆 TURNUVA SİSTEMİ
+
+Turnuva kayıtları her sezonun 3. günü başlayacaktır.
+
+📌 Kayıt Başlangıcı: Pazartesi • 12:00
+
+📌 Turnuva Duyurusu: Birleşim Günü
+
+📌 Eşleşmeler: Birleşim sonrası açıklanacaktır.
+
+Turnuva sistemiyle ilgili ödüller ve detaylar ayrıca duyurulacaktır.
+
+💰 SEZON ÖNCESİ GB ALIMI
+
+Her yeni sezon başlamadan önce GB alımı gerçekleştirilecektir.
+
+GB alımları resmi çözüm ortağımız:
+
+BursaGB.com
+
+üzerinden yapılacaktır.
+
+GB alım tarihleri ve detayları sezon öncesinde ayrıca paylaşılacaktır.
+
+🔥 HER SEZON YENİ BİR MÜCADELE
+
+Yeni oyuncular için daha hızlı gelişim.
+
+Eski oyuncular için yeni rakipler.
+
+Her sezon daha yüksek oranlar.
+
+Her sezon sonunda tek bir sunucu.
+
+⚔️ HERKES ANA SUNUCUDA BULUŞACAK.
+
+🌐 www.sexyko.com
+
+💬 discord.gg/sexyko
+
+SEXYKO
+
+PVP’nin başladığı yer.
+
+Bu yapıda özellikle “SEZON 01 / tarih / oranlar / turnuva / birleşim” düzeni var. Oyuncu sayfayı aşağı kaydırırken aradığı tarihi anında bulur; önceki sürümlerdeki gibi her şey birbirine girmez.
