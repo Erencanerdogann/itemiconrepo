@@ -34,8 +34,9 @@ ekle("ayrac")
 
 ekle("h", "📅", "2026 – 2027 SEZON TAKVİMİ")
 ekle("img", "Z01", "")
-ekle("liste", [f"**SEZON {z['no']:02d}** — açılış **{V.kisa(z['acilis'])} Cuma 22:00** · turnuva kaydı {V.kisa(z['turnuva'])} Pazartesi 12:00 · "
-               f"birleşim **{V.kisa(z['birlesim'])} Pazartesi 22:00** · EXP / DROP / COIN **%{z['oran']}**" for z in V.SEZON])
+for z in V.SEZON:                                                  # 7 Eki PATRON "burasi cok kotu olmus": tek uzun satir yerine sezon basina 4 kisa satir (d/57 duzeni)
+    ekle("satirlar", [f"🟢 **SEZON {z['no']:02d}** — EXP / DROP / COIN **%{z['oran']}**", f"📅 Açılış: **{V.kisa(z['acilis'])} Cuma 22:00**",
+                      f"🏆 Turnuva kaydı: {V.kisa(z['turnuva'])} Pazartesi 12:00", f"🔄 Birleşim: **{V.kisa(z['birlesim'])} Pazartesi 22:00**"])
 ekle("not", f"Official **{V.OFFICIAL}** · sezon açılışları **28 günde bir Cuma 22:00** · bitiş / birleşim **sonraki haftanın Pazartesi 22:00** · saatler TSİ")
 ekle("ayrac")
 

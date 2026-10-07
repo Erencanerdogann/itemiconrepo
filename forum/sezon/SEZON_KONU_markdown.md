@@ -35,14 +35,45 @@ Sezon tamamlandığında oyuncular gelişimleriyle birlikte **ana SexyKO sunucus
 
 ![]({{Z01}})
 
-- **SEZON 01** — açılış **20.11.2026 Cuma 22:00** · turnuva kaydı 23.11.2026 Pazartesi 12:00 · birleşim **30.11.2026 Pazartesi 22:00** · EXP / DROP / COIN **%100**
-- **SEZON 02** — açılış **18.12.2026 Cuma 22:00** · turnuva kaydı 21.12.2026 Pazartesi 12:00 · birleşim **28.12.2026 Pazartesi 22:00** · EXP / DROP / COIN **%200**
-- **SEZON 03** — açılış **15.01.2027 Cuma 22:00** · turnuva kaydı 18.01.2027 Pazartesi 12:00 · birleşim **25.01.2027 Pazartesi 22:00** · EXP / DROP / COIN **%300**
-- **SEZON 04** — açılış **12.02.2027 Cuma 22:00** · turnuva kaydı 15.02.2027 Pazartesi 12:00 · birleşim **22.02.2027 Pazartesi 22:00** · EXP / DROP / COIN **%400**
-- **SEZON 05** — açılış **12.03.2027 Cuma 22:00** · turnuva kaydı 15.03.2027 Pazartesi 12:00 · birleşim **22.03.2027 Pazartesi 22:00** · EXP / DROP / COIN **%500**
-- **SEZON 06** — açılış **09.04.2027 Cuma 22:00** · turnuva kaydı 12.04.2027 Pazartesi 12:00 · birleşim **19.04.2027 Pazartesi 22:00** · EXP / DROP / COIN **%600**
-- **SEZON 07** — açılış **07.05.2027 Cuma 22:00** · turnuva kaydı 10.05.2027 Pazartesi 12:00 · birleşim **17.05.2027 Pazartesi 22:00** · EXP / DROP / COIN **%700**
-- **SEZON 08** — açılış **04.06.2027 Cuma 22:00** · turnuva kaydı 07.06.2027 Pazartesi 12:00 · birleşim **14.06.2027 Pazartesi 22:00** · EXP / DROP / COIN **%800**
+🟢 **SEZON 01** — EXP / DROP / COIN **%100**  
+📅 Açılış: **20.11.2026 Cuma 22:00**  
+🏆 Turnuva kaydı: 23.11.2026 Pazartesi 12:00  
+🔄 Birleşim: **30.11.2026 Pazartesi 22:00**
+
+🟢 **SEZON 02** — EXP / DROP / COIN **%200**  
+📅 Açılış: **18.12.2026 Cuma 22:00**  
+🏆 Turnuva kaydı: 21.12.2026 Pazartesi 12:00  
+🔄 Birleşim: **28.12.2026 Pazartesi 22:00**
+
+🟢 **SEZON 03** — EXP / DROP / COIN **%300**  
+📅 Açılış: **15.01.2027 Cuma 22:00**  
+🏆 Turnuva kaydı: 18.01.2027 Pazartesi 12:00  
+🔄 Birleşim: **25.01.2027 Pazartesi 22:00**
+
+🟢 **SEZON 04** — EXP / DROP / COIN **%400**  
+📅 Açılış: **12.02.2027 Cuma 22:00**  
+🏆 Turnuva kaydı: 15.02.2027 Pazartesi 12:00  
+🔄 Birleşim: **22.02.2027 Pazartesi 22:00**
+
+🟢 **SEZON 05** — EXP / DROP / COIN **%500**  
+📅 Açılış: **12.03.2027 Cuma 22:00**  
+🏆 Turnuva kaydı: 15.03.2027 Pazartesi 12:00  
+🔄 Birleşim: **22.03.2027 Pazartesi 22:00**
+
+🟢 **SEZON 06** — EXP / DROP / COIN **%600**  
+📅 Açılış: **09.04.2027 Cuma 22:00**  
+🏆 Turnuva kaydı: 12.04.2027 Pazartesi 12:00  
+🔄 Birleşim: **19.04.2027 Pazartesi 22:00**
+
+🟢 **SEZON 07** — EXP / DROP / COIN **%700**  
+📅 Açılış: **07.05.2027 Cuma 22:00**  
+🏆 Turnuva kaydı: 10.05.2027 Pazartesi 12:00  
+🔄 Birleşim: **17.05.2027 Pazartesi 22:00**
+
+🟢 **SEZON 08** — EXP / DROP / COIN **%800**  
+📅 Açılış: **04.06.2027 Cuma 22:00**  
+🏆 Turnuva kaydı: 07.06.2027 Pazartesi 12:00  
+🔄 Birleşim: **14.06.2027 Pazartesi 22:00**
 
 💡 Official **23 Ekim 2026** · sezon açılışları **28 günde bir Cuma 22:00** · bitiş / birleşim **sonraki haftanın Pazartesi 22:00** · saatler TSİ
 
