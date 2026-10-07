@@ -84,6 +84,7 @@ body.zemin-beyaz .onz a{color:#1a5fb4}
     <button type="button" data-konu="k_skill">⚔️ Skill &amp; Master</button>
     <button type="button" data-konu="k_odul">🏆 Hyper Beta Ödülleri</button>
     <button type="button" data-konu="k_sezon">⚔️ Sezon Sistemi (Academy)</button>
+    <button type="button" data-konu="k_mining">⛏️ 24 Saat Madencilik</button>
     <button type="button" data-konu="k_tanitim">📣 Tanıtım konusu (Ko-Yardım)</button>
   </div>
   <div id="k_yeni" class="konu on">
@@ -276,6 +277,44 @@ body.zemin-beyaz .onz a{color:#1a5fb4}
     <div class="ypan" id="akt"><ul id="akl"></ul></div>
   </div>
   </div>
+  <div id="k_mining" class="konu">
+  <div class="kart">
+    <h2>⛏️ 24 Saatlik Madencilik Sonuçları — Golden Mattock vs Normal Mattock</h2>
+    <ol class="adim">
+      <li>24 saatte ne çıktı (Golden 1.601 / Normal 508 item) · iki envanter item item · karşılaştırma grafiği · resmî oranlar (Normal / Golden / Platinum) — <b>resimli</b> (5 görsel).</li>
+      <li><b>🖼 Resimler hazır linkli</b> (itemiconrepo <code>forum/mining/resim/</code>, jsDelivr) — yükleme yok.</li>
+      <li>forum.sexyko.com (Flarum) → üstte <b>Forum türü: Flarum</b> (varsayılan) → <b>BBCode kopyala</b> → yeni konuya yapıştır.</li>
+    </ol>
+    <div class="alt">Bilgi: <b>Semih'in 24 saatlik envanter görüntüsü</b> (ikonlar eşlendi, gözle doğrulandı) + oyun içi rehber oranları (7 Eki canlı = admin) → <b>⚠ Kontrol</b> (test koşulları bilinmiyor).</div>
+  </div>
+  <div class="kart">
+    <h2>Başlık</h2>
+    <div class="bas"><div class="m" id="mbaslik"></div><button class="ana" data-ykop="baslik">Başlığı kopyala</button></div>
+    <div class="alt" id="mbsay"></div>
+  </div>
+  <div class="kart">
+    <div class="dug">
+      <button class="ana" data-ykop="bbcode">BBCode kopyala</button>
+      <span id="mbolum" style="display:contents"></span>
+      <button data-ykop="gorunum">Görünümü kopyala</button>
+      <button data-ykop="markdown">Markdown kopyala</button>
+      <button data-ykop="duz">Düz metin kopyala</button>
+    </div>
+    <div class="alt" id="mdurum" style="margin-bottom:10px"></div>
+    <div class="sek" id="msek">
+      <button class="on" data-p="monz">👁 Önizleme</button>
+      <button data-p="mbb">BBCode</button>
+      <button data-p="mmd">Markdown</button>
+      <button data-p="mrs">🖼 Resimler <span id="mrsay"></span></button>
+      <button data-p="mkt">⚠ Kontrol</button>
+    </div>
+    <div class="ypan on" id="monz"><div class="onz forum" id="monzic"></div></div>
+    <div class="ypan" id="mbb"><textarea id="mtbb" readonly></textarea></div>
+    <div class="ypan" id="mmd"><textarea id="mtmd" readonly></textarea></div>
+    <div class="ypan" id="mrs"><div class="rs" id="mrsl"></div></div>
+    <div class="ypan" id="mkt"><ul id="mkl"></ul></div>
+  </div>
+  </div>
   <div id="k_tanitim" class="konu">
   <div class="alt">Kaynak: <a id="kaynak" target="_blank" rel="noopener">Ko-Yardım tanıtım konusu</a> · aynı konuyu başka forumlarda açmak için hazır metin + resimler</div>
 
@@ -396,7 +435,7 @@ function kur(P,Y,LS){
   function yenile(){E("onzic").innerHTML=htm(true);guncel();}
   return {Y:Y,bb:bb,md:md,duz:duz,bol:bol,htmlKop:htmlKop,yenile:yenile};
 }
-var KONU={k_yeni:kur("y",V.yeni,"yeni_konu_url_v1"),k_kisa:kur("z",V.kisa,"kisa_konu_url_v1"),k_skill:kur("s",V.skill,"skill_konu_url_v1"),k_odul:kur("o",V.odul,"odul_konu_url_v1"),k_sezon:kur("a",V.sezon,"sezon_konu_url_v1")};
+var KONU={k_yeni:kur("y",V.yeni,"yeni_konu_url_v1"),k_kisa:kur("z",V.kisa,"kisa_konu_url_v1"),k_skill:kur("s",V.skill,"skill_konu_url_v1"),k_odul:kur("o",V.odul,"odul_konu_url_v1"),k_sezon:kur("a",V.sezon,"sezon_konu_url_v1"),k_mining:kur("m",V.mining,"mining_konu_url_v1")};
 function zeminSec(z){ZEMIN=z;try{localStorage.setItem("forum_zemin_v1",z);}catch(e){}
   document.body.classList.toggle("zemin-beyaz",z==="beyaz");
   [].forEach.call(document.querySelectorAll("#zemin button"),function(b){b.classList.toggle("on",b.dataset.zemin===z);});

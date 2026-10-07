@@ -1,0 +1,238 @@
+{
+ "kaynak": "Semih WhatsApp ekran goruntusu 7 Eki 06:14-06:15 ('Golden Mining' + 'Mattock', '24 saatlik drop sonuclari') — gorsel _HASSAS/mining_24saat_whatsapp_2026-10-07.png (git disi)",
+ "yontem": "envanter yuvasi ikonu -> rehber mining havuzu ikonu (piksel karsilastirma + bire bir atama), gozle dogrulandi; adetler goruntuden okundu",
+ "sonuc": {
+  "Golden Mattock": [
+   {
+    "yuva": 1,
+    "id": 810242000,
+    "ad": "Gem of Defense",
+    "adet": 58
+   },
+   {
+    "yuva": 2,
+    "id": 810241000,
+    "ad": "Gem of Experience",
+    "adet": 51
+   },
+   {
+    "yuva": 3,
+    "id": 389205000,
+    "ad": "Black Gem",
+    "adet": 139
+   },
+   {
+    "yuva": 4,
+    "id": 389201000,
+    "ad": "Green Gem",
+    "adet": 105
+   },
+   {
+    "yuva": 5,
+    "id": 389199000,
+    "ad": "Blue Gem",
+    "adet": 113
+   },
+   {
+    "yuva": 6,
+    "id": 389163000,
+    "ad": "Fragment of Sloth",
+    "adet": 79
+   },
+   {
+    "yuva": 7,
+    "id": 389162000,
+    "ad": "Fragment of Rage",
+    "adet": 99
+   },
+   {
+    "yuva": 8,
+    "id": 389161000,
+    "ad": "Fragment of Gluttony",
+    "adet": 91
+   },
+   {
+    "yuva": 9,
+    "id": 389160000,
+    "ad": "Fragment of Arrogance",
+    "adet": 111
+   },
+   {
+    "yuva": 10,
+    "id": 389156000,
+    "ad": "Armor Enchant Scroll",
+    "adet": 47
+   },
+   {
+    "yuva": 11,
+    "id": 389155000,
+    "ad": "Weapon Enchant Scroll",
+    "adet": 49
+   },
+   {
+    "yuva": 12,
+    "id": 389076000,
+    "ad": "Opal",
+    "adet": 39
+   },
+   {
+    "yuva": 13,
+    "id": 389075000,
+    "ad": "Crystal",
+    "adet": 36
+   },
+   {
+    "yuva": 14,
+    "id": 389074000,
+    "ad": "Crude Sapphire",
+    "adet": 38
+   },
+   {
+    "yuva": 15,
+    "id": 389034000,
+    "ad": "Bezoar",
+    "adet": 166
+   },
+   {
+    "yuva": 16,
+    "id": 379154000,
+    "ad": "Red Treasure Chest",
+    "adet": 107
+   },
+   {
+    "yuva": 17,
+    "id": 379020000,
+    "ad": "Elemental Scroll",
+    "adet": 68
+   },
+   {
+    "yuva": 18,
+    "id": 379018000,
+    "ad": "Immune Scroll",
+    "adet": 68
+   },
+   {
+    "yuva": 19,
+    "id": 379016000,
+    "ad": "Upgrade Scroll",
+    "adet": 68
+   },
+   {
+    "yuva": 20,
+    "id": 379006000,
+    "ad": "Stone of life",
+    "adet": 69
+   }
+  ],
+  "Normal Mattock": [
+   {
+    "yuva": 1,
+    "id": 810242000,
+    "ad": "Gem of Defense",
+    "adet": 19
+   },
+   {
+    "yuva": 2,
+    "id": 810241000,
+    "ad": "Gem of Experience",
+    "adet": 19
+   },
+   {
+    "yuva": 3,
+    "id": 389205000,
+    "ad": "Black Gem",
+    "adet": 48
+   },
+   {
+    "yuva": 4,
+    "id": 389201000,
+    "ad": "Green Gem",
+    "adet": 40
+   },
+   {
+    "yuva": 5,
+    "id": 389162000,
+    "ad": "Fragment of Rage",
+    "adet": 32
+   },
+   {
+    "yuva": 6,
+    "id": 389161000,
+    "ad": "Fragment of Gluttony",
+    "adet": 41
+   },
+   {
+    "yuva": 7,
+    "id": 389160000,
+    "ad": "Fragment of Arrogance",
+    "adet": 49
+   },
+   {
+    "yuva": 8,
+    "id": 389156000,
+    "ad": "Armor Enchant Scroll",
+    "adet": 17
+   },
+   {
+    "yuva": 9,
+    "id": 389155000,
+    "ad": "Weapon Enchant Scroll",
+    "adet": 11
+   },
+   {
+    "yuva": 10,
+    "id": 389076000,
+    "ad": "Opal",
+    "adet": 18
+   },
+   {
+    "yuva": 11,
+    "id": 389075000,
+    "ad": "Crystal",
+    "adet": 16
+   },
+   {
+    "yuva": 12,
+    "id": 389074000,
+    "ad": "Crude Sapphire",
+    "adet": 15
+   },
+   {
+    "yuva": 13,
+    "id": 389034000,
+    "ad": "Bezoar",
+    "adet": 43
+   },
+   {
+    "yuva": 14,
+    "id": 379154000,
+    "ad": "Red Treasure Chest",
+    "adet": 44
+   },
+   {
+    "yuva": 15,
+    "id": 379020000,
+    "ad": "Elemental Scroll",
+    "adet": 30
+   },
+   {
+    "yuva": 16,
+    "id": 379018000,
+    "ad": "Immune Scroll",
+    "adet": 23
+   },
+   {
+    "yuva": 17,
+    "id": 379016000,
+    "ad": "Upgrade Scroll",
+    "adet": 23
+   },
+   {
+    "yuva": 18,
+    "id": 379006000,
+    "ad": "Stone of life",
+    "adet": 20
+   }
+  ]
+ }
+}
