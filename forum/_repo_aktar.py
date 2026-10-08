@@ -27,6 +27,8 @@ for d, alt, dosyalar in os.walk(KOK):
         if rel in DISLA_DOSYA or f.endswith(".pyc"): continue
         kopya.append((os.path.join(d, f), os.path.join(HEDEF, *rel.split("/")), rel))
 kopya.append((HTML, os.path.join(HEDEF, "FORUM_KONU.html"), "FORUM_KONU.html"))
+_bb = os.path.join(os.path.dirname(HTML), "FORUM_BBCODE.html")          # 8 Eki: forumdaki butun konularin BBCode arsivi (_forum_bbcode.py)
+if os.path.exists(_bb): kopya.append((_bb, os.path.join(HEDEF, "FORUM_BBCODE.html"), "FORUM_BBCODE.html"))
 # 7 Eki: konularin kullandigi her resmin ICERIK OZETLI kopyasi (link bu ada gider; eski adli dosya da kalir, eski forum linkleri bozulmaz)
 KONULAR = ["konu.json", "yeni_konu/konu.json", "yeni_konu/kisa/konu.json", "skill_master/konu.json", "odul/konu.json", "sezon/konu.json", "mining/konu.json", "genie/konu.json", "yayinci/konu.json", "pus_kupon/konu.json", "teamspeak/konu.json"]
 _ozet = {}

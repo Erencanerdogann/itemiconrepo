@@ -1,0 +1,197 @@
+♻️ SEXYKO CHAOTIC GENERATOR & TOPLU KIRDIRMA SİSTEMİ
+
+# ♻️ SEXYKO CHAOTIC GENERATOR & TOPLU KIRDIRMA SİSTEMİ
+
+SexyKO'da [B]Gem, Fragment ve Chaotic Generator üzerinden kırdırılabilen itemleri[/B] artık daha hızlı ve daha kontrollü şekilde işleyebilirsiniz.
+
+Iteme [B]sağ tıkladığınızda[/B] açılan pencere üzerinden:
+
+[LIST]
+[*]tek tek kırdırma,
+[*]toplu kırdırma,
+[*]istemediğiniz itemleri filtreleme,
+[*]direkt satış,
+[*]bankaya gönderme,
+[*]çöpe atma
+[/LIST]
+
+işlemlerini tek ekran üzerinden yapabilirsiniz.
+
+[IMG]https://i.hizliresim.com/ce1cgdrw.png[/IMG]
+
+---
+
+## ⚙️ CHAOTIC GENERATOR NASIL KULLANILIR?
+
+Gem, Fragment veya benzeri kırdırılabilir iteme [B]sağ tıkladığınızda[/B] özel işlem penceresi açılır.
+
+Buradan kırdırma işlemini iki farklı şekilde yapabilirsiniz.
+
+---
+
+# 🔹 EXCHANGE ONE
+
+[B]Exchange One[/B] seçeneği ile itemleri tek tek kırdırabilirsiniz.
+
+Yani:
+
+[B]1 adet item → 1 adet kırdırma işlemi[/B]
+
+mantığıyla çalışır.
+
+Tek tek kontrol ederek işlem yapmak isteyen oyuncular için uygundur.
+
+---
+
+# 🔸 EXCHANGE ALL
+
+[B]Exchange All[/B] seçeneği ile inventory'nizde bulunan itemleri toplu şekilde kırdırabilirsiniz.
+
+Sistem, inventory'nizde bulunan [B]boş slot miktarı kadar[/B] kırdırma işlemi yapar.
+
+Bu özellik özellikle:
+
+[LIST]
+[*]çok sayıda Gem,
+[*]Fragment,
+[*]kutu,
+[*]benzeri kırdırılabilir item
+[/LIST]
+
+biriktiren oyuncular için büyük zaman kazandırır.
+
+Tek tek tıklamak yerine toplu işlem yapabilirsiniz.
+
+---
+
+# 🚫 İSTEMEDİĞİNİZ ITEMLERİ SEÇİN
+
+Kırdırma sonucunda gelen itemlerden birini istemiyorsanız:
+
+[B]İteme sağ tıklayarak karartabilirsiniz.[/B]
+
+Karartılan item, alt tarafta seçmiş olduğunuz işleme göre otomatik olarak değerlendirilir.
+
+Yani sistem o itemi normal şekilde inventory'nize almak yerine sizin belirlediğiniz işlemi uygular.
+
+---
+
+# 💰 SELL — DİREKT SATIŞ
+
+[B]Sell[/B] seçeneği aktifken kararttığınız itemler doğrudan satılır.
+
+Bu işlem:
+
+[B]Sundries'e satış yapıyormuşsunuz gibi[/B]
+
+çalışır.
+
+### 💵 SATIŞ BİRİM FİYATI
+
+Itemin üzerine geldiğinizde:
+
+[B]Satış Birim Fiyatı[/B]
+
+görüntülenir.
+
+Böylece itemi Sell olarak işaretlemeden önce ne kadar coin kazanacağınızı görebilirsiniz.
+
+Kırdırma sırasında gereksiz gördüğünüz itemleri direkt coin'e çevirmek için kullanabilirsiniz.
+
+---
+
+# 🏦 STORAGE — BANKAYA GÖNDER
+
+[B]Storage[/B] seçeneği aktifken karartılmış item:
+
+[B]doğrudan bankanıza gönderilir.[/B]
+
+Bu sistem özellikle saklamak istediğiniz ama inventory'nizde yer kaplamasını istemediğiniz itemlerde oldukça kullanışlıdır.
+
+Yani:
+
+[B]Kırdır → Item çıksın → Otomatik bankaya gitsin[/B]
+
+mantığıyla çalışır.
+
+---
+
+# 🗑️ TRASH — ÇÖPE AT
+
+[B]Trash[/B] seçeneği aktifken kararttığınız itemler direkt olarak silinir.
+
+### ⚠️ DİKKAT
+
+Trash işlemi sonucunda:
+
+[B]Coin kazanılmaz.[/B]
+
+Item tamamen çöpe atılır ve karşılığında herhangi bir ödeme alınmaz.
+
+Bu yüzden Trash seçeneğini kullanırken itemlerinizi dikkatli seçmeniz önerilir.
+
+---
+
+# 🎯 KARARTILAN ITEM NASIL İŞLENİR?
+
+Sistem oldukça basit çalışır.
+
+Önce istemediğiniz iteme:
+
+[B]Sağ tıklayın → Item kararsın[/B]
+
+Ardından alt bölümden hangi işlemin uygulanacağını seçin:
+
+### 💰 SELL
+
+Itemi sat ve coin kazan.
+
+### 🏦 STORAGE
+
+Itemi bankaya gönder.
+
+### 🗑️ TRASH
+
+Itemi tamamen sil.
+
+Kararttığınız itemler kırdırma sonucunda geldiğinde seçtiğiniz işlem otomatik olarak uygulanır.
+
+---
+
+# ⚡ SİSTEMİN AVANTAJLARI
+
+SexyKO Chaotic Generator sistemi sayesinde:
+
+[LIST]
+[*]itemleri tek tek kırdırabilirsiniz,
+[*]toplu şekilde kırdırabilirsiniz,
+[*]gereksiz itemleri otomatik satabilirsiniz,
+[*]değerli itemleri bankaya gönderebilirsiniz,
+[*]istemediğiniz itemleri çöpe atabilirsiniz,
+[*]inventory yönetimini çok daha kolay hale getirebilirsiniz.
+[/LIST]
+
+---
+
+# 📌 KISACASI
+
+[B]Exchange One[/B] → 1 adet kırdır  
+[B]Exchange All[/B] → Boş inventory slotu kadar toplu kırdır
+
+İstemediğin iteme:
+
+[B]Sağ tıkla → Karart[/B]
+
+Ardından:
+
+[B]💰 Sell[/B] → Sat  
+[B]🏦 Storage[/B] → Bankaya gönder  
+[B]🗑️ Trash[/B] → Çöpe at
+
+---
+
+# 🔥 SEXYKO CHAOTIC GENERATOR SİSTEMİ
+
+[B]Kırdır • Filtrele • Sat • Bankaya gönder • Gereksizi çöpe at[/B]
+
+### ♻️ DAHA HIZLI, DAHA TEMİZ, DAHA KONTROLLÜ ITEM YÖNETİMİ!

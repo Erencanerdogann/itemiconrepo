@@ -1,0 +1,81 @@
+📅 SEXYKO DAILY QUEST SİSTEMİ
+
+[IMG]https://i.hizliresim.com/a329ssdm.png[/IMG]
+
+# 📅 SEXYKO DAILY QUEST SİSTEMİ
+
+SexyKO'da bulunan [B]Daily Quest Sistemi[/B] sayesinde günlük görevlerinizi tek bir pencere üzerinden takip edebilir, görevleri aktif edip süre dolmadan tamamlayarak ödüllerinizi otomatik şekilde alabilirsiniz.
+
+---
+
+## 📍 DAILY QUEST PENCERESİNE NASIL ULAŞILIR?
+
+Oyun ekranının [B]sol alt kısmında bulunan işaretli bölüme[/B] tıkladığınızda Daily Quest penceresi açılır.
+
+[IMG]https://i.hizliresim.com/0wojvwfh.png[/IMG]
+
+Bu pencere üzerinden mevcut günlük görevleri görebilir, hangi görevlerin aktif olduğunu inceleyebilirsiniz.
+
+---
+
+## 📋 GÖREV DETAYLARINI GÖRÜNTÜLEME
+
+Görev listesindeki [B]Detail[/B] seçeneğine tıkladığınızda görev penceresi açılır.
+
+[IMG]https://i.hizliresim.com/5ajykozw.png[/IMG]
+
+Bu bölümde görevin:
+
+[LIST]
+[*]ne istediğini,
+[*]süresini,
+[*]ilerleme durumunu,
+[*]ödülünü
+[/LIST]
+
+görebilirsiniz.
+
+---
+
+## ✅ GÖREV NASIL AKTİF EDİLİR?
+
+Görevi başlatmak için:
+
+[B]1️⃣[/B] Daily Quest penceresini açın.  
+[B]2️⃣[/B] İlgili görevin [B]Detail[/B] bölümüne girin.  
+[B]3️⃣[/B] [B]Accept[/B] butonuna tıklayın.  
+[B]4️⃣[/B] Görev süresi başlar.
+
+Bu noktadan sonra görevi belirtilen süre içerisinde tamamlamanız gerekir.
+
+---
+
+## ⏳ SÜREYE DİKKAT
+
+Daily Quest görevleri süreli çalışır.
+
+[B]Accept[/B] butonuna bastığınız anda görev süresi başlar.
+
+Görevi süre dolmadan tamamlamanız gerekir.
+
+Süre içerisinde gerekli şartları tamamladığınızda sistem ilerlemenizi otomatik olarak takip eder.
+
+---
+
+## 🎁 ÖDÜL NASIL ALINIR?
+
+Görevi başarıyla tamamladığınızda ödülünüzü ayrıca NPC'den almaya gitmenize gerek yoktur.
+
+[B]Görev tamamlandığında ödülünüz otomatik olarak hesabınıza / karakterinize tanımlanır.[/B]
+
+Bu sayede görev süreci tamamen oyun içinden ve hızlı şekilde tamamlanır.
+
+---
+
+## ✅ KISACASI
+
+[B]Sol alttaki Daily Quest ikonuna tıkla → Görevini seç → Detail'e gir → Accept'e bas → Süre dolmadan tamamla → Ödülünü otomatik al[/B]
+
+# 🔥 SEXYKO DAILY QUEST SİSTEMİ
+
+[B]Görevini seç • Süreni başlat • Tamamla • Ödülünü al![/B]

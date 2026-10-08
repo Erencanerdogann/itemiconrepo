@@ -1,0 +1,112 @@
+🎯 SEXYKO DROP INFO SİSTEMİ
+
+[IMG]https://i.hizliresim.com/hpwqad1d.png[/IMG]
+
+# 🎯 SEXYKO DROP INFO SİSTEMİ
+
+SexyKO'da bulunan [B]Drop Info Sistemi[/B] sayesinde bir mobdan hangi itemlerin düştüğünü, hangi itemin hangi mobdan çıktığını ve drop oranlarını oyun içerisinden kolayca görüntüleyebilirsiniz.
+
+Ayrıca istemediğiniz dropları engelleyerek [B]Auto Loot sisteminin o itemleri toplamamasını[/B] sağlayabilirsiniz.
+
+---
+
+## 🐺 MOB ÜZERİNDEN DROP GÖRÜNTÜLEME
+
+Bir moba tıkladığınızda alt bölümde açılan [B]Drop Info kutusuna[/B] tıklayarak o mobdan düşebilecek itemleri görüntüleyebilirsiniz.
+
+[IMG]https://i.hizliresim.com/2httj0jl.png[/IMG]
+
+Bu pencere üzerinden:
+
+[LIST]
+[*]mobdan düşen itemleri görebilir,
+[*]diğer mobları aratarak droplarını inceleyebilir,
+[*]istemediğiniz itemleri filtreleyebilirsiniz.
+[/LIST]
+
+---
+
+## 🚫 İSTEMEDİĞİNİZ ITEMLERİ ENGELLEME
+
+Drop listesindeki bir itemi almak istemiyorsanız iteme [B]sağ tıklayarak karartabilirsiniz.[/B]
+
+Karartılan itemler:
+
+[B]Auto Loot tarafından toplanmaz.[/B]
+
+Bu özellik özellikle farm sırasında gereksiz itemlerin inventory doldurmasını engellemek için oldukça kullanışlıdır.
+
+---
+
+## 🔎 ITEM İSMİNDEN DROP ARAMA
+
+Drop Info sisteminin üst bölümünde bulunan arama alanına item ismini yazarak, o itemin hangi moblardan düştüğünü görüntüleyebilirsiniz.
+
+[IMG]https://i.hizliresim.com/jcl36kou.png[/IMG]
+
+Arama sonucunda:
+
+[LIST]
+[*]itemin düştüğü mobları,
+[*]drop oranlarını,
+[*]yüzde olarak düşme ihtimalini
+[/LIST]
+
+net şekilde görebilirsiniz.
+
+Böylece bir item için hangi mobu kesmeniz gerektiğini tek tek araştırmanıza gerek kalmaz.
+
+---
+
+## 📊 DROP ORANLARINI NET GÖRÜN
+
+Item arama sistemi sayesinde yalnızca mob ismini değil, drop oranını da doğrudan görebilirsiniz.
+
+Örneğin bir item için:
+
+[B]Mob Adı → Drop Oranı %[/B]
+
+şeklinde bilgi gösterilir.
+
+Bu sayede hangi slotun sizin için daha verimli olduğunu daha kolay belirleyebilirsiniz.
+
+---
+
+## 🧱 BLOCKED ITEM LİSTESİ
+
+Engellediğiniz itemleri daha sonra [B]Blocked[/B] bölümünden görüntüleyebilirsiniz.
+
+[IMG]https://i.hizliresim.com/xnkfmqwj.png[/IMG]
+
+Bu bölümde:
+
+[LIST]
+[*]daha önce engellediğiniz itemleri görebilir,
+[*]engeli kaldırmak istediğiniz itemleri listeden silebilirsiniz.
+[/LIST]
+
+Yani yanlışlıkla bir itemi engellediyseniz tekrar aktif hale getirmeniz mümkündür.
+
+---
+
+## ✅ KISACASI
+
+[B]Mob'a tıkla → Drop Info'yu aç → Dropları gör[/B]
+
+veya
+
+[B]Item adını yaz → Hangi mobdan düştüğünü ve oranını öğren[/B]
+
+İstemediğiniz drop varsa:
+
+[B]Iteme sağ tıkla → Block et → Auto Loot artık toplamasın[/B]
+
+Yanlış blokladıysan:
+
+[B]Blocked bölümüne gir → Listeden kaldır[/B]
+
+---
+
+# 🔥 SEXYKO DROP INFO SİSTEMİ
+
+[B]Dropunu gör • Oranını öğren • İstemediğini engelle • Farmını temiz tut![/B]

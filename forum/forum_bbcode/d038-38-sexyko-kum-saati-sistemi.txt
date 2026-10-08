@@ -1,0 +1,109 @@
+⏳ SEXYKO KUM SAATİ SİSTEMİ
+
+[IMG]https://i.hizliresim.com/timxkd6a.png[/IMG]
+
+# ⏳ SEXYKO KUM SAATİ SİSTEMİ
+
+SexyKO'da bulunan [B]Kum Saati Sistemi[/B], oyun içerisindeki etkinlikleri anlık olarak takip edebilmeniz ve hiçbir etkinliği kaçırmamanız için hazırlanmıştır.
+
+Bu sistem sayesinde hangi etkinliğin ne zaman başlayacağını kolayca görebilir, detaylarını inceleyebilir ve isterseniz etkinlik başlamadan önce bildirim kurabilirsiniz.
+
+---
+
+## 📍 KUM SAATİ NEREDE?
+
+Kum saati simgesi oyun ekranının [B]sağ üst bölümünde[/B] yer almaktadır.
+
+Bu simge üzerinden oyun içerisindeki etkinlikleri hızlıca kontrol edebilir ve detaylı etkinlik penceresine ulaşabilirsiniz.
+
+---
+
+## 🖱️ ÜZERİNE GELDİĞİNİZDE ANLIK EVENT BİLGİSİ
+
+Kum saatinin üzerine geldiğinizde, o anda görüntüleyebileceğiniz [B]bilgi penceresi (Info)[/B] açılır.
+
+[IMG]https://i.hizliresim.com/jazlowwg.png[/IMG]
+
+Bu pencere sayesinde:
+
+[LIST]
+[*]aktif veya yaklaşan eventleri görebilir,
+[*]etkinlik saatlerini hızlı şekilde kontrol edebilir,
+[*]oyun içerisinden çıkmadan anlık bilgi alabilirsiniz.
+[/LIST]
+
+Bu özellik özellikle “şimdi hangi event var?” sorusunun cevabını hızlıca almak için oldukça kullanışlıdır.
+
+---
+
+## ⏰ KUM SAATİNE TIKLADIĞINIZDA DETAYLI EVENT PENCERESİ AÇILIR
+
+Kum saatine tıkladığınızda, etkinlikleri daha detaylı şekilde görüntüleyebileceğiniz tam pencere açılır.
+
+[IMG]https://i.hizliresim.com/8bo7xytw.png[/IMG]
+
+Bu pencere üzerinden:
+
+[LIST]
+[*]hangi eventin ne zaman başlayacağını,
+[*]etkinliklerin saatlerini,
+[*]yaklaşan etkinlikleri,
+[*]etkinlik sıralamasını
+[/LIST]
+
+detaylı şekilde görebilirsiniz.
+
+Böylece tek tek event saatlerini ezberlemenize gerek kalmadan tüm bilgilere tek ekrandan ulaşabilirsiniz.
+
+---
+
+## 🔔 5 DAKİKA KALA BİLDİRİM KURABİLİRSİNİZ
+
+Kum Saati sisteminin en kullanışlı özelliklerinden biri de [B]bildirim / alarm sistemi[/B]dir.
+
+İstediğiniz event için:
+
+[B]Etkinliğe 5 dakika kala bildirim kurabilirsiniz.[/B]
+
+Bu sayede:
+
+[LIST]
+[*]event saatini kaçırmazsınız,
+[*]hazırlığınızı önceden yapabilirsiniz,
+[*]pot, skill, party ve diğer hazırlıklarınızı zamanında tamamlayabilirsiniz.
+[/LIST]
+
+Özellikle yoğun oynayan ve aynı anda birden fazla işle uğraşan oyuncular için bu özellik büyük kolaylık sağlar.
+
+---
+
+## 🎯 KUM SAATİ SİSTEMİ NE İŞE YARAR?
+
+Bu sistemin temel amacı, oyuncuların oyun içi etkinlikleri çok daha rahat takip edebilmesini sağlamaktır.
+
+Sistem sayesinde:
+
+[LIST]
+[*]event saatlerini öğrenebilirsiniz,
+[*]yaklaşan etkinlikleri anlık görebilirsiniz,
+[*]detaylı event penceresine ulaşabilirsiniz,
+[*]bildirim kurarak etkinlikleri kaçırmazsınız.
+[/LIST]
+
+Kısacası bu sistem, [B]oyun içi etkinlik takibini çok daha düzenli ve pratik hale getirir.[/B]
+
+---
+
+## ✅ KISACASI
+
+[B]Sağ üstteki kum saatinin üzerine gel → Anlık event bilgisini gör[/B]  
+[B]Kum saatine tıkla → Detaylı etkinlik penceresini aç[/B]  
+[B]İstediğin eventi seç → 5 dakika kala bildirim kur[/B]
+
+---
+
+# 🔥 SEXYKO KUM SAATİ SİSTEMİ
+
+[B]Eventlerini takip et • Saatleri öğren • Bildirim kur • Hiçbir etkinliği kaçırma![/B]
+
+SexyKO Kum Saati Sistemi ile tüm etkinlikler artık elinizin altında.

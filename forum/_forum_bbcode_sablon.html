@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Forum BBCode Arşivi</title>
+<!-- URETICI: FORUM/_forum_bbcode.py (veri /*VERI*/ yerine gomulur). Elle duzenleme -> sonraki calistirma ezer. -->
+<style>
+:root{--bg:#f3f4f8;--kart:#fff;--cizgi:#e2e4ec;--yazi:#1f2330;--soluk:#6b7080;--altin:#b7860b;--altin2:#8a6400;--kirmizi:#c62828;--yesil:#2e7d32;--turuncu:#e07b00}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--yazi);font:15px/1.5 "Segoe UI",system-ui,sans-serif}
+.sar{max-width:1120px;margin:0 auto;padding:22px 16px 60px}
+h1{font-size:24px;margin:0 0 4px}
+.meta{color:var(--soluk);font-size:14px;margin-bottom:10px}
+.bilgi{background:var(--kart);border:1px solid var(--cizgi);border-radius:10px;padding:10px 14px;font-size:14px;color:#3a3f50;margin-bottom:14px}
+.bilgi b{color:var(--altin2)}
+.arac{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:10px}
+input[type=search]{flex:1;min-width:220px;padding:10px 12px;border:1px solid var(--cizgi);border-radius:8px;font-size:15px;background:#fff}
+button,.btn{font:inherit;font-size:14px;padding:7px 12px;border-radius:8px;border:1px solid var(--cizgi);background:#fff;color:var(--yazi);cursor:pointer;text-decoration:none;white-space:nowrap}
+button:hover,.btn:hover{border-color:var(--altin)}
+button.on{background:var(--altin);border-color:var(--altin);color:#fff;font-weight:600}
+button.ana{background:var(--altin);border-color:var(--altin);color:#fff;font-weight:600}
+.etk{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:14px}
+.etk button{font-size:13px;padding:5px 10px}
+label.sec{font-size:14px;display:flex;gap:6px;align-items:center;cursor:pointer}
+.say{color:var(--soluk);font-size:13px;margin:0 0 8px}
+details.konu{background:var(--kart);border:1px solid var(--cizgi);border-radius:10px;margin-bottom:8px}
+details.konu[open]{border-color:#d9c48f}
+summary{list-style:none;cursor:pointer;padding:10px 14px;display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+summary::-webkit-details-marker{display:none}
+.no{font-weight:700;color:#fff;background:#4a5068;border-radius:6px;padding:2px 8px;font-size:13px;flex:none}
+.bas{font-weight:600;flex:1;min-width:200px}
+.cip{font-size:12px;padding:2px 8px;border-radius:20px;background:#eef0f6;color:#4a5068;white-space:nowrap}
+.cip.k{background:#fdecea;color:var(--kirmizi);font-weight:600}
+.cip.t{background:#fff3e0;color:var(--turuncu);font-weight:600}
+.cip.s{background:#f1f8e9;color:var(--yesil)}
+.ic{padding:0 14px 14px;border-top:1px solid var(--cizgi)}
+.ust{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:12px 0 4px;color:var(--soluk);font-size:13px}
+.ms{margin-top:12px}
+.msb{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:6px;font-size:14px}
+.msb .y{font-weight:600}
+.ok{color:var(--yesil);font-weight:600}.hata{color:var(--kirmizi);font-weight:600}
+textarea{width:100%;min-height:220px;resize:vertical;font:13px/1.45 Consolas,"Cascadia Mono",monospace;padding:10px;border:1px solid var(--cizgi);border-radius:8px;background:#fafbfd;color:#222}
+.kopyalandi{background:var(--yesil)!important;border-color:var(--yesil)!important;color:#fff!important}
+.bos{padding:30px;text-align:center;color:var(--soluk)}
+@media (max-width:600px){h1{font-size:20px}.bas{min-width:0;flex-basis:100%}textarea{min-height:180px}}
+</style>
+</head>
+<body>
+<div class="sar">
+  <h1>📜 SexyKO — Forum BBCode Arşivi</h1>
+  <div class="meta" id="meta"></div>
+  <div class="bilgi">
+    forum.sexyko.com'daki <b>bütün konular</b> (herkese açık) — her mesajın BBCode'u. Forum ham BBCode'u herkese vermediği için <b>forum görünümünden geri çevrildi</b>:
+    yapıştırınca forumda <b>aynı görünür</b> (yazım birebir olmayabilir — ör. Markdown <code>**kalın**</code> → <code>[B]</code>). Flarum'da <b>[SIZE=n] = n piksel</b>.
+    Rozetler: <span class="cip k">küçük yazı</span> en küçük yazı 13 px altı · <span class="cip k">kırık resim</span> 8 Eki arşivinde 404 · <span class="cip t">sade</span> renk / ortalama yok.
+  </div>
+  <div class="arac">
+    <input type="search" id="ara" placeholder="Başlıkta veya BBCode içinde ara…">
+    <label class="sec"><input type="checkbox" id="sorunlu"> sadece sorunlu</label>
+    <button type="button" id="ac">Hepsini aç</button>
+    <button type="button" id="kapa">Hepsini kapat</button>
+  </div>
+  <div class="etk" id="etk"></div>
+  <p class="say" id="say"></p>
+  <div id="liste"></div>
+</div>
+<script>
+const V = /*VERI*/null;
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}[c]));
+const sayi = n => n.toLocaleString("tr-TR");
+let secEtk = "Tümü";
+
+function rozetler(k) {
+  const r = [];
+  if (k.kalite.kucuk > 0) r.push(`<span class="cip k">küçük yazı · ${k.kalite.min_px} px</span>`);
+  if (k.kirik_resim && k.kirik_resim[0] > 0) r.push(`<span class="cip k">kırık resim ${k.kirik_resim[0]}/${k.kirik_resim[1]}</span>`);
+  if (k.mesajlar.some(m => !m.butunluk)) r.push(`<span class="cip k">çeviri kontrol ❌</span>`);
+  if (!k.kalite.renkli && !k.kalite.ortali) r.push(`<span class="cip t">sade</span>`);
+  return r;
+}
+const sorunlu = k => k.kalite.kucuk > 0 || (k.kirik_resim && k.kirik_resim[0] > 0) || k.mesajlar.some(m => !m.butunluk);
+
+function kopyala(metin, btn) {
+  const bitti = () => { const e = btn.textContent; btn.classList.add("kopyalandi"); btn.textContent = "Kopyalandı ✓"; setTimeout(() => { btn.classList.remove("kopyalandi"); btn.textContent = e; }, 1400); };
+  if (navigator.clipboard && window.isSecureContext) navigator.clipboard.writeText(metin).then(bitti, () => eski(metin, bitti));
+  else eski(metin, bitti);
+}
+function eski(metin, bitti) {
+  const t = document.createElement("textarea"); t.value = metin; t.style.position = "fixed"; t.style.opacity = "0";
+  document.body.appendChild(t); t.select(); try { document.execCommand("copy"); bitti(); } catch (e) {} t.remove();
+}
+
+function icDoldur(det, k) {
+  if (det.dataset.dolu) return; det.dataset.dolu = "1";
+  const ic = det.querySelector(".ic");
+  const tum = k.mesajlar.map(m => (k.mesajlar.length > 1 ? `===== MESAJ #${m.no} — ${m.yazar} =====\n\n` : "") + m.bbcode).join("\n\n");
+  let h = `<div class="ust"><span>Açılış ${esc(k.acilis)} · ${esc(k.yazar)} · ${k.mesaj_sayisi} mesaj</span>
+    <button type="button" data-k="baslik">Başlığı kopyala</button>${k.mesajlar.length > 1 ? '<button type="button" data-k="tum">Hepsini kopyala</button>' : ""}
+    <a class="btn" href="${esc(k.url)}" target="_blank" rel="noopener">Forumda aç ↗</a></div>`;
+  k.mesajlar.forEach((m, i) => {
+    h += `<div class="ms"><div class="msb"><span class="y">Mesaj #${m.no}</span><span>${esc(m.yazar)} · ${esc(m.tarih)}${m.duzenleme ? " · düzenleme " + esc(m.duzenleme) : ""}</span>
+      <span>${sayi(m.uzunluk)} karakter</span><span class="${m.butunluk ? "ok" : "hata"}" title="yazı ${m.olcum.yazi.join("/")} · resim ${m.olcum.resim.join("/")} · link ${m.olcum.link.join("/")} (forum / BBCode)">${m.butunluk ? "✓ forumla aynı" : "✗ kontrol et"}</span>
+      <button type="button" class="ana" data-m="${i}">BBCode kopyala</button></div>
+      <textarea readonly spellcheck="false">${esc(m.bbcode)}</textarea></div>`;
+  });
+  ic.innerHTML = h;
+  ic.addEventListener("click", e => {
+    const b = e.target.closest("button"); if (!b) return;
+    if (b.dataset.k === "baslik") kopyala(k.baslik, b);
+    else if (b.dataset.k === "tum") kopyala(tum, b);
+    else if (b.dataset.m !== undefined) kopyala(k.mesajlar[+b.dataset.m].bbcode, b);
+  });
+}
+
+function ciz() {
+  const q = $("#ara").value.trim().toLocaleLowerCase("tr-TR"), sadece = $("#sorunlu").checked;
+  const L = V.konular.filter(k => (secEtk === "Tümü" || k.etiketler.includes(secEtk)) && (!sadece || sorunlu(k)) &&
+    (!q || k.baslik.toLocaleLowerCase("tr-TR").includes(q) || ("d/" + k.id) === q || k.mesajlar.some(m => m.bbcode.toLocaleLowerCase("tr-TR").includes(q))));
+  $("#say").textContent = `${L.length} / ${V.konu} konu gösteriliyor`;
+  const liste = $("#liste");
+  if (!L.length) { liste.innerHTML = '<div class="bos">Eşleşen konu yok.</div>'; return; }
+  liste.innerHTML = L.map(k => `<details class="konu" data-id="${k.id}"><summary><span class="no">d/${k.id}</span><span class="bas">${esc(k.baslik)}</span>
+    ${k.etiketler.map(t => `<span class="cip">${esc(t)}</span>`).join("")}<span class="cip">${k.mesaj_sayisi} mesaj · ${sayi(k.mesajlar.reduce((a, m) => a + m.uzunluk, 0))} kr.</span>${rozetler(k).join("")}</summary><div class="ic"></div></details>`).join("");
+  liste.querySelectorAll("details.konu").forEach(d => d.addEventListener("toggle", () => { if (d.open) icDoldur(d, V.konular.find(k => k.id === +d.dataset.id)); }));
+}
+
+function etiketler() {
+  const say = {}; V.konular.forEach(k => k.etiketler.forEach(t => say[t] = (say[t] || 0) + 1));
+  const T = [["Tümü", V.konu], ...Object.entries(say).sort((a, b) => b[1] - a[1])];
+  $("#etk").innerHTML = T.map(([t, n]) => `<button type="button" data-t="${esc(t)}" class="${t === secEtk ? "on" : ""}">${esc(t)} (${n})</button>`).join("");
+  $("#etk").onclick = e => { const b = e.target.closest("button"); if (!b) return; secEtk = b.dataset.t; etiketler(); ciz(); };
+}
+
+$("#meta").textContent = `${V.konu} konu · ${V.mesaj} mesaj · çekim ${V.zaman}` + (V.bozuk ? ` · ⚠ ${V.bozuk} mesajda çeviri kontrolü tutmadı` : " · çeviri kontrolü: hepsi forumla aynı ✓");
+$("#ara").addEventListener("input", ciz);
+$("#sorunlu").addEventListener("change", ciz);
+$("#ac").onclick = () => document.querySelectorAll("details.konu").forEach(d => d.open = true);
+$("#kapa").onclick = () => document.querySelectorAll("details.konu").forEach(d => d.open = false);
+etiketler(); ciz();
+</script>
+</body>
+</html>

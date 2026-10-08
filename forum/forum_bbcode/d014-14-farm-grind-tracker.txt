@@ -1,0 +1,107 @@
+⚔️ FARM GRIND TRACKER
+
+[IMG]https://i.hizliresim.com/mfvy98vx.png[/IMG]
+
+# 📊 SEXYKO FARM GRIND TRACKER SİSTEMİ
+
+SexyKO'da bulunan [B]Farm Grind Tracker[/B] sistemi sayesinde farm sırasında elde ettiğiniz kazançları anlık olarak takip edebilirsiniz.
+
+Sistem, özellikle uzun süre farm yapan oyuncular için ne kadar kazanç elde edildiğini ve farm verimliliğini tek ekrandan görmenizi sağlar.
+
+---
+
+## 📍 FARM GRIND TRACKER NASIL AÇILIR?
+
+Oyun ekranında bulunan [B]Farm Grind Tracker ikonuna[/B] tıklayarak sistemi açabilirsiniz.
+
+[IMG]https://i.hizliresim.com/u0y9qmss.png[/IMG]
+
+İkona tıkladığınızda farm istatistiklerinizi gösteren detaylı pencere açılır.
+
+---
+
+# 📈 FARM BİLGİLERİNİ ANLIK TAKİP EDİN
+
+Farm Grind Tracker ekranı üzerinden farm süreniz boyunca elde ettiğiniz kazançları takip edebilirsiniz.
+
+[IMG]https://i.hizliresim.com/9ykskdyf.png[/IMG]
+
+Sistem üzerinden:
+
+[LIST]
+[*][B]Toplam farm süresini[/B]
+[*][B]Toplam kazanılan Coin miktarını[/B]
+[*][B]Düşen itemleri[/B]
+[*][B]Item adetlerini[/B]
+[*][B]Saatlik ortalama Coin kazancını[/B]
+[*][B]Saatlik ortalama düşen item adetlerini[/B]
+[/LIST]
+
+görebilirsiniz.
+
+---
+
+# 💰 SAATLİK ORTALAMA COIN
+
+Yeni sistemle birlikte artık sadece toplam kazancınızı değil, farm yaptığınız süreye göre:
+
+### [B]Saatlik ortalama Coin kazancınızı[/B]
+
+da görebilirsiniz.
+
+Bu sayede bulunduğunuz slotun ne kadar kazandırdığını çok daha kolay anlayabilirsiniz.
+
+Örneğin uzun süre farm yaptıktan sonra sistem, mevcut kazancınıza göre yaklaşık olarak [B]1 saatte ne kadar Coin kazanacağınızı[/B] otomatik hesaplar.
+
+---
+
+# 🎁 SAATLİK ORTALAMA ITEM ADEDİ
+
+Yeni eklenen bir diğer özellik ise:
+
+### [B]Saatlik ortalama item düşme adedi[/B]
+
+bilgisidir.
+
+Farm sırasında düşen itemlerin mevcut süreye göre ortalama olarak [B]1 saatte kaç adet düşeceğini[/B] görebilirsiniz.
+
+Bu özellik sayesinde farklı farm slotlarını çok daha kolay karşılaştırabilirsiniz.
+
+---
+
+# 🎯 FARM VERİMLİLİĞİNİ ÖLÇÜN
+
+Farm Grind Tracker sayesinde artık:
+
+[B]Bu slot saatte ne kadar Coin bırakıyor?[/B]
+
+ve
+
+[B]Bu itemden saatte ortalama kaç tane düşüyor?[/B]
+
+sorularının cevabını doğrudan oyun içerisinden görebilirsiniz.
+
+Ekstra hesap yapmanıza gerek kalmaz.
+
+---
+
+# ✅ KISACASI
+
+SexyKO Farm Grind Tracker ile:
+
+[LIST]
+[*]Farm sürenizi takip edin
+[*]Toplam Coin kazancınızı görün
+[*]Düşen itemleri ve adetlerini kontrol edin
+[*][B]Saatlik ortalama Coin kazancınızı görün[/B]
+[*][B]Saatlik ortalama item adetlerini takip edin[/B]
+[*]Farm yaptığınız slotun verimliliğini kolayca ölçün
+[/LIST]
+
+---
+
+# 🔥 SEXYKO FARM GRIND TRACKER
+
+[B]Farmını yap • Kazancını takip et • Saatlik verimini gör[/B]
+
+### 📊 NE KADAR KAZANDIĞINI ARTIK TAHMİN ETME, OYUN İÇİNDEN GÖR!

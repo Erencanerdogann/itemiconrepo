@@ -1,0 +1,208 @@
+⚔️ SEXYKO SKILL PRESET & QUICK SLOT SİSTEMİ
+
+# ⚔️ SEXYKO SKILL PRESET & QUICK SLOT SİSTEMİ
+
+SexyKO'da bulunan [B]Skill Preset[/B] ve [B]Quick Slot[/B] sistemi sayesinde karakterinizin skill puanlarını ve skill bar dizilimlerini ayrı ayrı kaydedebilir, ihtiyaç duyduğunuz anda hızlıca değiştirebilirsiniz.
+
+Bu sistem özellikle PK, farm, party veya farklı oyun stilleri arasında sık geçiş yapan oyuncular için büyük kolaylık sağlar.
+
+---
+
+## 📍 SKILL PENCERESİNE NASIL ULAŞILIR?
+
+Oyunda [B]K[/B] tuşuna bastığınızda Skill penceresi açılır.
+
+Bu pencere üzerinden:
+
+[LIST]
+[*]Skill puanlarınızı yönetebilir,
+[*]Preset oluşturabilir,
+[*]Skill dağılımınızı kaydedebilir,
+[*]Quick Slot düzenlerinizi oluşturabilir,
+[*]Kayıtlı düzenler arasında hızlıca geçiş yapabilirsiniz.
+[/LIST]
+
+[IMG]https://i.hizliresim.com/hjkgyzyz.png[/IMG]
+
+---
+
+# 🧠 01 — SKILL PRESET SİSTEMİ
+
+[B]Preset Sistemi[/B], verdiğiniz skill puanlarını kayıt altına almanızı sağlar.
+
+Örneğin karakteriniz için farklı kullanım düzenleri oluşturabilirsiniz:
+
+[LIST]
+[*]PK düzeni
+[*]Farm düzeni
+[*]Party düzeni
+[*]Solo kullanım düzeni
+[/LIST]
+
+Skill puanlarınızı bir kez hazırladıktan sonra Preset olarak kaydedebilirsiniz.
+
+Daha sonra [B]Edit[/B] seçeneği üzerinden mevcut Preset'i düzenleyebilir ve tekrar kaydedebilirsiniz.
+
+Böylece her seferinde skill puanlarını baştan dağıtmak yerine kayıtlı düzeninizi kullanabilirsiniz.
+
+---
+
+## ✏️ EDIT İLE PRESET DÜZENLEME
+
+Mevcut Preset üzerinde değişiklik yapmak istediğinizde:
+
+[B]Edit[/B] seçeneğine tıklayın.
+
+Ardından istediğiniz skill dağılımını oluşturup:
+
+[B]Save[/B]
+
+butonuna basarak yeni düzeninizi kaydedin.
+
+Bu sayede Skill Preset'lerinizi oyun stilinize göre istediğiniz zaman güncelleyebilirsiniz.
+
+---
+
+# ⚡ 02 — SAVE QUICKSLOT SİSTEMİ
+
+Skill puanlarınızı kaydetmenin yanında, skill bar diziliminizi de ayrıca kaydedebilirsiniz.
+
+SexyKO'da toplam:
+
+# 🔥 4 FARKLI QUICK SLOT KAYDI
+
+oluşturabilirsiniz.
+
+Bu sayede farklı kullanım amaçları için 4 ayrı skill bar hazırlayabilirsiniz.
+
+Örneğin:
+
+[B]Quick Slot 1[/B] → PK  
+[B]Quick Slot 2[/B] → Farm  
+[B]Quick Slot 3[/B] → Party  
+[B]Quick Slot 4[/B] → Event
+
+gibi farklı düzenler oluşturabilirsiniz.
+
+---
+
+## 🛠️ QUICK SLOT NASIL KAYDEDİLİR?
+
+Quick Slot bölümünün alt tarafında bulunan [B]Edit[/B] seçeneğine tıklayın.
+
+Aşağıdaki ekran üzerinden skill barınızı istediğiniz şekilde düzenleyebilirsiniz.
+
+[IMG]https://i.hizliresim.com/kdr3oqdi.png[/IMG]
+
+Skilllerinizi istediğiniz sıraya yerleştirdikten sonra:
+
+[B]Save[/B]
+
+butonuna basarak mevcut skill bar düzeninizi kaydedebilirsiniz.
+
+Bundan sonra kayıtlı Quick Slot'u ihtiyacınız olduğunda hızlıca kullanabilirsiniz.
+
+---
+
+# 🏷️ 03 — SKILL TABLONIZA İSİM VERİN
+
+Kaydettiğiniz Skill Preset veya Quick Slot düzenlerini birbirinden daha kolay ayırabilmek için özel isim verebilirsiniz.
+
+[IMG]https://i.hizliresim.com/c0y3kb5i.png[/IMG]
+
+Örneğin:
+
+[LIST]
+[*][B]PK Build[/B]
+[*][B]Farm Build[/B]
+[*][B]JR Build[/B]
+[*][B]BDW Build[/B]
+[*][B]Party Priest[/B]
+[*][B]Solo Build[/B]
+[/LIST]
+
+gibi isimler kullanabilirsiniz.
+
+Bu sayede kayıtlı düzenleriniz arasında geçiş yaparken hangisinin hangi amaçla hazırlandığını kolayca anlayabilirsiniz.
+
+---
+
+# 🔄 04 — ANLIK SKILL DÜZENİ DEĞİŞTİRME
+
+Preset sisteminin en önemli avantajlarından biri, kayıtlı skill dağılımlarınızı hızlı şekilde değiştirebilmenizdir.
+
+Yani:
+
+[B]Skill puanlarını tekrar tekrar elle dağıtmak yerine[/B]
+
+önceden hazırladığınız Preset'i seçerek farklı oyun stiline geçebilirsiniz.
+
+Bu özellik özellikle:
+
+[LIST]
+[*]PK'dan farm'a geçen,
+[*]Farm'dan event'e giren,
+[*]Solo oyundan party oyununa geçen
+[/LIST]
+
+oyuncular için ciddi zaman kazandırır.
+
+---
+
+# 🎯 PRESET VE QUICKSLOT ARASINDAKİ FARK
+
+## 🧠 Skill Preset
+
+Karakterinizin [B]skill puanı dağılımını[/B] kaydeder.
+
+## ⚡ Quick Slot
+
+Skill barınızda bulunan [B]skill dizilimini ve kullanım sırasını[/B] kaydeder.
+
+Yani iki sistem birbirinden farklıdır ama birlikte kullanıldığında çok daha güçlü hale gelir.
+
+---
+
+# ✅ ÖRNEK KULLANIM
+
+Diyelim ki Rogue karakter oynuyorsunuz.
+
+### ⚔️ PK için:
+
+[LIST]
+[*]PK Skill Preset'inizi seçin.
+[*]PK Quick Slot düzeninizi aktif edin.
+[/LIST]
+
+### 🐺 Farm için:
+
+[LIST]
+[*]Farm Skill Preset'inizi seçin.
+[*]Farm Quick Slot düzeninizi kullanın.
+[/LIST]
+
+Böylece skill puanlarını ve barları her defasında baştan hazırlamak zorunda kalmazsınız.
+
+---
+
+# 📌 KISACASI
+
+SexyKO Skill sistemi sayesinde:
+
+[LIST]
+[*][B]K tuşundan Skill ekranına ulaşabilirsiniz.[/B]
+[*]Skill puanlarınızı [B]Preset olarak kaydedebilirsiniz.[/B]
+[*]Preset'lerinizi [B]Edit[/B] ile düzenleyebilirsiniz.
+[*]Skill barlarınızı [B]Save Quickslot[/B] ile kaydedebilirsiniz.
+[*]Toplam [B]4 farklı Quick Slot[/B] oluşturabilirsiniz.
+[*]Kayıtlarınıza özel isim verebilirsiniz.
+[*]Farklı oyun stilleri arasında hızlıca geçiş yapabilirsiniz.
+[/LIST]
+
+---
+
+# 🔥 SEXYKO SKILL PRESET & QUICK SLOT
+
+[B]Skill puanını kaydet • Skill barını oluştur • İsmini ver • Tekrar tekrar uğraşma[/B]
+
+### ⚔️ PK, FARM, PARTY VE EVENT DÜZENLERİNİ TEK SİSTEMDE YÖNET!

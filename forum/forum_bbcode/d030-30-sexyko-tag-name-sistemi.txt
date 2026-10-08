@@ -1,0 +1,78 @@
+🏷️ SEXYKO TAG NAME SİSTEMİ
+
+[IMG]https://i.hizliresim.com/sw2ifdrd.png[/IMG]
+
+SexyKO'da bulunan [B]Tag Name Sistemi[/B] sayesinde karakterinizin üzerinde özel bir isim / tag gösterebilir ve bunu tamamen kendi tarzınıza göre özelleştirebilirsiniz.
+
+Sistem, iteme [B]sağ tıklayarak[/B] kolayca aktif edilir ve ek bir NPC'ye gitmenize gerek kalmaz.
+
+---
+
+## ⚙️ TAG NAME NASIL KULLANILIR?
+
+Tag Name itemine [B]sağ tıklayarak[/B] aşağıdaki ayar penceresini açabilirsiniz.
+
+[IMG]https://i.hizliresim.com/dszmbtqs.png[/IMG]
+
+Bu bölümden karakterinizin üzerinde görünmesini istediğiniz Tag Name'i belirleyebilirsiniz.
+
+Sistem oldukça basit çalışır:
+
+[B]1️⃣ Tag Name itemine sağ tıklayın[/B]  
+[B]2️⃣ Açılan pencereden isminizi belirleyin[/B]  
+[B]3️⃣ Renk ayarınızı yapın[/B]  
+[B]4️⃣ Kaydedip aktif edin[/B]
+
+---
+
+## 🎨 RGB RENK SİSTEMİ
+
+Tag Name'inizi sadece yazı olarak değil, [B]RGB renk sistemi[/B] üzerinden istediğiniz renkte kullanabilirsiniz.
+
+RGB değerlerini değiştirerek:
+
+[LIST]
+[*]kırmızı,
+[*]mavi,
+[*]yeşil,
+[*]mor,
+[*]sarı,
+[*]veya kendi özel renk tonunuzu
+[/LIST]
+
+oluşturabilirsiniz.
+
+Bu sayede karakterinizin üzerindeki Tag Name tamamen size özel bir görünüm kazanır.
+
+---
+
+## 👤 KARAKTER ÜZERİNDE NASIL GÖRÜNÜR?
+
+Ayarladığınız Tag Name, karakterinizin üzerinde doğrudan görüntülenir.
+
+[IMG]https://i.hizliresim.com/iaxg7p2z.png[/IMG]
+
+Böylece oyuncular karakterinizi gördüğünde seçtiğiniz özel tag / isim de karakterinizle birlikte görünür.
+
+Bu sistem özellikle karakterini daha özgün ve dikkat çekici hale getirmek isteyen oyuncular için hazırlanmıştır.
+
+---
+
+## ✅ KISACASI
+
+SexyKO Tag Name sistemi sayesinde:
+
+[LIST]
+[*]iteme [B]sağ tıklayarak[/B] sistemi açabilirsiniz,
+[*]karakteriniz için özel bir Tag Name belirleyebilirsiniz,
+[*]RGB sistemiyle istediğiniz rengi oluşturabilirsiniz,
+[*]seçtiğiniz Tag Name'i karakterinizin üzerinde gösterebilirsiniz.
+[/LIST]
+
+---
+
+# 🔥 SEXYKO TAG NAME SİSTEMİ
+
+[B]İsmini belirle • Rengini seç • Tarzını karakterine yansıt![/B]
+
+[B]Kendi rengin, kendi Tag Name'in, kendi stilin.[/B]

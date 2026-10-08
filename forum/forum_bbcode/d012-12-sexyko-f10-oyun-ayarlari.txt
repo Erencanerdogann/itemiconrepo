@@ -1,0 +1,354 @@
+⚙️ SEXYKO F10 OYUN AYARLARI
+
+[IMG]https://i.hizliresim.com/wgfqtijv.png[/IMG]
+
+[CENTER][SIZE=10][B]⚙️ SEXYKO F10 OYUN AYARLARI[/B][/SIZE]
+
+[SIZE=12][B]🎮 OYUN DENEYİMİNİZİ KENDİNİZE GÖRE ÖZELLEŞTİRİN![/B][/SIZE]
+
+Yeni SexyKO Client ile birlikte oyun içerisindeki birçok detayı artık [B]F10 Oyun Ayarları[/B] üzerinden tamamen kendi tercihinize göre düzenleyebilirsiniz.
+
+Kamera hassasiyetinden FPS limitine, grafiklerden skill efektlerine, loot filtrelerinden bildirimlere ve yazı boyutlarına kadar birçok seçenek tek bir merkezde toplandı.
+
+[B]Oyundayken F10 tuşuna basarak Oyun Ayarları menüsüne ulaşabilirsiniz.[/B][/CENTER]
+
+[B][SIZE=12][B]🎮 01 — OYUN AYARLARI[/B][/SIZE][/B]
+
+[CENTER][IMG]https://i.hizliresim.com/kxvb985n.png[/IMG][/CENTER]
+
+Oyunun temel kullanımını, kamera davranışlarını ve çevresel görünümü bu bölümden kişiselleştirebilirsiniz.
+
+[B]📷 KAMERA[/B]
+
+• [B]Görüş Açısı (FOV):[/B] Kameranın görüş alanını belirler.
+• [B]Döndürme Hassasiyeti:[/B] Kamerayı sağa ve sola çevirirken oluşan hassasiyeti ayarlar.
+• [B]Yakınlaştırma Hassasiyeti:[/B] Kamera yakınlaştırma ve uzaklaştırma hızını belirler.
+• [B]Fare Tekerleği Hassasiyeti:[/B] Mouse tekerleği ile yapılan zoom hareketinin hassasiyetini ayarlar.
+
+[B]🖥️ ARAYÜZ[/B]
+
+• [B]Görev Takip Penceresi:[/B] Aktif görevlerinizi oyun ekranında takip etmenizi sağlar.
+
+[B]🌦️ HAVA DURUMU & GÜNÜN SAATİ[/B]
+
+• Hava durumu efektlerini aktif veya pasif hale getirebilirsiniz.
+• [B]Yoğunluk (%)[/B] seçeneğiyle hava efektlerinin yoğunluğunu ayarlayabilirsiniz.
+• [B]Saat / Dakika[/B] seçenekleriyle oyun içerisindeki zaman görünümünü düzenleyebilirsiniz.
+
+[HR]
+
+[SIZE=12][B]🔊 02 — SES AYARLARI[/B][/SIZE]
+
+[CENTER][IMG]https://i.hizliresim.com/f6s9sswu.png[/IMG][/CENTER]
+
+Oyundaki farklı ses kaynaklarını birbirinden bağımsız olarak kontrol edebilirsiniz.
+
+[B]🎵 ARKAPLAN MÜZİĞİ[/B]
+
+Oyun müziğini açıp kapatabilir ve ses seviyesini ayrı olarak ayarlayabilirsiniz.
+
+[B]🌍 ÇEVRE SESLERİ[/B]
+
+Harita ve çevrede bulunan seslerin seviyesini kontrol edebilirsiniz.
+
+[B]👤 KARAKTER & NPC SESLERİ[/B]
+
+Karakterlerden ve NPC'lerden gelen sesleri ayrı şekilde düzenleyebilirsiniz.
+
+[B]☠️ ÖLDÜRME ANONSLARI[/B]
+
+Öldürme anonslarının sesini aktif veya pasif hale getirebilirsiniz.
+
+[B]🔇 TÜM SESLER[/B]
+
+İsterseniz oyun içerisindeki sesleri tek seferde kapatabilirsiniz.
+
+[HR]
+
+[SIZE=8][B]🖥️ 03 — EKRAN AYARLARI[/B][/SIZE]
+
+[CENTER][IMG]https://i.hizliresim.com/s28ulm5z.png[/IMG][/CENTER]
+
+Oyunun görüntüleme şeklini, çözünürlüğünü, FPS değerlerini ve arayüz ölçeğini bu bölümden kontrol edebilirsiniz.
+
+[B]🪟 PENCERE & VSYNC[/B]
+
+• Pencere görüntüleme seçeneklerini değiştirebilirsiniz.
+• [B]VSync[/B] özelliğini aktif veya pasif hale getirebilirsiniz.
+
+[B]📐 ÇÖZÜNÜRLÜK[/B]
+
+Oyunu monitörünüze uygun çözünürlükte çalıştırabilirsiniz.
+
+[B]🎯 FPS AYARLARI[/B]
+
+• [B]FPS Sınırı:[/B] Maksimum FPS değerini belirler.
+• [B]Arkaplan FPS Limiti:[/B] Oyun arka plandayken kullanılacak FPS değerini belirler.
+• [B]Düşük Güç Modu:[/B] Gereksiz sistem kaynak kullanımını azaltmaya yardımcı olur.
+
+[B]🔍 ARAYÜZ ÖLÇEĞİ[/B]
+
+Arayüz boyutunu farklı ölçeklerde kullanabilirsiniz.
+
+[B]❤️ DURUM ÇUBUĞU[/B]
+
+HP/MP durum çubuğunun görünürlüğünü ve yerleşimini düzenleyebilirsiniz.
+
+[SIZE=12][B]🎨 04 — GRAFİK AYARLARI[/B][/SIZE]
+
+[CENTER][IMG]https://i.hizliresim.com/ma3etkmc.png[/IMG][/CENTER]
+
+Grafik ayarları sayesinde görüntü kalitesi ile performans arasındaki dengeyi kendi sisteminize göre oluşturabilirsiniz.
+
+[B]🌑 KALİTE[/B]
+
+• [B]Gölge:[/B] Gölge kalitesini belirler.
+• [B]Arazi Kalitesi:[/B] Harita ve arazi detaylarının kalitesini ayarlar.
+• [B]Anizotropik Filtreleme:[/B] Uzak yüzeylerde görüntü netliğini artırır.
+
+[B]✨ SON İŞLEM[/B]
+
+• HDR
+• Bloom
+• Keskinlik
+
+gibi görüntü efektlerini kontrol edebilirsiniz.
+
+[B]🧩 KENAR YUMUŞATMA[/B]
+
+• MSAA
+• SMAA
+
+seçenekleriyle görüntüdeki kenarların daha düzgün görünmesini sağlayabilirsiniz.
+
+[B]🚀 AMD FSR 1[/B]
+
+Destekleyen sistemlerde performans odaklı görüntü ölçekleme kullanılabilir.
+
+[B]Mod, Keskinlik ve Dahili Ölçek[/B] seçenekleriyle görüntü kalitesi ve performans arasında istediğiniz dengeyi oluşturabilirsiniz.
+
+[HR]
+
+[SIZE=12][B]🌈 05 — GELİŞMİŞ GRAFİK AYARLARI[/B][/SIZE]
+
+[CENTER][IMG]https://i.hizliresim.com/ine2j1p7.png[/IMG][/CENTER]
+
+Oyunun genel renk atmosferini kendi zevkinize göre değiştirebileceğiniz bölüm.
+
+[B]🎨 RENK DÜZENLEME[/B]
+
+• [B]Kontrast:[/B] Açık ve koyu alanlar arasındaki farkı ayarlar.
+• [B]Doygunluk:[/B] Renklerin canlılığını belirler.
+• [B]Sıcaklık:[/B] Görüntüyü sıcak veya soğuk tonlara taşır.
+• [B]Ton:[/B] Genel renk tonlamasını değiştirir.
+
+[B]🖌️ HAZIR RENK PROFİLLERİ[/B]
+
+• Bölge Varsayılanı
+• Varsayılan
+• Canlı
+• Sinematik
+• Soğuk
+• Ay Işığı
+• Kor
+• Beyazlatılmış
+• Yeşil
+• Özel
+
+Tek tek ayar yapmak istemeyen oyuncular hazır profillerden birini seçerek görüntüyü hızlıca değiştirebilir.
+
+[HR]
+
+[SIZE=12][B]💥 06 — EFEKT AYARLARI[/B][/SIZE]
+
+[CENTER][IMG]https://i.hizliresim.com/4vh5k3o9.png[/IMG][/CENTER]
+
+Özellikle kalabalık savaşlarda ve farm alanlarında ekrandaki görsel karmaşayı azaltmak için detaylı efekt seçenekleri sunuluyor.
+
+[B]✨ EFEKT KONTROLLERİ[/B]
+
+• Silah Efektleri
+• Rebirth Item Parlaması
+• Harita Efektleri
+• Rank Aura Efektleri
+• Kamera Sarsıntısı
+• Ekranda Beliren Hasar Metinleri
+• Coin & Item Metin ve Sembolleri
+• Diğer Karakterlerin Skill Efektleri
+
+[B]👤 OYUNCU İSİMLERİ[/B]
+
+Oyuncu isimlerinin görünürlüğünü kontrol edebilirsiniz.
+
+[B]⚔️ SKILL EFEKTLERİ[/B]
+
+• Tüm Skill Efektlerini Kapat
+• Alan Skill Efektlerini Kapat
+• Heal Skill Efektlerini Kapat
+
+[B]🎚️ EFEKT OPAKLILIĞI[/B]
+
+Efektlerin ekrandaki görünürlük seviyesini ayarlayabilirsiniz.
+
+[B]🎯 ALAN SKILL İŞARETÇİSİ[/B]
+
+Alan skillerinde kullanılacak işaretçi görünümünü değiştirebilirsiniz.
+
+[B]🔵 HEDEF SEMBOLÜ[/B]
+
+Hedef göstergesi için farklı semboller arasından seçim yapabilirsiniz.
+
+[B]💡 Özellikle CZ ve kalabalık savaşlarda gereksiz efektleri kapatarak daha temiz ve anlaşılır bir görüntü elde edebilirsiniz.[/B]
+
+[HR]
+
+[SIZE=8][B]🎮 07 — KONTROL AYARLARI[/B][/SIZE]
+
+[CENTER][IMG]https://i.hizliresim.com/r7jfhr6h.png[/IMG][/CENTER]
+
+Klavye, mouse ve gamepad kullanımını kendi oyun tarzınıza göre düzenleyebilirsiniz.
+
+[B]🎮 GAMEPAD[/B]
+
+• Gamepad Etkin
+• Ölü Bölge
+• Kamera Hassasiyeti
+• Kamera Y Ekseni Ters
+
+[B]⌨️ HAREKET & KONTROL TUŞLARI[/B]
+
+Oyundaki hareket ve çeşitli işlemler için kullanılan tuşları kişiselleştirebilirsiniz.
+
+• İleri Yürü
+• Geri Yürü
+• Sola Dön
+• Sağa Dön
+• Zıpla / Tekme
+• Yürü / Koş
+• Sürekli Hareket
+• Sürekli Saldırı
+• Otur / Kalk
+
+[B]⚡ Tuş değişiklikleri anında kaydedilir.[/B]
+
+[HR]
+
+[SIZE=12][B]🎒 08 — LOOT AYARLARI[/B][/SIZE]
+
+[CENTER][IMG]https://i.hizliresim.com/npd0ov5s.png[/IMG][/CENTER]
+
+Farm yapan oyuncular için en kullanışlı özelliklerden biri olan Loot sistemi sayesinde yerdeki eşyaları farklı kriterlere göre filtreleyebilirsiniz.
+
+[B]💎 ITEM DEĞERİ[/B]
+
+• Magic
+• Rare
+• Craft
+• Unique
+• Upgrade
+
+kategorilerine göre filtreleme yapılabilir.
+
+[B]⬆️ ITEM UPGRADE[/B]
+
+[B]Upgrade +? >=[/B] seçeneği ile belirlediğiniz upgrade seviyesinden itibaren filtreleme yapabilirsiniz.
+
+[B]🛡️ ITEM TÜRÜ[/B]
+
+• Armor
+• Weapon
+• Accessory
+• Scroll
+
+[B]🚫 BLOKLANAN EŞYALAR[/B]
+
+İstemediğiniz itemleri filtreye ekleyebilirsiniz.
+
+[B]📌 Drop penceresindeki item ikonuna sağ tıklayarak eşya ekleyebilirsiniz.[/B]
+
+[B]🪙 ITEM COINS DEĞERİ[/B]
+
+Itemlerin coin değerine göre filtreleme yapabilirsiniz.
+
+[B]🎯 AMAÇ[/B]
+
+Gereksiz dropları azaltmak, değerli eşyaları daha kolay ayırt etmek ve farm sırasında loot yönetimini kolaylaştırmak.
+
+[HR]
+
+[SIZE=12][B]🔔 09 — BİLDİRİM AYARLARI[/B][/SIZE]
+
+[CENTER][IMG]https://i.hizliresim.com/g0di2cq9.png[/IMG][/CENTER]
+
+Oyun içerisinde hangi bildirimleri almak istediğinizi bu bölümden belirleyebilirsiniz.
+
+[B]💡 SİSTEM ÖNERİLERİ[/B]
+
+Sistem tarafından sunulan öneri ve uyarıları kontrol eder.
+
+[B]🛒 SLAVE PAZAR EŞYA SATIŞ BİLDİRİMİ[/B]
+
+Slave pazarınızda bulunan eşyaların satışı hakkında bildirim almanızı sağlar.
+
+[B]⚠️ KRİTİK KAYNAK BİLDİRİMİ[/B]
+
+Arrow, SC, pot gibi kritik kaynaklar azaldığında sizi uyarır.
+
+[B]🔧 REPAIR BİLDİRİMİ[/B]
+
+Itemlerinizin dayanıklılığı azaldığında tamir etmeniz gerektiğini bildirir.
+
+[B]🔗 SOHBET LİNKİNDE ÖNCE İSTE[/B]
+
+Sohbet içerisindeki bağlantılara tıklarken ek bir onay mekanizması sağlar.
+
+[B]📖 ARAYÜZ REHBERLERİ[/B]
+
+Upgrade, drop, shozin gibi çeşitli arayüzlerde rehber bilgilerinin gösterilmesini sağlar.
+
+[B]☠️ DEATH NOTICE[/B]
+
+Ölüm bildirimleriyle ilgili gösterim seçeneklerini kontrol eder.
+
+[HR]
+
+[SIZE=12][B]🔤 10 — FONT / YAZI AYARLARI[/B][/SIZE]
+
+[CENTER][IMG]https://i.hizliresim.com/iweevhj1.png[/IMG][/CENTER]
+
+Oyun içerisindeki yazıların boyutlarını kendi ekranınıza ve kullanımınıza göre ayarlayabilirsiniz.
+
+[B]💬 PENCERE YAZILARI[/B]
+
+• Chat Yazı Boyutu
+• Sistem Yazı Boyutu
+
+[B]👤 NICK YAZILARI[/B]
+
+• Tümü
+• İsim
+• Klan Adı
+• Bilgi Satırı
+• Tag Name
+• Konuşma Balonu
+
+[B]🎒 EŞYA YAZILARI[/B]
+
+[B]Eşya Adet Yazı Boyutu[/B] ile itemler üzerindeki adet ve ilgili yazıların boyutunu değiştirebilirsiniz.
+
+Özellikle yüksek çözünürlüklü monitörlerde küçük yazıları okumakta zorlanan oyuncular için oldukça kullanışlı bir özellik.
+
+[CENTER][SIZE=12][B]⚙️ TEK MENÜDE TAM KONTROL![/B][/SIZE]
+
+[SIZE=12][B]🎮 Oyun[/B] • [B]🔊 Ses[/B] • [B]🖥️ Ekran[/B] • [B]🎨 Grafik[/B] • [B]🌈 Gelişmiş Grafik[/B][/SIZE]
+
+[SIZE=12][B]💥 Efekt[/B] • [B]🎮 Kontrol[/B] • [B]🎒 Loot[/B] • [B]🔔 Bildirim[/B] • [B]🔤 Font[/B][/SIZE]
+
+SexyKO'nun yeni F10 sistemiyle oyun deneyiminizi artık kendi tercihinize göre şekillendirebilirsiniz.
+
+[B]İster maksimum FPS için performans odaklı oynayın,
+ister tüm grafik ve efektleri açarak görsel kaliteyi sonuna kadar kullanın.[/B]
+
+[SIZE=12][B]🔥 SEXYKO[/B][/SIZE]
+
+[SIZE=12][B]OYUNU SADECE OYNAMA, KENDİNE GÖRE AYARLA![/B][/SIZE][/CENTER]

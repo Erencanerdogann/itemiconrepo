@@ -1,0 +1,172 @@
+🎫 SEXYKO DESTEK TALEBİ SİSTEMİ
+
+[IMG]https://i.hizliresim.com/imylhnjc.png[/IMG]
+
+# 🎫 SEXYKO DESTEK TALEBİ SİSTEMİ
+
+[B]Sorununuzu doğru kategori üzerinden hızlı ve kolay şekilde yönetim ekibine iletin.[/B]
+
+SexyKO web sitesinde bulunan [B]Destek Talebi Sistemi[/B] sayesinde oyun, hesap, ödeme, teknik sorunlar veya diğer konularla ilgili taleplerinizi doğrudan yönetim ekibine gönderebilirsiniz.
+
+Destek sistemini kullanmak için hesabınıza giriş yapmanız yeterlidir.
+
+---
+
+## 🟢 01 — DESTEK BÖLÜMÜNE GİRİŞ
+
+SexyKO hesabınıza giriş yaptıktan sonra web sitesinin [B]sol tarafında bulunan DESTEK[/B] butonuna tıklayın.
+
+[IMG]https://i.hizliresim.com/rz9glfuz.jpg[/IMG]
+
+Bu bölüm üzerinden:
+
+[LIST]
+[*]yeni destek talebi oluşturabilir,
+[*]daha önce açtığınız ticketları görüntüleyebilir,
+[*]yönetim tarafından verilen cevapları takip edebilirsiniz.
+[/LIST]
+
+[B]Hesabına giriş yap → DESTEK butonuna tıkla[/B]
+
+---
+
+# 🎫 02 — YENİ DESTEK TALEBİ OLUŞTURMA
+
+Destek bölümüne girdiğinizde [B]Destek Taleplerim[/B] ekranı açılır.
+
+[IMG]https://i.hizliresim.com/pnwsgym0.jpg[/IMG]
+
+Yeni bir ticket oluşturmak için:
+
+[B]➕ YENİ TALEP AÇ[/B]
+
+butonuna tıklamanız yeterlidir.
+
+Daha önce oluşturduğunuz destek talepleri de bu ekran üzerinde listelenir.
+
+---
+
+# 📝 03 — SORUNUNUZU BİLDİRİN
+
+Yeni destek talebi oluşturma ekranında öncelikle yaşadığınız probleme uygun kategoriyi seçin.
+
+[IMG]https://i.hizliresim.com/oa51pmlg.jpg[/IMG]
+
+Ardından aşağıdaki alanları doldurun:
+
+## 📌 Konu Başlığı
+
+Sorununuzu kısa ve anlaşılır şekilde yazın.
+
+[B]Örnek:[/B]  
+Client açılırken hata alıyorum
+
+---
+
+## 📝 Talep Açıklaması
+
+Yaşadığınız problemi mümkün olduğunca açık şekilde anlatın.
+
+Örneğin:
+
+[B]Client'a giriş yaptıktan yaklaşık 1 dakika sonra oyun kapanıyor. Herhangi bir hata mesajı görüntülenmiyor.[/B]
+
+Ne kadar açık bilgi verirseniz destek ekibinin sorunu incelemesi o kadar kolay olur.
+
+---
+
+# 📂 04 — DOĞRU KATEGORİYİ SEÇİN
+
+Talebinizin doğru ekibe ulaşabilmesi için uygun kategoriyi seçmeniz önemlidir.
+
+[B]🎮 Client Sorunları[/B]  
+Client ve teknik problemler
+
+[B]💳 Ödeme Sorunları[/B]  
+Ödeme ve bakiye problemleri
+
+[B]🚨 Küfür & İstismar[/B]  
+Hakaret, taciz ve kötüye kullanım bildirimleri
+
+[B]⚔️ Hile[/B]  
+Hile şüpheleri ve oyuncu bildirimleri
+
+[B]🔐 Hesap Sorunları[/B]  
+Hesap ve giriş problemleri
+
+[B]🎁 İram Sorunları[/B]  
+İram / ödül ile ilgili problemler
+
+[B]💬 Geri Bildirim[/B]  
+Öneri, görüş ve geri bildirimler
+
+[B]❓ Diğer[/B]  
+Diğer tüm konular
+
+---
+
+# 📸 05 — GÖRSEL & VİDEO EKLEME
+
+Sorununuzu daha net anlatabilmek için destek talebinize [B]ekran görüntüsü veya video[/B] ekleyebilirsiniz.
+
+Özellikle:
+
+[LIST]
+[*]oyun içi buglar,
+[*]client hataları,
+[*]görüntü problemleri,
+[*]ödeme sorunları,
+[*]oyuncu şikayetleri
+[/LIST]
+
+gibi durumlarda görsel veya video eklemek inceleme sürecini ciddi şekilde kolaylaştırır.
+
+[B]💡 Unutmayın:[/B]  
+Sorunu ne kadar net gösterirseniz çözüm süreci de o kadar hızlı ilerler.
+
+---
+
+# 📤 06 — TALEBİNİZİ GÖNDERİN
+
+Tüm bilgileri doldurduktan sonra:
+
+[B]🟡 TALEBİ GÖNDER[/B]
+
+butonuna basarak ticketınızı oluşturabilirsiniz.
+
+Oluşturduğunuz destek talebini daha sonra [B]Destek Taleplerim[/B] bölümünden takip edebilir ve yönetimin cevabını aynı sistem üzerinden görüntüleyebilirsiniz.
+
+---
+
+# ⚡ DAHA HIZLI DESTEK İÇİN
+
+Ticket oluştururken şu noktalara dikkat edin:
+
+[B]1️⃣ Doğru kategoriyi seçin.[/B]  
+[B]2️⃣ Başlığı kısa ve net yazın.[/B]  
+[B]3️⃣ Sorunu detaylı şekilde açıklayın.[/B]  
+[B]4️⃣ Varsa ekran görüntüsü veya video ekleyin.[/B]  
+[B]5️⃣ Ticketınızı gönderdikten sonra Destek Taleplerim bölümünden takip edin.[/B]
+
+---
+
+# 🔒 ÖNEMLİ
+
+Destek talebi içerisinde:
+
+[LIST]
+[*]şifrenizi,
+[*]PIN bilginizi,
+[*]kart bilgilerinizi,
+[*]hesap güvenliğinizi tehlikeye atacak özel bilgileri
+[/LIST]
+
+[B]kesinlikle paylaşmayın.[/B]
+
+---
+
+# 🔥 SEXYKO DESTEK SİSTEMİ
+
+[B]Sorununu doğru şekilde bildir • Görselini ekle • Ticketını gönder • Cevabını takip et[/B]
+
+[B]Destek artık daha düzenli, daha hızlı ve daha kolay.[/B]

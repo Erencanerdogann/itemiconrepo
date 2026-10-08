@@ -1,0 +1,36 @@
+64-BIT CLIENT | HATA & BUG BİLDİRİM KONUSU
+
+[IMG]https://i.hizliresim.com/dsf4tbdv.png[/IMG]
+
+Yeni 64-Bit SexyKO Client'ı test ederken karşılaştığınız tüm hata, bug, performans ve uyumsuzlukları bu konu üzerinden bizlere iletebilirsiniz.
+
+Yeni Client ile birlikte daha yüksek FPS, daha akıcı oyun deneyimi, geliştirilmiş performans ve daha modern bir altyapı hedefliyoruz. Test sürecinde oyuncularımızdan gelecek geri bildirimler, Client'ın geliştirilmesinde doğrudan değerlendirilecektir.
+
+Karşılaştığınız;
+
+🐞 Bug ve oyun hataları
+⚡ FPS düşüşleri ve performans sorunları
+🖥️ Görüntü, grafik veya arayüz hataları
+💥 Beklenmeyen Client kapanmaları
+🎮 Oyun içerisinde çalışmayan veya hatalı çalışan özellikler
+🌐 Zone, savaş alanı veya kalabalık bölgelerde yaşanan problemler
+🔧 Eski Client'a göre farklı çalışan sistemler
+
+gibi tüm sorunları bu konu altında paylaşabilirsiniz.
+
+📌 Hata Bildirirken
+
+Sorunu mümkün olduğunca açık şekilde belirtmenizi ve mümkünse ekran görüntüsü veya video ile desteklemenizi rica ediyoruz.
+
+Hata:
+Nerede / Ne zaman oluşuyor:
+Nasıl tekrar edilebilir:
+Ekran görüntüsü / Video:
+
+Bildirdiğiniz her hata, yeni 64-Bit Client'ın daha stabil ve sorunsuz hale getirilmesine katkı sağlayacaktır.
+
+🚀 SexyKO | Yeni Nesil Client
+
+64-Bit • Yüksek FPS • Akıcı Oyun • Daha Güçlü Altyapı
+
+Test edin, bildirin, birlikte geliştirelim. 🔥

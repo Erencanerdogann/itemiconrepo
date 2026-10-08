@@ -1,0 +1,45 @@
+🔎 SEXYKO DROP SEARCH SİSTEMİ
+
+# 🔎 SEXYKO DROP SEARCH SİSTEMİ
+
+SexyKO'da bir itemin [B]hangi moblardan düştüğünü ve drop oranlarını[/B] oyun içerisinden anında görebilirsiniz.
+
+Bir itemin üzerine geldiğinizde açıklamanın en altında:
+
+### [B]CTRL + D[/B]
+
+ibaresi bulunuyorsa, o item için Drop Search özelliği aktiftir.
+
+[IMG]https://i.hizliresim.com/uamrezir.png[/IMG]
+
+---
+
+## 🖱️ NASIL KULLANILIR?
+
+Itemin üzerine gelin ve:
+
+### [B]CTRL + D[/B]
+
+tuşlarına basın.
+
+Açılan pencerede itemin:
+
+[LIST]
+[*]hangi moblardan düştüğünü
+[*]mob isimlerini
+[*]drop oranlarını
+[/LIST]
+
+detaylı şekilde görebilirsiniz.
+
+---
+
+# ✅ KISACASI
+
+[B]Itemin üzerine gel → CTRL + D → Hangi mobdan düştüğünü ve oranını gör[/B]
+
+Ekstra rehber aramanıza gerek kalmadan tüm drop bilgisine oyun içinden ulaşabilirsiniz.
+
+# 🔥 SEXYKO DROP SEARCH
+
+[B]Itemi seç • CTRL + D yap • Drop kaynağını anında öğren[/B]

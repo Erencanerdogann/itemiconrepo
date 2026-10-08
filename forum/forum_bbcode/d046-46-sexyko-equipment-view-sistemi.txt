@@ -1,0 +1,230 @@
+👁️ SEXYKO EQUIPMENT VIEW SİSTEMİ
+
+# 👁️ SEXYKO EQUIPMENT VIEW SİSTEMİ
+
+SexyKO'da bulunan [B]Equipment View Sistemi[/B] sayesinde bir oyuncunun karakterine ait detaylı bilgileri tek pencere üzerinden inceleyebilirsiniz.
+
+Sistem yalnızca karakterin üzerindeki itemleri göstermekle kalmaz; aynı zamanda [B]stat değerlerini, resistance bilgilerini, aktif buffları ve inventory görünümünü[/B] de detaylı şekilde gösterir.
+
+Bu sayede başka bir oyuncunun karakter yapısını çok daha kapsamlı şekilde inceleyebilirsiniz.
+
+---
+
+## 🖱️ EQUIPMENT VIEW NASIL AÇILIR?
+
+İncelemek istediğiniz karaktere [B]sağ tıklayın.[/B]
+
+Açılan menüde:
+
+[B]Equipment View[/B]
+
+seçeneğine tıklayın.
+
+[IMG]https://i.hizliresim.com/fq5fdsew.png[/IMG]
+
+Bu işlemin ardından seçtiğiniz oyuncunun detaylı [B]Equipment / Ability[/B] penceresi açılır.
+
+---
+
+# 🧩 EQUIPMENT / ABILITY PENCERESİ
+
+[IMG]https://i.hizliresim.com/pgabmo0e.png[/IMG]
+
+Bu ekran üzerinden karakterin birçok bilgisini aynı anda görebilirsiniz.
+
+---
+
+## 👤 KARAKTER GÖRÜNÜMÜ
+
+Sol tarafta oyuncunun karakter modeli görüntülenir.
+
+Buradan:
+
+[LIST]
+[*]karakter görünümünü,
+[*]kullanılan kostüm / görünüm öğelerini,
+[*]karakterin genel ekipman görünümünü
+[/LIST]
+
+inceleyebilirsiniz.
+
+---
+
+## 🛡️ TAKILI EQUIPMENTLER
+
+Orta bölümde karakterin üzerinde bulunan ekipmanlar gösterilir.
+
+Bu alanda:
+
+[LIST]
+[*]silah
+[*]zırh parçaları
+[*]takılar
+[*]kemer
+[*]yüzükler
+[*]küpeler
+[*]kolye
+[*]yardımcı ekipmanlar
+[*]kostüm / özel slotlar
+[/LIST]
+
+gibi kullanılan itemleri görebilirsiniz.
+
+Itemlerin [B]upgrade seviyeleri[/B] de ikonların üzerinde görüntülenir.
+
+Örneğin:
+
+[B]+3 / +10 / +21[/B]
+
+gibi mevcut item seviyelerini doğrudan görebilirsiniz.
+
+---
+
+# 🎒 INVENTORY GÖRÜNÜMÜ
+
+Equipment View ekranının alt bölümünde karakterin [B]Inventory[/B] alanı da görüntülenir.
+
+Bu bölümde oyuncunun çantasında bulunan itemleri ve adetlerini görebilirsiniz.
+
+Böylece sistem yalnızca takılı itemleri değil, karakter üzerindeki genel item durumunu da tek pencerede gösterir.
+
+---
+
+# 📊 KARAKTER STATLARI
+
+Sağ tarafta karakterin temel stat değerleri ayrıntılı şekilde gösterilir.
+
+Görüntülenebilen bilgiler arasında:
+
+### ⭐ LEVEL
+
+Karakterin mevcut seviyesini gösterir.
+
+### ❤️ HP
+
+Karakterin toplam can değerini gösterir.
+
+### 💙 MP
+
+Toplam mana değerini gösterir.
+
+### ⚡ SP
+
+Karakterin SP değerini gösterir.
+
+### 💪 STR
+
+Strength değerini gösterir.
+
+### 🎯 DEX
+
+Dexterity değerini gösterir.
+
+### 🧠 INT
+
+Intelligence değerini gösterir.
+
+---
+
+# ⚔️ SALDIRI VE SAVUNMA DEĞERLERİ
+
+Aynı panel üzerinden karakterin savaş gücüyle ilgili önemli değerler de görüntülenebilir.
+
+### ⚔️ ATTACK
+
+Karakterin toplam saldırı değerini gösterir.
+
+### 🛡️ DEFENCE
+
+Karakterin toplam savunma değerini gösterir.
+
+Statlarda parantez içerisinde bulunan değerler ise item ve bufflardan gelen ek katkıları gösterir.
+
+Örneğin:
+
+[B]STR 255 (+250)[/B]
+
+gibi bir ifade, karakterin ana STR değeriyle beraber ekipman ve bufflardan gelen ek değeri görmenizi sağlar.
+
+---
+
+# 🔥 RESISTANCE DEĞERLERİ
+
+Equipment View ekranında karakterin direnç değerleri de ayrı ayrı görüntülenir.
+
+Bunlar:
+
+[LIST]
+[*]🔥 [B]Fire Resistance[/B]
+[*]❄️ [B]Ice Resistance[/B]
+[*]⚡ [B]Lightning Resistance[/B]
+[*]✨ [B]Magic Resistance[/B]
+[*]☠️ [B]Curse Resistance[/B]
+[*]🧪 [B]Poison Resistance[/B]
+[/LIST]
+
+şeklindedir.
+
+Bu bilgiler özellikle PK ve PvP tarafında karakterin hangi elementlere karşı daha dayanıklı olduğunu anlamanızı sağlar.
+
+---
+
+# ✨ BUFF LIST
+
+Sağ alt bölümde [B]Buff List[/B] alanı bulunmaktadır.
+
+Burada karakterin üzerinde aktif olan buff ve destek efektlerini görebilirsiniz.
+
+Yani oyuncunun:
+
+[LIST]
+[*]hangi buffları kullandığını,
+[*]aktif destek efektlerini,
+[*]savaş sırasında üzerinde bulunan güçlendirmeleri
+[/LIST]
+
+tek bakışta inceleyebilirsiniz.
+
+---
+
+# 🔍 NEDEN ÖNEMLİ?
+
+Equipment View sistemi sayesinde bir oyuncunun karakterini sadece dış görünüşten değerlendirmek zorunda kalmazsınız.
+
+Tek pencerede:
+
+[LIST]
+[*]ekipmanlarını,
+[*]item upgrade seviyelerini,
+[*]inventory durumunu,
+[*]statlarını,
+[*]attack / defence değerlerini,
+[*]resistance değerlerini,
+[*]aktif bufflarını
+[/LIST]
+
+görebilirsiniz.
+
+Bu da sistemi klasik Equipment View yapılarından çok daha kapsamlı hale getirir.
+
+---
+
+# ✅ KISACASI
+
+[B]Karaktere sağ tıkla → Equipment View seçeneğine bas → Tüm detayları incele[/B]
+
+SexyKO Equipment View sistemi ile:
+
+[LIST]
+[*]ekipmanları gör
+[*]statları kontrol et
+[*]resistance değerlerini incele
+[*]buffları gör
+[*]inventory’yi görüntüle
+[/LIST]
+
+---
+
+# 🔥 SEXYKO EQUIPMENT VIEW
+
+[B]Tek tıkla karakteri incele, tüm detayları tek ekranda gör![/B]
