@@ -1,0 +1,100 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "24",
+  "attributes": {
+   "title": "⛏️ SEXYKO AUTO MINING — MINING INN SİSTEMİ",
+   "slug": "24-️-sexyko-auto-mining--mining-inn-sİstemİ",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-08-31T21:12:32+00:00",
+   "lastPostedAt": "2026-08-31T21:12:32+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "46",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-08-31T21:12:32+00:00",
+    "contentType": "comment",
+    "contentHtml": "<p><img src=\"https://i.hizliresim.com/jb1hpfok.png\" title=\"\" alt=\"Çalışma yüzeyi 1 kopya 7-1.png\"></p>\n\n\n\n\n<h1>⛏️ SEXYKO AUTO MINING &amp; MINING INN SİSTEMİ</h1>\n\n<p>SexyKO içerisinde bulunan <strong>Auto Mining</strong> sistemi sayesinde madencilik işlemlerinizi daha rahat yönetebilir, <strong>Mining Inn</strong> üzerinden mining sırasında elde ettiğiniz ürünlere kolayca ulaşabilirsiniz.</p>\n\n<hr>\n\n<h2>📍 MINING INN'E NASIL GİRİLİR?</h2>\n\n<p>Aşağıdaki görselde işaretli olan <strong>Mining Inn</strong> kutusuna tıklayarak sisteme giriş yapabilirsiniz.</p>\n\n<p><img src=\"https://i.hizliresim.com/nk1rbqp1.png\" title=\"\" alt=\"SexyKO Mining Inn Giriş\"></p>\n\n<p>Mining Inn'e giriş yaptıktan sonra sistem içerisinde bulunan ürünleri görüntüleyebilir ve ihtiyacınıza göre alabilirsiniz.</p>\n\n<p>Bu alan, madencilik sistemiyle ilgili işlemleri tek noktadan yönetebilmeniz için hazırlanmıştır.</p>\n\n<hr>\n\n<h2>📦 MINING INN DEPO SİSTEMİ</h2>\n\n<p>Mining Inn içerisinde, normal bankadan farklı çalışan özel bir depo sistemi bulunmaktadır.</p>\n\n<p><img src=\"https://i.hizliresim.com/ricaetw6.png\" title=\"\" alt=\"SexyKO Mining Inn Depo\"></p>\n\n<p>Bu alanı <strong>tek yönlü bir banka</strong> gibi düşünebilirsiniz.</p>\n\n<h3>✅ Yapabilirsiniz</h3>\n<ul><li>Mining sırasında elde edilen itemleri <strong>çekebilirsiniz</strong>.</li>\n<li>Mining'den gelen ürünleri burada görüntüleyebilirsiniz.</li></ul>\n\n<h3>❌ Yapamazsınız</h3>\n<ul><li>Dışarıdan bu alana item <strong>atamazsınız</strong>.</li>\n<li>Normal banka gibi item depolamak için kullanamazsınız.</li></ul>\n\n<p>Yani bu bölümün temel amacı, <strong>Auto Mining sırasında elde edilen ürünleri oyuncuya teslim etmek</strong> ve gerektiğinde buradan çekebilmesini sağlamaktır.</p>\n\n<hr>\n\n<h2>🔒 ÖNEMLİ</h2>\n\n<p><strong>Mining Inn deposu normal banka değildir.</strong></p>\n\n<p>Sistem yalnızca mining sonucunda gelen itemlerin görüntülenmesi ve çekilmesi için kullanılabilir.</p>\n\n<p><strong>Item çekebilirsiniz, fakat item bırakamazsınız.</strong></p>\n\n<hr>\n\n<h2>✅ KISACASI</h2>\n\n<p><strong>1️⃣</strong> Auto Mining sistemini kullanın.  <br>\n<strong>2️⃣</strong> Mining Inn kutusuna tıklayın.  <br>\n<strong>3️⃣</strong> Mining Inn'e giriş yapın.  <br>\n<strong>4️⃣</strong> Mining ürünlerinizi görüntüleyin.  <br>\n<strong>5️⃣</strong> Kazandığınız itemleri özel depo alanından çekin.</p>\n\n<hr>\n\n<h1>🔥 SEXYKO MINING INN</h1>\n\n<p><strong>Mining yap • Ürünlerini biriktir • Mining Inn'den teslim al!</strong></p>",
+    "renderFailed": false,
+    "editedAt": "2026-09-03T18:28:43+00:00",
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 0
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/jb1hpfok.png",
+   "durum": 200,
+   "boyut": "1574x248",
+   "dosya": "resim/01_b9aa1b66.png",
+   "bayt": 624821
+  },
+  {
+   "url": "https://i.hizliresim.com/nk1rbqp1.png",
+   "durum": 200,
+   "boyut": "1030x1527",
+   "dosya": "resim/02_7d76f58f.png",
+   "bayt": 3009917
+  },
+  {
+   "url": "https://i.hizliresim.com/ricaetw6.png",
+   "durum": 200,
+   "boyut": "462x669",
+   "dosya": "resim/03_fbf9a7c4.png",
+   "bayt": 358229
+  }
+ ]
+}

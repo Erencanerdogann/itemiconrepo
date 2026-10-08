@@ -1,0 +1,100 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "38",
+  "attributes": {
+   "title": "⏳ SEXYKO KUM SAATİ SİSTEMİ",
+   "slug": "38--sexyko-kum-saatİ-sİstemİ",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-09-10T10:18:30+00:00",
+   "lastPostedAt": "2026-09-10T10:18:30+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "76",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-09-10T10:18:30+00:00",
+    "contentType": "comment",
+    "contentHtml": "<p><img src=\"https://i.hizliresim.com/timxkd6a.png\" title=\"\" alt=\"KUMSAATİ.png\"></p>\n\n<h1>⏳ SEXYKO KUM SAATİ SİSTEMİ</h1>\n\n<p>SexyKO'da bulunan <strong>Kum Saati Sistemi</strong>, oyun içerisindeki etkinlikleri anlık olarak takip edebilmeniz ve hiçbir etkinliği kaçırmamanız için hazırlanmıştır.</p>\n\n<p>Bu sistem sayesinde hangi etkinliğin ne zaman başlayacağını kolayca görebilir, detaylarını inceleyebilir ve isterseniz etkinlik başlamadan önce bildirim kurabilirsiniz.</p>\n\n<hr>\n\n<h2>📍 KUM SAATİ NEREDE?</h2>\n\n<p>Kum saati simgesi oyun ekranının <strong>sağ üst bölümünde</strong> yer almaktadır.</p>\n\n<p>Bu simge üzerinden oyun içerisindeki etkinlikleri hızlıca kontrol edebilir ve detaylı etkinlik penceresine ulaşabilirsiniz.</p>\n\n<hr>\n\n<h2>🖱️ ÜZERİNE GELDİĞİNİZDE ANLIK EVENT BİLGİSİ</h2>\n\n<p>Kum saatinin üzerine geldiğinizde, o anda görüntüleyebileceğiniz <strong>bilgi penceresi (Info)</strong> açılır.</p>\n\n<p><img src=\"https://i.hizliresim.com/jazlowwg.png\" title=\"\" alt=\"SexyKO Kum Saati Info Penceresi\"></p>\n\n<p>Bu pencere sayesinde:</p>\n\n<ul><li>aktif veya yaklaşan eventleri görebilir,</li>\n<li>etkinlik saatlerini hızlı şekilde kontrol edebilir,</li>\n<li>oyun içerisinden çıkmadan anlık bilgi alabilirsiniz.</li></ul>\n\n<p>Bu özellik özellikle “şimdi hangi event var?” sorusunun cevabını hızlıca almak için oldukça kullanışlıdır.</p>\n\n<hr>\n\n<h2>⏰ KUM SAATİNE TIKLADIĞINIZDA DETAYLI EVENT PENCERESİ AÇILIR</h2>\n\n<p>Kum saatine tıkladığınızda, etkinlikleri daha detaylı şekilde görüntüleyebileceğiniz tam pencere açılır.</p>\n\n<p><img src=\"https://i.hizliresim.com/8bo7xytw.png\" title=\"\" alt=\"SexyKO Kum Saati Event Penceresi\"></p>\n\n<p>Bu pencere üzerinden:</p>\n\n<ul><li>hangi eventin ne zaman başlayacağını,</li>\n<li>etkinliklerin saatlerini,</li>\n<li>yaklaşan etkinlikleri,</li>\n<li>etkinlik sıralamasını</li></ul>\n\n<p>detaylı şekilde görebilirsiniz.</p>\n\n<p>Böylece tek tek event saatlerini ezberlemenize gerek kalmadan tüm bilgilere tek ekrandan ulaşabilirsiniz.</p>\n\n<hr>\n\n<h2>🔔 5 DAKİKA KALA BİLDİRİM KURABİLİRSİNİZ</h2>\n\n<p>Kum Saati sisteminin en kullanışlı özelliklerinden biri de <strong>bildirim / alarm sistemi</strong>dir.</p>\n\n<p>İstediğiniz event için:</p>\n\n<p><strong>Etkinliğe 5 dakika kala bildirim kurabilirsiniz.</strong></p>\n\n<p>Bu sayede:</p>\n\n<ul><li>event saatini kaçırmazsınız,</li>\n<li>hazırlığınızı önceden yapabilirsiniz,</li>\n<li>pot, skill, party ve diğer hazırlıklarınızı zamanında tamamlayabilirsiniz.</li></ul>\n\n<p>Özellikle yoğun oynayan ve aynı anda birden fazla işle uğraşan oyuncular için bu özellik büyük kolaylık sağlar.</p>\n\n<hr>\n\n<h2>🎯 KUM SAATİ SİSTEMİ NE İŞE YARAR?</h2>\n\n<p>Bu sistemin temel amacı, oyuncuların oyun içi etkinlikleri çok daha rahat takip edebilmesini sağlamaktır.</p>\n\n<p>Sistem sayesinde:</p>\n\n<ul><li>event saatlerini öğrenebilirsiniz,</li>\n<li>yaklaşan etkinlikleri anlık görebilirsiniz,</li>\n<li>detaylı event penceresine ulaşabilirsiniz,</li>\n<li>bildirim kurarak etkinlikleri kaçırmazsınız.</li></ul>\n\n<p>Kısacası bu sistem, <strong>oyun içi etkinlik takibini çok daha düzenli ve pratik hale getirir.</strong></p>\n\n<hr>\n\n<h2>✅ KISACASI</h2>\n\n<p><strong>Sağ üstteki kum saatinin üzerine gel → Anlık event bilgisini gör</strong>  <br>\n<strong>Kum saatine tıkla → Detaylı etkinlik penceresini aç</strong>  <br>\n<strong>İstediğin eventi seç → 5 dakika kala bildirim kur</strong></p>\n\n<hr>\n\n<h1>🔥 SEXYKO KUM SAATİ SİSTEMİ</h1>\n\n<p><strong>Eventlerini takip et • Saatleri öğren • Bildirim kur • Hiçbir etkinliği kaçırma!</strong></p>\n\n<p>SexyKO Kum Saati Sistemi ile tüm etkinlikler artık elinizin altında.</p>",
+    "renderFailed": false,
+    "editedAt": "2026-09-16T07:09:36+00:00",
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 0
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/timxkd6a.png",
+   "durum": 200,
+   "boyut": "1574x248",
+   "dosya": "resim/01_ed54ca9d.png",
+   "bayt": 738883
+  },
+  {
+   "url": "https://i.hizliresim.com/jazlowwg.png",
+   "durum": 200,
+   "boyut": "277x245",
+   "dosya": "resim/02_704fab56.png",
+   "bayt": 107039
+  },
+  {
+   "url": "https://i.hizliresim.com/8bo7xytw.png",
+   "durum": 200,
+   "boyut": "1083x769",
+   "dosya": "resim/03_1f687a1d.png",
+   "bayt": 790762
+  }
+ ]
+}

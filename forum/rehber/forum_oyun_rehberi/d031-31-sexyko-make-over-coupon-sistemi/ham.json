@@ -1,0 +1,93 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "31",
+  "attributes": {
+   "title": "💇 SEXYKO MAKE OVER COUPON SİSTEMİ",
+   "slug": "31--sexyko-make-over-coupon-sİstemİ",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-08-31T23:10:20+00:00",
+   "lastPostedAt": "2026-08-31T23:10:20+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "61",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-08-31T23:10:20+00:00",
+    "contentType": "comment",
+    "contentHtml": "<p><img src=\"https://i.hizliresim.com/6bxvs6ys.png\" title=\"\" alt=\"Çalışma yüzeyi 1 kopya 5.png\"></p>\n\n\n\n\n<p>SexyKO'da <strong>Make Over Coupon</strong> kullanımı artık çok daha pratik.</p>\n\n<p>Saç veya yüz görünümünüzü değiştirmek için artık herhangi bir NPC'ye gitmenize gerek yok.</p>\n\n<p>Power Up Store üzerinden <strong>Make Over Coupon</strong> satın aldıktan sonra iteme <strong>sağ tıklayarak</strong> değişim ekranını doğrudan açabilirsiniz.</p>\n\n<p><img src=\"https://i.hizliresim.com/bmdola15.png\" title=\"\" alt=\"SexyKO Make Over Coupon\"></p>\n\n<hr>\n\n<h2>✨ MAKE OVER COUPON NASIL KULLANILIR?</h2>\n\n<p>Sistem oldukça basit çalışır:</p>\n\n<p><strong>1️⃣</strong> Power Up Store üzerinden Make Over Coupon satın alın.  <br>\n<strong>2️⃣</strong> Iteme sağ tıklayın.  <br>\n<strong>3️⃣</strong> Açılan pencereden yüz ve saç seçeneklerini inceleyin.  <br>\n<strong>4️⃣</strong> Beğendiğiniz görünümü seçerek işlemi tamamlayın.</p>\n\n<hr>\n\n<h2>👤 NELERİ DEĞİŞTİREBİLİRSİNİZ?</h2>\n\n<p>Make Over Coupon sayesinde karakterinizin:</p>\n\n<ul><li><strong>Yüz görünümünü</strong></li>\n<li><strong>Saç modelini / görünümünü</strong></li></ul>\n\n<p>değiştirebilirsiniz.</p>\n\n<p>Tüm işlem bulunduğunuz yerden yapılır.</p>\n\n<p><strong>NPC aramanıza veya farklı bir bölgeye gitmenize gerek yoktur.</strong></p>\n\n<hr>\n\n<h2>✅ KISACASI</h2>\n\n<p><strong>PUS'tan satın al → Iteme sağ tıkla → Saçını ve yüzünü seç → Yeni görünümünü kullan!</strong></p>\n\n<h1>🔥 SEXYKO MAKE OVER COUPON</h1>\n\n<p><strong>Karakterini yenile, tarzını değiştir!</strong></p>",
+    "renderFailed": false,
+    "editedAt": "2026-09-03T18:27:00+00:00",
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 0
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/6bxvs6ys.png",
+   "durum": 200,
+   "boyut": "1574x248",
+   "dosya": "resim/01_f49eeb83.png",
+   "bayt": 637610
+  },
+  {
+   "url": "https://i.hizliresim.com/bmdola15.png",
+   "durum": 200,
+   "boyut": "1263x838",
+   "dosya": "resim/02_6e73c61f.png",
+   "bayt": 1352581
+  }
+ ]
+}

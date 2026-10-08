@@ -1,0 +1,95 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "16",
+  "attributes": {
+   "title": "⚔️ SEXYKO GENIE SİSTEMİ",
+   "slug": "16-️-sexyko-genie-sİstemİ",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-08-31T19:53:20+00:00",
+   "lastPostedAt": "2026-08-31T19:53:20+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "34",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-08-31T19:53:20+00:00",
+    "contentType": "comment",
+    "contentHtml": "<p><img src=\"https://i.hizliresim.com/a4jhgqi6.png\" title=\"\" alt=\"GENIE.png\"></p>\n\n<p>⚙️ SEXYKO GELİŞMİŞ GENIE SİSTEMİ</p>\n\n<p><strong>Başlat • Durdur • Kalan Süreni Gör • Ayarlarını Tek Panelden Yönet</strong></p>\n\n<p>SexyKO Genie sistemi, karakterinizin belirlediğiniz kurallara göre otomatik şekilde saldırmasını, skill kullanmasını, HP/MP kontrolü yapmasını ve farm sürecini yönetmesini sağlayan gelişmiş bir otomasyon sistemidir.</p>\n\n<p>Yeni Genie arayüzüyle birlikte sistemi kullanmak ve kontrol etmek çok daha pratik hale getirildi.</p>\n\n<hr>\n\n<h1>▶️ 01 — GENIE HIZLI KONTROL PANELİ</h1>\n\n<p><img src=\"https://i.hizliresim.com/wpyxm2rl.png\" title=\"\" alt=\"SexyKO Genie Kontrol Paneli\"></p>\n\n<p>Oyun ekranında bulunan Genie kontrol paneli üzerinden sisteme hızlıca müdahale edebilirsiniz.</p>\n\n<p>Bu bölümde üç temel işlem bulunur:</p>\n\n<h2>▶️ BAŞLAT</h2>\n\n<p>Genie sistemini aktif eder.</p>\n\n<p>Daha önce oluşturduğunuz skill, pot, mob ve diğer ayarlarınız doğrultusunda karakteriniz otomatik olarak çalışmaya başlar.</p>\n\n<hr>\n\n<h2>⏹️ DURDUR</h2>\n\n<p>Aktif olan Genie sistemini durdurur.</p>\n\n<p>Farm işlemini sonlandırmak veya karakterinizi manuel olarak kontrol etmek istediğinizde bu seçeneği kullanabilirsiniz.</p>\n\n<hr>\n\n<h2>⏳ KALAN GENIE SÜRESİ</h2>\n\n<p>Panel üzerinden mevcut <strong>Genie kullanım sürenizi</strong> anlık olarak takip edebilirsiniz.</p>\n\n<p>Böylece Genie'nizin ne kadar süresi kaldığını görmek için farklı bir pencereye girmenize gerek kalmaz.</p>\n\n<hr>\n\n<h2>⚙️ AYARLAR</h2>\n\n<p>Ayarlar butonuna tıklayarak Genie'nin detaylı kontrol panelini açabilirsiniz.</p>\n\n<p>Skill sıralaması, pot kullanımı, saldırılacak moblar ve diğer otomasyon ayarları buradan yapılır.</p>\n\n<hr>\n\n<h1>⚔️ 02 — GENIE ANA AYARLARI</h1>\n\n<p><img src=\"https://i.hizliresim.com/u1yb6mdn.png\" title=\"\" alt=\"SexyKO Genie Ana Ayarlar\"></p>\n\n<p>Genie ayarlarını açtığınızda karakterinizin farm sırasında nasıl hareket edeceğini belirleyebileceğiniz ana panel karşınıza çıkar.</p>\n\n<p>Burada skill kullanımından pot yüzdelerine kadar birçok detay tamamen sizin kontrolünüzdedir.</p>\n\n<hr>\n\n<h2>⚔️ ATTACK SKILLS</h2>\n\n<p>Karakterinizin saldırı sırasında kullanacağı skillleri bu alana yerleştirirsiniz.</p>\n\n<p>Toplam:</p>\n\n<p><strong>8 ADET ATTACK SKILL SLOTU</strong></p>\n\n<p>bulunmaktadır.</p>\n\n<p>Genie, bu alana yerleştirdiğiniz skillleri belirlediğiniz düzene göre kullanır.</p>\n\n<p>Bu sayede her job için farklı bir farm skill dizilimi oluşturabilirsiniz.</p>\n\n<hr>\n\n<h2>🟢 SELF SKILLS</h2>\n\n<p>Karakterinizin kendi üzerinde kullanacağı skillleri bu alana yerleştirebilirsiniz.</p>\n\n<p>Toplam:</p>\n\n<p><strong>8 ADET SELF SKILL SLOTU</strong></p>\n\n<p>bulunur.</p>\n\n<p>Buff, karaktere özel destek skilleri ve kendi üzerinizde kullanılması gereken yetenekler buradan yönetilebilir.</p>\n\n<hr>\n\n<h2>👥 PARTY SKILLS</h2>\n\n<p>Party üyeleri üzerinde kullanılacak destek skillleri için hazırlanmıştır.</p>\n\n<p>Toplam:</p>\n\n<p><strong>8 ADET PARTY SKILL SLOTU</strong></p>\n\n<p>bulunmaktadır.</p>\n\n<p>Özellikle Priest gibi party desteği sağlayan karakterlerde oldukça kullanışlıdır.</p>\n\n<hr>\n\n<h2>📜 SKILL &amp; SCROLL ALANLARI</h2>\n\n<p>Genie içerisinde skill kullanımının yanında yardımcı scroll alanları da bulunmaktadır.</p>\n\n<p>Farm sırasında kullanılmasını istediğiniz uygun scroll ve yardımcı öğeleri Genie sistemine tanımlayabilirsiniz.</p>\n\n<p>Böylece farm düzeniniz yalnızca saldırı skilllerinden ibaret kalmaz.</p>\n\n<hr>\n\n<h1>❤️ 03 — HP POT AYARLARI</h1>\n\n<p>Genie karakterinizin HP değerini otomatik olarak takip edebilir.</p>\n\n<p>HP pot kullanımını aktif ettikten sonra:</p>\n\n<p><strong>Potun hangi HP yüzdesinde kullanılacağını siz belirlersiniz.</strong></p>\n\n<p>Örneğin:</p>\n\n<p><strong>HP %60</strong></p>\n\n<p>olarak ayarlanırsa karakterinizin canı belirlenen seviyeye geldiğinde Genie otomatik olarak HP pot kullanır.</p>\n\n<p>Farm yaptığınız bölgenin zorluğuna göre bu oranı değiştirebilirsiniz.</p>\n\n<hr>\n\n<h1>💙 04 — MP POT AYARLARI</h1>\n\n<p>MP pot sistemi de aynı şekilde çalışır.</p>\n\n<p>Mana seviyesinin hangi yüzdeye geldiğinde pot kullanılacağını belirleyebilirsiniz.</p>\n\n<p>Örneğin:</p>\n\n<p><strong>MP %40</strong></p>\n\n<p>olarak ayarlanırsa mana belirlenen seviyeye düştüğünde Genie otomatik olarak MP pot basar.</p>\n\n<p>Özellikle sürekli skill kullanan karakterlerde oldukça önemlidir.</p>\n\n<hr>\n\n<h1>🎯 05 — SALDIRILACAK MOBLARI BELİRLE</h1>\n\n<p>Genie ekranının sağ alt tarafında karakterinizin saldıracağı mobları belirleyebileceğiniz özel bir hedef listesi bulunur.</p>\n\n<p>Bu sistem sayesinde Genie'nin çevredeki her moba saldırmasını engelleyebilirsiniz.</p>\n\n<h2>➕ Mob Ekle</h2>\n\n<p>Farm yapmak istediğiniz mobu listeye ekleyebilirsiniz.</p>\n\n<h2>📋 Mob İsmini Kaydet</h2>\n\n<p>Seçtiğiniz mobların isimleri hedef listenizde kayıtlı olarak görüntülenir.</p>\n\n<h2>🗑️ Mob Sil</h2>\n\n<p>Artık saldırmak istemediğiniz mobu listeden kaldırabilirsiniz.</p>\n\n<p>Bu özellik özellikle aynı slotta birden fazla yaratık bulunan bölgelerde büyük avantaj sağlar.</p>\n\n<p><strong>Sadece istediğiniz mobu seçin, Genie yalnızca o hedeflere yönelsin.</strong></p>\n\n<hr>\n\n<h1>🧩 06 — MISC / GELİŞMİŞ AYARLAR</h1>\n\n<p><img src=\"https://i.hizliresim.com/trl05mcl.png\" title=\"\" alt=\"SexyKO Genie Misc Ayarları\"></p>\n\n<p>Genie içerisinde bulunan <strong>Misc</strong> bölümü, otomatik farm sistemini daha detaylı şekilde kişiselleştirmenizi sağlar.</p>\n\n<p>Bu bölüm özellikle Priest ve Rogue gibi karakterlerde oldukça kullanışlı ek seçenekler içerir.</p>\n\n<hr>\n\n<h2>👥 PARTY HP TAKİBİ</h2>\n\n<p>Genie, party içerisindeki oyuncuların HP durumunu takip edebilir.</p>\n\n<p>Party üyelerinin can seviyelerine göre belirlediğiniz destek skilllerinin kullanılması sağlanabilir.</p>\n\n<p>Özellikle Priest karakterlerde party desteğini otomatik hale getirmek için kullanışlıdır.</p>\n\n<hr>\n\n<h2>❤️ KENDİ HP'Nİ TAKİP ET</h2>\n\n<p>Karakterinizin kendi can durumunu sürekli takip etmesini sağlar.</p>\n\n<p>HP seviyesine göre Genie içerisinde belirlediğiniz işlemler otomatik olarak gerçekleştirilebilir.</p>\n\n<hr>\n\n<h2>🩹 MINOR KULLANIMI</h2>\n\n<p>Rogue / Assassin karakterler için <strong>Minor Healing</strong> kullanımını Genie üzerinden kontrol edebilirsiniz.</p>\n\n<p>Karakterinizin HP durumuna göre Minor kullanımı otomatik hale getirilebilir.</p>\n\n<p>Bu sayede farm sırasında HP Pot + Minor düzenini daha kontrollü kullanabilirsiniz.</p>\n\n<hr>\n\n<h1>📏 ATTACK RANGE</h1>\n\n<p>Attack Range ayarı Genie'nin karakterinizden ne kadar uzaklıktaki moblara saldıracağını belirler.</p>\n\n<h3>Düşük Range</h3>\n\n<p>Karakteriniz daha dar bir farm alanında kalır.</p>\n\n<h3>Yüksek Range</h3>\n\n<p>Daha geniş bir alandaki mobları hedefleyebilir.</p>\n\n<p>Sabit bir slotta farm yapıyorsanız karakterinizin gereksiz yere uzaklaşmasını önlemek için Attack Range değerini farm alanınıza göre ayarlamanız önemlidir.</p>\n\n<hr>\n\n<h1>🔒 GENIE AKTİFKEN SKILL BAR KİLİTLENİR</h1>\n\n<p>Genie aktif edildiğinde normal skill barınız kilitlenir.</p>\n\n<p>Bu süre içerisinde manuel olarak skill kullanamazsınız.</p>\n\n<p>Karakteriniz yalnızca Genie içerisine yerleştirdiğiniz skill ve otomasyon ayarlarını kullanır.</p>\n\n<p>Genie'yi durdurduğunuzda tekrar manuel kullanıma geçebilirsiniz.</p>\n\n<hr>\n\n<h1>🚀 GENIE NASIL KURULUR?</h1>\n\n<p><strong>1️⃣</strong> Genie Ayarlar bölümünü açın.  <br>\n<strong>2️⃣</strong> Attack Skill'lerinizi yerleştirin.  <br>\n<strong>3️⃣</strong> Self ve Party Skill'lerinizi ayarlayın.  <br>\n<strong>4️⃣</strong> HP / MP pot yüzdelerinizi belirleyin.  <br>\n<strong>5️⃣</strong> Saldırılmasını istediğiniz mobları listeye ekleyin.  <br>\n<strong>6️⃣</strong> Misc bölümünden ek otomasyonları düzenleyin.  <br>\n<strong>7️⃣</strong> Attack Range değerini farm alanınıza göre ayarlayın.  <br>\n<strong>8️⃣</strong> Ayarlarınızı tamamlayıp Genie'yi başlatın.</p>\n\n<p>Bundan sonra kalan Genie sürenizi üst panelden takip edebilir, istediğiniz zaman sistemi <strong>Başlat / Durdur</strong> seçenekleriyle kontrol edebilirsiniz.</p>\n\n<hr>\n\n<h1>✅ KISACASI</h1>\n\n<p>SexyKO Genie sistemiyle:</p>\n\n<ul><li><strong>Genie'yi tek tuşla başlatıp durdurabilirsiniz.</strong></li>\n<li><strong>Kalan kullanım sürenizi görebilirsiniz.</strong></li>\n<li><strong>8 adet Attack Skill kullanabilirsiniz.</strong></li>\n<li><strong>8 adet Self Skill ayarlayabilirsiniz.</strong></li>\n<li><strong>8 adet Party Skill ayarlayabilirsiniz.</strong></li>\n<li><strong>HP ve MP pot yüzdelerini belirleyebilirsiniz.</strong></li>\n<li><strong>Saldırılacak mobları seçebilirsiniz.</strong></li>\n<li><strong>Party HP ve kendi HP'nizi takip ettirebilirsiniz.</strong></li>\n<li><strong>Minor kullanımını otomatikleştirebilirsiniz.</strong></li>\n<li><strong>Attack Range değerini kendiniz ayarlayabilirsiniz.</strong></li></ul>\n\n<hr>\n\n<h1>🔥 SEXYKO GENIE SİSTEMİ</h1>\n\n<p><strong>Skilllerini ayarla • Pot oranını belirle • Mobunu seç • Range'ini düzenle</strong></p>\n\n<h3>🚀 BAŞLAT VE GERİSİNİ GENIE'YE BIRAK!</h3>",
+    "renderFailed": false,
+    "editedAt": "2026-09-05T10:32:10+00:00",
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 0
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/a4jhgqi6.png",
+   "durum": 404
+  },
+  {
+   "url": "https://i.hizliresim.com/wpyxm2rl.png",
+   "durum": 404
+  },
+  {
+   "url": "https://i.hizliresim.com/u1yb6mdn.png",
+   "durum": 404
+  },
+  {
+   "url": "https://i.hizliresim.com/trl05mcl.png",
+   "durum": 404
+  }
+ ]
+}

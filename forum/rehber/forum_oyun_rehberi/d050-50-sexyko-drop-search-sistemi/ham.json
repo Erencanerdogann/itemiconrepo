@@ -1,0 +1,85 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "50",
+  "attributes": {
+   "title": "🔎 SEXYKO DROP SEARCH SİSTEMİ",
+   "slug": "50--sexyko-drop-search-sİstemİ",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-09-22T09:52:50+00:00",
+   "lastPostedAt": "2026-09-22T09:52:50+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "100",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-09-22T09:52:50+00:00",
+    "contentType": "comment",
+    "contentHtml": "<h1>🔎 SEXYKO DROP SEARCH SİSTEMİ</h1>\n\n<p>SexyKO'da bir itemin <strong>hangi moblardan düştüğünü ve drop oranlarını</strong> oyun içerisinden anında görebilirsiniz.</p>\n\n<p>Bir itemin üzerine geldiğinizde açıklamanın en altında:</p>\n\n<h3><strong>CTRL + D</strong></h3>\n\n<p>ibaresi bulunuyorsa, o item için Drop Search özelliği aktiftir.</p>\n\n<p><img src=\"https://i.hizliresim.com/uamrezir.png\" title=\"\" alt=\"SexyKO Drop Search\"></p>\n\n<hr>\n\n<h2>🖱️ NASIL KULLANILIR?</h2>\n\n<p>Itemin üzerine gelin ve:</p>\n\n<h3><strong>CTRL + D</strong></h3>\n\n<p>tuşlarına basın.</p>\n\n<p>Açılan pencerede itemin:</p>\n\n<ul><li>hangi moblardan düştüğünü</li>\n<li>mob isimlerini</li>\n<li>drop oranlarını</li></ul>\n\n<p>detaylı şekilde görebilirsiniz.</p>\n\n<hr>\n\n<h1>✅ KISACASI</h1>\n\n<p><strong>Itemin üzerine gel → CTRL + D → Hangi mobdan düştüğünü ve oranını gör</strong></p>\n\n<p>Ekstra rehber aramanıza gerek kalmadan tüm drop bilgisine oyun içinden ulaşabilirsiniz.</p>\n\n<h1>🔥 SEXYKO DROP SEARCH</h1>\n\n<p><strong>Itemi seç • CTRL + D yap • Drop kaynağını anında öğren</strong></p>",
+    "renderFailed": false,
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 0
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/uamrezir.png",
+   "durum": 200,
+   "boyut": "1503x775",
+   "dosya": "resim/01_b46af70e.png",
+   "bayt": 1455650
+  }
+ ]
+}

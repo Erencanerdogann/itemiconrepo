@@ -1,0 +1,844 @@
+[
+ {
+  "id": 10,
+  "baslik": "🔥 SEXYKO'DA KIRDIRMA SİSTEMİ DETAYLARI",
+  "klasor": "d010-10-sexykoda-kirdirma-sistemi-detaylari",
+  "tarih": "2026-08-31",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 5,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 1045,
+   "resim": 5,
+   "kirik_resim": 0,
+   "baslik": 0,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "BAŞLIKSIZ (bölüm yok)",
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 11,
+  "baslik": "🔥 SEXYKO PARTY SİSTEMİ YENİLENDİ!",
+  "klasor": "d011-11-sexyko-party-sistemi-yenilendi",
+  "tarih": "2026-08-31",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 2,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 1255,
+   "resim": 2,
+   "kirik_resim": 0,
+   "baslik": 0,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "BAŞLIKSIZ (bölüm yok)",
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 12,
+  "baslik": "⚙️ SEXYKO F10 OYUN AYARLARI",
+  "klasor": "d012-12-sexyko-f10-oyun-ayarlari",
+  "tarih": "2026-08-31",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 11,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 7812,
+   "resim": 11,
+   "kirik_resim": 0,
+   "baslik": 0,
+   "font_px_min": 8.0,
+   "font_px_kucuk": 17,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 12
+  },
+  "sorun": [
+   "KÜÇÜK YAZI (min 8 px, 17 alan <13 px — Flarum SIZE=piksel)",
+   "BAŞLIKSIZ (bölüm yok)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 13,
+  "baslik": "🎫 SEXYKO DESTEK TALEBİ SİSTEMİ",
+  "klasor": "d013-13-sexyko-destek-talebi-sistemi",
+  "tarih": "2026-08-31",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 4,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 3272,
+   "resim": 4,
+   "kirik_resim": 0,
+   "baslik": 12,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 14,
+  "baslik": "⚔️ FARM GRIND TRACKER",
+  "klasor": "d014-14-farm-grind-tracker",
+  "tarih": "2026-08-31",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 3,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 2204,
+   "resim": 3,
+   "kirik_resim": 0,
+   "baslik": 11,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 16,
+  "baslik": "⚔️ SEXYKO GENIE SİSTEMİ",
+  "klasor": "d016-16-sexyko-genie-sistemi",
+  "tarih": "2026-08-31",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 4,
+  "kirik": 4,
+  "metrik": {
+   "karakter": 6768,
+   "resim": 4,
+   "kirik_resim": 4,
+   "baslik": 28,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "KIRIK RESİM 4/4",
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 22,
+  "baslik": "📘 SEXYKO REHBER SİSTEMİ",
+  "klasor": "d022-22-sexyko-rehber-sistemi",
+  "tarih": "2026-08-31",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 2,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 2266,
+   "resim": 2,
+   "kirik_resim": 0,
+   "baslik": 7,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 24,
+  "baslik": "⛏️ SEXYKO AUTO MINING — MINING INN SİSTEMİ",
+  "klasor": "d024-24-sexyko-auto-mining-mining-inn-sistemi",
+  "tarih": "2026-08-31",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 3,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 1607,
+   "resim": 3,
+   "kirik_resim": 0,
+   "baslik": 8,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 26,
+  "baslik": "🔨 SEXYKO UPGRADE ORANLARI SİSTEMİ",
+  "klasor": "d026-26-sexyko-upgrade-oranlari-sistemi",
+  "tarih": "2026-08-31",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 3,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 2457,
+   "resim": 3,
+   "kirik_resim": 0,
+   "baslik": 6,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 27,
+  "baslik": "🛒 SEXYKO POWER UP STORE",
+  "klasor": "d027-27-sexyko-power-up-store",
+  "tarih": "2026-08-31",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 2,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 1036,
+   "resim": 2,
+   "kirik_resim": 0,
+   "baslik": 5,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 28,
+  "baslik": "🔄 SEXYKO JOB CHANGER KULLANIMI",
+  "klasor": "d028-28-sexyko-job-changer-kullanimi",
+  "tarih": "2026-08-31",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 2,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 1226,
+   "resim": 2,
+   "kirik_resim": 0,
+   "baslik": 7,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 29,
+  "baslik": "🦸 SEXYKO SOLO CAPE SİSTEMİ",
+  "klasor": "d029-29-sexyko-solo-cape-sistemi",
+  "tarih": "2026-08-31",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 3,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 2516,
+   "resim": 3,
+   "kirik_resim": 0,
+   "baslik": 7,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 30,
+  "baslik": "🏷️ SEXYKO TAG NAME SİSTEMİ",
+  "klasor": "d030-30-sexyko-tag-name-sistemi",
+  "tarih": "2026-08-31",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 3,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 1647,
+   "resim": 3,
+   "kirik_resim": 0,
+   "baslik": 5,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 31,
+  "baslik": "💇 SEXYKO MAKE OVER COUPON SİSTEMİ",
+  "klasor": "d031-31-sexyko-make-over-coupon-sistemi",
+  "tarih": "2026-08-31",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 2,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 929,
+   "resim": 2,
+   "kirik_resim": 0,
+   "baslik": 4,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 32,
+  "baslik": "🪪 SEXYKO NCS — NICK DEĞİŞTİRME SİSTEMİ",
+  "klasor": "d032-32-sexyko-ncs-nick-degistirme-sistemi",
+  "tarih": "2026-08-31",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 2,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 1065,
+   "resim": 2,
+   "kirik_resim": 0,
+   "baslik": 6,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 33,
+  "baslik": "📅 SEXYKO DAILY QUEST SİSTEMİ",
+  "klasor": "d033-33-sexyko-daily-quest-sistemi",
+  "tarih": "2026-08-31",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 3,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 1675,
+   "resim": 3,
+   "kirik_resim": 0,
+   "baslik": 8,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 34,
+  "baslik": "🎯 SEXYKO DROP INFO SİSTEMİ",
+  "klasor": "d034-34-sexyko-drop-info-sistemi",
+  "tarih": "2026-08-31",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 4,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 2239,
+   "resim": 4,
+   "kirik_resim": 0,
+   "baslik": 8,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 36,
+  "baslik": "⚔️ SEXYKO CLAN GRADE SİSTEMİ",
+  "klasor": "d036-36-sexyko-clan-grade-sistemi",
+  "tarih": "2026-09-03",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 1,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 2168,
+   "resim": 1,
+   "kirik_resim": 0,
+   "baslik": 0,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "BAŞLIKSIZ (bölüm yok)",
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 38,
+  "baslik": "⏳ SEXYKO KUM SAATİ SİSTEMİ",
+  "klasor": "d038-38-sexyko-kum-saati-sistemi",
+  "tarih": "2026-09-10",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 3,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 2644,
+   "resim": 3,
+   "kirik_resim": 0,
+   "baslik": 8,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 39,
+  "baslik": "👑 SEXYKO ROYAL PELERİN BONUSLARI",
+  "klasor": "d039-39-sexyko-royal-pelerin-bonuslari",
+  "tarih": "2026-09-10",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 1,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 2029,
+   "resim": 1,
+   "kirik_resim": 0,
+   "baslik": 11,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 40,
+  "baslik": "💍 SEXYKO OLD TAKI DÖNÜŞÜM SİSTEMİ",
+  "klasor": "d040-40-sexyko-old-taki-donusum-sistemi",
+  "tarih": "2026-09-12",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 1,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 2883,
+   "resim": 1,
+   "kirik_resim": 0,
+   "baslik": 12,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 41,
+  "baslik": "🎡 SEXYKO ÇARKIFELEK SİSTEMİ",
+  "klasor": "d041-41-sexyko-carkifelek-sistemi",
+  "tarih": "2026-09-13",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 2,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 1900,
+   "resim": 2,
+   "kirik_resim": 0,
+   "baslik": 11,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 42,
+  "baslik": "⚔️ SEXYKO SKILL PRESET & QUICK SLOT SİSTEMİ",
+  "klasor": "d042-42-sexyko-skill-preset-quick-slot-sistemi",
+  "tarih": "2026-09-13",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 3,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 4208,
+   "resim": 3,
+   "kirik_resim": 0,
+   "baslik": 18,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 43,
+  "baslik": "♻️ SEXYKO CHAOTIC GENERATOR & TOPLU KIRDIRMA SİSTEMİ",
+  "klasor": "d043-43-sexyko-chaotic-generator-toplu-kirdirma-sistemi",
+  "tarih": "2026-09-14",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 1,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 3537,
+   "resim": 1,
+   "kirik_resim": 0,
+   "baslik": 18,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 44,
+  "baslik": "🦸 SEXYKO SOLO PELERİN SİSTEMİ",
+  "klasor": "d044-44-sexyko-solo-pelerin-sistemi",
+  "tarih": "2026-09-14",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 14,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 3527,
+   "resim": 14,
+   "kirik_resim": 0,
+   "baslik": 15,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 45,
+  "baslik": "🐉 SEXYKO DRAKI'S TOWER SİSTEMİ",
+  "klasor": "d045-45-sexyko-drakis-tower-sistemi",
+  "tarih": "2026-09-17",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 3,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 2973,
+   "resim": 3,
+   "kirik_resim": 0,
+   "baslik": 18,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 46,
+  "baslik": "👁️ SEXYKO EQUIPMENT VIEW SİSTEMİ",
+  "klasor": "d046-46-sexyko-equipment-view-sistemi",
+  "tarih": "2026-09-19",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 2,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 3875,
+   "resim": 2,
+   "kirik_resim": 0,
+   "baslik": 22,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 49,
+  "baslik": "⭐ SEXYKO KARAKTER REBIRTH SİSTEMİ",
+  "klasor": "d049-49-sexyko-karakter-rebirth-sistemi",
+  "tarih": "2026-09-20",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 3,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 1083,
+   "resim": 3,
+   "kirik_resim": 0,
+   "baslik": 10,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 50,
+  "baslik": "🔎 SEXYKO DROP SEARCH SİSTEMİ",
+  "klasor": "d050-50-sexyko-drop-search-sistemi",
+  "tarih": "2026-09-22",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 1,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 694,
+   "resim": 1,
+   "kirik_resim": 0,
+   "baslik": 6,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 52,
+  "baslik": "🌀 SEXYKO SLOT TELEPORT SİSTEMİ",
+  "klasor": "d052-52-sexyko-slot-teleport-sistemi",
+  "tarih": "2026-09-28",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 4,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 1576,
+   "resim": 4,
+   "kirik_resim": 0,
+   "baslik": 12,
+   "font_px_min": null,
+   "font_px_kucuk": 0,
+   "renk": 0,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 0
+  },
+  "sorun": [
+   "SADE (renk / ortalama yok — eski janr)"
+  ],
+  "bizim": null
+ },
+ {
+  "id": 56,
+  "baslik": "⚔️ SEXYKO SKILL & MASTER REHBERİ",
+  "klasor": "d056-56-sexyko-skill-master-rehberi",
+  "tarih": "2026-10-06",
+  "mesaj": 1,
+  "goruntulenme": null,
+  "resim": 14,
+  "kirik": 0,
+  "metrik": {
+   "karakter": 5292,
+   "resim": 14,
+   "kirik_resim": 0,
+   "baslik": 0,
+   "font_px_min": 18.0,
+   "font_px_kucuk": 0,
+   "renk": 176,
+   "ham_bbcode": 0,
+   "ham_ornek": [],
+   "md_kalinti": 0,
+   "hizali": 38
+  },
+  "sorun": [
+   "BAŞLIKSIZ (bölüm yok)"
+  ],
+  "bizim": "Skill & Master (6 Eki, bizim janr)"
+ }
+]

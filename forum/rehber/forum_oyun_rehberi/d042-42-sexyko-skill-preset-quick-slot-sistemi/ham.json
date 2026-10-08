@@ -1,0 +1,99 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "42",
+  "attributes": {
+   "title": "⚔️ SEXYKO SKILL PRESET & QUICK SLOT SİSTEMİ",
+   "slug": "42-️-sexyko-skill-preset--quick-slot-sİstemİ",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-09-13T23:58:27+00:00",
+   "lastPostedAt": "2026-09-13T23:58:27+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "83",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-09-13T23:58:27+00:00",
+    "contentType": "comment",
+    "contentHtml": "<h1>⚔️ SEXYKO SKILL PRESET &amp; QUICK SLOT SİSTEMİ</h1>\n\n<p>SexyKO'da bulunan <strong>Skill Preset</strong> ve <strong>Quick Slot</strong> sistemi sayesinde karakterinizin skill puanlarını ve skill bar dizilimlerini ayrı ayrı kaydedebilir, ihtiyaç duyduğunuz anda hızlıca değiştirebilirsiniz.</p>\n\n<p>Bu sistem özellikle PK, farm, party veya farklı oyun stilleri arasında sık geçiş yapan oyuncular için büyük kolaylık sağlar.</p>\n\n<hr>\n\n<h2>📍 SKILL PENCERESİNE NASIL ULAŞILIR?</h2>\n\n<p>Oyunda <strong>K</strong> tuşuna bastığınızda Skill penceresi açılır.</p>\n\n<p>Bu pencere üzerinden:</p>\n\n<ul><li>Skill puanlarınızı yönetebilir,</li>\n<li>Preset oluşturabilir,</li>\n<li>Skill dağılımınızı kaydedebilir,</li>\n<li>Quick Slot düzenlerinizi oluşturabilir,</li>\n<li>Kayıtlı düzenler arasında hızlıca geçiş yapabilirsiniz.</li></ul>\n\n<p><img src=\"https://i.hizliresim.com/hjkgyzyz.png\" title=\"\" alt=\"SexyKO Skill Sistemi Genel Görünüm\"></p>\n\n<hr>\n\n<h1>🧠 01 — SKILL PRESET SİSTEMİ</h1>\n\n<p><strong>Preset Sistemi</strong>, verdiğiniz skill puanlarını kayıt altına almanızı sağlar.</p>\n\n<p>Örneğin karakteriniz için farklı kullanım düzenleri oluşturabilirsiniz:</p>\n\n<ul><li>PK düzeni</li>\n<li>Farm düzeni</li>\n<li>Party düzeni</li>\n<li>Solo kullanım düzeni</li></ul>\n\n<p>Skill puanlarınızı bir kez hazırladıktan sonra Preset olarak kaydedebilirsiniz.</p>\n\n<p>Daha sonra <strong>Edit</strong> seçeneği üzerinden mevcut Preset'i düzenleyebilir ve tekrar kaydedebilirsiniz.</p>\n\n<p>Böylece her seferinde skill puanlarını baştan dağıtmak yerine kayıtlı düzeninizi kullanabilirsiniz.</p>\n\n<hr>\n\n<h2>✏️ EDIT İLE PRESET DÜZENLEME</h2>\n\n<p>Mevcut Preset üzerinde değişiklik yapmak istediğinizde:</p>\n\n<p><strong>Edit</strong> seçeneğine tıklayın.</p>\n\n<p>Ardından istediğiniz skill dağılımını oluşturup:</p>\n\n<p><strong>Save</strong></p>\n\n<p>butonuna basarak yeni düzeninizi kaydedin.</p>\n\n<p>Bu sayede Skill Preset'lerinizi oyun stilinize göre istediğiniz zaman güncelleyebilirsiniz.</p>\n\n<hr>\n\n<h1>⚡ 02 — SAVE QUICKSLOT SİSTEMİ</h1>\n\n<p>Skill puanlarınızı kaydetmenin yanında, skill bar diziliminizi de ayrıca kaydedebilirsiniz.</p>\n\n<p>SexyKO'da toplam:</p>\n\n<h1>🔥 4 FARKLI QUICK SLOT KAYDI</h1>\n\n<p>oluşturabilirsiniz.</p>\n\n<p>Bu sayede farklı kullanım amaçları için 4 ayrı skill bar hazırlayabilirsiniz.</p>\n\n<p>Örneğin:</p>\n\n<p><strong>Quick Slot 1</strong> → PK  <br>\n<strong>Quick Slot 2</strong> → Farm  <br>\n<strong>Quick Slot 3</strong> → Party  <br>\n<strong>Quick Slot 4</strong> → Event</p>\n\n<p>gibi farklı düzenler oluşturabilirsiniz.</p>\n\n<hr>\n\n<h2>🛠️ QUICK SLOT NASIL KAYDEDİLİR?</h2>\n\n<p>Quick Slot bölümünün alt tarafında bulunan <strong>Edit</strong> seçeneğine tıklayın.</p>\n\n<p>Aşağıdaki ekran üzerinden skill barınızı istediğiniz şekilde düzenleyebilirsiniz.</p>\n\n<p><img src=\"https://i.hizliresim.com/kdr3oqdi.png\" title=\"\" alt=\"SexyKO Quick Slot Edit\"></p>\n\n<p>Skilllerinizi istediğiniz sıraya yerleştirdikten sonra:</p>\n\n<p><strong>Save</strong></p>\n\n<p>butonuna basarak mevcut skill bar düzeninizi kaydedebilirsiniz.</p>\n\n<p>Bundan sonra kayıtlı Quick Slot'u ihtiyacınız olduğunda hızlıca kullanabilirsiniz.</p>\n\n<hr>\n\n<h1>🏷️ 03 — SKILL TABLONIZA İSİM VERİN</h1>\n\n<p>Kaydettiğiniz Skill Preset veya Quick Slot düzenlerini birbirinden daha kolay ayırabilmek için özel isim verebilirsiniz.</p>\n\n<p><img src=\"https://i.hizliresim.com/c0y3kb5i.png\" title=\"\" alt=\"SexyKO Skill Preset İsimlendirme\"></p>\n\n<p>Örneğin:</p>\n\n<ul><li><strong>PK Build</strong></li>\n<li><strong>Farm Build</strong></li>\n<li><strong>JR Build</strong></li>\n<li><strong>BDW Build</strong></li>\n<li><strong>Party Priest</strong></li>\n<li><strong>Solo Build</strong></li></ul>\n\n<p>gibi isimler kullanabilirsiniz.</p>\n\n<p>Bu sayede kayıtlı düzenleriniz arasında geçiş yaparken hangisinin hangi amaçla hazırlandığını kolayca anlayabilirsiniz.</p>\n\n<hr>\n\n<h1>🔄 04 — ANLIK SKILL DÜZENİ DEĞİŞTİRME</h1>\n\n<p>Preset sisteminin en önemli avantajlarından biri, kayıtlı skill dağılımlarınızı hızlı şekilde değiştirebilmenizdir.</p>\n\n<p>Yani:</p>\n\n<p><strong>Skill puanlarını tekrar tekrar elle dağıtmak yerine</strong></p>\n\n<p>önceden hazırladığınız Preset'i seçerek farklı oyun stiline geçebilirsiniz.</p>\n\n<p>Bu özellik özellikle:</p>\n\n<ul><li>PK'dan farm'a geçen,</li>\n<li>Farm'dan event'e giren,</li>\n<li>Solo oyundan party oyununa geçen</li></ul>\n\n<p>oyuncular için ciddi zaman kazandırır.</p>\n\n<hr>\n\n<h1>🎯 PRESET VE QUICKSLOT ARASINDAKİ FARK</h1>\n\n<h2>🧠 Skill Preset</h2>\n<p>Karakterinizin <strong>skill puanı dağılımını</strong> kaydeder.</p>\n\n<h2>⚡ Quick Slot</h2>\n<p>Skill barınızda bulunan <strong>skill dizilimini ve kullanım sırasını</strong> kaydeder.</p>\n\n<p>Yani iki sistem birbirinden farklıdır ama birlikte kullanıldığında çok daha güçlü hale gelir.</p>\n\n<hr>\n\n<h1>✅ ÖRNEK KULLANIM</h1>\n\n<p>Diyelim ki Rogue karakter oynuyorsunuz.</p>\n\n<h3>⚔️ PK için:</h3>\n<ul><li>PK Skill Preset'inizi seçin.</li>\n<li>PK Quick Slot düzeninizi aktif edin.</li></ul>\n\n<h3>🐺 Farm için:</h3>\n<ul><li>Farm Skill Preset'inizi seçin.</li>\n<li>Farm Quick Slot düzeninizi kullanın.</li></ul>\n\n<p>Böylece skill puanlarını ve barları her defasında baştan hazırlamak zorunda kalmazsınız.</p>\n\n<hr>\n\n<h1>📌 KISACASI</h1>\n\n<p>SexyKO Skill sistemi sayesinde:</p>\n\n<ul><li><strong>K tuşundan Skill ekranına ulaşabilirsiniz.</strong></li>\n<li>Skill puanlarınızı <strong>Preset olarak kaydedebilirsiniz.</strong></li>\n<li>Preset'lerinizi <strong>Edit</strong> ile düzenleyebilirsiniz.</li>\n<li>Skill barlarınızı <strong>Save Quickslot</strong> ile kaydedebilirsiniz.</li>\n<li>Toplam <strong>4 farklı Quick Slot</strong> oluşturabilirsiniz.</li>\n<li>Kayıtlarınıza özel isim verebilirsiniz.</li>\n<li>Farklı oyun stilleri arasında hızlıca geçiş yapabilirsiniz.</li></ul>\n\n<hr>\n\n<h1>🔥 SEXYKO SKILL PRESET &amp; QUICK SLOT</h1>\n\n<p><strong>Skill puanını kaydet • Skill barını oluştur • İsmini ver • Tekrar tekrar uğraşma</strong></p>\n\n<h3>⚔️ PK, FARM, PARTY VE EVENT DÜZENLERİNİ TEK SİSTEMDE YÖNET!</h3>",
+    "renderFailed": false,
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 0
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/hjkgyzyz.png",
+   "durum": 200,
+   "boyut": "1397x770",
+   "dosya": "resim/01_50532824.png",
+   "bayt": 1358486
+  },
+  {
+   "url": "https://i.hizliresim.com/kdr3oqdi.png",
+   "durum": 200,
+   "boyut": "454x253",
+   "dosya": "resim/02_d26c356d.png",
+   "bayt": 138970
+  },
+  {
+   "url": "https://i.hizliresim.com/c0y3kb5i.png",
+   "durum": 200,
+   "boyut": "472x345",
+   "dosya": "resim/03_c75358d2.png",
+   "bayt": 194301
+  }
+ ]
+}

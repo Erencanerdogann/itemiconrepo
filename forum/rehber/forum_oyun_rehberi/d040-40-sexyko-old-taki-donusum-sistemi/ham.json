@@ -1,0 +1,86 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "40",
+  "attributes": {
+   "title": "💍 SEXYKO OLD TAKI DÖNÜŞÜM SİSTEMİ",
+   "slug": "40--sexyko-old-taki-dÖnÜŞÜm-sİstemİ",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-09-12T00:28:46+00:00",
+   "lastPostedAt": "2026-09-12T00:28:46+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "79",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-09-12T00:28:46+00:00",
+    "contentType": "comment",
+    "contentHtml": "<p><img src=\"https://i.hizliresim.com/yddcg9ry.png\" title=\"\" alt=\"OLDTAKISİSTEMİ.png\"></p>\n<h1>💍 SEXYKO OLD TAKI DÖNÜŞÜM SİSTEMİ</h1>\n\n<p>SexyKO'da bulunan <strong>Old Takı Dönüşüm Sistemi</strong> sayesinde elinizde bulunan Old takıları, Shozin NPC üzerinden normal takıya dönüştürme şansı elde edebilirsiniz.</p>\n\n<p>Yeni sistemde dönüşüm işlemi belirli materyaller kullanılarak yapılır.</p>\n\n<hr>\n\n<h1>⚙️ OLD TAKI NASIL DÖNÜŞTÜRÜLÜR?</h1>\n\n<p>Shozin NPC üzerinden dönüşüm yapmak için aşağıdaki materyaller gereklidir:</p>\n\n<p><strong>3x Aynı Old Takı</strong>  <br>\n<strong>1x Silver Bar [10M]</strong>  <br>\n<strong>1x Nest Scrap</strong>  <br>\n<strong>50x Scrap of Steel</strong></p>\n\n<p>Bu materyalleri Shozin NPC üzerinden kullanarak Old takınızı dönüşüme sokabilirsiniz.</p>\n\n<p>İşlem başarılı olduğunda Old takının <strong>normal / düz versiyonunu</strong> elde edersiniz.</p>\n\n<hr>\n\n<h1>📌 DÖNÜŞÜM MANTIĞI</h1>\n\n<p>Örnek olarak:</p>\n\n<p><strong>3x Old Ring of Courage</strong>  <br>\n<strong>1x Silver Bar [10M]</strong>  <br>\n<strong>1x Nest Scrap</strong>  <br>\n<strong>50x Scrap of Steel</strong></p>\n\n<p>ile Shozin NPC üzerinden dönüşüm işlemi yapılabilir.</p>\n\n<p>İşlem başarılı olursa:</p>\n\n<p><strong>Ring of Courage</strong></p>\n\n<p>elde edebilirsiniz.</p>\n\n<p>Aynı sistem aşağıda yer alan tüm Old takılar için geçerlidir.</p>\n\n<hr>\n\n<h1>🧿 OLD TAKI LİSTESİ</h1>\n\n<p>SexyKO'da dönüşüm sistemine dahil olan toplam:</p>\n\n<h1>🔥 63 ADET OLD TAKI</h1>\n\n<p>bulunmaktadır.</p>\n\n<hr>\n\n<h2>🟤 OLD KEMERLER — 16 ADET</h2>\n\n<ol style=\"list-style-type:decimal\"><li>Old Belt of Curse  </li>\n<li>Old Belt of Dexterity  </li>\n<li>Old Belt of Harpy  </li>\n<li>Old Belt of Intelligence  </li>\n<li>Old Belt of Life  </li>\n<li>Old Belt of Quickness  </li>\n<li>Old Belt of Strength  </li>\n<li>Old Bronze Belt  </li>\n<li>Old Crystal Belt  </li>\n<li>Old Elf Belt  </li>\n<li>Old Fire Belt  </li>\n<li>Old Ice Belt  </li>\n<li>Old Kekuri Belt  </li>\n<li>Old Lightning Belt  </li>\n<li>Old Mana Belt  </li>\n<li>Old Skeleton Belt</li>  </ol>\n\n<hr>\n\n<h2>🟡 OLD KÜPELER — 14 ADET</h2>\n\n<ol style=\"list-style-type:decimal\" start=\"17\"><li>Old Bronze Earring  </li>\n<li>Old Crystal Earring  </li>\n<li>Old Elf Metal Earring  </li>\n<li>Old Gold Earring  </li>\n<li>Old Mage Earring  </li>\n<li>Old Mano Earring  </li>\n<li>Old Opal Earring  </li>\n<li>Old Platinum Earring  </li>\n<li>Old Priest’s Earring  </li>\n<li>Old Rogue’s Earring  </li>\n<li>Old Secret Silver Earring  </li>\n<li>Old Silver Earring  </li>\n<li>Old Warrior’s Earring  </li>\n<li>Old White Silver Earring</li>  </ol>\n\n<hr>\n\n<h2>🔵 OLD KOLYELER — 18 ADET</h2>\n\n<ol style=\"list-style-type:decimal\" start=\"31\"><li>Old Agility Necklace  </li>\n<li>Old Black Dragon Necklace  </li>\n<li>Old Blue Dragon Necklace  </li>\n<li>Old Crystal Necklace  </li>\n<li>Old Curse Necklace  </li>\n<li>Old Elemental Necklace  </li>\n<li>Old Elemental Pendant  </li>\n<li>Old Goddess Necklace  </li>\n<li>Old Green Dragon Necklace  </li>\n<li>Old Health Necklace  </li>\n<li>Old Intelligence Necklace  </li>\n<li>Old Magic Power Necklace  </li>\n<li>Old Necklace of Quickness  </li>\n<li>Old Priest Pendant  </li>\n<li>Old Red Dragon Necklace  </li>\n<li>Old Strength Necklace  </li>\n<li>Old Warrior Pendant  </li>\n<li>Old White Dragon Necklace</li>  </ol>\n\n<hr>\n\n<h2>🟣 OLD YÜZÜKLER — 15 ADET</h2>\n\n<ol style=\"list-style-type:decimal\" start=\"49\"><li>Old Crystal Ring  </li>\n<li>Old Diamond Ring  </li>\n<li>Old Elf Ring  </li>\n<li>Old Emerald Ring  </li>\n<li>Old Flame Ring  </li>\n<li>Old Gold Ring  </li>\n<li>Old Imir Ring  </li>\n<li>Old Mano Ring  </li>\n<li>Old Opal Ring  </li>\n<li>Old Platinum Ring  </li>\n<li>Old Ring of Courage  </li>\n<li>Old Ring of Life  </li>\n<li>Old Ruby Ring  </li>\n<li>Old Shio Tears  </li>\n<li>Old Silver Ring</li>  </ol>\n\n<hr>\n\n<h1>⚠️ DİKKAT EDİLMESİ GEREKENLER</h1>\n\n<p>Dönüşüm işlemi yapmadan önce gerekli materyallerin eksiksiz olduğundan emin olun.</p>\n\n<p>Gerekli materyaller:</p>\n\n<ul><li><strong>3 adet aynı Old Takı</strong></li>\n<li><strong>1 adet Silver Bar [10M]</strong></li>\n<li><strong>1 adet Nest Scrap</strong></li>\n<li><strong>50 adet Scrap of Steel</strong></li></ul>\n\n<p>Materyaller eksik olduğunda Shozin üzerinden dönüşüm işlemi gerçekleştirilemez.</p>\n\n<hr>\n\n<h1>✅ KISACASI</h1>\n\n<p><strong>3x Aynı Old Takı</strong>  <br>\n<strong>+ 1x Silver Bar [10M]</strong>  <br>\n<strong>+ 1x Nest Scrap</strong>  <br>\n<strong>+ 50x Scrap of Steel</strong></p>\n\n<p>⬇️</p>\n\n<p><strong>Shozin NPC üzerinden dönüşüm</strong></p>\n\n<p>⬇️</p>\n\n<p><strong>Başarılı olursa Old takının normal versiyonunu elde et</strong></p>\n\n<hr>\n\n<h1>🔥 SEXYKO OLD TAKI DÖNÜŞÜMÜ</h1>\n\n<p><strong>Old takını biriktir • Materyallerini hazırla • Shozin'e git • Normal takını elde et!</strong></p>",
+    "renderFailed": false,
+    "editedAt": "2026-09-20T10:30:00+00:00",
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 0
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/yddcg9ry.png",
+   "durum": 200,
+   "boyut": "1574x248",
+   "dosya": "resim/01_477d5ec3.png",
+   "bayt": 735993
+  }
+ ]
+}

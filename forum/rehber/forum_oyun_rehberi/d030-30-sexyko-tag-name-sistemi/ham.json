@@ -1,0 +1,100 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "30",
+  "attributes": {
+   "title": "🏷️ SEXYKO TAG NAME SİSTEMİ",
+   "slug": "30-️-sexyko-tag-name-sİstemİ",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-08-31T23:06:43+00:00",
+   "lastPostedAt": "2026-08-31T23:06:43+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "60",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-08-31T23:06:43+00:00",
+    "contentType": "comment",
+    "contentHtml": "<p><img src=\"https://i.hizliresim.com/sw2ifdrd.png\" title=\"\" alt=\"Çalışma yüzeyi 1 kopya 4-1.png\"></p>\n\n\n\n\n<p>SexyKO'da bulunan <strong>Tag Name Sistemi</strong> sayesinde karakterinizin üzerinde özel bir isim / tag gösterebilir ve bunu tamamen kendi tarzınıza göre özelleştirebilirsiniz.</p>\n\n<p>Sistem, iteme <strong>sağ tıklayarak</strong> kolayca aktif edilir ve ek bir NPC'ye gitmenize gerek kalmaz.</p>\n\n<hr>\n\n<h2>⚙️ TAG NAME NASIL KULLANILIR?</h2>\n\n<p>Tag Name itemine <strong>sağ tıklayarak</strong> aşağıdaki ayar penceresini açabilirsiniz.</p>\n\n<p><img src=\"https://i.hizliresim.com/dszmbtqs.png\" title=\"\" alt=\"SexyKO Tag Name Sistemi\"></p>\n\n<p>Bu bölümden karakterinizin üzerinde görünmesini istediğiniz Tag Name'i belirleyebilirsiniz.</p>\n\n<p>Sistem oldukça basit çalışır:</p>\n\n<p><strong>1️⃣ Tag Name itemine sağ tıklayın</strong>  <br>\n<strong>2️⃣ Açılan pencereden isminizi belirleyin</strong>  <br>\n<strong>3️⃣ Renk ayarınızı yapın</strong>  <br>\n<strong>4️⃣ Kaydedip aktif edin</strong></p>\n\n<hr>\n\n<h2>🎨 RGB RENK SİSTEMİ</h2>\n\n<p>Tag Name'inizi sadece yazı olarak değil, <strong>RGB renk sistemi</strong> üzerinden istediğiniz renkte kullanabilirsiniz.</p>\n\n<p>RGB değerlerini değiştirerek:</p>\n\n<ul><li>kırmızı,</li>\n<li>mavi,</li>\n<li>yeşil,</li>\n<li>mor,</li>\n<li>sarı,</li>\n<li>veya kendi özel renk tonunuzu</li></ul>\n\n<p>oluşturabilirsiniz.</p>\n\n<p>Bu sayede karakterinizin üzerindeki Tag Name tamamen size özel bir görünüm kazanır.</p>\n\n<hr>\n\n<h2>👤 KARAKTER ÜZERİNDE NASIL GÖRÜNÜR?</h2>\n\n<p>Ayarladığınız Tag Name, karakterinizin üzerinde doğrudan görüntülenir.</p>\n\n<p><img src=\"https://i.hizliresim.com/iaxg7p2z.png\" title=\"\" alt=\"SexyKO Tag Name Karakter Görünümü\"></p>\n\n<p>Böylece oyuncular karakterinizi gördüğünde seçtiğiniz özel tag / isim de karakterinizle birlikte görünür.</p>\n\n<p>Bu sistem özellikle karakterini daha özgün ve dikkat çekici hale getirmek isteyen oyuncular için hazırlanmıştır.</p>\n\n<hr>\n\n<h2>✅ KISACASI</h2>\n\n<p>SexyKO Tag Name sistemi sayesinde:</p>\n\n<ul><li>iteme <strong>sağ tıklayarak</strong> sistemi açabilirsiniz,</li>\n<li>karakteriniz için özel bir Tag Name belirleyebilirsiniz,</li>\n<li>RGB sistemiyle istediğiniz rengi oluşturabilirsiniz,</li>\n<li>seçtiğiniz Tag Name'i karakterinizin üzerinde gösterebilirsiniz.</li></ul>\n\n<hr>\n\n<h1>🔥 SEXYKO TAG NAME SİSTEMİ</h1>\n\n<p><strong>İsmini belirle • Rengini seç • Tarzını karakterine yansıt!</strong></p>\n\n<p><strong>Kendi rengin, kendi Tag Name'in, kendi stilin.</strong></p>",
+    "renderFailed": false,
+    "editedAt": "2026-09-03T18:26:14+00:00",
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 0
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/sw2ifdrd.png",
+   "durum": 200,
+   "boyut": "1574x248",
+   "dosya": "resim/01_43b4b98e.png",
+   "bayt": 642726
+  },
+  {
+   "url": "https://i.hizliresim.com/dszmbtqs.png",
+   "durum": 200,
+   "boyut": "1288x826",
+   "dosya": "resim/02_94ec7c91.png",
+   "bayt": 1332883
+  },
+  {
+   "url": "https://i.hizliresim.com/iaxg7p2z.png",
+   "durum": 200,
+   "boyut": "455x706",
+   "dosya": "resim/03_cfb7425a.png",
+   "bayt": 420713
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "56",
+  "attributes": {
+   "title": "⚔️ SEXYKO SKILL & MASTER REHBERİ",
+   "slug": "56-️-sexyko-skill--master-rehberİ",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-10-06T22:23:49+00:00",
+   "lastPostedAt": "2026-10-06T22:23:49+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "10"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "112",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-10-06T22:23:49+00:00",
+    "contentType": "comment",
+    "contentHtml": "<div style=\"text-align:center\"><p><img src=\"https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/resim/1_geri_sayim.b3746cf9.gif\" title=\"\" alt=\"\"></p></div>\n\n<div style=\"text-align:center\"><p><img src=\"https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/resim/2_logo.3a3f29a4.png\" title=\"\" alt=\"\"></p></div>\n\n<div style=\"text-align:center\"><p><span style=\"font-size:26px\"><b><span style=\"color:#c8a253\">SKILL &amp; MASTER REHBERİ</span></b></span><br>\n<span style=\"font-size:18px\"><span style=\"color:#a89f91\">Hangi job, hangi NPC, hangi item — Master'dan 80 skill'ine kadar adım adım, tüm joblar tek konuda.</span></span></p></div>\n\n<div style=\"text-align:center\"><p><span style=\"font-size:18px\"><b><span style=\"color:#c8a253\">📑 İÇİNDEKİLER</span></b></span><br>\n<span style=\"font-size:18px\"><span style=\"color:#c8a253\">01</span> · 🧭 4 ADIMDA YOL HARİTASI<br>\n<span style=\"color:#c8a253\">02</span> · 1️⃣ 1. JOB DEĞİŞİMİ<br>\n<span style=\"color:#c8a253\">03</span> · ⌨️ SKILL PENCERESİ (K)<br>\n<span style=\"color:#c8a253\">04</span> · 📍 MASTER &amp; SKILL NPC'LERİ — İSİM VE BÖLGE<br>\n<span style=\"color:#c8a253\">05</span> · ⚔️ MASTER GÖREVİ (2. JOB) — TÜM JOBLAR<br>\n<span style=\"color:#c8a253\">06</span> · 💎 MASTER İTEMLERİ NEREDEN DÜŞER<br>\n<span style=\"color:#c8a253\">07</span> · 📜 70 – 80 SKILL GÖREVLERİ<br>\n<span style=\"color:#c8a253\">08</span> · 💠 SPELL STONE POWDER NEREDEN?<br>\n<span style=\"color:#c8a253\">09</span> · 💡 İPUÇLARI<br>\n<span style=\"color:#c8a253\">10</span> · 🔗 BAĞLANTILAR</span></p></div>\n\n<div style=\"text-align:center\"><p><span style=\"color:#c8a253\">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span></p></div>\n\n<div style=\"text-align:center\"><p><span style=\"font-size:22px\"><b><span style=\"color:#c8a253\">🧭 01 · 4 ADIMDA YOL HARİTASI</span></b></span></p></div>\n\n<div style=\"text-align:center\"><p><img src=\"https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim/S00_yol_haritasi.c8f2a003.jpg\" title=\"\" alt=\"\"></p></div>\n\n<div style=\"text-align:center\"><p><span style=\"color:#c8a253\">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span></p></div>\n\n<div style=\"text-align:center\"><p><span style=\"font-size:22px\"><b><span style=\"color:#c8a253\">1️⃣ 02 · 1. JOB DEĞİŞİMİ</span></b></span></p></div>\n\n<p><span style=\"font-size:18px\">Karakterin 1. job'unu henüz almadıysa: <b><span style=\"color:#e6c46a\">Level 10+</span></b> → Moradon'daki <b><span style=\"color:#e6c46a\">[Grand Merchant] Kaishan</span></b> (816,703) → <b><span style=\"color:#e6c46a\">3.000 coin</span></b> → job change.</span></p>\n\n<p><span style=\"font-size:18px\"><a href=\"https://sexyko.com/guide/quests/406\" rel=\"ugc nofollow\"><b><span style=\"color:#4fa3ff\">📘 Rehberde aç: 1st job change ↗</span></b></a></span></p>\n\n<div style=\"text-align:center\"><p><span style=\"color:#c8a253\">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span></p></div>\n\n<div style=\"text-align:center\"><p><span style=\"font-size:22px\"><b><span style=\"color:#c8a253\">⌨️ 03 · SKILL PENCERESİ (K)</span></b></span></p></div>\n\n<p><span style=\"font-size:18px\"><b><span style=\"color:#e6c46a\">K</span></b> → Skill penceresi. Her job'un <b><span style=\"color:#e6c46a\">4 sekmesi</span></b> var, sonuncusu <b><span style=\"color:#e6c46a\">Master</span></b>. Sekme sayacının yanındaki <b><span style=\"color:#e6c46a\">▲</span></b> ile puan verirsin.</span></p>\n\n<p><span style=\"font-size:18px\"><span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">Warrior</span></b> — Attack · Defence · Passion · Master<br>\n<span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">Rogue</span></b> — Archery · Assassinate · Search · Master<br>\n<span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">Mage</span></b> — Fire · Ice · Lightning · Master<br>\n<span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">Priest</span></b> — Heal · Aura · Spirit · Master<br>\n<span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">Kurian</span></b> ve <b><span style=\"color:#e6c46a\">Porutu</span></b> — Attack · Defence · Devil · Master</span></p>\n\n<div style=\"text-align:center\"><p><img src=\"https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R07_skill.7cf15901.jpg\" title=\"\" alt=\"\"><br>\n<span style=\"font-size:18px\"><span style=\"color:#a89f91\">▲ Örnek Rogue: Assassinate 80 + Search 48 + Master 20 = 148 puan</span></span></p></div>\n\n<p><span style=\"font-size:18px\"><span style=\"color:#3ecf8e\">💡 Master sekmesine puan verebilmek için önce <b><span style=\"color:#e6c46a\">Master görevini</span></b> bitir.</span></span></p>\n\n<div style=\"text-align:center\"><p><span style=\"color:#c8a253\">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span></p></div>\n\n<div style=\"text-align:center\"><p><span style=\"font-size:22px\"><b><span style=\"color:#c8a253\">📍 04 · MASTER &amp; SKILL NPC'LERİ — İSİM VE BÖLGE</span></b></span></p></div>\n\n<p><span style=\"font-size:18px\">Her job'un <b><span style=\"color:#e6c46a\">kendi NPC'si</span></b> var. Ayrı bir skill NPC'si <b><span style=\"color:#e6c46a\">yok</span></b>: <b><span style=\"color:#e6c46a\">master görevini de 70 – 80 skill görevlerini de aynı NPC verir.</span></b> NPC'ler kendi ırkının ana haritasında:</span></p>\n\n<div style=\"text-align:center\"><p><img src=\"https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim/S08_npc.828cf8d0.jpg\" title=\"\" alt=\"\"></p></div>\n\n<p><span style=\"font-size:18px\"><b><span style=\"color:#e6c46a\">Karus</span></b> → <b><span style=\"color:#e6c46a\">Luferson Castle</span></b> haritası:</span></p>\n\n<p><span style=\"font-size:18px\"><span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">Warrior</span></b> → <b><span style=\"color:#e6c46a\">[Warrior Master] Skaki</span></b> · 387,1741<br>\n<span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">Rogue</span></b> → <b><span style=\"color:#e6c46a\">[Secret Agent] Clarence</span></b> · 430,709<br>\n<span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">Mage</span></b> → <b><span style=\"color:#e6c46a\">[Archmage] Drake</span></b> · 1696,806<br>\n<span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">Priest</span></b> → <b><span style=\"color:#e6c46a\">[Priest] Minerva</span></b> · 381,1744<br>\n<span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">Kurian</span></b> → <b><span style=\"color:#e6c46a\">[Grand Elder] Morbor</span></b> · 405,1728</span></p>\n\n<p><span style=\"font-size:18px\"><b><span style=\"color:#e6c46a\">El Morad</span></b> → <b><span style=\"color:#e6c46a\">El Morad Castle</span></b> haritası:</span></p>\n\n<p><span style=\"font-size:18px\"><span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">Warrior</span></b> → <b><span style=\"color:#e6c46a\">[Warrior Master] Skaki</span></b> · 1661,322<br>\n<span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">Rogue</span></b> → <b><span style=\"color:#e6c46a\">[Secret Agent] Clarence</span></b> · 1632,1331<br>\n<span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">Mage</span></b> → <b><span style=\"color:#e6c46a\">[Archmage] Drake</span></b> · 372,1226<br>\n<span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">Priest</span></b> → <b><span style=\"color:#e6c46a\">[Priest] Minerva</span></b> · 1657,326<br>\n<span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">Porutu</span></b> → <b><span style=\"color:#e6c46a\">[Grand Elder] Atlas</span></b> · 1650,331</span></p>\n\n<p><span style=\"font-size:18px\"><span style=\"color:#3ecf8e\">💡 Warrior, Priest ve Kurian / Porutu NPC'leri <b><span style=\"color:#e6c46a\">yan yana</span></b> durur; Rogue ve Mage NPC'leri haritanın başka yerinde.</span></span></p>\n\n<div style=\"text-align:center\"><p><span style=\"color:#c8a253\">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span></p></div>\n\n<div style=\"text-align:center\"><p><span style=\"font-size:22px\"><b><span style=\"color:#c8a253\">⚔️ 05 · MASTER GÖREVİ (2. JOB) — TÜM JOBLAR</span></b></span></p></div>\n\n<p><span style=\"font-size:18px\"><b><span style=\"color:#e6c46a\">Level 60+</span></b> · herkes <b><span style=\"color:#e6c46a\">1 Unstable Kentaraus' Heart</span></b> + job'una özel <b><span style=\"color:#e6c46a\">2 Essence</span></b> toplar, master NPC'sine götürür → <b><span style=\"color:#e6c46a\">Master</span></b> olursun.</span></p>\n\n<div style=\"text-align:center\"><p><img src=\"https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim/S01_master_tablo.7ab5e4be.jpg\" title=\"\" alt=\"\"></p></div>\n\n<p><span style=\"font-size:18px\"><b><span style=\"color:#e6c46a\">Nasıl yapılır — adım adım:</span></b></span></p>\n\n<p><span style=\"font-size:18px\"><span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">1 ·</span></b> Job'unun NPC'sine git (04. bölüm) → konuş → <b><span style=\"color:#e6c46a\">master görevini</span></b> al — görev adı <em>2nd job change</em> (Kurian: <em>Second</em> · Porutu: <em>2nd job</em>)<br>\n<span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">2 ·</span></b> <b><span style=\"color:#e6c46a\">Centaur</span></b> kes → <b><span style=\"color:#e6c46a\">Unstable Kentaraus' Heart</span></b> düşer (%50) — haritada mor noktalar<br>\n<span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">3 ·</span></b> Job'unun <b><span style=\"color:#e6c46a\">2 field boss</span></b>'unu kes → <b><span style=\"color:#e6c46a\">2 Essence</span></b> düşer (%100) — hangi boss: 06. bölüm<br>\n<span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">4 ·</span></b> 3 itemle NPC'ye dön → görevi teslim et → <b><span style=\"color:#e6c46a\">Master</span></b> oldun, <b><span style=\"color:#e6c46a\">K</span></b> penceresinde <b><span style=\"color:#e6c46a\">Master</span></b> sekmesi açılır</span></p>\n\n<p><span style=\"font-size:18px\">📘 Rehberde aç: <a href=\"https://sexyko.com/guide/quests/408\" rel=\"ugc nofollow\">Warrior</a> · <a href=\"https://sexyko.com/guide/quests/409\" rel=\"ugc nofollow\">Rogue</a> · <a href=\"https://sexyko.com/guide/quests/410\" rel=\"ugc nofollow\">Mage</a> · <a href=\"https://sexyko.com/guide/quests/411\" rel=\"ugc nofollow\">Priest</a> · <a href=\"https://sexyko.com/guide/quests/784\" rel=\"ugc nofollow\">Kurian</a> · <a href=\"https://sexyko.com/guide/quests/781\" rel=\"ugc nofollow\">Porutu</a></span></p>\n\n<div style=\"text-align:center\"><p><span style=\"color:#c8a253\">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span></p></div>\n\n<div style=\"text-align:center\"><p><span style=\"font-size:22px\"><b><span style=\"color:#c8a253\">💎 06 · MASTER İTEMLERİ NEREDEN DÜŞER</span></b></span></p></div>\n\n<div style=\"text-align:center\"><p><img src=\"https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim/S02_master_item.4a275d69.jpg\" title=\"\" alt=\"\"></p></div>\n\n<p><span style=\"font-size:18px\"><span style=\"color:#3ecf8e\">💡 İsimler oyundaki gibidir: item <b><span style=\"color:#e6c46a\">Urkthron's</span></b> → boss <b><span style=\"color:#e6c46a\">Urukthrone</span></b> · item <b><span style=\"color:#e6c46a\">Colmicola's</span></b> → boss <b><span style=\"color:#e6c46a\">Kamicollo</span></b> · item <b><span style=\"color:#e6c46a\">Trethonz's</span></b> → boss <b><span style=\"color:#e6c46a\">Trethorns</span></b>.</span></span></p>\n\n<p><span style=\"font-size:18px\">Field bosslar ve Centaur'lar <b><span style=\"color:#e6c46a\">iki ırkın ana haritasında da</span></b> var — kendi tarafında kes:</span></p>\n\n<div style=\"text-align:center\"><p><img src=\"https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim/S03_harita_karus.228f375d.jpg\" title=\"\" alt=\"\"></p></div>\n\n<div style=\"text-align:center\"><p><img src=\"https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim/S04_harita_elmorad.6ac75964.jpg\" title=\"\" alt=\"\"></p></div>\n\n<p><span style=\"font-size:18px\"><a href=\"https://sexyko.com/guide/monsters\" rel=\"ugc nofollow\"><b><span style=\"color:#4fa3ff\">📘 Rehberde aç: Monster Listesi ↗</span></b></a></span></p>\n\n<div style=\"text-align:center\"><p><span style=\"color:#c8a253\">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span></p></div>\n\n<div style=\"text-align:center\"><p><span style=\"font-size:22px\"><b><span style=\"color:#c8a253\">📜 07 · 70 – 80 SKILL GÖREVLERİ</span></b></span></p></div>\n\n<p><span style=\"font-size:18px\">Master olduktan sonra <b><span style=\"color:#e6c46a\">aynı master NPC'si</span></b> gizli skilleri öğretir. Her görev <b><span style=\"color:#e6c46a\">Spell Stone Powder</span></b> ister, ödülü <b><span style=\"color:#e6c46a\">o seviyenin skill'i</span></b>.</span></p>\n\n<div style=\"text-align:center\"><p><img src=\"https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim/S05_skill_gorev.da614360.jpg\" title=\"\" alt=\"\"></p></div>\n\n<p><span style=\"font-size:18px\"><b><span style=\"color:#e6c46a\">Nasıl yapılır — adım adım:</span></b></span></p>\n\n<p><span style=\"font-size:18px\"><span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">1 ·</span></b> Önce <b><span style=\"color:#e6c46a\">Master</span></b> ol (05. bölüm)<br>\n<span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">2 ·</span></b> Job'unun toplamı kadar <b><span style=\"color:#e6c46a\">Spell Stone Powder</span></b> topla — nereden: 08. bölüm<br>\n<span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">3 ·</span></b> Aynı NPC'ye git → <b><span style=\"color:#e6c46a\">70Lv skill</span></b> görevini al → tozu teslim et → o skill açılır<br>\n<span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">4 ·</span></b> Sonra job'undaki diğerleri: 72Lv · 74Lv · 75Lv … <b><span style=\"color:#e6c46a\">80Lv skill</span></b> — Level 83'te hepsini aynı gün alabilirsin</span></p>\n\n<div style=\"text-align:center\"><p><span style=\"color:#c8a253\">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span></p></div>\n\n<div style=\"text-align:center\"><p><span style=\"font-size:22px\"><b><span style=\"color:#c8a253\">💠 08 · SPELL STONE POWDER NEREDEN?</span></b></span></p></div>\n\n<div style=\"text-align:center\"><p><img src=\"https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim/S06_spell_stone.0e191ab4.jpg\" title=\"\" alt=\"\"></p></div>\n\n<div style=\"text-align:center\"><p><img src=\"https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim/S07_harita_ronark.28eb4c28.jpg\" title=\"\" alt=\"\"></p></div>\n\n<p><span style=\"font-size:18px\"><b><span style=\"color:#e6c46a\">♻️ Narki ile Spell Stone Powder</span></b> — kullanmadığın takıları Spell Stone'a çevir:</span></p>\n\n<div style=\"text-align:center\"><p><img src=\"https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim/S09_narki.fb0ef73f.jpg\" title=\"\" alt=\"\"></p></div>\n\n<p><span style=\"font-size:18px\"><span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">Nerede:</span></b> Moradon · <b><span style=\"color:#e6c46a\">[Mysterious] Narki</span></b> (4 tane, hepsi aynı) — 849,660 · 780,660 · 680,538 · 825,620<br>\n<span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">Nasıl:</span></b> Narki ile konuş → takını ver (<b><span style=\"color:#e6c46a\">tek adet</span></b>) → takı <b><span style=\"color:#e6c46a\">yok olur</span></b> → karşılığında <b><span style=\"color:#e6c46a\">1 ödül</span></b> çekilir<br>\n<span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">Eski aksesuarlar</span></b> havuzu (Old … takılar, 64 çeşit) → 1 – 5 adet Spell Stone, ortalama <b><span style=\"color:#e6c46a\">≈ 2,4</span></b><br>\n<span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">Aksesuarlar</span></b> havuzu (normal takılar, 926 çeşit) → 1 – 5 adet Spell Stone, ortalama <b><span style=\"color:#e6c46a\">≈ 1,6</span></b> · %23,17 ihtimalle Forgotten Accessory Box<br>\n<span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">Olmaz:</span></b> bağlı, kiralık, mühürlü ya da süreli eşya verilemez · kırdırma geri alınamaz · envanterinde boş yer olmalı</span></p>\n\n<p><span style=\"font-size:18px\"><a href=\"https://sexyko.com/guide/narki\" rel=\"ugc nofollow\"><b><span style=\"color:#4fa3ff\">📘 Rehberde aç: Narki Kırdırma (takın hangi havuza giriyor, ara) ↗</span></b></a></span></p>\n\n<div style=\"text-align:center\"><p><span style=\"color:#c8a253\">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span></p></div>\n\n<div style=\"text-align:center\"><p><span style=\"font-size:22px\"><b><span style=\"color:#c8a253\">💡 09 · İPUÇLARI</span></b></span></p></div>\n\n<p><span style=\"font-size:18px\"><span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">Skill Preset:</span></b> puan dağılımını kaydet, PK / farm / event arasında tek tıkla geç · <b><span style=\"color:#e6c46a\">Save Quickslot:</span></b> 4 ayrı skill bar — 💬 <a href=\"https://forum.sexyko.com/d/42\" rel=\"ugc nofollow\">forum.sexyko.com/d/42</a><br>\n<span style=\"color:#c8a253\">◆</span> <b><span style=\"color:#e6c46a\">Job Changer:</span></b> iteme sağ tık → job seç, NPC gerekmez · önce üstündeki <b><span style=\"color:#e6c46a\">tüm itemleri çıkar</span></b> — 💬 <a href=\"https://forum.sexyko.com/d/28\" rel=\"ugc nofollow\">forum.sexyko.com/d/28</a><br>\n<span style=\"color:#c8a253\">◆</span> Dikkat: Job Changer ile job değiştirince <b><span style=\"color:#e6c46a\">skillerin kaybolur, her şey sıfırlanır</span></b> — ama <b><span style=\"color:#e6c46a\">master ve 70 – 80 skill görevlerin sıfırlanmaz</span></b><br>\n<span style=\"color:#c8a253\">◆</span> Bir itemin nereden düştüğünü bilmiyorsan: item üstünde <b><span style=\"color:#e6c46a\">Ctrl + D</span></b></span></p>\n\n<div style=\"text-align:center\"><p><span style=\"color:#c8a253\">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span></p></div>\n\n<div style=\"text-align:center\"><p><span style=\"font-size:22px\"><b><span style=\"color:#c8a253\">🔗 10 · BAĞLANTILAR</span></b></span></p></div>\n\n<p><span style=\"font-size:18px\"><span style=\"color:#c8a253\">◆</span> 📘 Görevler: <a href=\"https://sexyko.com/guide/quests\" rel=\"ugc nofollow\">sexyko.com/guide/quests</a><br>\n<span style=\"color:#c8a253\">◆</span> 👹 Monster Listesi: <a href=\"https://sexyko.com/guide/monsters\" rel=\"ugc nofollow\">sexyko.com/guide/monsters</a><br>\n<span style=\"color:#c8a253\">◆</span> ♻️ Narki: <a href=\"https://sexyko.com/guide/narki\" rel=\"ugc nofollow\">sexyko.com/guide/narki</a><br>\n<span style=\"color:#c8a253\">◆</span> 💬 Forum: <a href=\"https://forum.sexyko.com\" rel=\"ugc nofollow\">forum.sexyko.com</a><br>\n<span style=\"color:#c8a253\">◆</span> 🌐 Web: <a href=\"https://sexyko.com\" rel=\"ugc nofollow\">sexyko.com</a></span></p>\n\n<div style=\"text-align:center\"><p><span style=\"color:#c8a253\">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span></p></div>\n\n<div style=\"text-align:center\"><p><img src=\"https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/resim/5_takvim.758e0738.gif\" title=\"\" alt=\"\"></p></div>\n\n<div style=\"text-align:center\"><p><span style=\"font-size:22px\"><b><span style=\"color:#d14841\">🔥 SEXYKO — PVP'NİN BAŞLADIĞI YER 🔥</span></b></span></p></div>",
+    "renderFailed": false,
+    "editedAt": "2026-10-07T03:13:50+00:00",
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 0
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "10"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/resim/1_geri_sayim.b3746cf9.gif",
+   "durum": 200,
+   "boyut": "1138x140",
+   "dosya": "resim/01_b3746cf9.gif",
+   "bayt": 7095189
+  },
+  {
+   "url": "https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/resim/2_logo.3a3f29a4.png",
+   "durum": 200,
+   "boyut": "1380x474",
+   "dosya": "resim/02_3a3f29a4.png",
+   "bayt": 1419640
+  },
+  {
+   "url": "https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim/S00_yol_haritasi.c8f2a003.jpg",
+   "durum": 200,
+   "boyut": "960x467",
+   "dosya": "resim/03_c8f2a003.jpg",
+   "bayt": 88196
+  },
+  {
+   "url": "https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R07_skill.7cf15901.jpg",
+   "durum": 200,
+   "boyut": "530x880",
+   "dosya": "resim/04_7cf15901.jpg",
+   "bayt": 103846
+  },
+  {
+   "url": "https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim/S08_npc.828cf8d0.jpg",
+   "durum": 200,
+   "boyut": "960x1051",
+   "dosya": "resim/05_828cf8d0.jpg",
+   "bayt": 210162
+  },
+  {
+   "url": "https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim/S01_master_tablo.7ab5e4be.jpg",
+   "durum": 200,
+   "boyut": "960x767",
+   "dosya": "resim/06_7ab5e4be.jpg",
+   "bayt": 168567
+  },
+  {
+   "url": "https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim/S02_master_item.4a275d69.jpg",
+   "durum": 200,
+   "boyut": "960x746",
+   "dosya": "resim/07_4a275d69.jpg",
+   "bayt": 126823
+  },
+  {
+   "url": "https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim/S03_harita_karus.228f375d.jpg",
+   "durum": 200,
+   "boyut": "960x973",
+   "dosya": "resim/08_228f375d.jpg",
+   "bayt": 214130
+  },
+  {
+   "url": "https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim/S04_harita_elmorad.6ac75964.jpg",
+   "durum": 200,
+   "boyut": "960x973",
+   "dosya": "resim/09_6ac75964.jpg",
+   "bayt": 205036
+  },
+  {
+   "url": "https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim/S05_skill_gorev.da614360.jpg",
+   "durum": 200,
+   "boyut": "960x614",
+   "dosya": "resim/10_da614360.jpg",
+   "bayt": 99888
+  },
+  {
+   "url": "https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim/S06_spell_stone.0e191ab4.jpg",
+   "durum": 200,
+   "boyut": "960x537",
+   "dosya": "resim/11_0e191ab4.jpg",
+   "bayt": 88948
+  },
+  {
+   "url": "https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim/S07_harita_ronark.28eb4c28.jpg",
+   "durum": 200,
+   "boyut": "960x794",
+   "dosya": "resim/12_28eb4c28.jpg",
+   "bayt": 155088
+  },
+  {
+   "url": "https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim/S09_narki.fb0ef73f.jpg",
+   "durum": 200,
+   "boyut": "960x848",
+   "dosya": "resim/13_fb0ef73f.jpg",
+   "bayt": 191069
+  },
+  {
+   "url": "https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/resim/5_takvim.758e0738.gif",
+   "durum": 200,
+   "boyut": "1138x140",
+   "dosya": "resim/14_758e0738.gif",
+   "bayt": 7648529
+  }
+ ]
+}

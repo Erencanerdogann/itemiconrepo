@@ -1,0 +1,107 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "13",
+  "attributes": {
+   "title": "🎫 SEXYKO DESTEK TALEBİ SİSTEMİ",
+   "slug": "13--sexyko-destek-talebİ-sİstemİ",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-08-31T17:59:17+00:00",
+   "lastPostedAt": "2026-08-31T17:59:17+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": true,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "27",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-08-31T17:59:17+00:00",
+    "contentType": "comment",
+    "contentHtml": "<p><img src=\"https://i.hizliresim.com/imylhnjc.png\" title=\"\" alt=\"Çalışma yüzeyi 1.png\"></p>\n\n\n\n<h1>🎫 SEXYKO DESTEK TALEBİ SİSTEMİ</h1>\n\n<p><strong>Sorununuzu doğru kategori üzerinden hızlı ve kolay şekilde yönetim ekibine iletin.</strong></p>\n\n<p>SexyKO web sitesinde bulunan <strong>Destek Talebi Sistemi</strong> sayesinde oyun, hesap, ödeme, teknik sorunlar veya diğer konularla ilgili taleplerinizi doğrudan yönetim ekibine gönderebilirsiniz.</p>\n\n<p>Destek sistemini kullanmak için hesabınıza giriş yapmanız yeterlidir.</p>\n\n<hr>\n\n<h2>🟢 01 — DESTEK BÖLÜMÜNE GİRİŞ</h2>\n\n<p>SexyKO hesabınıza giriş yaptıktan sonra web sitesinin <strong>sol tarafında bulunan DESTEK</strong> butonuna tıklayın.</p>\n\n<p><img src=\"https://i.hizliresim.com/rz9glfuz.jpg\" title=\"\" alt=\"SexyKO Destek Sistemi\"></p>\n\n<p>Bu bölüm üzerinden:</p>\n\n<ul><li>yeni destek talebi oluşturabilir,</li>\n<li>daha önce açtığınız ticketları görüntüleyebilir,</li>\n<li>yönetim tarafından verilen cevapları takip edebilirsiniz.</li></ul>\n\n<p><strong>Hesabına giriş yap → DESTEK butonuna tıkla</strong></p>\n\n<hr>\n\n<h1>🎫 02 — YENİ DESTEK TALEBİ OLUŞTURMA</h1>\n\n<p>Destek bölümüne girdiğinizde <strong>Destek Taleplerim</strong> ekranı açılır.</p>\n\n<p><img src=\"https://i.hizliresim.com/pnwsgym0.jpg\" title=\"\" alt=\"SexyKO Destek Taleplerim\"></p>\n\n<p>Yeni bir ticket oluşturmak için:</p>\n\n<p><strong>➕ YENİ TALEP AÇ</strong></p>\n\n<p>butonuna tıklamanız yeterlidir.</p>\n\n<p>Daha önce oluşturduğunuz destek talepleri de bu ekran üzerinde listelenir.</p>\n\n<hr>\n\n<h1>📝 03 — SORUNUNUZU BİLDİRİN</h1>\n\n<p>Yeni destek talebi oluşturma ekranında öncelikle yaşadığınız probleme uygun kategoriyi seçin.</p>\n\n<p><img src=\"https://i.hizliresim.com/oa51pmlg.jpg\" title=\"\" alt=\"SexyKO Yeni Destek Talebi\"></p>\n\n<p>Ardından aşağıdaki alanları doldurun:</p>\n\n<h2>📌 Konu Başlığı</h2>\n\n<p>Sorununuzu kısa ve anlaşılır şekilde yazın.</p>\n\n<p><strong>Örnek:</strong>  <br>\nClient açılırken hata alıyorum</p>\n\n<hr>\n\n<h2>📝 Talep Açıklaması</h2>\n\n<p>Yaşadığınız problemi mümkün olduğunca açık şekilde anlatın.</p>\n\n<p>Örneğin:</p>\n\n<p><strong>Client'a giriş yaptıktan yaklaşık 1 dakika sonra oyun kapanıyor. Herhangi bir hata mesajı görüntülenmiyor.</strong></p>\n\n<p>Ne kadar açık bilgi verirseniz destek ekibinin sorunu incelemesi o kadar kolay olur.</p>\n\n<hr>\n\n<h1>📂 04 — DOĞRU KATEGORİYİ SEÇİN</h1>\n\n<p>Talebinizin doğru ekibe ulaşabilmesi için uygun kategoriyi seçmeniz önemlidir.</p>\n\n<p><strong>🎮 Client Sorunları</strong>  <br>\nClient ve teknik problemler</p>\n\n<p><strong>💳 Ödeme Sorunları</strong>  <br>\nÖdeme ve bakiye problemleri</p>\n\n<p><strong>🚨 Küfür &amp; İstismar</strong>  <br>\nHakaret, taciz ve kötüye kullanım bildirimleri</p>\n\n<p><strong>⚔️ Hile</strong>  <br>\nHile şüpheleri ve oyuncu bildirimleri</p>\n\n<p><strong>🔐 Hesap Sorunları</strong>  <br>\nHesap ve giriş problemleri</p>\n\n<p><strong>🎁 İram Sorunları</strong>  <br>\nİram / ödül ile ilgili problemler</p>\n\n<p><strong>💬 Geri Bildirim</strong>  <br>\nÖneri, görüş ve geri bildirimler</p>\n\n<p><strong>❓ Diğer</strong>  <br>\nDiğer tüm konular</p>\n\n<hr>\n\n<h1>📸 05 — GÖRSEL &amp; VİDEO EKLEME</h1>\n\n<p>Sorununuzu daha net anlatabilmek için destek talebinize <strong>ekran görüntüsü veya video</strong> ekleyebilirsiniz.</p>\n\n<p>Özellikle:</p>\n\n<ul><li>oyun içi buglar,</li>\n<li>client hataları,</li>\n<li>görüntü problemleri,</li>\n<li>ödeme sorunları,</li>\n<li>oyuncu şikayetleri</li></ul>\n\n<p>gibi durumlarda görsel veya video eklemek inceleme sürecini ciddi şekilde kolaylaştırır.</p>\n\n<p><strong>💡 Unutmayın:</strong>  <br>\nSorunu ne kadar net gösterirseniz çözüm süreci de o kadar hızlı ilerler.</p>\n\n<hr>\n\n<h1>📤 06 — TALEBİNİZİ GÖNDERİN</h1>\n\n<p>Tüm bilgileri doldurduktan sonra:</p>\n\n<p><strong>🟡 TALEBİ GÖNDER</strong></p>\n\n<p>butonuna basarak ticketınızı oluşturabilirsiniz.</p>\n\n<p>Oluşturduğunuz destek talebini daha sonra <strong>Destek Taleplerim</strong> bölümünden takip edebilir ve yönetimin cevabını aynı sistem üzerinden görüntüleyebilirsiniz.</p>\n\n<hr>\n\n<h1>⚡ DAHA HIZLI DESTEK İÇİN</h1>\n\n<p>Ticket oluştururken şu noktalara dikkat edin:</p>\n\n<p><strong>1️⃣ Doğru kategoriyi seçin.</strong>  <br>\n<strong>2️⃣ Başlığı kısa ve net yazın.</strong>  <br>\n<strong>3️⃣ Sorunu detaylı şekilde açıklayın.</strong>  <br>\n<strong>4️⃣ Varsa ekran görüntüsü veya video ekleyin.</strong>  <br>\n<strong>5️⃣ Ticketınızı gönderdikten sonra Destek Taleplerim bölümünden takip edin.</strong></p>\n\n<hr>\n\n<h1>🔒 ÖNEMLİ</h1>\n\n<p>Destek talebi içerisinde:</p>\n\n<ul><li>şifrenizi,</li>\n<li>PIN bilginizi,</li>\n<li>kart bilgilerinizi,</li>\n<li>hesap güvenliğinizi tehlikeye atacak özel bilgileri</li></ul>\n\n<p><strong>kesinlikle paylaşmayın.</strong></p>\n\n<hr>\n\n<h1>🔥 SEXYKO DESTEK SİSTEMİ</h1>\n\n<p><strong>Sorununu doğru şekilde bildir • Görselini ekle • Ticketını gönder • Cevabını takip et</strong></p>\n\n<p><strong>Destek artık daha düzenli, daha hızlı ve daha kolay.</strong></p>",
+    "renderFailed": false,
+    "editedAt": "2026-09-03T18:39:20+00:00",
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 0
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/imylhnjc.png",
+   "durum": 200,
+   "boyut": "1574x248",
+   "dosya": "resim/01_0c016449.png",
+   "bayt": 616804
+  },
+  {
+   "url": "https://i.hizliresim.com/rz9glfuz.jpg",
+   "durum": 200,
+   "boyut": "1024x572",
+   "dosya": "resim/02_8673ccb5.jpg",
+   "bayt": 116268
+  },
+  {
+   "url": "https://i.hizliresim.com/pnwsgym0.jpg",
+   "durum": 200,
+   "boyut": "1024x496",
+   "dosya": "resim/03_dd368338.jpg",
+   "bayt": 42549
+  },
+  {
+   "url": "https://i.hizliresim.com/oa51pmlg.jpg",
+   "durum": 200,
+   "boyut": "1024x827",
+   "dosya": "resim/04_8bfd0a1f.jpg",
+   "bayt": 91303
+  }
+ ]
+}

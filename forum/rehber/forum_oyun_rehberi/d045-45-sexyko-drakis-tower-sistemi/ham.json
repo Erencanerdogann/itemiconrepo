@@ -1,0 +1,100 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "45",
+  "attributes": {
+   "title": "🐉 SEXYKO DRAKI'S TOWER SİSTEMİ",
+   "slug": "45--sexyko-drakis-tower-sİstemİ",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-09-17T00:17:09+00:00",
+   "lastPostedAt": "2026-09-17T00:17:09+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "90",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-09-17T00:17:09+00:00",
+    "contentType": "comment",
+    "contentHtml": "<h1>🐉 SEXYKO DRAKI'S TOWER SİSTEMİ</h1>\n\n<p>SexyKO'da bulunan <strong>Draki's Tower</strong>, zamana karşı yarış mantığıyla çalışan özel bir PvE zindan sistemidir.</p>\n\n<p>Amaç; içeride bulunan yaratıkları ve bossları mümkün olan en hızlı şekilde temizlemek, bölümleri tamamlamak ve en iyi süreyi yaparak sıralamada yer almaktır.</p>\n\n<p>Draki sistemi yalnızca bir zindan değil; aynı zamanda görev, ödül ve sıralama sistemiyle bağlantılı önemli bir içeriktir.</p>\n\n<hr>\n\n<h2>📍 DRAKI'YE NEREDEN GİRİLİR?</h2>\n\n<p>Draki giriş noktası aşağıdaki görselde yer almaktadır.</p>\n\n<p><img src=\"https://i.hizliresim.com/czl5ewjs.png\" title=\"\" alt=\"SexyKO Draki Giriş Yeri\"></p>\n\n<p>Draki'ye giriş için:</p>\n\n<ul><li>El Morad oyuncuları <strong>El Morad Castle</strong></li>\n<li>Karus oyuncuları <strong>Luferson Castle</strong></li></ul>\n\n<p>içerisindeki <strong>Draki Rift</strong> girişini kullanır.</p>\n\n<h3>Günlük giriş hakkı:</h3>\n<p><strong>3 kez</strong></p>\n\n<h3>Minimum katılım seviyesi:</h3>\n<p><strong>80 Level</strong></p>\n\n<hr>\n\n<h2>🎁 GIFT PENCERESİ</h2>\n\n<p>Draki giriş alanında bulunan <strong>Gift</strong> seçeneğine tıkladığınızda aşağıdaki pencere açılır.</p>\n\n<p><img src=\"https://i.hizliresim.com/bdbqq6ar.png\" title=\"\" alt=\"SexyKO Draki Gift Penceresi\"></p>\n\n<p>Bu bölüm üzerinden Draki sistemiyle bağlantılı ödül ve özel işlem alanlarını görüntüleyebilirsiniz.</p>\n\n<hr>\n\n<h2>🚪 DRAKI İÇERİSİNDE İLK ODA</h2>\n\n<p>Draki'ye giriş yaptıktan sonra karşılaşacağınız ilk oda görünümü aşağıdaki gibidir.</p>\n\n<p><img src=\"https://i.hizliresim.com/gvnd9t80.png\" title=\"\" alt=\"SexyKO Draki İlk Oda\"></p>\n\n<p>Buradan itibaren zindan içerisinde kat kat ilerlemeye başlarsınız.</p>\n\n<p>Temel mantık:</p>\n\n<ul><li>odaları temizlemek,</li>\n<li>yaratıkları kesmek,</li>\n<li>bossları öldürmek,</li>\n<li>bir sonraki kata geçmek,</li>\n<li>mümkün olan en iyi süreyi yapmak</li></ul>\n\n<p>üzerine kuruludur.</p>\n\n<hr>\n\n<h1>⚔️ DRAKI NASIL ÇALIŞIR?</h1>\n\n<p>Draki's Tower toplam <strong>5 farklı bölümden</strong> oluşur.</p>\n\n<p>Her bölüm içerisinde birden fazla kat ve farklı yaratıklar bulunur.</p>\n\n<p>Bölümlerin ilerleyen kısımlarında daha güçlü yaratıklar ve bosslar karşınıza çıkar.</p>\n\n<p>Amaç yalnızca zindanı tamamlamak değil, bunu mümkün olduğunca hızlı yapmaktır.</p>\n\n<hr>\n\n<h2>🧩 DRAKI BÖLÜMLERİ</h2>\n\n<h3>1. Bölüm — The Preparation</h3>\n<p>Başlangıç seviyesi yaratıklar ve ilk bosslar bulunur.</p>\n\n<h3>2. Bölüm — The Beginning</h3>\n<p>Bir önceki bölüme göre daha güçlü yaratıklar yer alır.</p>\n\n<h3>3. Bölüm — The Result</h3>\n<p>Orta seviye bosslar ve daha güçlü yaratıklarla devam eder.</p>\n\n<h3>4. Bölüm — The Failure Ones</h3>\n<p>Zindan bu bölümden itibaren daha zor hale gelir.</p>\n\n<h3>5. Bölüm — The Ultimate Stage</h3>\n<p>Draki'nin en zorlu bölümüdür.</p>\n\n<p>Bu bölümün sonunda:</p>\n\n<p><strong>Draki El Rasaga</strong></p>\n\n<p>ile karşılaşırsınız.</p>\n\n<hr>\n\n<h1>🏆 DRAKI SIRALAMA SİSTEMİ</h1>\n\n<p>Draki'nin en önemli özelliklerinden biri sıralama sistemidir.</p>\n\n<p>Sıralamada:</p>\n\n<ul><li>zindanı ne kadar hızlı tamamladığınız,</li>\n<li>kaç bölüm bitirdiğiniz,</li>\n<li>yaptığınız toplam süre</li></ul>\n\n<p>önemlidir.</p>\n\n<p>Daha iyi süre yapan oyuncular aylık sıralamada daha üst sıralarda yer alabilir.</p>\n\n<hr>\n\n<h1>📌 DRAKI'DE DİKKAT EDİLMESİ GEREKENLER</h1>\n\n<p>Draki'ye girmeden önce:</p>\n\n<ul><li>potlarınızı kontrol edin,</li>\n<li>item durability durumunuzu kontrol edin,</li>\n<li>skill diziliminizi hazırlayın,</li>\n<li>mümkün olduğunca hızlı ilerlemeye odaklanın,</li>\n<li>gereksiz beklemelerden kaçının.</li></ul>\n\n<p>Özellikle sıralama hedefliyorsanız her saniye önemlidir.</p>\n\n<hr>\n\n<h1>✅ KISACASI</h1>\n\n<p>SexyKO Draki sistemi:</p>\n\n<ul><li><strong>Günde 3 kez girilebilir</strong></li>\n<li><strong>Minimum 80 Level gerektirir</strong></li>\n<li><strong>5 farklı bölümden oluşur</strong></li>\n<li>Kat kat ilerlenen PvE zindanıdır</li>\n<li>Boss ve görev sistemi bulunur</li>\n<li>Tamir ve takviye NPC'leri vardır</li>\n<li>Süreye bağlı sıralama sistemi bulunur</li>\n<li>Aylık sıralama ödülleri vardır</li></ul>\n\n<hr>\n\n<h1>🔥 SEXYKO DRAKI'S TOWER</h1>\n\n<p><strong>Draki'ye gir • Katları temizle • Bossları kes • Süreni geliştir • Sıralamaya gir</strong></p>\n\n<h3>🐉 HIZ, GÜÇ VE TAKTİK — DRAKI'DE HEPSİ ÖNEMLİ!</h3>",
+    "renderFailed": false,
+    "editedAt": "2026-09-27T23:40:40+00:00",
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 0
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/czl5ewjs.png",
+   "durum": 200,
+   "boyut": "1920x1080",
+   "dosya": "resim/01_6d2f2207.png",
+   "bayt": 2830373
+  },
+  {
+   "url": "https://i.hizliresim.com/bdbqq6ar.png",
+   "durum": 200,
+   "boyut": "494x572",
+   "dosya": "resim/02_30f9de4f.png",
+   "bayt": 388104
+  },
+  {
+   "url": "https://i.hizliresim.com/gvnd9t80.png",
+   "durum": 200,
+   "boyut": "1920x1080",
+   "dosya": "resim/03_416afa06.png",
+   "bayt": 3171292
+  }
+ ]
+}

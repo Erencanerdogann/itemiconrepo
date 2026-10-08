@@ -1,0 +1,107 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "52",
+  "attributes": {
+   "title": "🌀 SEXYKO SLOT TELEPORT SİSTEMİ",
+   "slug": "52--sexyko-slot-teleport-sİstemİ",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-09-28T20:04:13+00:00",
+   "lastPostedAt": "2026-09-28T20:04:13+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "103",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-09-28T20:04:13+00:00",
+    "contentType": "comment",
+    "contentHtml": "<h1>🌀 SEXYKO SLOT TELEPORT SİSTEMİ</h1>\n\n<p>SexyKO'da <strong>Luferson, El Morad Castle ve Eslant</strong> bölgelerindeki slotlara ulaşımı çok daha kolay hale getirdik.</p>\n\n<p>Artık haritada uzun uzun slot aramanıza veya koşarak zaman kaybetmenize gerek yok.</p>\n\n<p>İstediğiniz mobu seçin ve doğrudan slotuna ışınlanın.</p>\n\n<hr>\n\n<h2>📍 TELEPORT NPC</h2>\n\n<p>Slot Teleport sistemini kullanmak için:</p>\n\n<h3><strong>[Teleport] Portal</strong></h3>\n\n<p>NPC'sine gitmeniz yeterlidir.</p>\n\n<p><img src=\"https://i.hizliresim.com/bmczuepn.png\" title=\"\" alt=\"SexyKO Teleport Portal\"></p>\n\n<p>NPC'ye tıkladığınızda slot seçim ekranı açılır.</p>\n\n<hr>\n\n<h2>⚔️ İSTEDİĞİN MOBU SEÇ, SLOTUNA IŞINLAN</h2>\n\n<p>Açılan pencere üzerinden gitmek istediğiniz <strong>mobu seçebilirsiniz.</strong></p>\n\n<p><img src=\"https://i.hizliresim.com/crle0ywp.png\" title=\"\" alt=\"SexyKO Slot Teleport\"></p>\n\n<p>Mob seçiminizi yaptıktan sonra:</p>\n\n<h3><strong>250.000 Coin</strong></h3>\n\n<p>karşılığında direkt olarak ilgili slotun bulunduğu bölgeye ışınlanırsınız.</p>\n\n<hr>\n\n<h1>🟥 LUFerson SLOT TELEPORT</h1>\n\n<p>Luferson bölgesinde bulunan mob ve farm slotlarına tek tek koşmak yerine, Teleport sistemi üzerinden istediğiniz mobu seçerek doğrudan slotuna ulaşabilirsiniz.</p>\n\n<p><img src=\"https://i.hizliresim.com/vjzxv7da.png\" title=\"\" alt=\"SexyKO Luferson Slot Teleport\"></p>\n\n<hr>\n\n<h1>🟦 EL MORAD CASTLE SLOT TELEPORT</h1>\n\n<p>El Morad Castle bölgesinde de aynı sistem kullanılmaktadır.</p>\n\n<p>Gitmek istediğiniz mobu seçin ve kısa sürede ilgili farm alanına ışınlanın.</p>\n\n<p><img src=\"https://i.hizliresim.com/yp4uy1k5.png\" title=\"\" alt=\"SexyKO EMC Slot Teleport\"></p>\n\n<hr>\n\n<h1>🟩 ESLANT SLOT TELEPORT</h1>\n\n<p>Eslant bölgesindeki slotlar için de Teleport sistemi aktif olarak kullanılabilir.</p>\n\n<p>Özellikle Eslant içerisindeki uzak moblara ulaşmak için haritada uzun süre yol gitmenize gerek kalmaz.</p>\n\n<p>Mobunuzu seçmeniz yeterlidir.</p>\n\n<hr>\n\n<h1>🌍 HANGİ BÖLGELERDE KULLANILIR?</h1>\n\n<p>Slot Teleport sistemi:</p>\n\n<ul><li><strong>Luferson</strong></li>\n<li><strong>El Morad Castle</strong></li>\n<li><strong>Eslant</strong></li></ul>\n\n<p>bölgelerinde kullanılabilir.</p>\n\n<hr>\n\n<h1>✅ KISACASI</h1>\n\n<p><strong>[Teleport] Portal NPC'ye git</strong></p>\n\n<p>⬇️</p>\n\n<p><strong>Gitmek istediğin mobu seç</strong></p>\n\n<p>⬇️</p>\n\n<p><strong>250.000 Coin öde</strong></p>\n\n<p>⬇️</p>\n\n<h3>🌀 DİREKT SLOTUNA IŞINLAN</h3>\n\n<hr>\n\n<h1>🔥 SEXYKO SLOT TELEPORT SİSTEMİ</h1>\n\n<p><strong>Slot aramakla zaman kaybetme • Mobunu seç • Direkt farm alanına ışınlan</strong></p>",
+    "renderFailed": false,
+    "editedAt": "2026-09-28T20:07:13+00:00",
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 0
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/bmczuepn.png",
+   "durum": 200,
+   "boyut": "1919x1079",
+   "dosya": "resim/01_f302a911.png",
+   "bayt": 3486453
+  },
+  {
+   "url": "https://i.hizliresim.com/crle0ywp.png",
+   "durum": 200,
+   "boyut": "837x628",
+   "dosya": "resim/02_2776bc6f.png",
+   "bayt": 413776
+  },
+  {
+   "url": "https://i.hizliresim.com/vjzxv7da.png",
+   "durum": 200,
+   "boyut": "1919x1079",
+   "dosya": "resim/03_dbdcbed7.png",
+   "bayt": 3529753
+  },
+  {
+   "url": "https://i.hizliresim.com/yp4uy1k5.png",
+   "durum": 200,
+   "boyut": "1919x1079",
+   "dosya": "resim/04_1e7e4eed.png",
+   "bayt": 3541499
+  }
+ ]
+}

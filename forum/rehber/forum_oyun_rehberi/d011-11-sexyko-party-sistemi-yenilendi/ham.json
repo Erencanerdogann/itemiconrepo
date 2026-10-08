@@ -1,0 +1,93 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "11",
+  "attributes": {
+   "title": "🔥 SEXYKO PARTY SİSTEMİ YENİLENDİ!",
+   "slug": "11--sexyko-party-sİstemİ-yenİlendİ",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-08-31T11:54:39+00:00",
+   "lastPostedAt": "2026-08-31T11:54:39+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "22",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-08-31T11:54:39+00:00",
+    "contentType": "comment",
+    "contentHtml": "<p><img src=\"https://i.hizliresim.com/wlnjxfmr.png\" title=\"\" alt=\"Çalışma yüzeyi 1 kopya 14.png\"></p>\n\n\n\n\n<p>👥 PARTY ÜYELERİNİ ARTIK DAHA DETAYLI TAKİP EDİN!</p>\n\n<p>SexyKO'da party sistemi daha kullanışlı ve kontrol edilebilir hale getirildi.</p>\n\n<p>Party içerisindeki oyuncuların hangi bilgilerini görmek istediğinizi artık <strong>siz seçebilirsiniz.</strong></p>\n\n<p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>\n\n<p>⚙️ PARTY SETTINGS</p>\n\n<p>Party panelinde bulunan ayarlar üzerinden;</p>\n\n<p>❤️ HP BİLGİSİ<br>\n💙 MP BİLGİSİ<br>\n✨ BUFF BİLGİSİ<br>\n⚔️ DAMAGE BİLGİSİ</p>\n\n<p>seçeneklerini ayrı ayrı açıp kapatabilirsiniz.</p>\n\n<p><img src=\"https://i.hizliresim.com/lmfvci9z.png\" title=\"\" alt=\"\"></p>\n\n<p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>\n\n<p>❤️ HP BİLGİSİ</p>\n\n<p>Party üyelerinizin mevcut HP durumunu anlık olarak takip edebilirsiniz.</p>\n\n<p>💙 MP BİLGİSİ</p>\n\n<p>Party üyelerinin MP durumunu görebilir, özellikle mage ve destek sınıflarında kontrolü kolaylaştırabilirsiniz.</p>\n\n<p>✨ BUFF BİLGİSİ</p>\n\n<p>Party üyelerinizin buff durumlarını takip edebilirsiniz.</p>\n\n<p>⚔️ DAMAGE BİLGİSİ</p>\n\n<p>Party üyelerinin verdiği damage bilgisini party ekranı üzerinden takip edebilirsiniz.</p>\n\n<p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>\n\n<p>🎯 KISACA:</p>\n\n<p>Party ekranınızı tamamen <strong>kendi oyun tarzınıza göre düzenleyin.</strong></p>\n\n<p>✅ HP'yi görmek istiyorsan → AÇ<br>\n✅ MP'yi görmek istiyorsan → AÇ<br>\n✅ Buff takibi istiyorsan → AÇ<br>\n✅ Damage görmek istiyorsan → AÇ</p>\n\n<p>İstemediğiniz bilgileri ise tek tıkla kapatabilirsiniz.</p>\n\n<p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>\n\n<p>🔥 DAHA FAZLA BİLGİ<br>\n🎯 DAHA FAZLA KONTROL<br>\n⚡ DAHA PRATİK PARTY YÖNETİMİ</p>\n\n<p>SEXYKO'DA PARTY OYNAMAK ARTIK DAHA KOLAY!</p>",
+    "renderFailed": false,
+    "editedAt": "2026-09-03T18:32:09+00:00",
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 0
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/wlnjxfmr.png",
+   "durum": 200,
+   "boyut": "1574x248",
+   "dosya": "resim/01_e3c4b7f2.png",
+   "bayt": 601859
+  },
+  {
+   "url": "https://i.hizliresim.com/lmfvci9z.png",
+   "durum": 200,
+   "boyut": "951x560",
+   "dosya": "resim/02_d4bf5860.png",
+   "bayt": 843313
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "10",
+  "attributes": {
+   "title": "🔥 SEXYKO'DA KIRDIRMA SİSTEMİ DETAYLARI",
+   "slug": "10--sexykoda-kirdirma-sİstemİ-detaylari",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-08-31T11:36:43+00:00",
+   "lastPostedAt": "2026-08-31T11:36:43+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "21",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-08-31T11:36:43+00:00",
+    "contentType": "comment",
+    "contentHtml": "<p><img src=\"https://i.hizliresim.com/vjcig09g.png\" title=\"\" alt=\"Çalışma yüzeyi 1 kopya 15.png\"></p>\n\n\n\n\n<p>🔥 SEXYKO'DA SAĞ TIK DEVRİ!</p>\n\n<p>🖱️ NPC'YE GİTMEYE SON!</p>\n\n<p>Artık birçok kırdırılabilir ve kullanılabilir itemi NPC'ye gitmeden,<br>\ndirekt olarak <strong>SAĞ TIKLAYARAK</strong> kullanabilirsiniz.</p>\n\n<p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>\n\n<p>🏷️ TAG NAME SCROLL</p>\n\n<p>Tag Name Scroll'a sağ tıkla → İşlemini gerçekleştir.</p>\n\n<p><img src=\"https://i.hizliresim.com/vcz1znsl.png\" title=\"\" alt=\"\"></p>\n\n<p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>\n\n<p>🪽 DRAGON WING</p>\n\n<p>Dragon Wing'e sağ tıkla → Direkt kırdır!</p>\n\n<p><img src=\"https://i.hizliresim.com/v4g19z5i.png\" title=\"\" alt=\"\"></p>\n\n<p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>\n\n<p>💎 GEM • FRAGMENT • CHEST</p>\n\n<p>Gem, Fragment, Chest ve benzeri kırdırılabilir itemleri<br>\nNPC'ye gitmeden sağ tıkla!</p>\n\n<p><img src=\"https://i.hizliresim.com/xjylc1r2.png\" title=\"\" alt=\"\"></p>\n\n<p>Kırdırdıktan sonra seçenekler:<br>\n💰 Direkt Sat<br>\n🎒 Inventory'ne Al</p>\n\n<p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>\n\n<p>💰 KC KIRDIRMA</p>\n\n<p>KC itemine sağ tıkla → Direkt kırdır!</p>\n\n<p><img src=\"https://i.hizliresim.com/9mgucmod.png\" title=\"\" alt=\"\"></p>\n\n<p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>\n\n<p>🔄 IRK DEĞİŞTİRME<br>\n✏️ NCS – İSİM DEĞİŞİKLİĞİ<br>\n🏷️ TAG NAME<br>\n💰 KC<br>\n💎 GEM<br>\n🧩 FRAGMENT<br>\n📦 CHEST / BOX<br>\n🪽 DRAGON WING</p>\n\n<p>ve <strong>kırdırılabilir diğer itemlerin tamamı</strong> için<br>\nNPC aramaya gerek kalmadan <strong>SAĞ TIK → İŞLEM</strong> sistemi!</p>\n\n<p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>\n\n<p>⚡ KISACA:</p>\n\n<p>❌ NPC ara<br>\n❌ Şehre dön<br>\n❌ Menüyle uğraş</p>\n\n<p>✅ ITEM'E SAĞ TIKLA<br>\n✅ İŞLEMİNİ GERÇEKLEŞTİR<br>\n✅ FARM'A DEVAM ET!</p>\n\n<p>🔥 SEXYKO — Daha az uğraş, daha fazla oyun!</p>",
+    "renderFailed": false,
+    "editedAt": "2026-09-03T18:32:44+00:00",
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 0
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/vjcig09g.png",
+   "durum": 200,
+   "boyut": "1574x248",
+   "dosya": "resim/01_04556bec.png",
+   "bayt": 621856
+  },
+  {
+   "url": "https://i.hizliresim.com/vcz1znsl.png",
+   "durum": 200,
+   "boyut": "979x568",
+   "dosya": "resim/02_5e66fae3.png",
+   "bayt": 798786
+  },
+  {
+   "url": "https://i.hizliresim.com/v4g19z5i.png",
+   "durum": 200,
+   "boyut": "1379x764",
+   "dosya": "resim/03_f40d1a44.png",
+   "bayt": 972937
+  },
+  {
+   "url": "https://i.hizliresim.com/xjylc1r2.png",
+   "durum": 200,
+   "boyut": "1243x650",
+   "dosya": "resim/04_73ac7766.png",
+   "bayt": 1230527
+  },
+  {
+   "url": "https://i.hizliresim.com/9mgucmod.png",
+   "durum": 200,
+   "boyut": "1324x789",
+   "dosya": "resim/05_a4ef7c04.png",
+   "bayt": 1070318
+  }
+ ]
+}

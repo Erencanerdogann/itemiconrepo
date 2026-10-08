@@ -1,0 +1,93 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "32",
+  "attributes": {
+   "title": "🪪 SEXYKO NCS — NICK DEĞİŞTİRME SİSTEMİ",
+   "slug": "32--sexyko-ncs--nick-deĞİŞtİrme-sİstemİ",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-08-31T23:14:03+00:00",
+   "lastPostedAt": "2026-08-31T23:14:03+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "62",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-08-31T23:14:03+00:00",
+    "contentType": "comment",
+    "contentHtml": "<p><img src=\"https://i.hizliresim.com/ieyqqx4v.png\" title=\"\" alt=\"Çalışma yüzeyi 1 kopya 4.png\"></p>\n\n\n\n\n<h1>🪪 SEXYKO NCS — NICK DEĞİŞTİRME SİSTEMİ</h1>\n\n<p>SexyKO'da karakterinizin nickini değiştirmek artık çok daha kolay.</p>\n\n<p>Oyuncular, Power Up Store üzerinden <strong>Scroll of Identity</strong> itemini satın alarak herhangi bir NPC'ye gitmeden doğrudan nick değiştirme işlemini gerçekleştirebilir.</p>\n\n<p><img src=\"https://i.hizliresim.com/2sae7tlq.png\" title=\"\" alt=\"SexyKO NCS Nick Değiştirme Sistemi\"></p>\n\n<hr>\n\n<h2>⚙️ NCS NASIL KULLANILIR?</h2>\n\n<p>Sistem oldukça basit çalışır:</p>\n\n<p><strong>1️⃣</strong> Power Up Store üzerinden <strong>Scroll of Identity</strong> satın alın.  <br>\n<strong>2️⃣</strong> Iteme sağ tıklayın.  <br>\n<strong>3️⃣</strong> Scroll'u kullanarak açılan nick değiştirme penceresine geçin.  <br>\n<strong>4️⃣</strong> Yeni nickinizi yazın.  <br>\n<strong>5️⃣</strong> İşlemi onaylayarak karakter adınızı değiştirin.</p>\n\n<hr>\n\n<h2>✍️ NICK DEĞİŞTİRME</h2>\n\n<p>Açılan pencere üzerinden kullanmak istediğiniz yeni karakter adını belirleyebilirsiniz.</p>\n\n<p>Böylece:</p>\n\n<ul><li>NPC aramanıza gerek kalmaz,</li>\n<li>farklı bir bölgeye gitmenize gerek kalmaz,</li>\n<li>nick değiştirme işlemini bulunduğunuz yerden tamamlayabilirsiniz.</li></ul>\n\n<hr>\n\n<h2>⚠️ DİKKAT</h2>\n\n<p>Yeni nickinizi yazarken doğru olduğundan emin olun.</p>\n\n<p>İşlemi onaylamadan önce karakter adınızı mutlaka kontrol edin.</p>\n\n<hr>\n\n<h2>✅ KISACASI</h2>\n\n<p><strong>PUS'tan Scroll of Identity al → Sağ tıkla → Yeni nickini yaz → Onayla</strong></p>\n\n<h1>🔥 SEXYKO NCS SİSTEMİ</h1>\n\n<p><strong>Yeni nickini seç, karakterini yenile!</strong></p>",
+    "renderFailed": false,
+    "editedAt": "2026-09-03T18:25:28+00:00",
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 0
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/ieyqqx4v.png",
+   "durum": 200,
+   "boyut": "1574x248",
+   "dosya": "resim/01_10354538.png",
+   "bayt": 619439
+  },
+  {
+   "url": "https://i.hizliresim.com/2sae7tlq.png",
+   "durum": 200,
+   "boyut": "1438x824",
+   "dosya": "resim/02_6a056206.png",
+   "bayt": 2084453
+  }
+ ]
+}

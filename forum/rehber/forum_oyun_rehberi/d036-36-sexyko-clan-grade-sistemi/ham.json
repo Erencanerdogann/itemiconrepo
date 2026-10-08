@@ -1,0 +1,86 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "36",
+  "attributes": {
+   "title": "⚔️ SEXYKO CLAN GRADE SİSTEMİ",
+   "slug": "36-️-sexyko-clan-grade-sİstemİ",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-09-03T02:07:10+00:00",
+   "lastPostedAt": "2026-09-03T02:07:10+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "72",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-09-03T02:07:10+00:00",
+    "contentType": "comment",
+    "contentHtml": "<p><img src=\"https://i.hizliresim.com/n4rktweu.png\" title=\"\" alt=\"Çalışma yüzeyi 1 kopya.png\"></p>\n\n\n\n\n<p>⚔️ SEXYKO CLAN GRADE SİSTEMİ</p>\n\n<p>Clan Grade sistemi, clanınızın topladığı ve bağışladığı National Point (NP)<br>\nmiktarına göre ilerlemektedir.</p>\n\n<p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>\n\n<p>🛡️ NORMAL KNIGHT GRADES</p>\n\n<p>GRADE 5<br>\n• Başlangıç Grade<br>\n• Gerekli NP: 0</p>\n\n<p>GRADE 4<br>\n• Gerekli Clan NP: 72.000 NP</p>\n\n<p>GRADE 3<br>\n• Gerekli Clan NP: 144.000 NP<br>\n• Caitharos görevi açılır.<br>\n• Cape ve Clan Symbol kullanma hakkı kazanılır.</p>\n\n<p>GRADE 2<br>\n• Gerekli Clan NP: 360.000 NP</p>\n\n<p>GRADE 1<br>\n• Gerekli Clan NP: 720.000 NP</p>\n\n<p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>\n\n<p>⚔️ ACCREDITED KNIGHT</p>\n\n<p>Grade 1 seviyesine ulaştıktan sonra<br>\nIsiloon görevi tamamlanarak Accredited Knight aşamasına geçilir.</p>\n\n<p>Bu aşamadan itibaren clan üyeleri NP'lerini<br>\nCLAN POINT sisteminden clana bağışlayabilir.</p>\n\n<p>ACCREDITED 5<br>\n• Isiloon görevi tamamlanmalıdır.</p>\n\n<p>ACCREDITED 4<br>\n• Gerekli NP Bağışı: 252.000 NP</p>\n\n<p>ACCREDITED 3<br>\n• Gerekli NP Bağışı: 360.000 NP</p>\n\n<p>ACCREDITED 2<br>\n• Gerekli NP Bağışı: 540.000 NP</p>\n\n<p>ACCREDITED 1<br>\n• Gerekli NP Bağışı: 720.000 NP</p>\n\n<p>⚠️ ÖNEMLİ:<br>\nBir Grade yükseltildiğinde kullanılan NP bağışı harcanır.<br>\nBir sonraki Grade için yeniden NP bağışı yapılması gerekir.</p>\n\n<p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>\n\n<p>👑 ROYAL KNIGHT</p>\n\n<p>Accredited Knight Grade 1 seviyesine ulaşan clanlar,<br>\nFelankor görevini tamamlayarak Royal Knight aşamasına geçebilir.</p>\n\n<p>ROYAL 5<br>\n• Felankor görevi tamamlanmalıdır.</p>\n\n<p>ROYAL 4<br>\n• Gerekli NP Bağışı: 1.080.000 NP</p>\n\n<p>ROYAL 3<br>\n• Gerekli NP Bağışı: 1.260.000 NP</p>\n\n<p>ROYAL 2<br>\n• Gerekli NP Bağışı: 1.440.000 NP</p>\n\n<p>ROYAL 1<br>\n• Gerekli NP Bağışı: 1.620.000 NP</p>\n\n<p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>\n\n<p>🔥 CLAN NP BAĞIŞI NASIL YAPILIR?</p>\n\n<p>U → CLAN → CLAN POINT</p>\n\n<p>menüsünden clanınıza NP bağışı yapabilirsiniz.</p>\n\n<p>Clan üyelerinin yaptığı bağışlar bir araya gelerek<br>\nclanın bir sonraki Grade seviyesine yükselmesini sağlar.</p>\n\n<p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>\n\n<p>📌 KISA ÖZET</p>\n\n<p>NORMAL KNIGHT<br>\nG5 → 0 NP<br>\nG4 → 72.000 NP<br>\nG3 → 144.000 NP<br>\nG2 → 360.000 NP<br>\nG1 → 720.000 NP</p>\n\n<p>ACCREDITED<br>\nA5 → Isiloon Key<br>\nA4 → 252.000 NP Bağışı<br>\nA3 → 360.000 NP Bağışı<br>\nA2 → 540.000 NP Bağışı<br>\nA1 → 720.000 NP Bağışı</p>\n\n<p>ROYAL<br>\nR5 → 900.000 NP Bağışı + Felankor Görevi<br>\nR4 → 1.080.000 NP Bağışı<br>\nR3 → 1.260.000 NP Bağışı<br>\nR2 → 1.440.000 NP Bağışı<br>\nR1 → 1.620.000 NP Bağışı</p>\n\n<p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>\n\n<p>⚔️ PK YAP<br>\n🔥 NP KAZAN<br>\n🤝 CLANINA NP BAS<br>\n📈 GRADE YÜKSELT<br>\n👑 ROYAL 1'E ULAŞ!</p>\n\n<p>🔥 SEXYKO</p>",
+    "renderFailed": false,
+    "editedAt": "2026-09-23T18:31:18+00:00",
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 1
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/n4rktweu.png",
+   "durum": 200,
+   "boyut": "1574x248",
+   "dosya": "resim/01_c42094d3.png",
+   "bayt": 644298
+  }
+ ]
+}

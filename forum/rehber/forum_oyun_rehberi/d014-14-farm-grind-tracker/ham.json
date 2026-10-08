@@ -1,0 +1,100 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "14",
+  "attributes": {
+   "title": "⚔️ FARM GRIND TRACKER",
+   "slug": "14-️-farm-grind-tracker",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-08-31T19:12:29+00:00",
+   "lastPostedAt": "2026-08-31T19:12:29+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "30",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-08-31T19:12:29+00:00",
+    "contentType": "comment",
+    "contentHtml": "<p><img src=\"https://i.hizliresim.com/mfvy98vx.png\" title=\"\" alt=\"Çalışma yüzeyi 1 kopya 12.png\"></p>\n\n<h1>📊 SEXYKO FARM GRIND TRACKER SİSTEMİ</h1>\n\n<p>SexyKO'da bulunan <strong>Farm Grind Tracker</strong> sistemi sayesinde farm sırasında elde ettiğiniz kazançları anlık olarak takip edebilirsiniz.</p>\n\n<p>Sistem, özellikle uzun süre farm yapan oyuncular için ne kadar kazanç elde edildiğini ve farm verimliliğini tek ekrandan görmenizi sağlar.</p>\n\n<hr>\n\n<h2>📍 FARM GRIND TRACKER NASIL AÇILIR?</h2>\n\n<p>Oyun ekranında bulunan <strong>Farm Grind Tracker ikonuna</strong> tıklayarak sistemi açabilirsiniz.</p>\n\n<p><img src=\"https://i.hizliresim.com/u0y9qmss.png\" title=\"\" alt=\"SexyKO Farm Grind Tracker Açılışı\"></p>\n\n<p>İkona tıkladığınızda farm istatistiklerinizi gösteren detaylı pencere açılır.</p>\n\n<hr>\n\n<h1>📈 FARM BİLGİLERİNİ ANLIK TAKİP EDİN</h1>\n\n<p>Farm Grind Tracker ekranı üzerinden farm süreniz boyunca elde ettiğiniz kazançları takip edebilirsiniz.</p>\n\n<p><img src=\"https://i.hizliresim.com/9ykskdyf.png\" title=\"\" alt=\"SexyKO Farm Grind Tracker\"></p>\n\n<p>Sistem üzerinden:</p>\n\n<ul><li><strong>Toplam farm süresini</strong></li>\n<li><strong>Toplam kazanılan Coin miktarını</strong></li>\n<li><strong>Düşen itemleri</strong></li>\n<li><strong>Item adetlerini</strong></li>\n<li><strong>Saatlik ortalama Coin kazancını</strong></li>\n<li><strong>Saatlik ortalama düşen item adetlerini</strong></li></ul>\n\n<p>görebilirsiniz.</p>\n\n<hr>\n\n<h1>💰 SAATLİK ORTALAMA COIN</h1>\n\n<p>Yeni sistemle birlikte artık sadece toplam kazancınızı değil, farm yaptığınız süreye göre:</p>\n\n<h3><strong>Saatlik ortalama Coin kazancınızı</strong></h3>\n\n<p>da görebilirsiniz.</p>\n\n<p>Bu sayede bulunduğunuz slotun ne kadar kazandırdığını çok daha kolay anlayabilirsiniz.</p>\n\n<p>Örneğin uzun süre farm yaptıktan sonra sistem, mevcut kazancınıza göre yaklaşık olarak <strong>1 saatte ne kadar Coin kazanacağınızı</strong> otomatik hesaplar.</p>\n\n<hr>\n\n<h1>🎁 SAATLİK ORTALAMA ITEM ADEDİ</h1>\n\n<p>Yeni eklenen bir diğer özellik ise:</p>\n\n<h3><strong>Saatlik ortalama item düşme adedi</strong></h3>\n\n<p>bilgisidir.</p>\n\n<p>Farm sırasında düşen itemlerin mevcut süreye göre ortalama olarak <strong>1 saatte kaç adet düşeceğini</strong> görebilirsiniz.</p>\n\n<p>Bu özellik sayesinde farklı farm slotlarını çok daha kolay karşılaştırabilirsiniz.</p>\n\n<hr>\n\n<h1>🎯 FARM VERİMLİLİĞİNİ ÖLÇÜN</h1>\n\n<p>Farm Grind Tracker sayesinde artık:</p>\n\n<p><strong>Bu slot saatte ne kadar Coin bırakıyor?</strong></p>\n\n<p>ve</p>\n\n<p><strong>Bu itemden saatte ortalama kaç tane düşüyor?</strong></p>\n\n<p>sorularının cevabını doğrudan oyun içerisinden görebilirsiniz.</p>\n\n<p>Ekstra hesap yapmanıza gerek kalmaz.</p>\n\n<hr>\n\n<h1>✅ KISACASI</h1>\n\n<p>SexyKO Farm Grind Tracker ile:</p>\n\n<ul><li>Farm sürenizi takip edin</li>\n<li>Toplam Coin kazancınızı görün</li>\n<li>Düşen itemleri ve adetlerini kontrol edin</li>\n<li><strong>Saatlik ortalama Coin kazancınızı görün</strong></li>\n<li><strong>Saatlik ortalama item adetlerini takip edin</strong></li>\n<li>Farm yaptığınız slotun verimliliğini kolayca ölçün</li></ul>\n\n<hr>\n\n<h1>🔥 SEXYKO FARM GRIND TRACKER</h1>\n\n<p><strong>Farmını yap • Kazancını takip et • Saatlik verimini gör</strong></p>\n\n<h3>📊 NE KADAR KAZANDIĞINI ARTIK TAHMİN ETME, OYUN İÇİNDEN GÖR!</h3>",
+    "renderFailed": false,
+    "editedAt": "2026-09-21T15:52:52+00:00",
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 0
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/mfvy98vx.png",
+   "durum": 200,
+   "boyut": "1574x248",
+   "dosya": "resim/01_d206a433.png",
+   "bayt": 670225
+  },
+  {
+   "url": "https://i.hizliresim.com/u0y9qmss.png",
+   "durum": 200,
+   "boyut": "516x209",
+   "dosya": "resim/02_93cf5c78.png",
+   "bayt": 243162
+  },
+  {
+   "url": "https://i.hizliresim.com/9ykskdyf.png",
+   "durum": 200,
+   "boyut": "533x614",
+   "dosya": "resim/03_a6e77a90.png",
+   "bayt": 246991
+  }
+ ]
+}

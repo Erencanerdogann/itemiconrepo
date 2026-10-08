@@ -1,0 +1,100 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "49",
+  "attributes": {
+   "title": "⭐ SEXYKO KARAKTER REBIRTH SİSTEMİ",
+   "slug": "49--sexyko-karakter-rebirth-sİstemİ",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-09-20T23:56:47+00:00",
+   "lastPostedAt": "2026-09-20T23:56:47+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "98",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-09-20T23:56:47+00:00",
+    "contentType": "comment",
+    "contentHtml": "<h1>⭐ SEXYKO REBIRTH SİSTEMİ</h1>\n\n<p>SexyKO'da <strong>83 Level</strong> olduktan sonra karakterinizi Rebirth yaparak geliştirmeye devam edebilirsiniz.</p>\n\n<p>Rebirth sistemi oldukça basit ve hızlıdır.</p>\n\n<hr>\n\n<h2>⚔️ REBIRTH İÇİN GEREKLİ ŞARTLAR</h2>\n\n<p>Karakterinize Rebirth basabilmek için:</p>\n\n<ul><li><strong>83 Level</strong></li>\n<li><strong>EXP %100 dolu</strong></li>\n<li><strong>100.000.000 Coin [1 GB]</strong></li>\n<li><strong>10.000 National Point [10K NP]</strong></li></ul>\n\n<p>gereklidir.</p>\n\n<p><img src=\"https://i.hizliresim.com/cltxw0xz.jpg\" title=\"\" alt=\"SexyKO Rebirth Gereksinimleri\"></p>\n\n<p>Tüm şartlar tamamlandığında karakterinize kolayca Rebirth basabilirsiniz.</p>\n\n<hr>\n\n<h2>⭐ REBIRTH NE KAZANDIRIR?</h2>\n\n<p>Her Rebirth seviyesinde karakteriniz:</p>\n\n<h3><strong>+2 Stat Point</strong></h3>\n\n<p>kazanır.</p>\n\n<p>Yani 83 Level sonrasında karakter gelişiminiz devam eder ve Rebirth seviyeniz arttıkça ekstra stat puanları elde edersiniz.</p>\n\n<hr>\n\n<h2>🖱️ REBIRTH NASIL YAPILIR?</h2>\n\n<p>Gerekli Coin, NP ve EXP şartlarını tamamladıktan sonra Rebirth işleminizi gerçekleştirebilirsiniz.</p>\n\n<p><img src=\"https://i.hizliresim.com/3ppjswgz.jpg\" title=\"\" alt=\"SexyKO Rebirth İşlemi\"></p>\n\n<hr>\n\n<h2>📊 REBIRTH BİLGİSİ NEREDEN GÖRÜLÜR?</h2>\n\n<p>Klavyeden <strong>U</strong> tuşuna basarak <strong>Character Info</strong> penceresini açabilirsiniz.</p>\n\n<p>Buradan mevcut Rebirth durumunuzu kontrol edebilirsiniz.</p>\n\n<p><img src=\"https://i.hizliresim.com/aq6voesd.jpg\" title=\"\" alt=\"SexyKO Character Info Rebirth\"></p>\n\n<hr>\n\n<h1>✅ KISACASI</h1>\n\n<p><strong>83 Level + %100 EXP</strong>  <br>\n<strong>100.000.000 Coin</strong>  <br>\n<strong>10.000 NP</strong></p>\n\n<p>⬇️</p>\n\n<h3>⭐ REBIRTH</h3>\n\n<p>⬇️</p>\n\n<h3><strong>HER REBIRTH SEVİYESİNDE +2 STAT POINT</strong></h3>\n\n<hr>\n\n<h1>🔥 SEXYKO REBIRTH SİSTEMİ</h1>\n\n<p><strong>83'ü tamamla • Rebirth yap • Statlarını güçlendir</strong></p>",
+    "renderFailed": false,
+    "editedAt": "2026-09-20T23:58:33+00:00",
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 0
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/cltxw0xz.jpg",
+   "durum": 200,
+   "boyut": "464x473",
+   "dosya": "resim/01_49cc9d51.jpg",
+   "bayt": 89355
+  },
+  {
+   "url": "https://i.hizliresim.com/3ppjswgz.jpg",
+   "durum": 200,
+   "boyut": "256x253",
+   "dosya": "resim/02_fc313dd4.jpg",
+   "bayt": 22568
+  },
+  {
+   "url": "https://i.hizliresim.com/aq6voesd.jpg",
+   "durum": 200,
+   "boyut": "481x340",
+   "dosya": "resim/03_8b70a97a.jpg",
+   "bayt": 60985
+  }
+ ]
+}

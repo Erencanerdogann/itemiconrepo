@@ -1,0 +1,93 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "27",
+  "attributes": {
+   "title": "🛒 SEXYKO POWER UP STORE",
+   "slug": "27--sexyko-power-up-store",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-08-31T21:42:44+00:00",
+   "lastPostedAt": "2026-08-31T21:42:44+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "54",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-08-31T21:42:44+00:00",
+    "contentType": "comment",
+    "contentHtml": "<p><img src=\"https://i.hizliresim.com/3ztmov7t.png\" title=\"\" alt=\"Çalışma yüzeyi 1 kopya 8.png\"></p>\n\n\n\n\n<p>SexyKO <strong>Power Up Store</strong> üzerinden alışveriş yaparken satın almak istediğiniz ürünleri tek tek değil, <strong>Basket sistemi</strong> sayesinde toplu şekilde sepete ekleyebilirsiniz.</p>\n\n<p><img src=\"https://i.hizliresim.com/5ibrse1n.png\" title=\"\" alt=\"SexyKO Power Up Store\"></p>\n\n<h2>🧺 BASKET SİSTEMİ</h2>\n\n<p>Sağ tarafta bulunan <strong>Basket</strong> bölümü sayesinde:</p>\n\n<ul><li>almak istediğiniz ürünleri sepete ekleyebilir,</li>\n<li>sepetteki tüm ürünleri toplu şekilde görebilir,</li>\n<li>ne aldığınızı işlem öncesinde kontrol edebilir,</li>\n<li>birden fazla ürünü daha düzenli şekilde satın alabilirsiniz.</li></ul>\n\n<p>Bu sistem özellikle toplu alışverişlerde büyük kolaylık sağlar.</p>\n\n<hr>\n\n<h2>💰 İKİ FARKLI BAKİYE SİSTEMİ</h2>\n\n<p>Power Up Store içerisinde bakiyeleriniz ayrı ayrı görüntülenir:</p>\n\n<h3>💎 Knight Cash</h3>\n<p>KC ile satın alınabilen ürünlerde kullanılan bakiyenizi gösterir.</p>\n\n<h3>🪨 SexyBalance</h3>\n<p>SB ile işlem yapılan ürünlerde kullanılan ayrı bakiyenizi gösterir.</p>\n\n<p>Böylece <strong>KC ve SB bakiyelerinizi birbirine karıştırmadan</strong> aynı ekran üzerinden takip edebilirsiniz.</p>\n\n<hr>\n\n<h1>🔥 KISACASI</h1>\n\n<p><strong>Ürününü seç → Basket'e ekle → Sepetini kontrol et → Cash / SB bakiyeni gör → Alışverişini tamamla!</strong></p>\n\n<p>SexyKO Power Up Store ile alışveriş artık daha düzenli, daha hızlı ve daha kolay.</p>",
+    "renderFailed": false,
+    "editedAt": "2026-09-03T18:29:17+00:00",
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 0
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/3ztmov7t.png",
+   "durum": 200,
+   "boyut": "1574x248",
+   "dosya": "resim/01_4d7883e9.png",
+   "bayt": 580067
+  },
+  {
+   "url": "https://i.hizliresim.com/5ibrse1n.png",
+   "durum": 200,
+   "boyut": "1238x650",
+   "dosya": "resim/02_2ef11fa9.png",
+   "bayt": 868328
+  }
+ ]
+}

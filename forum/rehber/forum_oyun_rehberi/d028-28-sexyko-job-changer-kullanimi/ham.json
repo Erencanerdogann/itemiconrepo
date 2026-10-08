@@ -1,0 +1,93 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "28",
+  "attributes": {
+   "title": "🔄 SEXYKO JOB CHANGER KULLANIMI",
+   "slug": "28--sexyko-job-changer-kullanimi",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-08-31T21:54:29+00:00",
+   "lastPostedAt": "2026-08-31T21:54:29+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "56",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-08-31T21:54:29+00:00",
+    "contentType": "comment",
+    "contentHtml": "<p><img src=\"https://i.hizliresim.com/ztzuxibz.png\" title=\"\" alt=\"Çalışma yüzeyi 1 kopya 7.png\"></p>\n\n\n\n\n<h1>🔄 SEXYKO JOB CHANGER KULLANIMI</h1>\n\n<p>SexyKO'da <strong>Job Changer</strong> kullanımı oldukça kolaydır.</p>\n\n<p>Job Changer itemine <strong>sağ tıklayarak</strong> menüyü açabilir ve bulunduğunuz yerden doğrudan job değiştirme işlemini gerçekleştirebilirsiniz.</p>\n\n<p><img src=\"https://i.hizliresim.com/zhzxjcbn.png\" title=\"\" alt=\"SexyKO Job Changer\"></p>\n\n<hr>\n\n<h2>⚙️ JOB CHANGER NASIL KULLANILIR?</h2>\n\n<p><strong>1️⃣</strong> Job Changer itemine sağ tıklayın.  <br>\n<strong>2️⃣</strong> Job değiştirme ekranını açın.  <br>\n<strong>3️⃣</strong> Geçmek istediğiniz jobu seçin.  <br>\n<strong>4️⃣</strong> Gerekli şartı sağladıktan sonra işlemi tamamlayın.</p>\n\n<p>NPC aramanıza veya farklı bir bölgeye gitmenize gerek yoktur.</p>\n\n<p><strong>Job Changer bulunduğunuz yerden kullanılabilir.</strong></p>\n\n<hr>\n\n<h2>⚠️ GEREKLİ ŞART</h2>\n\n<p>Job değiştirme işlemi yapmadan önce:</p>\n\n<h3>🎒 KARAKTERİN ÜZERİNDEKİ TÜM ITEMLERİ ÇIKARTIN</h3>\n\n<p>Karakterinizin üzerinde takılı olan:</p>\n\n<ul><li>silahlar,</li>\n<li>armor parçaları,</li>\n<li>takılar,</li>\n<li>yardımcı ekipmanlar</li></ul>\n\n<p>tamamen çıkartılmış olmalıdır.</p>\n\n<p><strong>Karakterin üzerinde herhangi bir item takılıyken Job Changer işlemi gerçekleştirilemez.</strong></p>\n\n<hr>\n\n<h2>✅ İŞLEM ÖNCESİ KONTROL</h2>\n\n<p>Job Changer kullanmadan önce tek yapmanız gereken:</p>\n\n<p><strong>✔️ Karakterinizin üzerindeki tüm itemleri çıkarmak.</strong></p>\n\n<p>Ardından Job Changer itemine sağ tıklayarak job değişiminizi kolayca tamamlayabilirsiniz.</p>\n\n<hr>\n\n<h1>🔥 SEXYKO JOB CHANGER</h1>\n\n<p><strong>Itemlerini çıkar • Sağ tıkla • Jobunu seç • Değişimini tamamla!</strong></p>\n\n<h3>⚠️ UNUTMAYIN</h3>\n\n<p><strong>Job değiştirebilmek için karakterinizin üzerinde takılı hiçbir item bulunmamalıdır.</strong></p>",
+    "renderFailed": false,
+    "editedAt": "2026-09-03T18:28:15+00:00",
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 0
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/ztzuxibz.png",
+   "durum": 200,
+   "boyut": "1574x248",
+   "dosya": "resim/01_85818f3e.png",
+   "bayt": 541624
+  },
+  {
+   "url": "https://i.hizliresim.com/zhzxjcbn.png",
+   "durum": 200,
+   "boyut": "1554x849",
+   "dosya": "resim/02_2bfef5f3.png",
+   "bayt": 1625336
+  }
+ ]
+}

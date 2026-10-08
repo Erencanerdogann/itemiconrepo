@@ -1,0 +1,92 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "46",
+  "attributes": {
+   "title": "👁️ SEXYKO EQUIPMENT VIEW SİSTEMİ",
+   "slug": "46-️-sexyko-equipment-view-sİstemİ",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-09-19T23:20:51+00:00",
+   "lastPostedAt": "2026-09-19T23:20:51+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "92",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-09-19T23:20:51+00:00",
+    "contentType": "comment",
+    "contentHtml": "<h1>👁️ SEXYKO EQUIPMENT VIEW SİSTEMİ</h1>\n\n<p>SexyKO'da bulunan <strong>Equipment View Sistemi</strong> sayesinde bir oyuncunun karakterine ait detaylı bilgileri tek pencere üzerinden inceleyebilirsiniz.</p>\n\n<p>Sistem yalnızca karakterin üzerindeki itemleri göstermekle kalmaz; aynı zamanda <strong>stat değerlerini, resistance bilgilerini, aktif buffları ve inventory görünümünü</strong> de detaylı şekilde gösterir.</p>\n\n<p>Bu sayede başka bir oyuncunun karakter yapısını çok daha kapsamlı şekilde inceleyebilirsiniz.</p>\n\n<hr>\n\n<h2>🖱️ EQUIPMENT VIEW NASIL AÇILIR?</h2>\n\n<p>İncelemek istediğiniz karaktere <strong>sağ tıklayın.</strong></p>\n\n<p>Açılan menüde:</p>\n\n<p><strong>Equipment View</strong></p>\n\n<p>seçeneğine tıklayın.</p>\n\n<p><img src=\"https://i.hizliresim.com/fq5fdsew.png\" title=\"\" alt=\"SexyKO Equipment View Açılışı\"></p>\n\n<p>Bu işlemin ardından seçtiğiniz oyuncunun detaylı <strong>Equipment / Ability</strong> penceresi açılır.</p>\n\n<hr>\n\n<h1>🧩 EQUIPMENT / ABILITY PENCERESİ</h1>\n\n<p><img src=\"https://i.hizliresim.com/pgabmo0e.png\" title=\"\" alt=\"SexyKO Equipment Ability\"></p>\n\n<p>Bu ekran üzerinden karakterin birçok bilgisini aynı anda görebilirsiniz.</p>\n\n<hr>\n\n<h2>👤 KARAKTER GÖRÜNÜMÜ</h2>\n\n<p>Sol tarafta oyuncunun karakter modeli görüntülenir.</p>\n\n<p>Buradan:</p>\n\n<ul><li>karakter görünümünü,</li>\n<li>kullanılan kostüm / görünüm öğelerini,</li>\n<li>karakterin genel ekipman görünümünü</li></ul>\n\n<p>inceleyebilirsiniz.</p>\n\n<hr>\n\n<h2>🛡️ TAKILI EQUIPMENTLER</h2>\n\n<p>Orta bölümde karakterin üzerinde bulunan ekipmanlar gösterilir.</p>\n\n<p>Bu alanda:</p>\n\n<ul><li>silah</li>\n<li>zırh parçaları</li>\n<li>takılar</li>\n<li>kemer</li>\n<li>yüzükler</li>\n<li>küpeler</li>\n<li>kolye</li>\n<li>yardımcı ekipmanlar</li>\n<li>kostüm / özel slotlar</li></ul>\n\n<p>gibi kullanılan itemleri görebilirsiniz.</p>\n\n<p>Itemlerin <strong>upgrade seviyeleri</strong> de ikonların üzerinde görüntülenir.</p>\n\n<p>Örneğin:</p>\n\n<p><strong>+3 / +10 / +21</strong></p>\n\n<p>gibi mevcut item seviyelerini doğrudan görebilirsiniz.</p>\n\n<hr>\n\n<h1>🎒 INVENTORY GÖRÜNÜMÜ</h1>\n\n<p>Equipment View ekranının alt bölümünde karakterin <strong>Inventory</strong> alanı da görüntülenir.</p>\n\n<p>Bu bölümde oyuncunun çantasında bulunan itemleri ve adetlerini görebilirsiniz.</p>\n\n<p>Böylece sistem yalnızca takılı itemleri değil, karakter üzerindeki genel item durumunu da tek pencerede gösterir.</p>\n\n<hr>\n\n<h1>📊 KARAKTER STATLARI</h1>\n\n<p>Sağ tarafta karakterin temel stat değerleri ayrıntılı şekilde gösterilir.</p>\n\n<p>Görüntülenebilen bilgiler arasında:</p>\n\n<h3>⭐ LEVEL</h3>\n<p>Karakterin mevcut seviyesini gösterir.</p>\n\n<h3>❤️ HP</h3>\n<p>Karakterin toplam can değerini gösterir.</p>\n\n<h3>💙 MP</h3>\n<p>Toplam mana değerini gösterir.</p>\n\n<h3>⚡ SP</h3>\n<p>Karakterin SP değerini gösterir.</p>\n\n<h3>💪 STR</h3>\n<p>Strength değerini gösterir.</p>\n\n<h3>🎯 DEX</h3>\n<p>Dexterity değerini gösterir.</p>\n\n<h3>🧠 INT</h3>\n<p>Intelligence değerini gösterir.</p>\n\n<hr>\n\n<h1>⚔️ SALDIRI VE SAVUNMA DEĞERLERİ</h1>\n\n<p>Aynı panel üzerinden karakterin savaş gücüyle ilgili önemli değerler de görüntülenebilir.</p>\n\n<h3>⚔️ ATTACK</h3>\n<p>Karakterin toplam saldırı değerini gösterir.</p>\n\n<h3>🛡️ DEFENCE</h3>\n<p>Karakterin toplam savunma değerini gösterir.</p>\n\n<p>Statlarda parantez içerisinde bulunan değerler ise item ve bufflardan gelen ek katkıları gösterir.</p>\n\n<p>Örneğin:</p>\n\n<p><strong>STR 255 (+250)</strong></p>\n\n<p>gibi bir ifade, karakterin ana STR değeriyle beraber ekipman ve bufflardan gelen ek değeri görmenizi sağlar.</p>\n\n<hr>\n\n<h1>🔥 RESISTANCE DEĞERLERİ</h1>\n\n<p>Equipment View ekranında karakterin direnç değerleri de ayrı ayrı görüntülenir.</p>\n\n<p>Bunlar:</p>\n\n<ul><li>🔥 <strong>Fire Resistance</strong></li>\n<li>❄️ <strong>Ice Resistance</strong></li>\n<li>⚡ <strong>Lightning Resistance</strong></li>\n<li>✨ <strong>Magic Resistance</strong></li>\n<li>☠️ <strong>Curse Resistance</strong></li>\n<li>🧪 <strong>Poison Resistance</strong></li></ul>\n\n<p>şeklindedir.</p>\n\n<p>Bu bilgiler özellikle PK ve PvP tarafında karakterin hangi elementlere karşı daha dayanıklı olduğunu anlamanızı sağlar.</p>\n\n<hr>\n\n<h1>✨ BUFF LIST</h1>\n\n<p>Sağ alt bölümde <strong>Buff List</strong> alanı bulunmaktadır.</p>\n\n<p>Burada karakterin üzerinde aktif olan buff ve destek efektlerini görebilirsiniz.</p>\n\n<p>Yani oyuncunun:</p>\n\n<ul><li>hangi buffları kullandığını,</li>\n<li>aktif destek efektlerini,</li>\n<li>savaş sırasında üzerinde bulunan güçlendirmeleri</li></ul>\n\n<p>tek bakışta inceleyebilirsiniz.</p>\n\n<hr>\n\n<h1>🔍 NEDEN ÖNEMLİ?</h1>\n\n<p>Equipment View sistemi sayesinde bir oyuncunun karakterini sadece dış görünüşten değerlendirmek zorunda kalmazsınız.</p>\n\n<p>Tek pencerede:</p>\n\n<ul><li>ekipmanlarını,</li>\n<li>item upgrade seviyelerini,</li>\n<li>inventory durumunu,</li>\n<li>statlarını,</li>\n<li>attack / defence değerlerini,</li>\n<li>resistance değerlerini,</li>\n<li>aktif bufflarını</li></ul>\n\n<p>görebilirsiniz.</p>\n\n<p>Bu da sistemi klasik Equipment View yapılarından çok daha kapsamlı hale getirir.</p>\n\n<hr>\n\n<h1>✅ KISACASI</h1>\n\n<p><strong>Karaktere sağ tıkla → Equipment View seçeneğine bas → Tüm detayları incele</strong></p>\n\n<p>SexyKO Equipment View sistemi ile:</p>\n\n<ul><li>ekipmanları gör</li>\n<li>statları kontrol et</li>\n<li>resistance değerlerini incele</li>\n<li>buffları gör</li>\n<li>inventory’yi görüntüle</li></ul>\n\n<hr>\n\n<h1>🔥 SEXYKO EQUIPMENT VIEW</h1>\n\n<p><strong>Tek tıkla karakteri incele, tüm detayları tek ekranda gör!</strong></p>",
+    "renderFailed": false,
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 0
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/fq5fdsew.png",
+   "durum": 200,
+   "boyut": "840x588",
+   "dosya": "resim/01_4b97db18.png",
+   "bayt": 837588
+  },
+  {
+   "url": "https://i.hizliresim.com/pgabmo0e.png",
+   "durum": 200,
+   "boyut": "1084x673",
+   "dosya": "resim/02_2a57e80c.png",
+   "bayt": 606986
+  }
+ ]
+}

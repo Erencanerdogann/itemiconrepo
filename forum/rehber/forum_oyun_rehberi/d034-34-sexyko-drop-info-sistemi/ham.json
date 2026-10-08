@@ -1,0 +1,107 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "34",
+  "attributes": {
+   "title": "🎯 SEXYKO DROP INFO SİSTEMİ",
+   "slug": "34--sexyko-drop-info-sİstemİ",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-08-31T23:42:00+00:00",
+   "lastPostedAt": "2026-08-31T23:42:00+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "66",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-08-31T23:42:00+00:00",
+    "contentType": "comment",
+    "contentHtml": "<p><img src=\"https://i.hizliresim.com/hpwqad1d.png\" title=\"\" alt=\"Çalışma yüzeyi 1 kopya 2.png\"></p>\n\n\n\n\n<h1>🎯 SEXYKO DROP INFO SİSTEMİ</h1>\n\n<p>SexyKO'da bulunan <strong>Drop Info Sistemi</strong> sayesinde bir mobdan hangi itemlerin düştüğünü, hangi itemin hangi mobdan çıktığını ve drop oranlarını oyun içerisinden kolayca görüntüleyebilirsiniz.</p>\n\n<p>Ayrıca istemediğiniz dropları engelleyerek <strong>Auto Loot sisteminin o itemleri toplamamasını</strong> sağlayabilirsiniz.</p>\n\n<hr>\n\n<h2>🐺 MOB ÜZERİNDEN DROP GÖRÜNTÜLEME</h2>\n\n<p>Bir moba tıkladığınızda alt bölümde açılan <strong>Drop Info kutusuna</strong> tıklayarak o mobdan düşebilecek itemleri görüntüleyebilirsiniz.</p>\n\n<p><img src=\"https://i.hizliresim.com/2httj0jl.png\" title=\"\" alt=\"SexyKO Drop Info Mob Görünümü\"></p>\n\n<p>Bu pencere üzerinden:</p>\n\n<ul><li>mobdan düşen itemleri görebilir,</li>\n<li>diğer mobları aratarak droplarını inceleyebilir,</li>\n<li>istemediğiniz itemleri filtreleyebilirsiniz.</li></ul>\n\n<hr>\n\n<h2>🚫 İSTEMEDİĞİNİZ ITEMLERİ ENGELLEME</h2>\n\n<p>Drop listesindeki bir itemi almak istemiyorsanız iteme <strong>sağ tıklayarak karartabilirsiniz.</strong></p>\n\n<p>Karartılan itemler:</p>\n\n<p><strong>Auto Loot tarafından toplanmaz.</strong></p>\n\n<p>Bu özellik özellikle farm sırasında gereksiz itemlerin inventory doldurmasını engellemek için oldukça kullanışlıdır.</p>\n\n<hr>\n\n<h2>🔎 ITEM İSMİNDEN DROP ARAMA</h2>\n\n<p>Drop Info sisteminin üst bölümünde bulunan arama alanına item ismini yazarak, o itemin hangi moblardan düştüğünü görüntüleyebilirsiniz.</p>\n\n<p><img src=\"https://i.hizliresim.com/jcl36kou.png\" title=\"\" alt=\"SexyKO Drop Info Item Arama\"></p>\n\n<p>Arama sonucunda:</p>\n\n<ul><li>itemin düştüğü mobları,</li>\n<li>drop oranlarını,</li>\n<li>yüzde olarak düşme ihtimalini</li></ul>\n\n<p>net şekilde görebilirsiniz.</p>\n\n<p>Böylece bir item için hangi mobu kesmeniz gerektiğini tek tek araştırmanıza gerek kalmaz.</p>\n\n<hr>\n\n<h2>📊 DROP ORANLARINI NET GÖRÜN</h2>\n\n<p>Item arama sistemi sayesinde yalnızca mob ismini değil, drop oranını da doğrudan görebilirsiniz.</p>\n\n<p>Örneğin bir item için:</p>\n\n<p><strong>Mob Adı → Drop Oranı %</strong></p>\n\n<p>şeklinde bilgi gösterilir.</p>\n\n<p>Bu sayede hangi slotun sizin için daha verimli olduğunu daha kolay belirleyebilirsiniz.</p>\n\n<hr>\n\n<h2>🧱 BLOCKED ITEM LİSTESİ</h2>\n\n<p>Engellediğiniz itemleri daha sonra <strong>Blocked</strong> bölümünden görüntüleyebilirsiniz.</p>\n\n<p><img src=\"https://i.hizliresim.com/xnkfmqwj.png\" title=\"\" alt=\"SexyKO Blocked Drop Listesi\"></p>\n\n<p>Bu bölümde:</p>\n\n<ul><li>daha önce engellediğiniz itemleri görebilir,</li>\n<li>engeli kaldırmak istediğiniz itemleri listeden silebilirsiniz.</li></ul>\n\n<p>Yani yanlışlıkla bir itemi engellediyseniz tekrar aktif hale getirmeniz mümkündür.</p>\n\n<hr>\n\n<h2>✅ KISACASI</h2>\n\n<p><strong>Mob'a tıkla → Drop Info'yu aç → Dropları gör</strong></p>\n\n<p>veya</p>\n\n<p><strong>Item adını yaz → Hangi mobdan düştüğünü ve oranını öğren</strong></p>\n\n<p>İstemediğiniz drop varsa:</p>\n\n<p><strong>Iteme sağ tıkla → Block et → Auto Loot artık toplamasın</strong></p>\n\n<p>Yanlış blokladıysan:</p>\n\n<p><strong>Blocked bölümüne gir → Listeden kaldır</strong></p>\n\n<hr>\n\n<h1>🔥 SEXYKO DROP INFO SİSTEMİ</h1>\n\n<p><strong>Dropunu gör • Oranını öğren • İstemediğini engelle • Farmını temiz tut!</strong></p>",
+    "renderFailed": false,
+    "editedAt": "2026-09-03T18:24:08+00:00",
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 1
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/hpwqad1d.png",
+   "durum": 200,
+   "boyut": "1574x248",
+   "dosya": "resim/01_c88f65e4.png",
+   "bayt": 572628
+  },
+  {
+   "url": "https://i.hizliresim.com/2httj0jl.png",
+   "durum": 200,
+   "boyut": "870x965",
+   "dosya": "resim/02_20a27360.png",
+   "bayt": 882268
+  },
+  {
+   "url": "https://i.hizliresim.com/jcl36kou.png",
+   "durum": 200,
+   "boyut": "714x699",
+   "dosya": "resim/03_3d3a0133.png",
+   "bayt": 255362
+  },
+  {
+   "url": "https://i.hizliresim.com/xnkfmqwj.png",
+   "durum": 200,
+   "boyut": "705x690",
+   "dosya": "resim/04_b20ba751.png",
+   "bayt": 173807
+  }
+ ]
+}

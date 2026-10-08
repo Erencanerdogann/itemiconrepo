@@ -1,0 +1,86 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "39",
+  "attributes": {
+   "title": "👑 SEXYKO ROYAL PELERİN BONUSLARI",
+   "slug": "39--sexyko-royal-pelerİn-bonuslari",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-09-10T10:21:07+00:00",
+   "lastPostedAt": "2026-09-10T10:21:07+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "77",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-09-10T10:21:07+00:00",
+    "contentType": "comment",
+    "contentHtml": "<p><img src=\"https://i.hizliresim.com/n3l34aep.png\" title=\"\" alt=\"ROYALCLAN.png\"></p>\n\n<h1>👑 SEXYKO ROYAL CLAN BONUS TABLOSU</h1>\n\n<p>Royal Clan seviyesine ulaşan clanlar, grade seviyelerine göre farklı <strong>pelerin bonusları</strong> kazanır.</p>\n\n<p>Bu bonuslar clanınızın seviyesine göre artar ve savaş alanında doğrudan avantaj sağlar.</p>\n\n<hr>\n\n<h2>🏆 BONUS TÜRLERİ</h2>\n\n<p>Royal Clan pelerinlerinde aşağıdaki bonuslar bulunur:</p>\n\n<ul><li>❤️ <strong>HP Bonus</strong></li>\n<li>💙 <strong>MP Bonus</strong></li>\n<li>🛡️ <strong>AC Bonus</strong></li>\n<li>⚔️ <strong>AP Bonus</strong></li>\n<li>🔥 <strong>Resistance</strong></li>\n<li>⭐ <strong>NP Bonus</strong></li>\n<li>💰 <strong>Gerekli NP Bağışı</strong></li></ul>\n\n<hr>\n\n<h1>👑 ROYAL 1</h1>\n\n<ul><li>❤️ <strong>HP Bonus:</strong> 400</li>\n<li>💙 <strong>MP Bonus:</strong> 400</li>\n<li>🛡️ <strong>AC Bonus:</strong> 50</li>\n<li>⚔️ <strong>AP Bonus:</strong> 3%</li>\n<li>🔥 <strong>Resistance:</strong> 50</li>\n<li>⭐ <strong>NP Bonus:</strong> 5</li>\n<li>💰 <strong>Gerekli NP Bağışı:</strong> 3.500.000 NP</li></ul>\n\n<p>Royal sisteminin en yüksek seviyesidir ve en güçlü cape bonuslarını sunar.</p>\n\n<hr>\n\n<h1>👑 ROYAL 2</h1>\n\n<ul><li>❤️ <strong>HP Bonus:</strong> 350</li>\n<li>💙 <strong>MP Bonus:</strong> 350</li>\n<li>🛡️ <strong>AC Bonus:</strong> 45</li>\n<li>⚔️ <strong>AP Bonus:</strong> 3%</li>\n<li>🔥 <strong>Resistance:</strong> 45</li>\n<li>⭐ <strong>NP Bonus:</strong> 5</li>\n<li>💰 <strong>Gerekli NP Bağışı:</strong> 2.750.000 NP</li></ul>\n\n<p>Royal 2 seviyesi de oldukça güçlü ve dengeli bonuslar sağlar.</p>\n\n<hr>\n\n<h1>👑 ROYAL 3</h1>\n\n<ul><li>❤️ <strong>HP Bonus:</strong> 300</li>\n<li>💙 <strong>MP Bonus:</strong> 300</li>\n<li>🛡️ <strong>AC Bonus:</strong> 40</li>\n<li>⚔️ <strong>AP Bonus:</strong> 2%</li>\n<li>🔥 <strong>Resistance:</strong> 40</li>\n<li>⭐ <strong>NP Bonus:</strong> 4</li>\n<li>💰 <strong>Gerekli NP Bağışı:</strong> 2.250.000 NP</li></ul>\n\n<p>Royal 3, orta-üst seviye clanlar için güçlü bir pelerin avantajı sunar.</p>\n\n<hr>\n\n<h1>👑 ROYAL 4</h1>\n\n<ul><li>❤️ <strong>HP Bonus:</strong> 250</li>\n<li>💙 <strong>MP Bonus:</strong> 250</li>\n<li>🛡️ <strong>AC Bonus:</strong> 35</li>\n<li>⚔️ <strong>AP Bonus:</strong> 2%</li>\n<li>🔥 <strong>Resistance:</strong> 35</li>\n<li>⭐ <strong>NP Bonus:</strong> 4</li>\n<li>💰 <strong>Gerekli NP Bağışı:</strong> 2.000.000 NP</li></ul>\n\n<p>Clan gelişiminde önemli aşamalardan biridir.</p>\n\n<hr>\n\n<h1>👑 ROYAL 5</h1>\n\n<ul><li>❤️ <strong>HP Bonus:</strong> 200</li>\n<li>💙 <strong>MP Bonus:</strong> 200</li>\n<li>🛡️ <strong>AC Bonus:</strong> 30</li>\n<li>⚔️ <strong>AP Bonus:</strong> 2%</li>\n<li>🔥 <strong>Resistance:</strong> 30</li>\n<li>⭐ <strong>NP Bonus:</strong> 3</li>\n<li>💰 <strong>Gerekli NP Bağışı:</strong> -</li></ul>\n\n<p>Royal sisteminin başlangıç seviyesidir.</p>\n\n<hr>\n\n<h1>🦅 SUPERIOR CAPE</h1>\n\n<ul><li>❤️ <strong>HP Bonus:</strong> 225</li>\n<li>💙 <strong>MP Bonus:</strong> 225</li>\n<li>🛡️ <strong>AC Bonus:</strong> 30</li>\n<li>⚔️ <strong>AP Bonus:</strong> 2%</li>\n<li>🔥 <strong>Resistance:</strong> 35</li>\n<li>⭐ <strong>NP Bonus:</strong> 3</li>\n<li>💰 <strong>Gerekli NP Bağışı:</strong> -</li></ul>\n\n<p>Superior Cape, bazı alanlarda Royal 5'e göre ekstra avantaj sunan özel bir alternatiftir.</p>\n\n<hr>\n\n<h1>📈 ROYAL SEVİYESİ YÜKSELDİKÇE</h1>\n\n<p>Clanınız Royal seviyelerinde yükseldikçe:</p>\n\n<ul><li>HP ve MP bonusları artar</li>\n<li>AC ve Resistance değerleri yükselir</li>\n<li>AP bonusu güçlenir</li>\n<li>NP bonusu artar</li></ul>\n\n<p>Bu yüzden Royal sistemi yalnızca görsel bir prestij değil, aynı zamanda <strong>oyun içinde ciddi avantaj sağlayan bir gelişim sistemidir.</strong></p>\n\n<hr>\n\n<h1>🔥 SEXYKO ROYAL CLAN SİSTEMİ</h1>\n\n<p><strong>Clanını geliştir • Royal seviyeni yükselt • Pelerin bonuslarını güçlendir</strong></p>\n\n<h3>👑 ROYAL OL, FARKINI SAVAŞ ALANINDA GÖSTER!</h3>",
+    "renderFailed": false,
+    "editedAt": "2026-09-16T07:10:10+00:00",
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 0
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/n3l34aep.png",
+   "durum": 200,
+   "boyut": "1574x248",
+   "dosya": "resim/01_4371db84.png",
+   "bayt": 695509
+  }
+ ]
+}

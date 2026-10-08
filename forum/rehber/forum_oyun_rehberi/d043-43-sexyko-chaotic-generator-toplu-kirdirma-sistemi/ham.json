@@ -1,0 +1,86 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "43",
+  "attributes": {
+   "title": "♻️ SEXYKO CHAOTIC GENERATOR & TOPLU KIRDIRMA SİSTEMİ",
+   "slug": "43-️-sexyko-chaotic-generator--toplu-kirdirma-sİstemİ",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-09-14T13:50:00+00:00",
+   "lastPostedAt": "2026-09-14T13:50:00+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "85",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-09-14T13:50:00+00:00",
+    "contentType": "comment",
+    "contentHtml": "<h1>♻️ SEXYKO CHAOTIC GENERATOR &amp; TOPLU KIRDIRMA SİSTEMİ</h1>\n\n<p>SexyKO'da <strong>Gem, Fragment ve Chaotic Generator üzerinden kırdırılabilen itemleri</strong> artık daha hızlı ve daha kontrollü şekilde işleyebilirsiniz.</p>\n\n<p>Iteme <strong>sağ tıkladığınızda</strong> açılan pencere üzerinden:</p>\n\n<ul><li>tek tek kırdırma,</li>\n<li>toplu kırdırma,</li>\n<li>istemediğiniz itemleri filtreleme,</li>\n<li>direkt satış,</li>\n<li>bankaya gönderme,</li>\n<li>çöpe atma</li></ul>\n\n<p>işlemlerini tek ekran üzerinden yapabilirsiniz.</p>\n\n<p><img src=\"https://i.hizliresim.com/ce1cgdrw.png\" title=\"\" alt=\"SexyKO Chaotic Generator Sistemi\"></p>\n\n<hr>\n\n<h2>⚙️ CHAOTIC GENERATOR NASIL KULLANILIR?</h2>\n\n<p>Gem, Fragment veya benzeri kırdırılabilir iteme <strong>sağ tıkladığınızda</strong> özel işlem penceresi açılır.</p>\n\n<p>Buradan kırdırma işlemini iki farklı şekilde yapabilirsiniz.</p>\n\n<hr>\n\n<h1>🔹 EXCHANGE ONE</h1>\n\n<p><strong>Exchange One</strong> seçeneği ile itemleri tek tek kırdırabilirsiniz.</p>\n\n<p>Yani:</p>\n\n<p><strong>1 adet item → 1 adet kırdırma işlemi</strong></p>\n\n<p>mantığıyla çalışır.</p>\n\n<p>Tek tek kontrol ederek işlem yapmak isteyen oyuncular için uygundur.</p>\n\n<hr>\n\n<h1>🔸 EXCHANGE ALL</h1>\n\n<p><strong>Exchange All</strong> seçeneği ile inventory'nizde bulunan itemleri toplu şekilde kırdırabilirsiniz.</p>\n\n<p>Sistem, inventory'nizde bulunan <strong>boş slot miktarı kadar</strong> kırdırma işlemi yapar.</p>\n\n<p>Bu özellik özellikle:</p>\n\n<ul><li>çok sayıda Gem,</li>\n<li>Fragment,</li>\n<li>kutu,</li>\n<li>benzeri kırdırılabilir item</li></ul>\n\n<p>biriktiren oyuncular için büyük zaman kazandırır.</p>\n\n<p>Tek tek tıklamak yerine toplu işlem yapabilirsiniz.</p>\n\n<hr>\n\n<h1>🚫 İSTEMEDİĞİNİZ ITEMLERİ SEÇİN</h1>\n\n<p>Kırdırma sonucunda gelen itemlerden birini istemiyorsanız:</p>\n\n<p><strong>İteme sağ tıklayarak karartabilirsiniz.</strong></p>\n\n<p>Karartılan item, alt tarafta seçmiş olduğunuz işleme göre otomatik olarak değerlendirilir.</p>\n\n<p>Yani sistem o itemi normal şekilde inventory'nize almak yerine sizin belirlediğiniz işlemi uygular.</p>\n\n<hr>\n\n<h1>💰 SELL — DİREKT SATIŞ</h1>\n\n<p><strong>Sell</strong> seçeneği aktifken kararttığınız itemler doğrudan satılır.</p>\n\n<p>Bu işlem:</p>\n\n<p><strong>Sundries'e satış yapıyormuşsunuz gibi</strong></p>\n\n<p>çalışır.</p>\n\n<h3>💵 SATIŞ BİRİM FİYATI</h3>\n\n<p>Itemin üzerine geldiğinizde:</p>\n\n<p><strong>Satış Birim Fiyatı</strong></p>\n\n<p>görüntülenir.</p>\n\n<p>Böylece itemi Sell olarak işaretlemeden önce ne kadar coin kazanacağınızı görebilirsiniz.</p>\n\n<p>Kırdırma sırasında gereksiz gördüğünüz itemleri direkt coin'e çevirmek için kullanabilirsiniz.</p>\n\n<hr>\n\n<h1>🏦 STORAGE — BANKAYA GÖNDER</h1>\n\n<p><strong>Storage</strong> seçeneği aktifken karartılmış item:</p>\n\n<p><strong>doğrudan bankanıza gönderilir.</strong></p>\n\n<p>Bu sistem özellikle saklamak istediğiniz ama inventory'nizde yer kaplamasını istemediğiniz itemlerde oldukça kullanışlıdır.</p>\n\n<p>Yani:</p>\n\n<p><strong>Kırdır → Item çıksın → Otomatik bankaya gitsin</strong></p>\n\n<p>mantığıyla çalışır.</p>\n\n<hr>\n\n<h1>🗑️ TRASH — ÇÖPE AT</h1>\n\n<p><strong>Trash</strong> seçeneği aktifken kararttığınız itemler direkt olarak silinir.</p>\n\n<h3>⚠️ DİKKAT</h3>\n\n<p>Trash işlemi sonucunda:</p>\n\n<p><strong>Coin kazanılmaz.</strong></p>\n\n<p>Item tamamen çöpe atılır ve karşılığında herhangi bir ödeme alınmaz.</p>\n\n<p>Bu yüzden Trash seçeneğini kullanırken itemlerinizi dikkatli seçmeniz önerilir.</p>\n\n<hr>\n\n<h1>🎯 KARARTILAN ITEM NASIL İŞLENİR?</h1>\n\n<p>Sistem oldukça basit çalışır.</p>\n\n<p>Önce istemediğiniz iteme:</p>\n\n<p><strong>Sağ tıklayın → Item kararsın</strong></p>\n\n<p>Ardından alt bölümden hangi işlemin uygulanacağını seçin:</p>\n\n<h3>💰 SELL</h3>\n<p>Itemi sat ve coin kazan.</p>\n\n<h3>🏦 STORAGE</h3>\n<p>Itemi bankaya gönder.</p>\n\n<h3>🗑️ TRASH</h3>\n<p>Itemi tamamen sil.</p>\n\n<p>Kararttığınız itemler kırdırma sonucunda geldiğinde seçtiğiniz işlem otomatik olarak uygulanır.</p>\n\n<hr>\n\n\n<h1>⚡ SİSTEMİN AVANTAJLARI</h1>\n\n<p>SexyKO Chaotic Generator sistemi sayesinde:</p>\n\n<ul><li>itemleri tek tek kırdırabilirsiniz,</li>\n<li>toplu şekilde kırdırabilirsiniz,</li>\n<li>gereksiz itemleri otomatik satabilirsiniz,</li>\n<li>değerli itemleri bankaya gönderebilirsiniz,</li>\n<li>istemediğiniz itemleri çöpe atabilirsiniz,</li>\n<li>inventory yönetimini çok daha kolay hale getirebilirsiniz.</li></ul>\n\n<hr>\n\n<h1>📌 KISACASI</h1>\n\n<p><strong>Exchange One</strong> → 1 adet kırdır  <br>\n<strong>Exchange All</strong> → Boş inventory slotu kadar toplu kırdır</p>  \n\n<p>İstemediğin iteme:</p>\n\n<p><strong>Sağ tıkla → Karart</strong></p>\n\n<p>Ardından:</p>\n\n<p><strong>💰 Sell</strong> → Sat  <br>\n<strong>🏦 Storage</strong> → Bankaya gönder  <br>\n<strong>🗑️ Trash</strong> → Çöpe at</p>\n\n<hr>\n\n<h1>🔥 SEXYKO CHAOTIC GENERATOR SİSTEMİ</h1>\n\n<p><strong>Kırdır • Filtrele • Sat • Bankaya gönder • Gereksizi çöpe at</strong></p>\n\n<h3>♻️ DAHA HIZLI, DAHA TEMİZ, DAHA KONTROLLÜ ITEM YÖNETİMİ!</h3>",
+    "renderFailed": false,
+    "editedAt": "2026-09-14T13:51:48+00:00",
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 0
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/ce1cgdrw.png",
+   "durum": 200,
+   "boyut": "848x681",
+   "dosya": "resim/01_ced993b3.png",
+   "bayt": 772534
+  }
+ ]
+}

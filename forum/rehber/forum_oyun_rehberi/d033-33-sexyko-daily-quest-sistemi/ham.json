@@ -1,0 +1,100 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "33",
+  "attributes": {
+   "title": "📅 SEXYKO DAILY QUEST SİSTEMİ",
+   "slug": "33--sexyko-daily-quest-sİstemİ",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-08-31T23:34:07+00:00",
+   "lastPostedAt": "2026-08-31T23:34:07+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "64",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-08-31T23:34:07+00:00",
+    "contentType": "comment",
+    "contentHtml": "<p><img src=\"https://i.hizliresim.com/a329ssdm.png\" title=\"\" alt=\"Çalışma yüzeyi 1 kopya 3.png\"></p>\n\n\n\n\n<h1>📅 SEXYKO DAILY QUEST SİSTEMİ</h1>\n\n<p>SexyKO'da bulunan <strong>Daily Quest Sistemi</strong> sayesinde günlük görevlerinizi tek bir pencere üzerinden takip edebilir, görevleri aktif edip süre dolmadan tamamlayarak ödüllerinizi otomatik şekilde alabilirsiniz.</p>\n\n<hr>\n\n<h2>📍 DAILY QUEST PENCERESİNE NASIL ULAŞILIR?</h2>\n\n<p>Oyun ekranının <strong>sol alt kısmında bulunan işaretli bölüme</strong> tıkladığınızda Daily Quest penceresi açılır.</p>\n\n<p><img src=\"https://i.hizliresim.com/0wojvwfh.png\" title=\"\" alt=\"SexyKO Daily Quest Giriş\"></p>\n\n<p>Bu pencere üzerinden mevcut günlük görevleri görebilir, hangi görevlerin aktif olduğunu inceleyebilirsiniz.</p>\n\n<hr>\n\n<h2>📋 GÖREV DETAYLARINI GÖRÜNTÜLEME</h2>\n\n<p>Görev listesindeki <strong>Detail</strong> seçeneğine tıkladığınızda görev penceresi açılır.</p>\n\n<p><img src=\"https://i.hizliresim.com/5ajykozw.png\" title=\"\" alt=\"SexyKO Daily Quest Detay\"></p>\n\n<p>Bu bölümde görevin:</p>\n\n<ul><li>ne istediğini,</li>\n<li>süresini,</li>\n<li>ilerleme durumunu,</li>\n<li>ödülünü</li></ul>\n\n<p>görebilirsiniz.</p>\n\n<hr>\n\n<h2>✅ GÖREV NASIL AKTİF EDİLİR?</h2>\n\n<p>Görevi başlatmak için:</p>\n\n<p><strong>1️⃣</strong> Daily Quest penceresini açın.  <br>\n<strong>2️⃣</strong> İlgili görevin <strong>Detail</strong> bölümüne girin.  <br>\n<strong>3️⃣</strong> <strong>Accept</strong> butonuna tıklayın.  <br>\n<strong>4️⃣</strong> Görev süresi başlar.</p>\n\n<p>Bu noktadan sonra görevi belirtilen süre içerisinde tamamlamanız gerekir.</p>\n\n<hr>\n\n<h2>⏳ SÜREYE DİKKAT</h2>\n\n<p>Daily Quest görevleri süreli çalışır.</p>\n\n<p><strong>Accept</strong> butonuna bastığınız anda görev süresi başlar.</p>\n\n<p>Görevi süre dolmadan tamamlamanız gerekir.</p>\n\n<p>Süre içerisinde gerekli şartları tamamladığınızda sistem ilerlemenizi otomatik olarak takip eder.</p>\n\n<hr>\n\n<h2>🎁 ÖDÜL NASIL ALINIR?</h2>\n\n<p>Görevi başarıyla tamamladığınızda ödülünüzü ayrıca NPC'den almaya gitmenize gerek yoktur.</p>\n\n<p><strong>Görev tamamlandığında ödülünüz otomatik olarak hesabınıza / karakterinize tanımlanır.</strong></p>\n\n<p>Bu sayede görev süreci tamamen oyun içinden ve hızlı şekilde tamamlanır.</p>\n\n<hr>\n\n<h2>✅ KISACASI</h2>\n\n<p><strong>Sol alttaki Daily Quest ikonuna tıkla → Görevini seç → Detail'e gir → Accept'e bas → Süre dolmadan tamamla → Ödülünü otomatik al</strong></p>\n\n<h1>🔥 SEXYKO DAILY QUEST SİSTEMİ</h1>\n\n<p><strong>Görevini seç • Süreni başlat • Tamamla • Ödülünü al!</strong></p>",
+    "renderFailed": false,
+    "editedAt": "2026-09-03T18:24:48+00:00",
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 1
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/a329ssdm.png",
+   "durum": 200,
+   "boyut": "1574x248",
+   "dosya": "resim/01_e47dccee.png",
+   "bayt": 579214
+  },
+  {
+   "url": "https://i.hizliresim.com/0wojvwfh.png",
+   "durum": 200,
+   "boyut": "1527x1079",
+   "dosya": "resim/02_44e678cb.png",
+   "bayt": 2561984
+  },
+  {
+   "url": "https://i.hizliresim.com/5ajykozw.png",
+   "durum": 200,
+   "boyut": "940x765",
+   "dosya": "resim/03_e30a7edf.png",
+   "bayt": 531567
+  }
+ ]
+}

@@ -1,0 +1,156 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "12",
+  "attributes": {
+   "title": "⚙️ SEXYKO F10 OYUN AYARLARI",
+   "slug": "12-️-sexyko-f10-oyun-ayarlari",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-08-31T12:06:37+00:00",
+   "lastPostedAt": "2026-08-31T12:06:37+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "23",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-08-31T12:06:37+00:00",
+    "contentType": "comment",
+    "contentHtml": "<p><img src=\"https://i.hizliresim.com/wgfqtijv.png\" title=\"\" alt=\"Çalışma yüzeyi 1 kopya 13.png\"></p>\n\n\n\n\n<div style=\"text-align:center\">\n\n<p><span style=\"font-size:10px\"><b>⚙️ SEXYKO F10 OYUN AYARLARI</b></span></p>\n\n<p><span style=\"font-size:12px\"><b>🎮 OYUN DENEYİMİNİZİ KENDİNİZE GÖRE ÖZELLEŞTİRİN!</b></span></p>\n\n<p>Yeni SexyKO Client ile birlikte oyun içerisindeki birçok detayı artık <b>F10 Oyun Ayarları</b> üzerinden tamamen kendi tercihinize göre düzenleyebilirsiniz.</p>\n\n<p>Kamera hassasiyetinden FPS limitine, grafiklerden skill efektlerine, loot filtrelerinden bildirimlere ve yazı boyutlarına kadar birçok seçenek tek bir merkezde toplandı.</p>\n\n<p><b>Oyundayken F10 tuşuna basarak Oyun Ayarları menüsüne ulaşabilirsiniz.</b></p>\n\n</div>\n\n<p><strong><span style=\"font-size:12px\"><b>🎮 01 — OYUN AYARLARI</b></span></strong></p>\n\n\n<div style=\"text-align:center\">\n<p><img src=\"https://i.hizliresim.com/kxvb985n.png\" title=\"\" alt=\"\"></p>\n</div>\n\n<p>Oyunun temel kullanımını, kamera davranışlarını ve çevresel görünümü bu bölümden kişiselleştirebilirsiniz.</p>\n\n<p><b>📷 KAMERA</b></p>\n\n<p>• <b>Görüş Açısı (FOV):</b> Kameranın görüş alanını belirler.<br>\n• <b>Döndürme Hassasiyeti:</b> Kamerayı sağa ve sola çevirirken oluşan hassasiyeti ayarlar.<br>\n• <b>Yakınlaştırma Hassasiyeti:</b> Kamera yakınlaştırma ve uzaklaştırma hızını belirler.<br>\n• <b>Fare Tekerleği Hassasiyeti:</b> Mouse tekerleği ile yapılan zoom hareketinin hassasiyetini ayarlar.</p>\n\n<p><b>🖥️ ARAYÜZ</b></p>\n\n<p>• <b>Görev Takip Penceresi:</b> Aktif görevlerinizi oyun ekranında takip etmenizi sağlar.</p>\n\n<p><b>🌦️ HAVA DURUMU &amp; GÜNÜN SAATİ</b></p>\n\n<p>• Hava durumu efektlerini aktif veya pasif hale getirebilirsiniz.<br>\n• <b>Yoğunluk (%)</b> seçeneğiyle hava efektlerinin yoğunluğunu ayarlayabilirsiniz.<br>\n• <b>Saat / Dakika</b> seçenekleriyle oyun içerisindeki zaman görünümünü düzenleyebilirsiniz.</p>\n\n<p>[HR]</p>\n\n<p><span style=\"font-size:12px\"><b>🔊 02 — SES AYARLARI</b></span></p>\n\n<div style=\"text-align:center\">\n<p><img src=\"https://i.hizliresim.com/f6s9sswu.png\" title=\"\" alt=\"\"></p>\n</div>\n\n<p>Oyundaki farklı ses kaynaklarını birbirinden bağımsız olarak kontrol edebilirsiniz.</p>\n\n<p><b>🎵 ARKAPLAN MÜZİĞİ</b></p>\n\n<p>Oyun müziğini açıp kapatabilir ve ses seviyesini ayrı olarak ayarlayabilirsiniz.</p>\n\n<p><b>🌍 ÇEVRE SESLERİ</b></p>\n\n<p>Harita ve çevrede bulunan seslerin seviyesini kontrol edebilirsiniz.</p>\n\n<p><b>👤 KARAKTER &amp; NPC SESLERİ</b></p>\n\n<p>Karakterlerden ve NPC'lerden gelen sesleri ayrı şekilde düzenleyebilirsiniz.</p>\n\n<p><b>☠️ ÖLDÜRME ANONSLARI</b></p>\n\n<p>Öldürme anonslarının sesini aktif veya pasif hale getirebilirsiniz.</p>\n\n<p><b>🔇 TÜM SESLER</b></p>\n\n<p>İsterseniz oyun içerisindeki sesleri tek seferde kapatabilirsiniz.</p>\n\n<p>[HR]</p>\n\n<p><span style=\"font-size:8px\"><b>🖥️ 03 — EKRAN AYARLARI</b></span></p>\n\n<div style=\"text-align:center\">\n<p><img src=\"https://i.hizliresim.com/s28ulm5z.png\" title=\"\" alt=\"\"></p>\n</div>\n\n<p>Oyunun görüntüleme şeklini, çözünürlüğünü, FPS değerlerini ve arayüz ölçeğini bu bölümden kontrol edebilirsiniz.</p>\n\n<p><b>🪟 PENCERE &amp; VSYNC</b></p>\n\n<p>• Pencere görüntüleme seçeneklerini değiştirebilirsiniz.<br>\n• <b>VSync</b> özelliğini aktif veya pasif hale getirebilirsiniz.</p>\n\n<p><b>📐 ÇÖZÜNÜRLÜK</b></p>\n\n<p>Oyunu monitörünüze uygun çözünürlükte çalıştırabilirsiniz.</p>\n\n<p><b>🎯 FPS AYARLARI</b></p>\n\n<p>• <b>FPS Sınırı:</b> Maksimum FPS değerini belirler.<br>\n• <b>Arkaplan FPS Limiti:</b> Oyun arka plandayken kullanılacak FPS değerini belirler.<br>\n• <b>Düşük Güç Modu:</b> Gereksiz sistem kaynak kullanımını azaltmaya yardımcı olur.</p>\n\n<p><b>🔍 ARAYÜZ ÖLÇEĞİ</b></p>\n\n<p>Arayüz boyutunu farklı ölçeklerde kullanabilirsiniz.</p>\n\n<p><b>❤️ DURUM ÇUBUĞU</b></p>\n\n<p>HP/MP durum çubuğunun görünürlüğünü ve yerleşimini düzenleyebilirsiniz.</p>\n\n<p><span style=\"font-size:12px\"><b>🎨 04 — GRAFİK AYARLARI</b></span></p>\n\n<div style=\"text-align:center\">\n<p><img src=\"https://i.hizliresim.com/ma3etkmc.png\" title=\"\" alt=\"\"></p>\n</div>\n\n<p>Grafik ayarları sayesinde görüntü kalitesi ile performans arasındaki dengeyi kendi sisteminize göre oluşturabilirsiniz.</p>\n\n<p><b>🌑 KALİTE</b></p>\n\n<p>• <b>Gölge:</b> Gölge kalitesini belirler.<br>\n• <b>Arazi Kalitesi:</b> Harita ve arazi detaylarının kalitesini ayarlar.<br>\n• <b>Anizotropik Filtreleme:</b> Uzak yüzeylerde görüntü netliğini artırır.</p>\n\n<p><b>✨ SON İŞLEM</b></p>\n\n<p>• HDR<br>\n• Bloom<br>\n• Keskinlik</p>\n\n<p>gibi görüntü efektlerini kontrol edebilirsiniz.</p>\n\n<p><b>🧩 KENAR YUMUŞATMA</b></p>\n\n<p>• MSAA<br>\n• SMAA</p>\n\n<p>seçenekleriyle görüntüdeki kenarların daha düzgün görünmesini sağlayabilirsiniz.</p>\n\n<p><b>🚀 AMD FSR 1</b></p>\n\n<p>Destekleyen sistemlerde performans odaklı görüntü ölçekleme kullanılabilir.</p>\n\n<p><b>Mod, Keskinlik ve Dahili Ölçek</b> seçenekleriyle görüntü kalitesi ve performans arasında istediğiniz dengeyi oluşturabilirsiniz.</p>\n\n<p>[HR]</p>\n\n<p><span style=\"font-size:12px\"><b>🌈 05 — GELİŞMİŞ GRAFİK AYARLARI</b></span></p>\n\n<div style=\"text-align:center\">\n<p><img src=\"https://i.hizliresim.com/ine2j1p7.png\" title=\"\" alt=\"\"></p>\n</div>\n\n<p>Oyunun genel renk atmosferini kendi zevkinize göre değiştirebileceğiniz bölüm.</p>\n\n<p><b>🎨 RENK DÜZENLEME</b></p>\n\n<p>• <b>Kontrast:</b> Açık ve koyu alanlar arasındaki farkı ayarlar.<br>\n• <b>Doygunluk:</b> Renklerin canlılığını belirler.<br>\n• <b>Sıcaklık:</b> Görüntüyü sıcak veya soğuk tonlara taşır.<br>\n• <b>Ton:</b> Genel renk tonlamasını değiştirir.</p>\n\n<p><b>🖌️ HAZIR RENK PROFİLLERİ</b></p>\n\n<p>• Bölge Varsayılanı<br>\n• Varsayılan<br>\n• Canlı<br>\n• Sinematik<br>\n• Soğuk<br>\n• Ay Işığı<br>\n• Kor<br>\n• Beyazlatılmış<br>\n• Yeşil<br>\n• Özel</p>\n\n<p>Tek tek ayar yapmak istemeyen oyuncular hazır profillerden birini seçerek görüntüyü hızlıca değiştirebilir.</p>\n\n<p>[HR]</p>\n\n<p><span style=\"font-size:12px\"><b>💥 06 — EFEKT AYARLARI</b></span></p>\n\n<div style=\"text-align:center\">\n<p><img src=\"https://i.hizliresim.com/4vh5k3o9.png\" title=\"\" alt=\"\"></p>\n</div>\n\n<p>Özellikle kalabalık savaşlarda ve farm alanlarında ekrandaki görsel karmaşayı azaltmak için detaylı efekt seçenekleri sunuluyor.</p>\n\n<p><b>✨ EFEKT KONTROLLERİ</b></p>\n\n<p>• Silah Efektleri<br>\n• Rebirth Item Parlaması<br>\n• Harita Efektleri<br>\n• Rank Aura Efektleri<br>\n• Kamera Sarsıntısı<br>\n• Ekranda Beliren Hasar Metinleri<br>\n• Coin &amp; Item Metin ve Sembolleri<br>\n• Diğer Karakterlerin Skill Efektleri</p>\n\n<p><b>👤 OYUNCU İSİMLERİ</b></p>\n\n<p>Oyuncu isimlerinin görünürlüğünü kontrol edebilirsiniz.</p>\n\n<p><b>⚔️ SKILL EFEKTLERİ</b></p>\n\n<p>• Tüm Skill Efektlerini Kapat<br>\n• Alan Skill Efektlerini Kapat<br>\n• Heal Skill Efektlerini Kapat</p>\n\n<p><b>🎚️ EFEKT OPAKLILIĞI</b></p>\n\n<p>Efektlerin ekrandaki görünürlük seviyesini ayarlayabilirsiniz.</p>\n\n<p><b>🎯 ALAN SKILL İŞARETÇİSİ</b></p>\n\n<p>Alan skillerinde kullanılacak işaretçi görünümünü değiştirebilirsiniz.</p>\n\n<p><b>🔵 HEDEF SEMBOLÜ</b></p>\n\n<p>Hedef göstergesi için farklı semboller arasından seçim yapabilirsiniz.</p>\n\n<p><b>💡 Özellikle CZ ve kalabalık savaşlarda gereksiz efektleri kapatarak daha temiz ve anlaşılır bir görüntü elde edebilirsiniz.</b></p>\n\n<p>[HR]</p>\n\n<p><span style=\"font-size:8px\"><b>🎮 07 — KONTROL AYARLARI</b></span></p>\n\n<div style=\"text-align:center\">\n<p><img src=\"https://i.hizliresim.com/r7jfhr6h.png\" title=\"\" alt=\"\"></p>\n</div>\n\n<p>Klavye, mouse ve gamepad kullanımını kendi oyun tarzınıza göre düzenleyebilirsiniz.</p>\n\n<p><b>🎮 GAMEPAD</b></p>\n\n<p>• Gamepad Etkin<br>\n• Ölü Bölge<br>\n• Kamera Hassasiyeti<br>\n• Kamera Y Ekseni Ters</p>\n\n<p><b>⌨️ HAREKET &amp; KONTROL TUŞLARI</b></p>\n\n<p>Oyundaki hareket ve çeşitli işlemler için kullanılan tuşları kişiselleştirebilirsiniz.</p>\n\n<p>• İleri Yürü<br>\n• Geri Yürü<br>\n• Sola Dön<br>\n• Sağa Dön<br>\n• Zıpla / Tekme<br>\n• Yürü / Koş<br>\n• Sürekli Hareket<br>\n• Sürekli Saldırı<br>\n• Otur / Kalk</p>\n\n<p><b>⚡ Tuş değişiklikleri anında kaydedilir.</b></p>\n\n<p>[HR]</p>\n\n<p><span style=\"font-size:12px\"><b>🎒 08 — LOOT AYARLARI</b></span></p>\n\n<div style=\"text-align:center\">\n<p><img src=\"https://i.hizliresim.com/npd0ov5s.png\" title=\"\" alt=\"\"></p>\n</div>\n\n<p>Farm yapan oyuncular için en kullanışlı özelliklerden biri olan Loot sistemi sayesinde yerdeki eşyaları farklı kriterlere göre filtreleyebilirsiniz.</p>\n\n<p><b>💎 ITEM DEĞERİ</b></p>\n\n<p>• Magic<br>\n• Rare<br>\n• Craft<br>\n• Unique<br>\n• Upgrade</p>\n\n<p>kategorilerine göre filtreleme yapılabilir.</p>\n\n<p><b>⬆️ ITEM UPGRADE</b></p>\n\n<p><b>Upgrade +? &gt;=</b> seçeneği ile belirlediğiniz upgrade seviyesinden itibaren filtreleme yapabilirsiniz.</p>\n\n<p><b>🛡️ ITEM TÜRÜ</b></p>\n\n<p>• Armor<br>\n• Weapon<br>\n• Accessory<br>\n• Scroll</p>\n\n<p><b>🚫 BLOKLANAN EŞYALAR</b></p>\n\n<p>İstemediğiniz itemleri filtreye ekleyebilirsiniz.</p>\n\n<p><b>📌 Drop penceresindeki item ikonuna sağ tıklayarak eşya ekleyebilirsiniz.</b></p>\n\n<p><b>🪙 ITEM COINS DEĞERİ</b></p>\n\n<p>Itemlerin coin değerine göre filtreleme yapabilirsiniz.</p>\n\n<p><b>🎯 AMAÇ</b></p>\n\n<p>Gereksiz dropları azaltmak, değerli eşyaları daha kolay ayırt etmek ve farm sırasında loot yönetimini kolaylaştırmak.</p>\n\n<p>[HR]</p>\n\n<p><span style=\"font-size:12px\"><b>🔔 09 — BİLDİRİM AYARLARI</b></span></p>\n\n<div style=\"text-align:center\">\n<p><img src=\"https://i.hizliresim.com/g0di2cq9.png\" title=\"\" alt=\"\"></p>\n</div>\n\n<p>Oyun içerisinde hangi bildirimleri almak istediğinizi bu bölümden belirleyebilirsiniz.</p>\n\n<p><b>💡 SİSTEM ÖNERİLERİ</b></p>\n\n<p>Sistem tarafından sunulan öneri ve uyarıları kontrol eder.</p>\n\n<p><b>🛒 SLAVE PAZAR EŞYA SATIŞ BİLDİRİMİ</b></p>\n\n<p>Slave pazarınızda bulunan eşyaların satışı hakkında bildirim almanızı sağlar.</p>\n\n<p><b>⚠️ KRİTİK KAYNAK BİLDİRİMİ</b></p>\n\n<p>Arrow, SC, pot gibi kritik kaynaklar azaldığında sizi uyarır.</p>\n\n<p><b>🔧 REPAIR BİLDİRİMİ</b></p>\n\n<p>Itemlerinizin dayanıklılığı azaldığında tamir etmeniz gerektiğini bildirir.</p>\n\n<p><b>🔗 SOHBET LİNKİNDE ÖNCE İSTE</b></p>\n\n<p>Sohbet içerisindeki bağlantılara tıklarken ek bir onay mekanizması sağlar.</p>\n\n<p><b>📖 ARAYÜZ REHBERLERİ</b></p>\n\n<p>Upgrade, drop, shozin gibi çeşitli arayüzlerde rehber bilgilerinin gösterilmesini sağlar.</p>\n\n<p><b>☠️ DEATH NOTICE</b></p>\n\n<p>Ölüm bildirimleriyle ilgili gösterim seçeneklerini kontrol eder.</p>\n\n<p>[HR]</p>\n\n<p><span style=\"font-size:12px\"><b>🔤 10 — FONT / YAZI AYARLARI</b></span></p>\n\n<div style=\"text-align:center\">\n<p><img src=\"https://i.hizliresim.com/iweevhj1.png\" title=\"\" alt=\"\"></p>\n</div>\n\n<p>Oyun içerisindeki yazıların boyutlarını kendi ekranınıza ve kullanımınıza göre ayarlayabilirsiniz.</p>\n\n<p><b>💬 PENCERE YAZILARI</b></p>\n\n<p>• Chat Yazı Boyutu<br>\n• Sistem Yazı Boyutu</p>\n\n<p><b>👤 NICK YAZILARI</b></p>\n\n<p>• Tümü<br>\n• İsim<br>\n• Klan Adı<br>\n• Bilgi Satırı<br>\n• Tag Name<br>\n• Konuşma Balonu</p>\n\n<p><b>🎒 EŞYA YAZILARI</b></p>\n\n<p><b>Eşya Adet Yazı Boyutu</b> ile itemler üzerindeki adet ve ilgili yazıların boyutunu değiştirebilirsiniz.</p>\n\n<p>Özellikle yüksek çözünürlüklü monitörlerde küçük yazıları okumakta zorlanan oyuncular için oldukça kullanışlı bir özellik.</p>\n\n<div style=\"text-align:center\">\n\n<p><span style=\"font-size:12px\"><b>⚙️ TEK MENÜDE TAM KONTROL!</b></span></p>\n\n<p><span style=\"font-size:12px\"><b>🎮 Oyun</b> • <b>🔊 Ses</b> • <b>🖥️ Ekran</b> • <b>🎨 Grafik</b> • <b>🌈 Gelişmiş Grafik</b></span></p>\n\n<p><span style=\"font-size:12px\"><b>💥 Efekt</b> • <b>🎮 Kontrol</b> • <b>🎒 Loot</b> • <b>🔔 Bildirim</b> • <b>🔤 Font</b></span></p>\n\n<p>SexyKO'nun yeni F10 sistemiyle oyun deneyiminizi artık kendi tercihinize göre şekillendirebilirsiniz.</p>\n\n<p><b>İster maksimum FPS için performans odaklı oynayın,<br>\nister tüm grafik ve efektleri açarak görsel kaliteyi sonuna kadar kullanın.</b></p>\n\n<p><span style=\"font-size:12px\"><b>🔥 SEXYKO</b></span></p>\n\n<p><span style=\"font-size:12px\"><b>OYUNU SADECE OYNAMA, KENDİNE GÖRE AYARLA!</b></span></p>\n\n</div>\n",
+    "renderFailed": false,
+    "editedAt": "2026-09-03T18:31:45+00:00",
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 0
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/wgfqtijv.png",
+   "durum": 200,
+   "boyut": "1574x248",
+   "dosya": "resim/01_f75107f2.png",
+   "bayt": 634555
+  },
+  {
+   "url": "https://i.hizliresim.com/kxvb985n.png",
+   "durum": 200,
+   "boyut": "622x602",
+   "dosya": "resim/02_54fe3809.png",
+   "bayt": 80462
+  },
+  {
+   "url": "https://i.hizliresim.com/f6s9sswu.png",
+   "durum": 200,
+   "boyut": "620x605",
+   "dosya": "resim/03_13cc7967.png",
+   "bayt": 62522
+  },
+  {
+   "url": "https://i.hizliresim.com/s28ulm5z.png",
+   "durum": 200,
+   "boyut": "618x606",
+   "dosya": "resim/04_e1cc15cc.png",
+   "bayt": 72425
+  },
+  {
+   "url": "https://i.hizliresim.com/ma3etkmc.png",
+   "durum": 200,
+   "boyut": "620x605",
+   "dosya": "resim/05_67450f34.png",
+   "bayt": 70373
+  },
+  {
+   "url": "https://i.hizliresim.com/ine2j1p7.png",
+   "durum": 200,
+   "boyut": "620x611",
+   "dosya": "resim/06_4e5690fe.png",
+   "bayt": 70029
+  },
+  {
+   "url": "https://i.hizliresim.com/4vh5k3o9.png",
+   "durum": 200,
+   "boyut": "619x616",
+   "dosya": "resim/07_733748e2.png",
+   "bayt": 111782
+  },
+  {
+   "url": "https://i.hizliresim.com/r7jfhr6h.png",
+   "durum": 200,
+   "boyut": "619x617",
+   "dosya": "resim/08_b34cd37a.png",
+   "bayt": 96725
+  },
+  {
+   "url": "https://i.hizliresim.com/npd0ov5s.png",
+   "durum": 200,
+   "boyut": "619x618",
+   "dosya": "resim/09_4cc0bfb1.png",
+   "bayt": 84466
+  },
+  {
+   "url": "https://i.hizliresim.com/g0di2cq9.png",
+   "durum": 200,
+   "boyut": "622x619",
+   "dosya": "resim/10_b1e7ace0.png",
+   "bayt": 92357
+  },
+  {
+   "url": "https://i.hizliresim.com/iweevhj1.png",
+   "durum": 200,
+   "boyut": "621x612",
+   "dosya": "resim/11_9771cfbb.png",
+   "bayt": 76963
+  }
+ ]
+}

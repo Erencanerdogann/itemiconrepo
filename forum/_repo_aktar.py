@@ -19,7 +19,9 @@ GIZLI = re.compile(r"gh[pousr]_[A-Za-z0-9]{20,}|xf_session|xf_csrf|_xfToken|bear
 kopya = []
 for d, alt, dosyalar in os.walk(KOK):
     r = os.path.relpath(d, KOK).replace(os.sep, "/")
-    alt[:] = [a for a in alt if not (r == "." and a in DISLA_KLASOR) and a != "__pycache__"]
+    # 8 Eki PATRON "forum oyun rehberi arsivini repoya mutlaka al": rehber/ icinden SADECE forum_oyun_rehberi/ (ham site kopyasi 649 MB yine disarida)
+    alt[:] = [a for a in alt if not (r == "." and a in DISLA_KLASOR and a != "rehber") and not (r == "rehber" and a != "forum_oyun_rehberi") and a != "__pycache__"]
+    if r == "rehber": dosyalar = []                                   # rehber/ kok dosyalari (rehber beyni, cekilmis sayfalar) repoya gitmez
     for f in dosyalar:
         rel = f if r == "." else f"{r}/{f}"
         if rel in DISLA_DOSYA or f.endswith(".pyc"): continue
@@ -52,7 +54,8 @@ import subprocess                                                     # kullanil
 yok_sayilan = subprocess.run(["git", "check-ignore", "--stdin"], input=chr(10).join(sorted(kullanilan)), capture_output=True, text=True,
                              cwd=RR.REPO_KLASOR).stdout.split()
 eksik += [f"git yok sayiyor: {x}" for x in yok_sayilan]
-sizinti = [x for x in DISLA_DOSYA | DISLA_KLASOR if os.path.exists(os.path.join(HEDEF, *x.split("/")))]   # dislanan hedefe sizdiysa HATA
+sizinti = [x for x in DISLA_DOSYA | DISLA_KLASOR if os.path.exists(os.path.join(HEDEF, *x.split("/")))   # dislanan hedefe sizdiysa HATA
+           and not (x == "rehber" and set(os.listdir(os.path.join(HEDEF, "rehber"))) <= {"forum_oyun_rehberi"})]   # 8 Eki: rehber/'den yalniz forum arsivi serbest
 eksik += [f"dislanan hedefte: {x}" for x in sizinti]
 gizli = []
 for kay, hed, rel in kopya:

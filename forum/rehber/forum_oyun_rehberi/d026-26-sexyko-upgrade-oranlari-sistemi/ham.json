@@ -1,0 +1,100 @@
+{
+ "discussion": {
+  "type": "discussions",
+  "id": "26",
+  "attributes": {
+   "title": "🔨 SEXYKO UPGRADE ORANLARI SİSTEMİ",
+   "slug": "26--sexyko-upgrade-oranlari-sİstemİ",
+   "commentCount": 1,
+   "participantCount": 1,
+   "createdAt": "2026-08-31T21:25:44+00:00",
+   "lastPostedAt": "2026-08-31T21:25:44+00:00",
+   "lastPostNumber": 1,
+   "canReply": false,
+   "canRename": false,
+   "canDelete": false,
+   "canHide": false,
+   "isApproved": true,
+   "canTag": false,
+   "subscription": null,
+   "isSticky": false,
+   "canSticky": false,
+   "isLocked": true,
+   "canLock": false
+  },
+  "relationships": {
+   "tags": {
+    "data": [
+     {
+      "type": "tags",
+      "id": "20"
+     },
+     {
+      "type": "tags",
+      "id": "23"
+     }
+    ]
+   },
+   "user": {
+    "data": {
+     "type": "users",
+     "id": "5"
+    }
+   }
+  }
+ },
+ "posts": [
+  {
+   "type": "posts",
+   "id": "51",
+   "attributes": {
+    "number": 1,
+    "createdAt": "2026-08-31T21:25:44+00:00",
+    "contentType": "comment",
+    "contentHtml": "<p><img src=\"https://i.hizliresim.com/7lk2qwzh.png\" title=\"\" alt=\"Çalışma yüzeyi 1 kopya 9.png\"></p>\n\n\n\n\n<p>SexyKO'da item upgrade işlemleri artık çok daha şeffaf ve anlaşılır hale getirildi.</p>\n\n<p>Oyuncular, upgrade oranlarını sadece işlem anında değil, aynı zamanda <strong>Rehber sistemi</strong> üzerinden de görüntüleyebilir.</p>\n\n<p>Böylece bir itemi anvilde basmadan önce başarı oranını kontrol edebilir, işlem sırasında ise gerekli coin miktarıyla birlikte oranları doğrudan görebilirsiniz.</p>\n\n<hr>\n\n<h2>📘 REHBER ÜZERİNDEN UPGRADE ORANLARINI GÖRME</h2>\n\n<p>Aşağıdaki görselde görüldüğü gibi upgrade oranlarına <strong>oyun içindeki Rehber sistemi</strong> üzerinden ulaşabilirsiniz.</p>\n\n<p><img src=\"https://i.hizliresim.com/w1lenkra.png\" title=\"\" alt=\"SexyKO Rehber Upgrade Oranları\"></p>\n\n<p>Bu bölüm sayesinde oyuncular:</p>\n\n<ul><li>upgrade oranlarını önceden inceleyebilir,</li>\n<li>hangi itemin hangi aşamada ne kadar şansa sahip olduğunu görebilir,</li>\n<li>basım öncesi daha bilinçli karar verebilir.</li></ul>\n\n<p>Özellikle upgrade yapmadan önce oranları kontrol etmek isteyen oyuncular için bu sistem büyük kolaylık sağlar.</p>\n\n<p>Kısacası, bilgi almak için ekstra bir yere gitmenize gerek kalmadan oranlara doğrudan oyun içinden ulaşabilirsiniz.</p>\n\n<hr>\n\n<h2>⚒️ ANVIL ÜZERİNDE CANLI ORAN GÖRÜNTÜLEME</h2>\n\n<p>Upgrade oranları yalnızca rehberde değil, <strong>Anvil ekranında da doğrudan görüntülenebilir.</strong></p>\n\n<p>Aşağıdaki görselde görüldüğü gibi iteminizi Anvil'e koyduğunuz anda:</p>\n\n<ul><li><strong>başarı oranını</strong></li>\n<li><strong>gerekli coin miktarını</strong></li>\n<li>ve işlemle ilgili detayları</li></ul>\n\n<p>anlık olarak görebilirsiniz.</p>\n\n<p><img src=\"https://i.hizliresim.com/vdf8nlas.png\" title=\"\" alt=\"SexyKO Anvil Upgrade Oranları\"></p>\n\n<p>Bu sayede upgrade basmadan önce tüm önemli bilgileri tek ekranda görmüş olursunuz.</p>\n\n<hr>\n\n<h2>💰 ANVIL'DE NELERİ GÖREBİLİRSİNİZ?</h2>\n\n<p>Anvil ekranında itemi yerleştirdiğinizde oyuncuya önemli bilgiler gösterilir.</p>\n\n<p>Bunlar arasında:</p>\n\n<ul><li><strong>Upgrade başarı oranı</strong></li>\n<li><strong>İşlem için gereken coin miktarı</strong></li>\n<li><strong>Basım öncesi genel kontrol bilgileri</strong></li></ul>\n\n<p>yer alır.</p>\n\n<p>Bu sistem, oyuncunun neye basacağını ve ne kadar maliyetle işlem yapacağını önceden görmesini sağlar.</p>\n\n<hr>\n\n<h2>✅ BU SİSTEMİN AVANTAJI NEDİR?</h2>\n\n<p>Upgrade sistemi ne kadar açık olursa oyuncu için o kadar güven verir.</p>\n\n<p>Bu sistem sayesinde:</p>\n\n<ul><li>oranları önceden görebilirsiniz,</li>\n<li>anvilde sürpriz yaşamazsınız,</li>\n<li>coin maliyetini işlem öncesi öğrenirsiniz,</li>\n<li>upgrade sürecini daha kontrollü yönetebilirsiniz.</li></ul>\n\n<p>Özellikle seri upgrade yapan oyuncular için bu sistem büyük kolaylık sağlar.</p>\n\n<hr>\n\n<h2>🎯 KISACASI</h2>\n\n<p>SexyKO'da upgrade oranlarını öğrenmek için iki farklı kolay yöntem bulunmaktadır:</p>\n\n<p><strong>1️⃣ Rehber üzerinden</strong>  <br>\nUpgrade oranlarını önceden inceleyebilirsiniz.</p>\n\n<p><strong>2️⃣ Anvil üzerinden</strong>  <br>\nItemi koyduğunuz anda başarı oranı ve coin miktarını anlık olarak görebilirsiniz.</p>\n\n<p>Böylece upgrade süreci daha şeffaf, daha kontrollü ve daha kullanıcı dostu hale gelir.</p>\n\n<hr>\n\n<h1>🔥 SEXYKO UPGRADE SİSTEMİ</h1>\n\n<p><strong>Oranını gör • Coinini öğren • Sonra bas!</strong></p>\n\n<p>Upgrade artık daha açık, daha anlaşılır ve daha güvenli.</p>",
+    "renderFailed": false,
+    "editedAt": "2026-09-03T18:30:01+00:00",
+    "canEdit": false,
+    "canDelete": false,
+    "canHide": false,
+    "mentionedByCount": 0,
+    "canFlag": false,
+    "isApproved": true,
+    "canApprove": false,
+    "canLike": false,
+    "likesCount": 0
+   },
+   "relationships": {
+    "user": {
+     "data": {
+      "type": "users",
+      "id": "5"
+     }
+    }
+   }
+  }
+ ],
+ "resim": [
+  {
+   "url": "https://i.hizliresim.com/7lk2qwzh.png",
+   "durum": 200,
+   "boyut": "1574x248",
+   "dosya": "resim/01_fd511b8a.png",
+   "bayt": 575889
+  },
+  {
+   "url": "https://i.hizliresim.com/w1lenkra.png",
+   "durum": 200,
+   "boyut": "1020x760",
+   "dosya": "resim/02_93af980a.png",
+   "bayt": 101958
+  },
+  {
+   "url": "https://i.hizliresim.com/vdf8nlas.png",
+   "durum": 200,
+   "boyut": "475x708",
+   "dosya": "resim/03_f4dc456e.png",
+   "bayt": 453893
+  }
+ ]
+}
