@@ -71,13 +71,13 @@ def main():
             kal["kucuk"] += k["kucuk"]; kal["renkli"] |= k["renkli"]; kal["ortali"] |= k["ortali"]
             uid = ((p.get("relationships", {}).get("user") or {}).get("data") or {}).get("id")
             mesajlar.append({"no": pa["number"], "yazar": pk.get(uid, "?"), "tarih": tarih(pa.get("createdAt")), "duzenleme": tarih(pa.get("editedAt")),
-                             "bbcode": bb, "uzunluk": len(bb), "butunluk": ok, "olcum": olc})
+                             "bbcode": bb, "uzunluk": len(bb), "butunluk": ok, "olcum": olc, "html": h})   # html: FORUM_KONU.html onizlemesi (_forum_sekme.py)
         uid = ((d.get("relationships", {}).get("user") or {}).get("data") or {}).get("id")
         srcs = [u for m in mesajlar for u in re.findall(r"\[IMG\](.*?)\[/IMG\]", m["bbcode"])]
         kr = (sum(1 for u in srcs if not resim_var(u)), len(srcs)) if srcs else None
         konular.append({"id": did, "baslik": a["title"], "slug": a.get("slug", ""), "url": f"https://forum.sexyko.com/d/{did}", "etiketler": et,
                         "acilis": tarih(a.get("createdAt")), "yazar": kisi.get(uid, "?"), "mesaj_sayisi": len(mesajlar), "mesajlar": mesajlar,
-                        "kalite": kal, "kirik_resim": list(kr) if kr else None})
+                        "kalite": kal, "kirik_resim": list(kr) if kr else None, "kirik_url": [u for u in srcs if not resim_var(u)]})
         dosya = f"d{did:03d}-{FA.guvenli(a.get('slug') or a['title'])[:60]}.txt"
         nl = chr(10)
         govde = (nl + nl).join((f"===== MESAJ #{m['no']} — {m['yazar']} — {m['tarih']} =====" + nl + nl if len(mesajlar) > 1 else "") + m["bbcode"] for m in mesajlar)
@@ -88,7 +88,8 @@ def main():
             "bilinmeyen_etiket": sorted(bilinmeyen), "bozuk": len(bozuk)}
     json.dump(VERI, open(os.path.join(OUT, "bbcode.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     sablon = open(os.path.join(KOK, "_forum_bbcode_sablon.html"), encoding="utf-8").read()
-    veri_js = json.dumps(VERI, ensure_ascii=False).replace("</", "<\\/")
+    SAYFA_V = dict(VERI, konular=[dict(k, mesajlar=[{x: y for x, y in m.items() if x != "html"} for m in k["mesajlar"]]) for k in konular])   # bu sayfada html gerekmez
+    veri_js = json.dumps(SAYFA_V, ensure_ascii=False).replace("</", "<\\/")
     assert sablon.count("/*VERI*/null") == 1
     open(SAYFA, "w", encoding="utf-8").write(sablon.replace("/*VERI*/null", veri_js))
     print(f"\nkonu {VERI['konu']} · mesaj {VERI['mesaj']} · butunluk bozuk {len(bozuk)} · bilinmeyen etiket {sorted(bilinmeyen) or 'yok'} · sayfa {os.path.getsize(SAYFA) // 1024} KB")

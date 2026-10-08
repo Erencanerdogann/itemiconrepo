@@ -319,7 +319,8 @@ print("flarum bbcode:", len(FLARUM), "dosya ·", ", ".join(f"{y.split('/')[-1]} 
 
 # --- sayfa
 sab = open(os.path.join(KOK, "_konu_sablon.html"), encoding="utf-8").read()
-gom = json.dumps(VERI, ensure_ascii=False).replace("</", "<\\/")
+import _forum_sekme; sab = _forum_sekme.ekle(sab, VERI)   # 8 Eki PATRON: forumdaki konular da ayni sekmelerle (once python _forum_bbcode.py)
+gom =json.dumps(VERI, ensure_ascii=False).replace("</", "<\\/")
 CIK = os.path.join(os.path.dirname(KOK), "HTML", "FORUM_KONU.html")
 open(CIK, "w", encoding="utf-8").write(sab.replace("/*__VERI__*/null", gom))
 print("baslik:", BASLIK, f"({len(BASLIK)} karakter)")
