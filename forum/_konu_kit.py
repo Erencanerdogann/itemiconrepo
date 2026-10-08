@@ -320,6 +320,7 @@ print("flarum bbcode:", len(FLARUM), "dosya ·", ", ".join(f"{y.split('/')[-1]} 
 # --- sayfa
 sab = open(os.path.join(KOK, "_konu_sablon.html"), encoding="utf-8").read()
 import _forum_sekme; sab = _forum_sekme.ekle(sab, VERI)   # 8 Eki PATRON: forumdaki konular da ayni sekmelerle (once python _forum_bbcode.py)
+import _konu_premium; sab = _konu_premium.uygula(sab)    # 8 Eki PATRON: alanlara gore sol menu + duzenleme ("premium bir sayfa olsun")
 gom =json.dumps(VERI, ensure_ascii=False).replace("</", "<\\/")
 CIK = os.path.join(os.path.dirname(KOK), "HTML", "FORUM_KONU.html")
 open(CIK, "w", encoding="utf-8").write(sab.replace("/*__VERI__*/null", gom))

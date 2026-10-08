@@ -2,7 +2,7 @@
 # FORUM KONU BLOK CEVIRICI (7 Eki — Hyper Beta Odulleri konusu icin; _skill_konu.py ile ayni gorunum, ayni blok turleri).
 # Blok listesi B -> BBCode / onizleme HTML / Markdown / duz metin. Renkler + satir() (kalin + [[url|metin]] link) + PX + font buyutme: _yeni_konu.py.
 # Blok turleri: afis(id) · banner(id) · baslik(ust, alt) · icindekiler · ayrac · h(emoji, metin) · p(metin) · liste([metin]) · img(id, aciklama) ·
-#               not(metin) · link(etiket, url) · son(metin) · satirlar([metin]) — maddesiz kisa satirlar (7 Eki: uzun liste satiri forumda kirilip karisiyordu)
+#               not(metin) · link(etiket, url) · son(metin) · ara(metin) — ara baslik (8 Eki forum konulari) · satirlar([metin]) — maddesiz kisa satirlar (7 Eki: uzun liste satiri forumda kirilip karisiyordu)
 import html, re
 import _yeni_konu as Y
 
@@ -27,6 +27,7 @@ def bb(B):
         elif k == "ayrac": o.append(f"[CENTER][COLOR={A}]{CIZGI}[/COLOR][/CENTER]")
         elif k == "h": o.append(f"[CENTER][SIZE=6][B][COLOR={A}]{b[1]} {NO[(b[1], b[2])]} · {b[2]}[/COLOR][/B][/SIZE][/CENTER]")
         elif k == "p": o.append(f"[SIZE=4]{sat(b[1], 'bb')}[/SIZE]")
+        elif k == "ara": o.append(f"[SIZE=4][B][COLOR={A}]{sat(b[1], 'bb')}[/COLOR][/B][/SIZE]")
         elif k == "liste": o.append("[SIZE=4]" + "\n".join(f"[COLOR={A}]◆[/COLOR] {sat(x, 'bb')}" for x in b[1]) + "[/SIZE]")
         elif k == "satirlar": o.append("[SIZE=4]" + "\n".join(sat(x, "bb") for x in b[1]) + "[/SIZE]")
         elif k == "img": o.append(f"[CENTER][IMG]{{{{{b[1]}}}}}[/IMG]" + (f"\n[SIZE=3][COLOR={G}]▲ {b[2]}[/COLOR][/SIZE]" if b[2] else "") + "[/CENTER]")
@@ -52,6 +53,7 @@ def onizleme(B):
         elif k == "ayrac": o.append(c(f'<span style="color:{A}">{CIZGI}</span>'))
         elif k == "h": o.append(c(f'<span style="font-size:{PX[6]}px;color:{A}"><b>{b[1]} {NO[(b[1], b[2])]} · {html.escape(b[2])}</b></span>'))
         elif k == "p": o.append(sl(f'<span style="font-size:{PX[4]}px">{sat(b[1], "html")}</span>'))
+        elif k == "ara": o.append(sl(f'<span style="font-size:{PX[4]}px;color:{A}"><b>{sat(b[1], "html")}</b></span>'))
         elif k == "liste": o.append(sl(f'<span style="font-size:{PX[4]}px">' + "<br>".join(f'<span style="color:{A}">◆</span> {sat(x, "html")}' for x in b[1]) + "</span>"))
         elif k == "satirlar": o.append(sl(f'<span style="font-size:{PX[4]}px">' + "<br>".join(sat(x, "html") for x in b[1]) + "</span>"))
         elif k == "img": o.append(c(f'<img src="{{{{{b[1]}}}}}" alt="{html.escape(b[2])}" style="max-width:100%">'
@@ -72,6 +74,7 @@ def md(B):
         elif k == "ayrac": o.append("---")
         elif k == "h": o.append(f"## {b[1]} {NO[(b[1], b[2])]} · {b[2]}")
         elif k in ("p", "not"): o.append(("💡 " if k == "not" else "") + sat(b[1], "md"))
+        elif k == "ara": o.append(f"**{sat(b[1], 'md')}**")
         elif k == "liste": o.append("\n".join(f"- {sat(x, 'md')}" for x in b[1]))
         elif k == "satirlar": o.append("  \n".join(sat(x, "md") for x in b[1]))
         elif k == "img": o.append(f"![{b[2]}]({{{{{b[1]}}}}})" + (f"\n▲ *{b[2]}*" if b[2] else ""))
@@ -92,6 +95,7 @@ def duz(B, RES):
         elif k == "h": o.append(f"{b[1]} {NO[(b[1], b[2])]} · {b[2]}")
         elif k == "son": o.append(b[1])
         elif k in ("p", "not"): o.append(("💡 " if k == "not" else "") + sat(b[1], "duz"))
+        elif k == "ara": o.append(sat(b[1], "duz"))
         elif k == "liste": o.append("\n".join(f"◆ {sat(x, 'duz')}" for x in b[1]))
         elif k == "satirlar": o.append("\n".join(sat(x, "duz") for x in b[1]))
         elif k == "link": o.append(f"{b[1]} → {b[2]}")
