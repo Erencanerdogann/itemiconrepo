@@ -7,6 +7,8 @@ import os, re, json, html
 import _forum_arsiv as FA
 import _forum_yeniden as FY
 import _konu_blok as KB
+import _forum_kart as FK
+import _repo_resim
 
 KOK = os.path.dirname(os.path.abspath(__file__))
 BIZIM = {16: "genie", 37: "yayinci", 51: "pus", 54: "odul", 55: "teamspeak", 56: "skill", 57: "sezon", 58: "mining"}   # kendi sekmesi var
@@ -56,28 +58,37 @@ def veri(k, r01=None):
     Butunluk ASSERT: kaynaktaki her satirin yazisi + her saglam resim yeni BBCode'da (FY.dogrula)."""
     m0 = k["mesajlar"][0]; kirik = set(k.get("kirik_url") or [])
     Bl, R, KN = FY.insa(k, kirik)
+    Bl, KL = FK.kartla(k, Bl, R)                                    # 8 Eki PATRON "gorsel kartlari da yap hepsine": kapak + ekran + ozet / adim kartlari
     BB = KB.bb(Bl)
     kullanilan = set(re.findall(r"\{\{([A-Z][A-Za-z0-9_]*)\}\}", BB))
     res = []
     if "R01" in kullanilan:
         assert r01, "R01 logo kaydi yok"; res.append({x: r01[x] for x in r01 if x != "data"} | {"data": None})
     for rid, (_, acik, url) in R.items():
-        res.append({"id": rid, "aciklama": acik + (" — ⚠ KIRIK (404)" if url in kirik else ""), "varsayilan_url": url, "dosya": None, "data": None, "kb": None, "boyut": None, "kaynak": "forum"})
+        if rid in kullanilan:
+            res.append({"id": rid, "aciklama": acik, "varsayilan_url": url, "dosya": None, "data": None, "kb": None, "boyut": None, "kaynak": "forum"})
+    kartlar = []
+    for kt in KL:
+        assert os.path.exists(os.path.join(KOK, *kt["dosya"][len("FORUM/"):].split("/"))), ("kart cizilmemis — once python _forum_kart.py", kt["dosya"])
+        kartlar.append({"id": kt["id"], "aciklama": kt["aciklama"], "varsayilan_url": "", "dosya": kt["dosya"], "data": None, "kb": None, "boyut": None, "kaynak": "kart"})
+    _repo_resim.uygula(kartlar); res += kartlar                      # icerik ozetli jsDelivr linki (itemiconrepo forum/forum_kart/)
     RES = {r["id"]: (None, r["aciklama"], r["varsayilan_url"]) for r in res}
     KB.denetle(BB, RES)
     tam = re.sub(r"\{\{([A-Z][A-Za-z0-9_]*)\}\}", lambda m: RES[m.group(1)][2], BB)
-    ek, er = FY.dogrula(k, tam, kirik)
+    ek, er = FY.dogrula(k, tam, kirik, ek=" ".join(x for kt in KL for x in kt.get("metin", [])), kartli={kt["src"] for kt in KL if kt["tur"] == "ekran"})
     assert not ek and not er, (k["id"], ek[:3], er[:2])
     q = k["kalite"]
     kontrol = [f"**Yeniden inşa (8 Eki, bizim tema):** metin ve resimler forumdaki konunun kendisi — eklenen sadece yapı (başlık, içindekiler, bölüm numarası, ayraç, bağlantılar). "
-               "Test: kaynaktaki her satır + her sağlam resim yeni BBCode'da ✅.",
+               "Test: kaynaktaki her satır + her sağlam resim yeni BBCode'da ya da kartında ✅.",
+               f"**{len(KL)} görsel kart** (itemiconrepo `forum/forum_kart/d{k['id']:03d}/`, içerik özetli link): kapak (bölüm haritası) · ekran görüntüleri bizim çerçevede"
+               + (" · özet / adım listeleri kartta (metinde tekrar yok)" if any(x["tur"] in ("liste", "adim") for x in KL) else "") + ".",
                f"**Kaynak:** forum.sexyko.com/d/{k['id']} — yazar {k['yazar']} · açılış {k['acilis']}" + (f" · son düzenleme {m0['duzenleme']}" if m0.get("duzenleme") else "") + ". Eski hali: **📜 Forumdaki hali** sekmesi."]
     if q["kucuk"]: kontrol.append(f"Eski halinde küçük yazı vardı (en küçük {q['min_px']} px) → yeni halde bütün yazılar tek boy (18 px).")
     kontrol += KN
     if k["mesaj_sayisi"] > 1: kontrol.append(f"Konuda {k['mesaj_sayisi'] - 1} cevap daha var (forumda) — burada sadece konu mesajı.")
     HT = KB.onizleme(Bl).replace("<img ", '<img loading="lazy" ')   # 38 konunun resimleri acilista yuklenmesin (3,0 sn olculdu)
     return {"baslik": k["baslik"], "bbcode": BB, "html": HT, "markdown": KB.md(Bl), "duz": KB.duz(Bl, RES), "resimler": res, "kontrol": kontrol,
-            "bolum": [f"{x[0]} {x[1]}" for x in KB.basliklar(Bl)[0]], "kaynak": k["url"], "orijinal": m0["bbcode"]}
+            "bolum": [f"{x[0]} {x[1]}" for x in KB.basliklar(Bl)[0]], "kaynak": k["url"], "orijinal": m0["bbcode"], "kart_sayi": len(KL)}
 
 
 def ekle(sab, VERI):
@@ -89,14 +100,15 @@ def ekle(sab, VERI):
     i = sab.index('<div id="k_mining" class="konu">')
     j = re.compile(r'\n[ \t]*<div id="k_[a-z]+" class="konu').search(sab, i + 10).start() + 1
     kalip = sab[i:j].rstrip(" \t")
-    bloklar, butonlar, kur = [], [], []
+    bloklar, butonlar, kur, tum_kart = [], [], [], []
     r01 = next((r for v in VERI.values() if isinstance(v, dict) and v.get("resimler") for r in v["resimler"] if r.get("id") == "R01" and r.get("varsayilan_url")), None)   # ortak logo
     for k in konular:
         P = f"f{k['id']}"; Y = veri(k, r01); VERI[P] = Y
+        tum_kart += [r for r in Y["resimler"] if r.get("kaynak") == "kart"]
         b = kalip.replace('id="k_mining"', f'id="k_{P}"').replace('id="m', f'id="{P}').replace('data-p="m', f'data-p="{P}')
         b = re.sub(r"<h2>.*?</h2>", f"<h2>📜 {html.escape(k['baslik'])} — forum.sexyko.com/d/{k['id']}</h2>", b, count=1)
         kr = k.get("kirik_resim")
-        adim = (f"<li><b>Bizim temayla yeniden inşa</b> — {len(Y['bolum'])} bölüm (" + html.escape(" · ".join(Y["bolum"][:-1])[:160]) + ") · metin ve resimler konunun kendisi.</li>"
+        adim = (f"<li><b>Bizim temayla yeniden inşa</b> — <b>{Y['kart_sayi']} görsel kart</b> · {len(Y['bolum'])} bölüm (" + html.escape(" · ".join(Y["bolum"][:-1])[:160]) + ") · metin ve resimler konunun kendisi.</li>"
                 + f"<li><b>🖼 Resimler</b> forumdaki linkleriyle ({len([r for r in Y['resimler'] if r['id'] != 'R01'])})" + (f" — <b>⚠ {kr[0]} kırık resim çıkarıldı</b>" if kr and kr[0] else "") + ".</li>"
                 + f"<li>forum.sexyko.com/d/{k['id']} → <b>Düzenle</b> → <b>BBCode kopyala</b> → yapıştır. Eski hali: <b>📜 Forumdaki hali</b>.</li>")
         b = re.sub(r'(<ol class="adim">).*?(</ol>)', lambda m: m.group(1) + adim + m.group(2), b, count=1, flags=re.S)
@@ -112,6 +124,8 @@ def ekle(sab, VERI):
         rozet = (" ⚠" if (k["kalite"]["kucuk"] or (kr and kr[0])) else "")
         butonlar.append(f'    <button type="button" class="fk" data-konu="k_{P}" title="forum.sexyko.com/d/{k["id"]}">{html.escape(tr_baslik(k["baslik"]))}{rozet}</button>\n')
         kur.append(f'k_{P}:kur("{P}",V.{P},"forum_d{k["id"]}_url_v1")')
+    # kartlarin repo listesi (_repo_aktar.py KONULAR "forum_kart/konu.json" -> icerik ozetli kopyalar)
+    json.dump({"resimler": tum_kart}, open(os.path.join(KOK, "forum_kart", "konu.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     # sekme blokları: k_mining'in onune
     sab = sab[:i] + "".join(bloklar) + sab[i:]
     # dugmeler: ksec'in sonuna, ayri baslikla

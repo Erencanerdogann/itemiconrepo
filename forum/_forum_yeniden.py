@@ -156,7 +156,7 @@ def insa(k, kirik=()):
         rn[0] += 1; rid = f"F{rn[0]:02d}"; RES[rid] = (None, acik or f"forumdaki {rn[0]}. resim", src); return rid
     if afis: kullan.add(0); B.append(("afis", resim(afis, "konu afişi")))
     else: B.append(("banner", "R01"))
-    B.append(("baslik", ust_metin, alt or "SexyKO Oyun Rehberi"))
+    B.append(("baslik", ust_metin, alt or (k["etiketler"][-1] if k.get("etiketler") else "SexyKO")))   # 8 Eki: duyuru konusuna "Oyun Rehberi" yaziyordu (d/3)
     govde = []          # (tur, ...) — bolum baslıkları dahil
     tampon = []
     def bosalt():
@@ -210,9 +210,9 @@ def insa(k, kirik=()):
 def _norm(s): return re.sub(r"[\W_]+", "", s.replace("∗∗", "")).lower()
 
 
-def dogrula(k, bb, kirik=()):
-    """kaynaktaki her yazi satiri yeni BBCode'da var mi (yapi disi kayip yok) + her saglam resim linki var mi -> (eksik satirlar, eksik resimler)"""
-    duz = _norm(re.sub(r"\[/?(?:B|I|U|S|CENTER|LIST|QUOTE|CODE|SIZE|COLOR|URL|IMG)(?:=[^\]]*)?\]|\[\*\]", "", bb))   # sadece BBCode etiketi (8 Eki: [10M] / [Teleport] metni de siliniyordu)
+def dogrula(k, bb, kirik=(), ek="", kartli=()):
+    """kaynaktaki her yazi satiri yeni BBCode'da (veya karta tasinan metinde: ek) var mi + her saglam resim linki BBCode'da ya da kartta (kartli) mi -> (eksik satirlar, eksik resimler)"""
+    duz = _norm(ek + " " + re.sub(r"\[/?(?:B|I|U|S|CENTER|LIST|QUOTE|CODE|SIZE|COLOR|URL|IMG)(?:=[^\]]*)?\]|\[\*\]", "", bb))   # sadece BBCode etiketi (8 Eki: [10M] / [Teleport] metni de siliniyordu)
     eksik = []
     for x in satirlar(k["mesajlar"][0]["html"]):
         if x["t"] == "img":
@@ -220,7 +220,7 @@ def dogrula(k, bb, kirik=()):
         n = _norm(NUMARA.sub("", emoji_ayir(MADDE.sub("", x["duz"]))[1])) if x["t"] != "hr" else ""
         if n and n not in duz: eksik.append(x["duz"][:70])
     rs = [x["src"] for x in satirlar(k["mesajlar"][0]["html"]) if x["t"] == "img" and x["src"] not in kirik]
-    return eksik, [u for u in rs if u not in bb]
+    return eksik, [u for u in rs if u not in bb and u not in kartli]
 
 
 if __name__ == "__main__":
