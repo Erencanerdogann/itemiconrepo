@@ -28,7 +28,7 @@ for d, alt, dosyalar in os.walk(KOK):
         kopya.append((os.path.join(d, f), os.path.join(HEDEF, *rel.split("/")), rel))
 kopya.append((HTML, os.path.join(HEDEF, "FORUM_KONU.html"), "FORUM_KONU.html"))
 # 7 Eki: konularin kullandigi her resmin ICERIK OZETLI kopyasi (link bu ada gider; eski adli dosya da kalir, eski forum linkleri bozulmaz)
-KONULAR = ["konu.json", "yeni_konu/konu.json", "yeni_konu/kisa/konu.json", "skill_master/konu.json", "odul/konu.json", "sezon/konu.json", "mining/konu.json", "yayinci/konu.json", "pus_kupon/konu.json", "teamspeak/konu.json"]
+KONULAR = ["konu.json", "yeni_konu/konu.json", "yeni_konu/kisa/konu.json", "skill_master/konu.json", "odul/konu.json", "sezon/konu.json", "mining/konu.json", "genie/konu.json", "yayinci/konu.json", "pus_kupon/konu.json", "teamspeak/konu.json"]
 _ozet = {}
 for k in KONULAR:
     for x in json.load(open(os.path.join(KOK, *k.split("/")), encoding="utf-8"))["resimler"]:

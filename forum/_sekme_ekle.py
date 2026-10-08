@@ -20,6 +20,10 @@ SEKMELER = {
                     h2="🎥 Yayıncı Sistemi &amp; Sponsor Yayıncı Başvurusu konusu (forum.sexyko.com/d/37)",
                     adim1="Yayıncılar bölümü · canlı yayıncı takibi · destek · başvuru (kurallar + form + 7 adım) · Sponsor Yayıncı şartları — <b>resimli</b>.",
                     alt="Bilgi: <b>forum.sexyko.com/d/37</b> (SexyKO) — her cümle / şart kaynakta birebir → <b>⚠ Kontrol</b>."),
+    "genie": dict(buton="⚙️ Genie Sistemi",
+                  h2="⚙️ Genie Sistemi konusu (forum.sexyko.com/d/16 — yeniden, resimler oyundan)",
+                  adim1="Hızlı panel (Başlat / Durdur / kalan süre / Ayarlar) · Main: 8+8+8 skill, HP/MP pot, mob listesi, Party/Self heal, Attack range · Misc · skill bar kilidi · 8 adımda kurulum — <b>resimli</b> (8 görsel, oyunun kendi Genie penceresi).",
+                  alt="Bilgi: <b>forum.sexyko.com/d/16</b> (SexyKO) — her cümle kaynakta birebir; gönderinin 4 resmi 404 → oyun ekranı (3 Eki) → <b>⚠ Kontrol</b>."),
 }
 
 
