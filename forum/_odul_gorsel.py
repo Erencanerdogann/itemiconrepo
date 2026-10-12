@@ -69,10 +69,10 @@ def o02():
     css = ORTAK + f""".kt{{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}}
 .kt .kut{{text-align:center;padding:18px 12px}} .kt .ic{{font-size:42px;line-height:1}} .kt .ad{{font-size:18px;font-weight:900;color:{A2};margin:10px 0 12px}}
 .kt .m{{font-size:26px;line-height:1.35}}"""
-    kt = '<div class="kt">' + "".join(f'<div class="kut"><div class="ic">{i}</div><div class="ad">{e(a)}</div><div class="m">{para(tl)}<br>{para(sb)}</div></div>'
+    kt = '<div class="kt">' + "".join(f'<div class="kut"><div class="ic">{i}</div><div class="ad">{e(a)}</div><div class="m">{para(tl) + "<br>" if tl else ""}{para(sb)}</div></div>'
                                       for i, a, tl, sb in V.CSW_ODUL) + "</div>"
-    top = (f'<div class="top"><div class="kut"><div class="t1">HER CSW\'DE TOPLAM</div><div class="t2">{para(V.CSW_TOPLAM[0])} · {para(V.CSW_TOPLAM[1])}</div></div>'
-           f'<div class="kut" style="border-color:{A}"><div class="t1">4 CSW GENEL TOPLAMI</div><div class="t2">{para(V.GENEL_TOPLAM[0])} · {para(V.GENEL_TOPLAM[1])}</div></div></div>')
+    # 12 Eki: her-CSW toplami yeni tabloda yok -> sadece 4 CSW toplami
+    top = f'<div class="top"><div class="kut" style="border-color:{A}"><div class="t1">4 CSW GENEL TOPLAMI</div><div class="t2">{para(V.GENEL_TOPLAM[0])} · {para(V.GENEL_TOPLAM[1])}</div></div></div>'
     kural = '<div class="not">⚠️ <b>CSW ÖDÜL KURALI</b><br>' + "<br>".join(f"◆ {e(x)}" for x in V.CSW_KURAL) + "</div>"
     return SG.kart(kt + top + kural, "🏰 CSW ÖDÜLLERİ", "4 CSW'nin <b>her birinde</b> aynı ödüller dağıtılır", ET, css)
 
@@ -100,7 +100,7 @@ def o04():
     jb = '<div class="jb">' + "".join(f'<span style="--r:{SG.JOB_RENK[j]}">{j}</span>' for j in V.JOBLAR) + "</div>"
     sr = "".join(f'<div class="sr{" b1" if i == 0 else ""}"><div class="kut"><div class="ic">{ic}</div><div class="ad">{e(a)}</div><div class="m">'
                  + "".join(f"<span>{para(x)}</span>" for x in od) + "</div></div></div>" for i, (ic, a, od) in enumerate(V.JOB_ODUL))
-    nt = f'<div class="not">⚔️ {e(V.JOB_NOT)}<br>🎖️ {e(V.JOB_5_10)}</div>'
+    nt = f'<div class="not">⚔️ {e(V.JOB_NOT)}</div>'          # 12 Eki: 5.-10. sira tabloda yok
     return SG.kart(jb + sr + nt, "⚔️ JOB SIRALAMA ÖDÜLLERİ", "5 job — <b>her job kendi içinde</b> ayrı sıralama", ET, css)
 
 

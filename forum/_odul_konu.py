@@ -11,7 +11,7 @@ import _odul_veri as V
 
 Y = KB.Y
 OUT = V.OD; RD = os.path.join(OUT, "resim")
-BASLIK = "🏆 SEXYKO HYPER BETA ÖDÜLLERİ | 4 CSW: 200.000 TL + 160.000 SB · Clan & Job Sıralaması · NP Çekilişi"
+BASLIK = f"🏆 SEXYKO HYPER BETA ÖDÜLLERİ | 4 CSW: {V.GENEL_TOPLAM[0]} + {V.GENEL_TOPLAM[1]} · Clan & Job Sıralaması · NP Çekilişi"   # 12 Eki: veriden
 
 RES = {"R01": Y.RESIM["R01"], "GSAYIM": Y.RESIM["GSAYIM"], "GTAKVIM": Y.RESIM["GTAKVIM"]}
 for rid, dosya, acik in [("O00", "O00_ozet.jpg", "Bir bakışta — 6 ödül başlığı"), ("O01", "O01_takvim.jpg", "Beta CSW takvimi — 17 · 18 · 20 · 22 Ekim, 22:00"),
@@ -48,8 +48,7 @@ ekle("ayrac")
 
 ekle("h", "🏰", "CSW ÖDÜLLERİ (HER CSW'DE)")
 ekle("img", "O02", "")
-ekle("liste", [f"{e} **{i}. {a}** → 💵 **{tl}** + 💎 **{sb}**" for i, (e, a, tl, sb) in enumerate(V.CSW_ODUL, 1)])
-ekle("p", f"🔥 **Her CSW'de toplam:** 💵 **{V.CSW_TOPLAM[0]} nakit** + 💎 **{V.CSW_TOPLAM[1]}** dağıtılacaktır.")
+ekle("liste", [f"{e} **{i}. {a}** → " + (f"💵 **{tl}** + " if tl else "") + f"💎 **{sb}**" for i, (e, a, tl, sb) in enumerate(V.CSW_ODUL, 1)])   # 12 Eki: Kill nakit yok
 ekle("p", f"🏆 **4 CSW genel toplamı:** 💵 **{V.GENEL_TOPLAM[0]} nakit ödül** + 💎 **{V.GENEL_TOPLAM[1]}**")
 ekle("not", "**CSW ödül kuralı:** " + " ".join(V.CSW_KURAL))
 ekle("ayrac")
@@ -64,7 +63,6 @@ ekle("h", "⚔️", "JOB SIRALAMA ÖDÜLLERİ")
 ekle("img", "O04", "")
 ekle("p", f"**{' • '.join(V.JOBLAR)}** — {V.JOB_NOT}")
 ekle("liste", [f"{e} **{a}** → " + " + ".join(("💵 " if x.endswith(" TL") else "💎 " if "SB" in x else "🗿 ") + f"**{x}**" for x in od) for e, a, od in V.JOB_ODUL])
-ekle("not", V.JOB_5_10)
 ekle("ayrac")
 
 ekle("h", "🎁", "100.000+ NP BETA ÇEKİLİŞİ")
@@ -80,9 +78,13 @@ ekle("afis", "GTAKVIM")
 ekle("son", "🔥 SEXYKO — PVP'NİN BAŞLADIĞI YER 🔥")
 
 KONTROL = [
-    f"**Kaynak:** forum.sexyko.com/d/54 (5 Eki 2026, SexyKO) — Flarum açık API ile 7 Eki 05:29'da okundu, düz metni `FORUM/odul/kaynak_d54.txt`. "
-    "Konudaki her tarih / tutar / kural cümlesi kaynakta birebir (`_odul_veri.py` import'ta assert); toplamlar tek tek ödüllerle tutarlı (20+10+20 = 50 bin TL …).",
-    "**Kaynakta YOK → konuda da yok:** Job sıralamasında **4. sıra** ödülü (kaynak 3.'den 5.–10.'a atlıyor) — ekip sorulsun.",
+    "**12 Eki güncelleme (ekibin yeni ödül tablosu, `FORUM/odul/kaynak_tablo_12eki.txt`):** tutarlar bu tablodan, satır satır assert'li. "
+    "En Çok Kill Alan Clan → **20.000 SB** (nakit yok) · 2. kategori adı **En Çok Taşı Alan Clan** · 4 CSW toplamı **120.000 TL + 200.000 SB** (4 × 30.000 TL / 4 × 50.000 SB). "
+    "Her CSW'de toplam satırı tabloda yok → konudan çıktı.",
+    "**Job 5.–10. sıra (kişi başı 250 SB) yeni tabloda YOK → konudan çıkarıldı** — kaldırıldı mı, unutuldu mu ekip teyit etsin (forumda hâlâ var).",
+    "**Tablonun hatalı toplamları konuya KONMADI:** 5 Job nakit 22.500 (doğrusu 17.500) · genel nakit 142.500 (doğrusu 137.500) · çekiliş heykel 10 adet (doğrusu 2) · toplam heykel 15 adet (doğrusu 7).",
+    f"**Tarih / saat / kural cümleleri:** forum.sexyko.com/d/54 (5 Eki 2026) — 7 Eki 05:29'da okundu, `FORUM/odul/kaynak_d54.txt` (`_odul_veri.py` assert). Beta 16 Ekim · Official 23 Ekim.",
+    "**Kaynakta YOK → konuda da yok:** Job sıralamasında **4. sıra** ödülü (tabloda 3.'den sonra yok) — ekip sorulsun.",
     "Job listesi kaynaktaki gibi **Priest • Warrior • Rogue • Kurian • Mage** (Rogue tek job; Assassin / Okçu ayrımı kaynakta yok).",
     "Heykel: kaynakta 'Job'a özel 30 cm fiziksel heykel' / 'Job Heykeli' — teslim / kargo bilgisi kaynakta yok.",
     "**6 resim (O00–O05)** yeni çizildi (Skill & Master ile aynı stil, büyük yazı) — **hazır linkli** (itemiconrepo `forum/odul/resim/`, jsDelivr). R01 logo + 2 GIF ortak.",
@@ -92,7 +94,7 @@ L, NO = KB.basliklar(B)
 BB, HT, MD, DZ = KB.bb(B), KB.onizleme(B), KB.md(B), KB.duz(B, RES)
 KB.denetle(BB, RES)
 for t, g, a, k in V.CSW: assert k in BB, k
-for x in [*V.GENEL_TOPLAM, *V.CSW_TOPLAM, V.CLAN_TOPLAM, "30 cm", "100.000 NP", "22:00", "10 dakika", "60 dakika"]: assert x in BB, x
+for x in [*V.GENEL_TOPLAM, V.CLAN_TOPLAM, "30 cm", "100.000 NP", "22:00", "10 dakika", "60 dakika"]: assert x in BB, x
 assert len(BASLIK) <= 100, len(BASLIK)
 res = []
 for rid in ["R01", "O00", "O01", "O02", "O03", "O04", "O05", "GSAYIM", "GTAKVIM"]:

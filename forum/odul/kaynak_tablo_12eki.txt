@@ -1,0 +1,46 @@
+KAYNAK: patron 12 Eki 2026 sohbete yapistirdi (ekibin Beta odul tablosu). Asagisi birebir; sutunlar tab yerine bosluk.
+NOT (hesap kontrolu, tabloda duzeltilmedi): 5 Job toplam nakit 22.500 -> dogrusu 17.500 (5 x 3.500) · genel nakit 142.500 -> 137.500 ·
+cekilis heykel 10 adet -> 2 · toplam heykel 15 adet -> 7 (5 + 2) · 296.500 SB Clan 60.000'i de iceriyor (satir adinda Clan yok).
+
+SEXYKO HYPER — BETA ÖDÜLLERİ
+Beta Dönemi Ödül Planı
+
+CLAN SIRALAMA ÖDÜLLERİ
+Kategori    Derece    Nakit (TL)    SB    KC    Ek Ödül / Açıklama
+Clan Sıralaması    1.        30.000        En Çok NP Basan Clan
+Clan Sıralaması    2.        20.000        En Çok NP Basan Clan
+Clan Sıralaması    3.        10.000        En Çok NP Basan Clan
+ÖNEMLİ: Irk fark etmez. Sadece genel clan sıralamasına bakılacaktır.
+
+JOB SIRALAMA ÖDÜLLERİ
+Kategori    Derece    Nakit (TL)    SB    Bakiye (₺)    Ek Ödül / Açıklama
+Her Job için    1.    2.500    2.500        Job'a özel 30 cm heykel
+Her Job için    2.    1.000    2.000
+Her Job için    3.        2.000
+Joblar: Priest • Warrior • Rogue • Kurian • Mage
+5 Job Toplamı        22.500    32.500        5 adet Job Heykeli
+
+CSW ÖDÜLLERİ — TOPLAM 4 CSW
+CSW Tarihleri: 17 • 18 • 20 • 22 Ekim 2026  -          Cumartesi / Pazar / Salı / Perşembe
+Kategori    Ödül    Nakit (TL)    SB    Bakiye (₺)    Açıklama
+CSW    Kale Sahibi    20.000    20.000        Her CSW için
+CSW    En Çok Taşı Alan Clan    10.000    10.000        Her CSW için
+CSW    En Çok Kill Alan Clan        20.000        Her CSW için
+4 CSW Toplamı        120.000    200.000
+KURAL: Her CSW'de 1 clan yalnızca 1 ödül alabilir. Bir ödül kazanan clan diğer ödül kategorilerinden diskalifiye olur.
+
+100.000+ NP BETA ÇEKİLİŞİ
+Şart: Beta boyunca 100.000 NP ve üzeri kasan oyuncular çekilişe dahil edilir.
+Sıra    Ödül    Nakit    SB        Ek Ödül
+1.    Job Heykeli + 1.000 SB        1.000        1 adet Job Heykeli
+2.    Job Heykeli                1 adet Job Heykeli
+3.    1.000 SB        1.000
+4.    500 SB        500
+5.–10.    Kişi başı 250 SB        1.500        6 kişi × 250 SB
+Çekiliş Toplamı            4.000        10 adet Job Heykeli
+
+BETA ÖDÜL GENEL ÖZETİ
+Toplam Nakit (Job + 4 CSW)        142.500
+Toplam SB (Job + 4 CSW + Çekiliş)            296.500
+Clan Sıralama Toplam Bakiye
+Toplam Fiziksel Heykel                    15 adet (5 Job 1.si + 2 Çekiliş)
