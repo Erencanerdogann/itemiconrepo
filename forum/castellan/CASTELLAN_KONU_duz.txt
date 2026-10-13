@@ -9,7 +9,6 @@ Bossları Avla • Stamp Topla • Castellan Silahını Ürettir
 03 · 👹 CASTELLAN BOSSLARI
 04 · 🗡️ CASTELLAN SİLAHLARI
 05 · 📦 ÜRETİM MATERYALLERİ
-06 · 📸 CASTELLAN GALERİSİ
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -104,26 +103,6 @@ Castellan silahları, her sınıfın kullanabileceği farklı tiplerde gelir. He
 ◆ Castellan's key — [Shaman] Samaran görevinden (5 Tarantula Tooth karşılığı); Castellan içeriğine erişim
 ◆ Blooded fantasy cube · Gold peels — Silah üretim görevinin ek materyalleri
 ◆ Castellan's legacy box / wife's legacy box — Castellan içeriğinden çıkan ödül kutuları
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-📸 06 · CASTELLAN GALERİSİ
-
-Room of Dark Dragon ve Castellan içeriğinden kareler.
-
-[RESİM C01: Castellan bölgesi — kale kalıntıları]
-
-[RESİM C02: Castellan bölgesi — kristal]
-
-[RESİM C03: Castellan bölgesi — Delos manzara]
-
-[RESİM C04: [Sorcerer] Maria — Room of Dark Dragon'a giriş NPC'si]
-
-[RESİM C05: Room of Dark Dragon — mağara içi]
-
-[RESİM C09: Işınlanma / portal efekti]
-
-[RESİM C12: [Unknown Tombstone] — ışınlanma noktası]
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

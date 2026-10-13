@@ -11,7 +11,6 @@
 03 · 👹 CASTELLAN BOSSLARI  
 04 · 🗡️ CASTELLAN SİLAHLARI  
 05 · 📦 ÜRETİM MATERYALLERİ  
-06 · 📸 CASTELLAN GALERİSİ  
 
 ---
 
@@ -106,26 +105,6 @@ Castellan silahları, her sınıfın kullanabileceği farklı tiplerde gelir. He
 - **Castellan's key** — [Shaman] Samaran görevinden (5 Tarantula Tooth karşılığı); Castellan içeriğine erişim
 - **Blooded fantasy cube · Gold peels** — Silah üretim görevinin ek materyalleri
 - **Castellan's legacy box / wife's legacy box** — Castellan içeriğinden çıkan ödül kutuları
-
----
-
-## 📸 06 · CASTELLAN GALERİSİ
-
-Room of Dark Dragon ve Castellan içeriğinden kareler.
-
-![]({{C01}})
-
-![]({{C02}})
-
-![]({{C03}})
-
-![]({{C04}})
-
-![]({{C05}})
-
-![]({{C09}})
-
-![]({{C12}})
 
 ---
 
