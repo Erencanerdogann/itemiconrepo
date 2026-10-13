@@ -33,7 +33,7 @@
 [SIZE=5][COLOR=#c8a253]◆[/COLOR] Room of Dark Dragon bölgesine git.
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a][Shaman] Samaran[/COLOR][/B] NPC'si ile konuş.
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]5x Tarantula Tooth[/COLOR][/B] ver → karşılığında [B][COLOR=#e6c46a]1x Castellan's key[/COLOR][/B] al.
-[COLOR=#c8a253]◆[/COLOR] Bu anahtar, Castellan içeriğine (boss alanı / üretim) erişimini açar.[/SIZE]
+[COLOR=#c8a253]◆[/COLOR] Bu anahtar, Castellan içeriğine (boss alanı ve üretim görevi) erişimi açar.[/SIZE]
 
 [CENTER][IMG]{{C06}}[/IMG][/CENTER]
 
@@ -61,7 +61,7 @@
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]👹 03 · CASTELLAN BOSSLARI[/COLOR][/B][/SIZE][/CENTER]
 
-[SIZE=5]Kaleyi alan klan, Room of Dark Dragon bölgesinde 4 Castellan bossunu avlayabilir. Bosslar Castellan's stamp ve Blessed Upgrade Scroll düşürür. Boss ne kadar güçlüyse o kadar çok stamp verir — ana boss Castellan Ghost, diğerlerinin iki katından fazla drop bırakır.[/SIZE]
+[SIZE=5]Room of Dark Dragon bölgesinde 4 Castellan bossu bulunur. Bosslar Castellan's stamp ve Blessed Upgrade Scroll düşürür. Boss ne kadar güçlüyse o kadar çok stamp verir — ana boss Castellan Ghost, diğerlerinin iki katından fazla drop bırakır.[/SIZE]
 
 [CENTER][IMG]{{C13}}[/IMG][/CENTER]
 
@@ -106,6 +106,6 @@
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
-[SIZE=5]Castellan sistemi, kale savaşını kazanmanın en büyük ödüllerinden biridir: güçlü silahlar, özel bosslar ve bölgeye özel içerik.[/SIZE]
+[SIZE=5]Castellan silahları, SexyKO'nun en güçlü ve prestijli ekipmanları arasındadır — doğru görev zinciriyle her sınıf kendi Castellan silahına ulaşabilir.[/SIZE]
 
 [SIZE=5]Bossları avla, stamp'leri topla ve kendi Castellan silahını üret![/SIZE]

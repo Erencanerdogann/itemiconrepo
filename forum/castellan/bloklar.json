@@ -56,7 +56,7 @@
 "Room of Dark Dragon bölgesine git.",
 "**[Shaman] Samaran** NPC'si ile konuş.",
 "**5x Tarantula Tooth** ver → karşılığında **1x Castellan's key** al.",
-"Bu anahtar, Castellan içeriğine (boss alanı / üretim) erişimini açar."
+"Bu anahtar, Castellan içeriğine (boss alanı ve üretim görevi) erişimi açar."
 ]
 ],
 [
@@ -118,7 +118,7 @@
 ],
 [
 "p",
-"Kaleyi alan klan, Room of Dark Dragon bölgesinde 4 Castellan bossunu avlayabilir. Bosslar Castellan's stamp ve Blessed Upgrade Scroll düşürür. Boss ne kadar güçlüyse o kadar çok stamp verir — ana boss Castellan Ghost, diğerlerinin iki katından fazla drop bırakır."
+"Room of Dark Dragon bölgesinde 4 Castellan bossu bulunur. Bosslar Castellan's stamp ve Blessed Upgrade Scroll düşürür. Boss ne kadar güçlüyse o kadar çok stamp verir — ana boss Castellan Ghost, diğerlerinin iki katından fazla drop bırakır."
 ],
 [
 "img",
@@ -205,7 +205,7 @@
 ],
 [
 "p",
-"Castellan sistemi, kale savaşını kazanmanın en büyük ödüllerinden biridir: güçlü silahlar, özel bosslar ve bölgeye özel içerik."
+"Castellan silahları, SexyKO'nun en güçlü ve prestijli ekipmanları arasındadır — doğru görev zinciriyle her sınıf kendi Castellan silahına ulaşabilir."
 ],
 [
 "p",

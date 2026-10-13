@@ -33,7 +33,7 @@ Castellan silahına ulaşmak 3 aşamalı bir yoldur: anahtarı al, stamp topla, 
 ◆ Room of Dark Dragon bölgesine git.
 ◆ [Shaman] Samaran NPC'si ile konuş.
 ◆ 5x Tarantula Tooth ver → karşılığında 1x Castellan's key al.
-◆ Bu anahtar, Castellan içeriğine (boss alanı / üretim) erişimini açar.
+◆ Bu anahtar, Castellan içeriğine (boss alanı ve üretim görevi) erişimi açar.
 
 [RESİM C06: [Shaman] Samaran — 5 Tarantula Tooth → Castellan's key]
 
@@ -61,7 +61,7 @@ Castellan silahına ulaşmak 3 aşamalı bir yoldur: anahtarı al, stamp topla, 
 
 👹 03 · CASTELLAN BOSSLARI
 
-Kaleyi alan klan, Room of Dark Dragon bölgesinde 4 Castellan bossunu avlayabilir. Bosslar Castellan's stamp ve Blessed Upgrade Scroll düşürür. Boss ne kadar güçlüyse o kadar çok stamp verir — ana boss Castellan Ghost, diğerlerinin iki katından fazla drop bırakır.
+Room of Dark Dragon bölgesinde 4 Castellan bossu bulunur. Bosslar Castellan's stamp ve Blessed Upgrade Scroll düşürür. Boss ne kadar güçlüyse o kadar çok stamp verir — ana boss Castellan Ghost, diğerlerinin iki katından fazla drop bırakır.
 
 [RESİM C13: Castellan bossu — ateşli ejder]
 
@@ -106,6 +106,6 @@ Castellan silahları, her sınıfın kullanabileceği farklı tiplerde gelir. He
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Castellan sistemi, kale savaşını kazanmanın en büyük ödüllerinden biridir: güçlü silahlar, özel bosslar ve bölgeye özel içerik.
+Castellan silahları, SexyKO'nun en güçlü ve prestijli ekipmanları arasındadır — doğru görev zinciriyle her sınıf kendi Castellan silahına ulaşabilir.
 
 Bossları avla, stamp'leri topla ve kendi Castellan silahını üret!
