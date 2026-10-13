@@ -72,7 +72,7 @@ def _ss(src):
 def cizim(kt):
     import _skill_gorsel as SG
     A, A2 = SG.ALTIN, SG.ALTIN2; e = lambda s: SG.e(s).replace("&#x27;", "’")
-    et = "SEXYKO · " + _kisa(re.sub(r"^SEXYKO(?:'DA|’DA)?\s+", "", kt["konu"], flags=re.I), 60)
+    et = "SEXYKO · " + _kisa(re.sub(r"^SEXYKO(?:'DA|’DA)?\s+(?:—\s+)?", "", kt["konu"], flags=re.I), 60)   # 13 Eki: "SexyKo — ..." -> cift ayrac yok
     css = f"""
 .kut{{background:#1d1712;border:1px solid #3a2e20;border-radius:10px;padding:14px 16px}}
 .ss{{display:block;margin:0 auto;border-radius:8px;border:2px solid #6b5426;box-shadow:0 6px 20px rgba(0,0,0,.45);max-width:100%}}
@@ -129,8 +129,10 @@ def hepsi():
     """bbcode.json -> 38 konu -> (konu, kartlar)"""
     import json, _forum_sekme as FS
     B = json.load(open(os.path.join(KOK, "forum_bbcode", "bbcode.json"), encoding="utf-8"))
+    import _forum_duzeltme as FD                                    # 13 Eki: kaynak duzeltmesi (_forum_sekme ile ayni metin)
     for k in B["konular"]:
         if k["id"] in FS.BIZIM or not k["mesajlar"]: continue
+        k = FD.uygula(k)
         Bl, R, _ = FY.insa(k, set(k.get("kirik_url") or []))
         yield k, kartla(k, Bl, R)[1]
 

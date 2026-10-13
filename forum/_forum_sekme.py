@@ -96,7 +96,8 @@ def ekle(sab, VERI):
     yol = os.path.join(KOK, "forum_bbcode", "bbcode.json")
     if not os.path.exists(yol): return sab
     B = json.load(open(yol, encoding="utf-8"))
-    konular = [k for k in B["konular"] if k["id"] not in BIZIM and k["mesajlar"] and "html" in k["mesajlar"][0]]
+    import _forum_duzeltme as FD                                    # 13 Eki: resmi rehberle celisen forum bilgisi duzeltmesi (kanitli)
+    konular = [FD.uygula(k) for k in B["konular"] if k["id"] not in BIZIM and k["mesajlar"] and "html" in k["mesajlar"][0]]
     i = sab.index('<div id="k_mining" class="konu">')
     j = re.compile(r'\n[ \t]*<div id="k_[a-z]+" class="konu').search(sab, i + 10).start() + 1
     kalip = sab[i:j].rstrip(" \t")
