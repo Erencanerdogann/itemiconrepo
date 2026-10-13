@@ -1,0 +1,333 @@
+{
+"baslik": "⚔️ SEXYKO CASTELLAN SİSTEMİ | CSW Ödülü · Bosslar · Castellan Silahları · Üretim Rehberi",
+"B": [
+[
+"baslik",
+"⚔️ SEXYKO CASTELLAN SİSTEMİ | CSW Ödülü · Bosslar · Castellan Silahları · Üretim Rehberi",
+"Delos'u Al • Bossları Avla • Stamp Topla • Castellan Silahlarını Üret"
+],
+[
+"icindekiler"
+],
+[
+"ayrac"
+],
+[
+"h",
+"⚔️",
+"CASTELLAN NEDİR?"
+],
+[
+"img",
+"C00",
+"CSW savaş alanı — çöl kalıntıları + kristal kaidesi"
+],
+[
+"p",
+"Castellan, Castle Siege War (CSW) kazanan klanın 1 hafta boyunca eriştiği özel bir silah ve boss sistemidir."
+],
+[
+"p",
+"Delos kalesini alan klan; bölgeye özel bossları avlayabilir, Castellan's stamp toplayabilir ve oldukça güçlü olabilen Castellan silahlarını üretebilir."
+],
+[
+"ayrac"
+],
+[
+"h",
+"🏰",
+"CASTELLAN'IN KAPISI: CASTLE SIEGE WAR"
+],
+[
+"img",
+"C01",
+"Delos kalesi kapısı ve surları"
+],
+[
+"p",
+"Castle Siege War (kısaca CSW), Delos kalesinin kontrolü için klanlar arasında yapılan haftalık kuşatma savaşıdır."
+],
+[
+"p",
+"Savaşı kazanan klan 1 hafta boyunca Castellan silahları için materyal toplayıp üretebilir ve bölgeye özel bossu öldürebilir."
+],
+[
+"p",
+"Kale sahibi klan ayrıca Delos, Abyss ve Moradon vergilerinden pay alır ve kaleye özel görevlerle ek Noah kazanır."
+],
+[
+"liste",
+[
+"**Harita:** Delos",
+"**Kayıt ücreti:** 100.000.000 Noah (Accredited 1+ klan)",
+"**Kayıt NPC:** [CSW Manager] Aaron — Moradon (803, 608)",
+"**Maksimum klan:** 30",
+"**Hazırlık:** 10 dakika",
+"**Savaş süresi:** 60 dakika",
+"**Erken bitiş:** Kristali kırıp 15 dk savunmak (önceki galip: 40 dk)",
+"**Üst üste kale:** En fazla 2 hafta; 3. hafta dışarıda"
+]
+],
+[
+"img",
+"C02",
+"Kuşatma kristali (mavi)"
+],
+[
+"ayrac"
+],
+[
+"h",
+"👹",
+"CASTELLAN BOSSLARI"
+],
+[
+"p",
+"Kaleyi alan klan, bölgeye özel 4 Castellan bossunu avlayabilir. Bosslar Castellan's stamp ve Blessed Upgrade Scroll düşürür."
+],
+[
+"img",
+"C15",
+"Ateşli ejder bossu + mor portal"
+],
+[
+"liste",
+[
+"**Wandering Knight Ghost** (ID 9254) — 417.232 HP · ortalama 2,25 drop · Stamp + Blessed Upgrade Scrolls (30 eşyalık havuz)",
+"**Mage Ghost** (ID 9255) — 577.232 HP · ortalama 2,30 drop · Stamp + Blessed Upgrade Scrolls",
+"**Wife of Castellan with Grudge** (ID 9256) — 737.232 HP · ortalama 2,35 drop · Stamp + Blessed Upgrade Scrolls",
+"**Castellan Ghost** (ID 9257) — 1.217.232 HP · ortalama 5,15 drop · En bol stamp düşüren ana boss"
+]
+],
+[
+"ayrac"
+],
+[
+"h",
+"📜",
+"CASTELLAN GÖREV ZİNCİRİ"
+],
+[
+"p",
+"**1. Castellan's Key** — [Shaman] Samaran ile 5x Tarantula Tooth karşılığında 1x Castellan's key alınır (Room of Dark Dragon)."
+],
+[
+"img",
+"C06",
+"[Shaman] Samaran — 5 Tarantula Tooth → Castellan's key"
+],
+[
+"p",
+"**2. Stamp Topla** — Castellan bossları avlanarak Castellan's stamp toplanır. Ana boss (Castellan Ghost) en çok stamp verir."
+],
+[
+"img",
+"C15",
+"Ateşli ejder bossu + mor portal"
+],
+[
+"p",
+"**3. Silah Üretimi** — [Pontifex] Scardy'ye 30x Castellan's stamp + Blooded fantasy cube + Gold peels getirilir; karşılığında Castellan silahları üretilir."
+],
+[
+"img",
+"C16",
+"[Pontifex] Scardy — Castellan silah üretim görevi (Stern/Smart sword)"
+],
+[
+"ayrac"
+],
+[
+"h",
+"🗡️",
+"CASTELLAN SİLAHLARI VE ÖDÜLLERİ"
+],
+[
+"p",
+"Üretim görevinin ödülü güçlü Castellan silahları ve destek eşyalarıdır. Silahlar +1'den +30'a kadar yükseltilebilir."
+],
+[
+"img",
+"C17",
+"[Pontifex] Scardy — dignity + teachings + Book of wisdom ödülleri"
+],
+[
+"liste",
+[
+"**Castellan's dignity** — +1 → +30 yükseltilebilir silah serisi",
+"**Castellan's teachings** — +1 → +30 yükseltilebilir silah serisi",
+"**Stern castellan's sword** — Üretim ödülü kılıç",
+"**Smart castellan's sword** — Üretim ödülü kılıç",
+"**Sword of agile Castellan** — Castellan kılıç varyantı",
+"**Sword of solemn Castellan** — Castellan kılıç varyantı",
+"**Book of wisdom (Fire / Ice / Lightning)** — Üretim ödülü büyü kitapları"
+]
+],
+[
+"h",
+"📦",
+"MATERYAL & KUTULAR"
+],
+[
+"liste",
+[
+"**Castellan's stamp** — Bosslardan düşer; silah üretiminin ana materyali (30 adet gerekir)",
+"**Castellan's key** — [Shaman] Samaran görevinden; Castellan içeriğine erişim",
+"**Castellan's legacy box / wife's legacy box** — Castellan ödül kutuları",
+"**Blooded fantasy cube · Gold peels** — Silah üretim görevinin ek materyalleri"
+]
+],
+[
+"ayrac"
+],
+[
+"h",
+"📸",
+"CASTELLAN GALERİSİ"
+],
+[
+"p",
+"Delos savaş alanı, Castellan görevleri ve bosslarından kareler."
+],
+[
+"img",
+"C03",
+"Delos / Moradon bölgesi"
+],
+[
+"img",
+"C04",
+"CSW manzara"
+],
+[
+"img",
+"C05",
+"CSW manzara 2"
+],
+[
+"img",
+"C07",
+"Drop veritabanı ekranı (Ctrl+D)"
+],
+[
+"img",
+"C08",
+"Room of Dark Dragon — eşyalar toplandı"
+],
+[
+"img",
+"C09",
+"Room of Dark Dragon 2"
+],
+[
+"img",
+"C10",
+"Room of Dark Dragon 3"
+],
+[
+"img",
+"C12",
+"Mağara geçidi"
+],
+[
+"img",
+"C13",
+"Room of Dark Dragon — yeşil sunak + örümcekler"
+],
+[
+"img",
+"C14",
+"Mağara içi 2"
+],
+[
+"ayrac"
+],
+[
+"img",
+"C11",
+"Portal ışınlanma efekti"
+],
+[
+"p",
+"Castellan sistemi, kale savaşını kazanmanın en büyük ödüllerinden biridir: güçlü silahlar, özel bosslar ve bölgeye özel içerik."
+],
+[
+"p",
+"Delos'u al, bossları avla, stamp'leri topla ve kendi Castellan silahını üret!"
+]
+],
+"RES": {
+"C00": [
+"C00.jpg",
+"CSW savaş alanı — çöl kalıntıları + kristal kaidesi"
+],
+"C01": [
+"C01.jpg",
+"Delos kalesi kapısı ve surları"
+],
+"C02": [
+"C02.jpg",
+"Kuşatma kristali (mavi)"
+],
+"C03": [
+"C03.jpg",
+"Delos / Moradon bölgesi"
+],
+"C04": [
+"C04.jpg",
+"CSW manzara"
+],
+"C05": [
+"C05.jpg",
+"CSW manzara 2"
+],
+"C06": [
+"C06.jpg",
+"[Shaman] Samaran — 5 Tarantula Tooth → Castellan's key"
+],
+"C07": [
+"C07.jpg",
+"Drop veritabanı ekranı (Ctrl+D)"
+],
+"C08": [
+"C08.jpg",
+"Room of Dark Dragon — eşyalar toplandı"
+],
+"C09": [
+"C09.jpg",
+"Room of Dark Dragon 2"
+],
+"C10": [
+"C10.jpg",
+"Room of Dark Dragon 3"
+],
+"C11": [
+"C11.jpg",
+"Portal ışınlanma efekti"
+],
+"C12": [
+"C12.jpg",
+"Mağara geçidi"
+],
+"C13": [
+"C13.jpg",
+"Room of Dark Dragon — yeşil sunak + örümcekler"
+],
+"C14": [
+"C14.jpg",
+"Mağara içi 2"
+],
+"C15": [
+"C15.jpg",
+"Ateşli ejder bossu + mor portal"
+],
+"C16": [
+"C16.jpg",
+"[Pontifex] Scardy — Castellan silah üretim görevi (Stern/Smart sword)"
+],
+"C17": [
+"C17.jpg",
+"[Pontifex] Scardy — dignity + teachings + Book of wisdom ödülleri"
+]
+}
+}

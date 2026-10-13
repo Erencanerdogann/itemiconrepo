@@ -1,0 +1,151 @@
+⚔️ SEXYKO CASTELLAN SİSTEMİ | CSW Ödülü · Bosslar · Castellan Silahları · Üretim Rehberi
+
+[CENTER][SIZE=26][B][COLOR=#c8a253]⚔️ SEXYKO CASTELLAN SİSTEMİ | CSW Ödülü · Bosslar · Castellan Silahları · Üretim Rehberi[/COLOR][/B][/SIZE]
+[SIZE=18][COLOR=#a89f91]Delos'u Al • Bossları Avla • Stamp Topla • Castellan Silahlarını Üret[/COLOR][/SIZE][/CENTER]
+
+[CENTER][SIZE=18][B][COLOR=#c8a253]📑 İÇİNDEKİLER[/COLOR][/B][/SIZE]
+[SIZE=18][COLOR=#c8a253]01[/COLOR] · ⚔️ CASTELLAN NEDİR?
+[COLOR=#c8a253]02[/COLOR] · 🏰 CASTELLAN'IN KAPISI: CASTLE SIEGE WAR
+[COLOR=#c8a253]03[/COLOR] · 👹 CASTELLAN BOSSLARI
+[COLOR=#c8a253]04[/COLOR] · 📜 CASTELLAN GÖREV ZİNCİRİ
+[COLOR=#c8a253]05[/COLOR] · 🗡️ CASTELLAN SİLAHLARI VE ÖDÜLLERİ
+[COLOR=#c8a253]06[/COLOR] · 📦 MATERYAL & KUTULAR
+[COLOR=#c8a253]07[/COLOR] · 📸 CASTELLAN GALERİSİ[/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]⚔️ 01 · CASTELLAN NEDİR?[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/castellan/resim/C00.19e75d3a.jpg[/IMG]
+[SIZE=18][COLOR=#a89f91]▲ CSW savaş alanı — çöl kalıntıları + kristal kaidesi[/COLOR][/SIZE][/CENTER]
+
+[SIZE=18]Castellan, Castle Siege War (CSW) kazanan klanın 1 hafta boyunca eriştiği özel bir silah ve boss sistemidir.[/SIZE]
+
+[SIZE=18]Delos kalesini alan klan; bölgeye özel bossları avlayabilir, Castellan's stamp toplayabilir ve oldukça güçlü olabilen Castellan silahlarını üretebilir.[/SIZE]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]🏰 02 · CASTELLAN'IN KAPISI: CASTLE SIEGE WAR[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/castellan/resim/C01.37da2df7.jpg[/IMG]
+[SIZE=18][COLOR=#a89f91]▲ Delos kalesi kapısı ve surları[/COLOR][/SIZE][/CENTER]
+
+[SIZE=18]Castle Siege War (kısaca CSW), Delos kalesinin kontrolü için klanlar arasında yapılan haftalık kuşatma savaşıdır.[/SIZE]
+
+[SIZE=18]Savaşı kazanan klan 1 hafta boyunca Castellan silahları için materyal toplayıp üretebilir ve bölgeye özel bossu öldürebilir.[/SIZE]
+
+[SIZE=18]Kale sahibi klan ayrıca Delos, Abyss ve Moradon vergilerinden pay alır ve kaleye özel görevlerle ek Noah kazanır.[/SIZE]
+
+[SIZE=18][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Harita:[/COLOR][/B] Delos
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Kayıt ücreti:[/COLOR][/B] 100.000.000 Noah (Accredited 1+ klan)
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Kayıt NPC:[/COLOR][/B] [CSW Manager] Aaron — Moradon (803, 608)
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Maksimum klan:[/COLOR][/B] 30
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Hazırlık:[/COLOR][/B] 10 dakika
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Savaş süresi:[/COLOR][/B] 60 dakika
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Erken bitiş:[/COLOR][/B] Kristali kırıp 15 dk savunmak (önceki galip: 40 dk)
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Üst üste kale:[/COLOR][/B] En fazla 2 hafta; 3. hafta dışarıda[/SIZE]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/castellan/resim/C02.3d1758a7.jpg[/IMG]
+[SIZE=18][COLOR=#a89f91]▲ Kuşatma kristali (mavi)[/COLOR][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]👹 03 · CASTELLAN BOSSLARI[/COLOR][/B][/SIZE][/CENTER]
+
+[SIZE=18]Kaleyi alan klan, bölgeye özel 4 Castellan bossunu avlayabilir. Bosslar Castellan's stamp ve Blessed Upgrade Scroll düşürür.[/SIZE]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/castellan/resim/C15.b249c802.jpg[/IMG]
+[SIZE=18][COLOR=#a89f91]▲ Ateşli ejder bossu + mor portal[/COLOR][/SIZE][/CENTER]
+
+[SIZE=18][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Wandering Knight Ghost[/COLOR][/B] (ID 9254) — 417.232 HP · ortalama 2,25 drop · Stamp + Blessed Upgrade Scrolls (30 eşyalık havuz)
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Mage Ghost[/COLOR][/B] (ID 9255) — 577.232 HP · ortalama 2,30 drop · Stamp + Blessed Upgrade Scrolls
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Wife of Castellan with Grudge[/COLOR][/B] (ID 9256) — 737.232 HP · ortalama 2,35 drop · Stamp + Blessed Upgrade Scrolls
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Castellan Ghost[/COLOR][/B] (ID 9257) — 1.217.232 HP · ortalama 5,15 drop · En bol stamp düşüren ana boss[/SIZE]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]📜 04 · CASTELLAN GÖREV ZİNCİRİ[/COLOR][/B][/SIZE][/CENTER]
+
+[SIZE=18][B][COLOR=#e6c46a]1. Castellan's Key[/COLOR][/B] — [Shaman] Samaran ile 5x Tarantula Tooth karşılığında 1x Castellan's key alınır (Room of Dark Dragon).[/SIZE]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/castellan/resim/C06.f443fb50.jpg[/IMG]
+[SIZE=18][COLOR=#a89f91]▲ [Shaman] Samaran — 5 Tarantula Tooth → Castellan's key[/COLOR][/SIZE][/CENTER]
+
+[SIZE=18][B][COLOR=#e6c46a]2. Stamp Topla[/COLOR][/B] — Castellan bossları avlanarak Castellan's stamp toplanır. Ana boss (Castellan Ghost) en çok stamp verir.[/SIZE]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/castellan/resim/C15.b249c802.jpg[/IMG]
+[SIZE=18][COLOR=#a89f91]▲ Ateşli ejder bossu + mor portal[/COLOR][/SIZE][/CENTER]
+
+[SIZE=18][B][COLOR=#e6c46a]3. Silah Üretimi[/COLOR][/B] — [Pontifex] Scardy'ye 30x Castellan's stamp + Blooded fantasy cube + Gold peels getirilir; karşılığında Castellan silahları üretilir.[/SIZE]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/castellan/resim/C16.f7b8b2a3.jpg[/IMG]
+[SIZE=18][COLOR=#a89f91]▲ [Pontifex] Scardy — Castellan silah üretim görevi (Stern/Smart sword)[/COLOR][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]🗡️ 05 · CASTELLAN SİLAHLARI VE ÖDÜLLERİ[/COLOR][/B][/SIZE][/CENTER]
+
+[SIZE=18]Üretim görevinin ödülü güçlü Castellan silahları ve destek eşyalarıdır. Silahlar +1'den +30'a kadar yükseltilebilir.[/SIZE]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/castellan/resim/C17.5ff55225.jpg[/IMG]
+[SIZE=18][COLOR=#a89f91]▲ [Pontifex] Scardy — dignity + teachings + Book of wisdom ödülleri[/COLOR][/SIZE][/CENTER]
+
+[SIZE=18][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Castellan's dignity[/COLOR][/B] — +1 → +30 yükseltilebilir silah serisi
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Castellan's teachings[/COLOR][/B] — +1 → +30 yükseltilebilir silah serisi
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Stern castellan's sword[/COLOR][/B] — Üretim ödülü kılıç
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Smart castellan's sword[/COLOR][/B] — Üretim ödülü kılıç
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Sword of agile Castellan[/COLOR][/B] — Castellan kılıç varyantı
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Sword of solemn Castellan[/COLOR][/B] — Castellan kılıç varyantı
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Book of wisdom (Fire / Ice / Lightning)[/COLOR][/B] — Üretim ödülü büyü kitapları[/SIZE]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]📦 06 · MATERYAL & KUTULAR[/COLOR][/B][/SIZE][/CENTER]
+
+[SIZE=18][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Castellan's stamp[/COLOR][/B] — Bosslardan düşer; silah üretiminin ana materyali (30 adet gerekir)
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Castellan's key[/COLOR][/B] — [Shaman] Samaran görevinden; Castellan içeriğine erişim
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Castellan's legacy box / wife's legacy box[/COLOR][/B] — Castellan ödül kutuları
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Blooded fantasy cube · Gold peels[/COLOR][/B] — Silah üretim görevinin ek materyalleri[/SIZE]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]📸 07 · CASTELLAN GALERİSİ[/COLOR][/B][/SIZE][/CENTER]
+
+[SIZE=18]Delos savaş alanı, Castellan görevleri ve bosslarından kareler.[/SIZE]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/castellan/resim/C03.14d34804.jpg[/IMG]
+[SIZE=18][COLOR=#a89f91]▲ Delos / Moradon bölgesi[/COLOR][/SIZE][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/castellan/resim/C04.b72bac2b.jpg[/IMG]
+[SIZE=18][COLOR=#a89f91]▲ CSW manzara[/COLOR][/SIZE][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/castellan/resim/C05.428c719c.jpg[/IMG]
+[SIZE=18][COLOR=#a89f91]▲ CSW manzara 2[/COLOR][/SIZE][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/castellan/resim/C07.0e53380a.jpg[/IMG]
+[SIZE=18][COLOR=#a89f91]▲ Drop veritabanı ekranı (Ctrl+D)[/COLOR][/SIZE][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/castellan/resim/C08.af612d1e.jpg[/IMG]
+[SIZE=18][COLOR=#a89f91]▲ Room of Dark Dragon — eşyalar toplandı[/COLOR][/SIZE][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/castellan/resim/C09.be9dfc1d.jpg[/IMG]
+[SIZE=18][COLOR=#a89f91]▲ Room of Dark Dragon 2[/COLOR][/SIZE][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/castellan/resim/C10.97e1c500.jpg[/IMG]
+[SIZE=18][COLOR=#a89f91]▲ Room of Dark Dragon 3[/COLOR][/SIZE][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/castellan/resim/C12.fe39e156.jpg[/IMG]
+[SIZE=18][COLOR=#a89f91]▲ Mağara geçidi[/COLOR][/SIZE][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/castellan/resim/C13.bf972e97.jpg[/IMG]
+[SIZE=18][COLOR=#a89f91]▲ Room of Dark Dragon — yeşil sunak + örümcekler[/COLOR][/SIZE][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/castellan/resim/C14.b10c9ae1.jpg[/IMG]
+[SIZE=18][COLOR=#a89f91]▲ Mağara içi 2[/COLOR][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/castellan/resim/C11.258ad386.jpg[/IMG]
+[SIZE=18][COLOR=#a89f91]▲ Portal ışınlanma efekti[/COLOR][/SIZE][/CENTER]
+
+[SIZE=18]Castellan sistemi, kale savaşını kazanmanın en büyük ödüllerinden biridir: güçlü silahlar, özel bosslar ve bölgeye özel içerik.[/SIZE]
+
+[SIZE=18]Delos'u al, bossları avla, stamp'leri topla ve kendi Castellan silahını üret![/SIZE]
