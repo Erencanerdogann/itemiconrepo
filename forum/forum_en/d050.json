@@ -1,0 +1,29 @@
+{
+ "baslik": "🔎 SEXYKO DROP SEARCH SYSTEM",
+ "metin": {
+  "SEXYKO DROP SEARCH SİSTEMİ": "SEXYKO DROP SEARCH SYSTEM",
+  "SexyKO Oyun Rehberi": "SexyKO Game Guide",
+  "BİR BAKIŞTA": "AT A GLANCE",
+  "SexyKO'da bir itemin **hangi moblardan düştüğünü ve drop oranlarını** oyun içerisinden anında görebilirsiniz.": "In SexyKO you can instantly see in game **which monsters drop an item and the drop rates**.",
+  "Bir itemin üzerine geldiğinizde açıklamanın en altında:": "When you hover over an item, if the very bottom of its description shows:",
+  "CTRL + D": "CTRL + D",
+  "ibaresi bulunuyorsa, o item için Drop Search özelliği aktiftir.": "then the Drop Search feature is active for that item.",
+  "NASIL KULLANILIR?": "HOW TO USE IT?",
+  "Itemin üzerine gelin ve:": "Hover over the item and:",
+  "tuşlarına basın.": "— press these keys.",
+  "Açılan pencerede itemin:": "In the window that opens you can see the item's:",
+  "hangi moblardan düştüğünü": "monsters that drop it",
+  "mob isimlerini": "monster names",
+  "drop oranlarını": "drop rates",
+  "detaylı şekilde görebilirsiniz.": "— all in detail.",
+  "KISACASI": "IN SHORT",
+  "**Itemin üzerine gel → CTRL + D → Hangi mobdan düştüğünü ve oranını gör**": "**Hover over the item → CTRL + D → see which monster drops it and the rate**",
+  "Ekstra rehber aramanıza gerek kalmadan tüm drop bilgisine oyun içinden ulaşabilirsiniz.": "You can reach all drop info in game without looking for an extra guide.",
+  "🔥 SEXYKO DROP SEARCH": "🔥 SEXYKO DROP SEARCH",
+  "BAĞLANTILAR": "LINKS",
+  "🌐 Web: [[https://www.sexyko.com|www.sexyko.com]]": "🌐 Web: [[https://www.sexyko.com|www.sexyko.com]]",
+  "💬 Discord: [[https://discord.gg/sexyko|discord.gg/sexyko]] · Forum: [[https://forum.sexyko.com/d/50|forum.sexyko.com/d/50]]": "💬 Discord: [[https://discord.gg/sexyko|discord.gg/sexyko]] · Forum: [[https://forum.sexyko.com/d/50|forum.sexyko.com/d/50]]",
+  "Itemi seç • CTRL + D yap • Drop kaynağını anında öğren": "Pick the item • Press CTRL + D • See the drop source instantly"
+ },
+ "izin": []
+}

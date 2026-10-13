@@ -1,0 +1,33 @@
+{
+ "baslik": "64-BIT CLIENT | ERROR & BUG REPORT TOPIC",
+ "metin": {
+  "64-BIT CLIENT | HATA & BUG BİLDİRİM KONUSU": "64-BIT CLIENT | ERROR & BUG REPORT TOPIC",
+  "DESTEK": "SUPPORT",
+  "BİR BAKIŞTA": "AT A GLANCE",
+  "Yeni 64-Bit SexyKO Client'ı test ederken karşılaştığınız tüm hata, bug, performans ve uyumsuzlukları bu konu üzerinden bizlere iletebilirsiniz.": "Report every error, bug, performance problem and incompatibility you run into while testing the new 64-Bit SexyKO Client in this topic.",
+  "Yeni Client ile birlikte daha yüksek FPS, daha akıcı oyun deneyimi, geliştirilmiş performans ve daha modern bir altyapı hedefliyoruz. Test sürecinde oyuncularımızdan gelecek geri bildirimler, Client'ın geliştirilmesinde doğrudan değerlendirilecektir.": "With the new Client we're aiming for higher FPS, smoother gameplay, improved performance and a more modern foundation. Feedback from our players during the test period will be used directly to improve the Client.",
+  "Karşılaştığınız;": "Any of these you run into:",
+  "🐞 Bug ve oyun hataları": "🐞 Bugs and game errors",
+  "⚡ FPS düşüşleri ve performans sorunları": "⚡ FPS drops and performance problems",
+  "🖥️ Görüntü, grafik veya arayüz hataları": "🖥️ Display, graphics or interface errors",
+  "💥 Beklenmeyen Client kapanmaları": "💥 Unexpected Client crashes",
+  "🎮 Oyun içerisinde çalışmayan veya hatalı çalışan özellikler": "🎮 Features that don't work or work incorrectly in game",
+  "🌐 Zone, savaş alanı veya kalabalık bölgelerde yaşanan problemler": "🌐 Problems in zones, battlefields or crowded areas",
+  "🔧 Eski Client'a göre farklı çalışan sistemler gibi tüm sorunları bu konu altında paylaşabilirsiniz.": "🔧 Systems that work differently from the old Client — you can share all such problems under this topic.",
+  "📌 Hata Bildirirken": "📌 When Reporting a Bug",
+  "Sorunu mümkün olduğunca açık şekilde belirtmenizi ve mümkünse ekran görüntüsü veya video ile desteklemenizi rica ediyoruz.": "Please describe the problem as clearly as possible and, if you can, add a screenshot or video.",
+  "Hata:": "Error:",
+  "Nerede / Ne zaman oluşuyor:": "Where / When it happens:",
+  "Nasıl tekrar edilebilir:": "How to reproduce it:",
+  "Ekran görüntüsü / Video:": "Screenshot / Video:",
+  "Bildirdiğiniz her hata, yeni 64-Bit Client'ın daha stabil ve sorunsuz hale getirilmesine katkı sağlayacaktır.": "Every bug you report helps make the new 64-Bit Client more stable and trouble-free.",
+  "🚀 SexyKO | Yeni Nesil Client": "🚀 SexyKO | Next-Generation Client",
+  "64-Bit • Yüksek FPS • Akıcı Oyun • Daha Güçlü Altyapı": "64-Bit • High FPS • Smooth Gameplay • Stronger Foundation",
+  "Test edin, bildirin, birlikte geliştirelim. 🔥": "Test it, report it, let's improve it together. 🔥",
+  "BAĞLANTILAR": "LINKS",
+  "🌐 Web: [[https://www.sexyko.com|www.sexyko.com]]": "🌐 Web: [[https://www.sexyko.com|www.sexyko.com]]",
+  "💬 Discord: [[https://discord.gg/sexyko|discord.gg/sexyko]] · Forum: [[https://forum.sexyko.com/d/5|forum.sexyko.com/d/5]]": "💬 Discord: [[https://discord.gg/sexyko|discord.gg/sexyko]] · Forum: [[https://forum.sexyko.com/d/5|forum.sexyko.com/d/5]]",
+  "🔥 64-BIT CLIENT | HATA & BUG BİLDİRİM KONUSU 🔥": "🔥 64-BIT CLIENT | ERROR & BUG REPORT TOPIC 🔥"
+ },
+ "izin": []
+}

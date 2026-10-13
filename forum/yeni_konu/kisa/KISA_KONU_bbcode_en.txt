@@ -1,0 +1,175 @@
+📘 SEXYKO GAME GUIDE (SHORT) | 24 Systems at a Glance, Details in the Guide | HYPER 16.10 BETA 🔥
+
+[CENTER][IMG]{{R01}}[/IMG]
+[SIZE=7][B][COLOR=#c8a253]SEXYKO GAME GUIDE[/COLOR][/B][/SIZE]
+[SIZE=5][COLOR=#a89f91]24 topics in short — click the link under each title for details.[/COLOR][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]📖 01 · THE GUIDE INSIDE THE GAME[/COLOR][/B][/SIZE]
+[URL=https://sexyko.com/guide/book][IMG]{{KR02}}[/IMG][/URL]
+[SIZE=5]The [B][COLOR=#e6c46a]📖 book[/COLOR][/B] at the top left → the guide inside the game: [B][COLOR=#e6c46a]305 monsters[/COLOR][/B], [B][COLOR=#e6c46a]998 quests[/COLOR][/B], upgrade rates, drop search.[/SIZE]
+[SIZE=5][URL=https://sexyko.com/guide/book][B][COLOR=#4fa3ff]📘 The full guide ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/22][B][COLOR=#4fa3ff]💬 Guide System ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]⌨️ 02 · SHORTCUTS AND INTERFACE[/COLOR][/B][/SIZE]
+[URL=https://sexyko.com/guide/book][IMG]{{KR19}}[/IMG][/URL]
+[SIZE=5][B][COLOR=#e6c46a]F10[/COLOR][/B] settings · [B][COLOR=#e6c46a]K[/COLOR][/B] skills · [B][COLOR=#e6c46a]U[/COLOR][/B] character · [B][COLOR=#e6c46a]H[/COLOR][/B] commands · [B][COLOR=#e6c46a]I[/COLOR][/B] inventory · [B][COLOR=#e6c46a]Ctrl + D[/COLOR][/B] drop source.[/SIZE]
+[SIZE=5][URL=https://sexyko.com/guide/book][B][COLOR=#4fa3ff]📘 Guide ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]🎁 03 · STARTER PACK[/COLOR][/B][/SIZE]
+[URL=https://sexyko.com/guide/beginner-items][IMG]{{KF53_4}}[/IMG][/URL]
+[SIZE=5][B][COLOR=#e6c46a]Level 83[/COLOR][/B] · [B][COLOR=#e6c46a]1,000,000,000 coins[/COLOR][/B] · 3-day EXP Premium, Valkyrie Set, Pathos, Wings, Magic Bag, War Tattoo · [B][COLOR=#e6c46a]24-hour Genie[/COLOR][/B].[/SIZE]
+[SIZE=5][URL=https://sexyko.com/guide/beginner-items][B][COLOR=#4fa3ff]📘 Starter Items ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/53][B][COLOR=#4fa3ff]💬 Starter Pack ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]🧞 04 · ADVANCED GENIE[/COLOR][/B][/SIZE]
+[URL=https://forum.sexyko.com/d/16][IMG]{{KR03}}[/IMG][/URL]
+[SIZE=5][B][COLOR=#e6c46a]8 Attack + 8 Buff + 8 Party[/COLOR][/B] skill slots · HP/MP by percentage · hits only the monsters on the list.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/16][B][COLOR=#4fa3ff]💬 Genie System ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]⚙️ 05 · F10 SETTINGS — 11 TABS[/COLOR][/B][/SIZE]
+[URL=https://forum.sexyko.com/d/12][IMG]{{KR05}}[/IMG][/URL]
+[SIZE=5]Graphics, effects, [B][COLOR=#e6c46a]loot filter[/COLOR][/B], font and [B][COLOR=#e6c46a]2nd password[/COLOR][/B] — 11 tabs.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/12][B][COLOR=#4fa3ff]💬 F10 Game Settings ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]⚔️ 06 · SKILL PRESET & QUICK SLOT[/COLOR][/B][/SIZE]
+[URL=https://forum.sexyko.com/d/42][IMG]{{KR07}}[/IMG][/URL]
+[SIZE=5][B][COLOR=#e6c46a]K[/COLOR][/B] → [B][COLOR=#e6c46a]4 separate Quick Slots[/COLOR][/B] — switch quickly between PK, farm, party and event setups.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/42][B][COLOR=#4fa3ff]💬 Skill Preset & Quick Slot ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]👥 07 · PARTY SETTINGS[/COLOR][/B][/SIZE]
+[URL=https://forum.sexyko.com/d/11][IMG]{{KF11_2}}[/IMG][/URL]
+[SIZE=5]Turn party members' [B][COLOR=#e6c46a]HP · MP · Buff · Damage[/COLOR][/B] info on / off separately.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/11][B][COLOR=#4fa3ff]💬 Party System ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]🖱️ 08 · THE RIGHT-CLICK ERA — NO MORE RUNNING TO NPCS[/COLOR][/B][/SIZE]
+[URL=https://forum.sexyko.com/d/10][IMG]{{KF10_5}}[/IMG][/URL]
+[SIZE=5]KC, Gem, Fragment, Chest: [B][COLOR=#e6c46a]right-click to exchange[/COLOR][/B] · Tag Name, Make Over, Nick and Job Changer are right-click too.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/10][B][COLOR=#4fa3ff]💬 Exchange ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/43][B][COLOR=#4fa3ff]💬 Chaotic Generator ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/30][B][COLOR=#4fa3ff]💬 Tag Name ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/31][B][COLOR=#4fa3ff]💬 Make Over ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/32][B][COLOR=#4fa3ff]💬 Nick ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/28][B][COLOR=#4fa3ff]💬 Job Changer ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]🦸 09 · SOLO CAPE[/COLOR][/B][/SIZE]
+[URL=https://forum.sexyko.com/d/44][IMG]{{KF44_2}}[/IMG][/URL]
+[SIZE=5]A cape without joining a clan: [B][COLOR=#e6c46a]15 days · 250 HP · 250 MP · 25 DEF · 3% AP[/COLOR][/B] · football club capes.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/44][B][COLOR=#4fa3ff]💬 Solo Cape System ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/29][B][COLOR=#4fa3ff]💬 Solo Cape ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]💎 10 · GEM & FRAGMENT · NARKI · PUS EXCHANGE[/COLOR][/B][/SIZE]
+[URL=https://sexyko.com/guide/fragment][IMG]{{KR21}}[/IMG][/URL]
+[SIZE=5]Whatever you exchange — [B][COLOR=#e6c46a]what comes out and at what percentage[/COLOR][/B] — it's all in the guide.[/SIZE]
+[SIZE=5][URL=https://sexyko.com/guide/fragment][B][COLOR=#4fa3ff]📘 Gem & Fragment ↗[/COLOR][/B][/URL] · [URL=https://sexyko.com/guide/narki][B][COLOR=#4fa3ff]📘 Narki ↗[/COLOR][/B][/URL] · [URL=https://sexyko.com/guide/pus-crash][B][COLOR=#4fa3ff]📘 PUS Exchange ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]🎯 11 · DROP INFO · DROP SEARCH[/COLOR][/B][/SIZE]
+[URL=https://forum.sexyko.com/d/34][IMG]{{KF34_2}}[/IMG][/URL]
+[SIZE=5]Click a monster → [B][COLOR=#e6c46a]drop percentages[/COLOR][/B] · [B][COLOR=#e6c46a]Ctrl + D[/COLOR][/B] on an item → which monster drops it.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/34][B][COLOR=#4fa3ff]💬 Drop Info ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/50][B][COLOR=#4fa3ff]💬 Drop Search ↗[/COLOR][/B][/URL] · [URL=https://sexyko.com/guide/monsters][B][COLOR=#4fa3ff]📘 Monster List ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]🌀 12 · SLOT TELEPORT[/COLOR][/B][/SIZE]
+[URL=https://forum.sexyko.com/d/52][IMG]{{KF52_2}}[/IMG][/URL]
+[SIZE=5][B][COLOR=#e6c46a][Teleport] Portal[/COLOR][/B] → choose the monster → teleport to its spot for [B][COLOR=#e6c46a]250,000 coins[/COLOR][/B].[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/52][B][COLOR=#4fa3ff]💬 Slot Teleport ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]📊 13 · GRIND TRACKER[/COLOR][/B][/SIZE]
+[URL=https://forum.sexyko.com/d/14][IMG]{{KR08}}[/IMG][/URL]
+[SIZE=5]Top left [B][COLOR=#e6c46a]⏱[/COLOR][/B] → farm time, [B][COLOR=#e6c46a]coins per hour[/COLOR][/B] and [B][COLOR=#e6c46a]items per hour[/COLOR][/B] — compare how efficient spots are.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/14][B][COLOR=#4fa3ff]💬 Farm Grind Tracker ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]⛏️ 14 · AUTO MINING — MINING INN[/COLOR][/B][/SIZE]
+[URL=https://forum.sexyko.com/d/24][IMG]{{KF24_2}}[/IMG][/URL]
+[SIZE=5]Auto Mining products pile up in the [B][COLOR=#e6c46a]Mining Inn[/COLOR][/B] · the storage is one-way: withdraw only.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/24][B][COLOR=#4fa3ff]💬 Auto Mining — Mining Inn ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]🛒 15 · POWER UP STORE + COUPON[/COLOR][/B][/SIZE]
+[URL=https://forum.sexyko.com/d/27][IMG]{{KR09}}[/IMG][/URL]
+[SIZE=5]Bulk shopping with the [B][COLOR=#e6c46a]Basket[/COLOR][/B] · up to [B][COLOR=#e6c46a]30% off[/COLOR][/B] with a sponsor streamer code.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/27][B][COLOR=#4fa3ff]💬 Power Up Store ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/51][B][COLOR=#4fa3ff]💬 PUS Discount Code ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]🎡 16 · WHEEL OF FORTUNE[/COLOR][/B][/SIZE]
+[URL=https://forum.sexyko.com/d/41][IMG]{{KR10}}[/IMG][/URL]
+[SIZE=5]Spin for [B][COLOR=#e6c46a]350 KC[/COLOR][/B], or stay [B][COLOR=#e6c46a]online for 2 hours[/COLOR][/B] for [B][COLOR=#e6c46a]1 free[/COLOR][/B] spin.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/41][B][COLOR=#4fa3ff]💬 Wheel of Fortune ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]📅 17 · DAILY QUESTS[/COLOR][/B][/SIZE]
+[URL=https://sexyko.com/guide/daily-quests][IMG]{{KR20}}[/IMG][/URL]
+[SIZE=5]Bottom left [B][COLOR=#e6c46a]Daily Quest[/COLOR][/B] → choose a quest → [B][COLOR=#e6c46a]Accept[/COLOR][/B] → finish before time runs out, reward comes automatically.[/SIZE]
+[SIZE=5][URL=https://sexyko.com/guide/daily-quests][B][COLOR=#4fa3ff]📘 Daily Quests ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/33][B][COLOR=#4fa3ff]💬 Daily Quest ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]⏳ 18 · EVENT CALENDAR[/COLOR][/B][/SIZE]
+[URL=https://forum.sexyko.com/d/38][IMG]{{KR11}}[/IMG][/URL]
+[SIZE=5]Top right [B][COLOR=#e6c46a]hourglass[/COLOR][/B] → calendar · [B][COLOR=#e6c46a]Set notification[/COLOR][/B] → a warning 5 minutes before the event.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/38][B][COLOR=#4fa3ff]💬 Hourglass ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]🏆 19 · EVENT RULES[/COLOR][/B][/SIZE]
+[URL=https://sexyko.com/guide/book/chaos][IMG]{{KR12}}[/IMG][/URL]
+[SIZE=5]Knight Chaos, Border Defense War, Juraid, Forgotten Temple, Castle Siege, Knight Royale, Under the Castle — rules and rewards.[/SIZE]
+[SIZE=5][URL=https://sexyko.com/guide/book/chaos][B][COLOR=#4fa3ff]📘 Knight Chaos ↗[/COLOR][/B][/URL] · [URL=https://sexyko.com/guide/event-rewards][B][COLOR=#4fa3ff]📘 Event Rewards ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]🐉 20 · DRAKI'S TOWER[/COLOR][/B][/SIZE]
+[URL=https://sexyko.com/guide/book/draki][IMG]{{KR24}}[/IMG][/URL]
+[SIZE=5][B][COLOR=#e6c46a]5 stages[/COLOR][/B] · [B][COLOR=#e6c46a]3 entries[/COLOR][/B] a day · reset at [B][COLOR=#e6c46a]18:00[/COLOR][/B] · monthly ranking.[/SIZE]
+[SIZE=5][URL=https://sexyko.com/guide/book/draki][B][COLOR=#4fa3ff]📘 Draki's Tower ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/45][B][COLOR=#4fa3ff]💬 Draki's Tower ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]🔨 21 · UPGRADE RATES[/COLOR][/B][/SIZE]
+[URL=https://sexyko.com/guide/upgrade][IMG]{{KR13}}[/IMG][/URL]
+[SIZE=5]Rates in the guide and [B][COLOR=#e6c46a]live on the Anvil[/COLOR][/B] · highest [B][COLOR=#e6c46a]+8[/COLOR][/B] · [B][COLOR=#e6c46a]Trina's Piece[/COLOR][/B] raises the rate.[/SIZE]
+[SIZE=5][URL=https://sexyko.com/guide/upgrade][B][COLOR=#4fa3ff]📘 Upgrade Rates ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com/d/26][B][COLOR=#4fa3ff]💬 Upgrade Rates ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]⭐ 22 · REBIRTH[/COLOR][/B][/SIZE]
+[URL=https://forum.sexyko.com/d/49][IMG]{{KF49_1}}[/IMG][/URL]
+[SIZE=5][B][COLOR=#e6c46a]Lv 83 + 100% EXP + 100,000,000 coins + 10,000 NP[/COLOR][/B] → Rebirth · every level [B][COLOR=#e6c46a]+2 stats[/COLOR][/B].[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/49][B][COLOR=#4fa3ff]💬 Character Rebirth ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]👁️ 23 · EQUIPMENT VIEW[/COLOR][/B][/SIZE]
+[URL=https://forum.sexyko.com/d/46][IMG]{{KF46_2}}[/IMG][/URL]
+[SIZE=5][B][COLOR=#e6c46a]Right-click a character → Equipment View[/COLOR][/B]: equipment, upgrades, stats, resistances, buff list.[/SIZE]
+[SIZE=5][URL=https://forum.sexyko.com/d/46][B][COLOR=#4fa3ff]💬 Equipment View ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]🔗 24 · LINKS[/COLOR][/B][/SIZE]
+[SIZE=5][URL=https://sexyko.com][B][COLOR=#4fa3ff]🌐 sexyko.com ↗[/COLOR][/B][/URL] · [URL=https://sexyko.com/guide/book][B][COLOR=#4fa3ff]📘 Guide ↗[/COLOR][/B][/URL] · [URL=https://forum.sexyko.com][B][COLOR=#4fa3ff]💬 Forum ↗[/COLOR][/B][/URL] · [URL=https://sexyko.com/download][B][COLOR=#4fa3ff]📥 Client ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#d14841]🔥 SEXYKO — WHERE PVP BEGINS 🔥[/COLOR][/B][/SIZE][/CENTER]

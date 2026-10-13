@@ -8,6 +8,15 @@ import sys; sys.stdout.reconfigure(encoding="utf-8")
 import os, re, json, html, base64
 from PIL import Image
 import _yeni_konu as Y   # uzun konuyu da yeniden uretir (ayni cikti) — basliklar, resimler, renkler oradan
+EN = __name__ == "__main__" and "--en" in sys.argv     # 13 Eki aksam PATRON "ENG MI BU": python _kisa_konu.py --en -> konu_en.json
+if EN:                                                   # sozluk: uzun konununki (basliklar, resim aciklamalari) + kisa/ceviri_en.json
+    import _konu_en as KE
+    _M = {**json.load(open(os.path.join(Y.KOK, "yeni_konu", "ceviri_en.json"), encoding="utf-8"))["metin"],
+          **json.load(open(os.path.join(Y.KOK, "yeni_konu", "kisa", "ceviri_en.json"), encoding="utf-8"))["metin"]}
+TR = (lambda x: KE.T(x, _M)) if EN else (lambda x: x)
+RS = "IMAGE" if EN else "RESİM"
+GIFSIZ = (lambda o: [x for x in o if "GSAYIM" not in x and "GTAKVIM" not in x]) if EN else (lambda o: o)   # Turkce yazili GIF'ler EN'de yok
+BAS1, ALT1, SON1 = "SEXYKO OYUN REHBERİ", "24 başlık, kısa kısa — detay için başlığın altındaki linke tıkla.", "🔥 SEXYKO — PVP'NİN BAŞLADIĞI YER 🔥"
 
 OUT = os.path.join(Y.KOK, "yeni_konu", "kisa"); RD = os.path.join(OUT, "resim")
 os.makedirs(RD, exist_ok=True)
@@ -72,7 +81,8 @@ for t, (rid, _, _) in K.items():
     with Image.open(os.path.join(Y.RD, Y.RESIM[rid][0])) as im:
         im = im.convert("RGB"); im.thumbnail(KUTU, Image.LANCZOS)
         im.save(os.path.join(RD, f"K{rid}.jpg"), quality=88, optimize=True)
-    RES["K" + rid] = (f"K{rid}.jpg", Y.RESIM[rid][1] + " (küçük)", "")
+    RES["K" + rid] = (f"K{rid}.jpg", TR(Y.RESIM[rid][1]) + (" (small)" if EN else " (küçük)"), "")
+if EN: RES = {k: ((v[0], TR(v[1]), v[2]) if not k.startswith("K") else v) for k, v in RES.items() if k not in KE.TR_GIF}
 
 # ---------- cizim
 A, A2, G, M = Y.ALTIN, Y.ALTIN2, Y.GRI, Y.MAVI
@@ -81,11 +91,11 @@ AYRAC = "━━━━━━━━━━━━━━━━━━━━━━━�
 def bolumler():
     for e, t in Y.BASLIKLAR:
         rid, metin, ln = K[t]
-        yield e, Y.NO[(e, t)], t, rid, metin, ln
+        yield e, Y.NO[(e, t)], TR(t), rid, (TR(metin) if metin else metin), [(i, TR(a), u) for i, a, u in ln]
 
 def bb():
-    o = ["[CENTER][IMG]{{GSAYIM}}[/IMG][/CENTER]", f"[CENTER][IMG]{{{{R01}}}}[/IMG]\n[SIZE=7][B][COLOR={A}]SEXYKO OYUN REHBERİ[/COLOR][/B][/SIZE]\n"
-         f"[SIZE=4][COLOR={G}]24 başlık, kısa kısa — detay için başlığın altındaki linke tıkla.[/COLOR][/SIZE][/CENTER]", f"[CENTER][COLOR={A}]{AYRAC}[/COLOR][/CENTER]"]
+    o = ["[CENTER][IMG]{{GSAYIM}}[/IMG][/CENTER]", f"[CENTER][IMG]{{{{R01}}}}[/IMG]\n[SIZE=7][B][COLOR={A}]{TR(BAS1)}[/COLOR][/B][/SIZE]\n"
+         f"[SIZE=4][COLOR={G}]{TR(ALT1)}[/COLOR][/SIZE][/CENTER]", f"[CENTER][COLOR={A}]{AYRAC}[/COLOR][/CENTER]"]
     for e, no, t, rid, metin, ln in bolumler():
         s = f"[CENTER][SIZE=5][B][COLOR={A}]{e} {no} · {t}[/COLOR][/B][/SIZE]"
         if rid: s += f"\n[URL={ln[0][2]}][IMG]{{{{K{rid}}}}}[/IMG][/URL]"
@@ -93,16 +103,16 @@ def bb():
         s += "\n[SIZE=4]" + " · ".join(f"[URL={u}][B][COLOR={M}]{i} {a} ↗[/COLOR][/B][/URL]" for i, a, u in ln) + "[/SIZE][/CENTER]"
         o += [s, f"[CENTER][COLOR={A}]{AYRAC}[/COLOR][/CENTER]"]
     o.append("[CENTER][IMG]{{GTAKVIM}}[/IMG][/CENTER]")
-    o.append(f"[CENTER][SIZE=6][B][COLOR={Y.KIRMIZI}]🔥 SEXYKO — PVP'NİN BAŞLADIĞI YER 🔥[/COLOR][/B][/SIZE][/CENTER]")
-    return "\n\n".join(o)
+    o.append(f"[CENTER][SIZE=6][B][COLOR={Y.KIRMIZI}]{TR(SON1)}[/COLOR][/B][/SIZE][/CENTER]")
+    return "\n\n".join(GIFSIZ(o))
 
 def onizleme():
     PX = Y.PX
     c = lambda x: f'<div style="text-align:center">{x}</div>'
     lk = lambda i, a, u: f'<a href="{u}" target="_blank" rel="noopener" style="color:{M};font-weight:700;text-decoration:none">{i} {html.escape(a)} ↗</a>'
     ay = c(f'<span style="color:{A}">{AYRAC}</span>')
-    o = [c('<img src="{{GSAYIM}}" alt="" style="max-width:100%">'), c(f'<img src="{{{{R01}}}}" alt="" style="max-width:100%;width:420px"><br><span style="font-size:{PX[7]}px;color:{A}"><b>SEXYKO OYUN REHBERİ</b></span><br>'
-           f'<span style="font-size:{PX[4]}px;color:{G}">24 başlık, kısa kısa — detay için başlığın altındaki linke tıkla.</span>'), ay]
+    o = [c('<img src="{{GSAYIM}}" alt="" style="max-width:100%">'), c(f'<img src="{{{{R01}}}}" alt="" style="max-width:100%;width:420px"><br><span style="font-size:{PX[7]}px;color:{A}"><b>{TR(BAS1)}</b></span><br>'
+           f'<span style="font-size:{PX[4]}px;color:{G}">{TR(ALT1)}</span>'), ay]
     for e, no, t, rid, metin, ln in bolumler():
         s = f'<span style="font-size:{PX[5]}px;color:{A}"><b>{e} {no} · {html.escape(t)}</b></span>'
         if rid: s += f'<br><a href="{ln[0][2]}" target="_blank" rel="noopener"><img src="{{{{K{rid}}}}}" alt="{html.escape(t)}" style="max-width:100%"></a>'
@@ -110,11 +120,11 @@ def onizleme():
         s += f'<br><span style="font-size:{PX[4]}px">' + " · ".join(lk(*x) for x in ln) + "</span>"
         o += [c(s), ay]
     o.append(c('<img src="{{GTAKVIM}}" alt="" style="max-width:100%">'))
-    o.append(c(f'<span style="font-size:{PX[6]}px;color:{Y.KIRMIZI}"><b>🔥 SEXYKO — PVP\'NİN BAŞLADIĞI YER 🔥</b></span>'))
-    return "\n".join(o)
+    o.append(c(f'<span style="font-size:{PX[6]}px;color:{Y.KIRMIZI}"><b>{TR(SON1)}</b></span>'))
+    return "\n".join(GIFSIZ(o))
 
 def md():
-    o = ["![]({{GSAYIM}})", "![]({{R01}})", "## SEXYKO OYUN REHBERİ", "*24 başlık, kısa kısa — detay için başlığın altındaki linke tıkla.*", "---"]
+    o = ["![]({{GSAYIM}})", "![]({{R01}})", "## " + TR(BAS1), "*" + TR(ALT1) + "*", "---"]
     for e, no, t, rid, metin, ln in bolumler():
         s = f"### {e} {no} · {t}"
         if rid: s += f"\n[![{t}]({{{{K{rid}}}}})]({ln[0][2]})"
@@ -122,20 +132,20 @@ def md():
         s += "\n" + " · ".join(f"**[{i} {a} ↗]({u})**" for i, a, u in ln)
         o += [s, "---"]
     o.append("![]({{GTAKVIM}})")
-    o.append("**🔥 SEXYKO — PVP'NİN BAŞLADIĞI YER 🔥**")
-    return "\n\n".join(o)
+    o.append("**" + TR(SON1) + "**")
+    return "\n\n".join(GIFSIZ(o))
 
 def duz():
-    o = ["[RESİM GSAYIM]", "[RESİM R01]", "SEXYKO OYUN REHBERİ\n24 başlık, kısa kısa — detay için başlığın altındaki linke tıkla.", AYRAC]
+    o = ["[RESİM GSAYIM]", f"[{RS} R01]", TR(BAS1) + "\n" + TR(ALT1), AYRAC]
     for e, no, t, rid, metin, ln in bolumler():
         s = f"{e} {no} · {t}"
-        if rid: s += f"\n[RESİM K{rid}]"
+        if rid: s += f"\n[{RS} K{rid}]"
         if metin: s += "\n" + Y.satir(metin, "duz")
         s += "\n" + "\n".join(f"{i} {a} → {u}" for i, a, u in ln)
         o += [s, AYRAC]
     o.append("[RESİM GTAKVIM]")
-    o.append("🔥 SEXYKO — PVP'NİN BAŞLADIĞI YER 🔥")
-    return "\n\n".join(o)
+    o.append(TR(SON1))
+    return "\n\n".join(GIFSIZ(o))
 
 BB, HT, MD, DZ = bb(), onizleme(), md(), duz()
 BB, HT = Y.buyut_bb(BB), Y.buyut_ht(HT)        # 7 Eki: fontlar bir adim buyuk
@@ -161,10 +171,23 @@ KONTROL = [
     f"**{LINK} yönlendirme linki** (rehber + forum.sexyko.com konuları). Resme tıklayınca bölümün ilk linki açılır.",
     "Forum d/25 (etkinlik listesi) linki **konmadı**: saatleri oyun içi takvimle çelişiyor (uzun konu ⚠ Kontrol).",
 ]
+if EN:
+    BASLIK = json.load(open(os.path.join(OUT, "ceviri_en.json"), encoding="utf-8"))["baslik"]
+    KONTROL = ["**English version (13 Oct):** short version of the Game Guide — **same 24 sections**, every text translated (`FORUM/yeni_konu/kisa/ceviri_en.json` + the long topic's dictionary).",
+               f"**{len(res) - 1} small images** (fitted into 360x240) — same as the Turkish topic. The Turkish countdown / calendar GIFs are not in the English version.",
+               f"**{LINK} links** (guide + forum.sexyko.com topics). Clicking an image opens the section's first link."]
+    for d in res: d["kaynak"] = {"oyun/rehber": "game/guide", "forum (küçük)": "forum (small)"}.get(d["kaynak"], d["kaynak"])
 VERI = {"baslik": BASLIK, "bbcode": BB, "html": HT, "markdown": MD, "duz": DZ, "resimler": res, "kontrol": KONTROL,
         "bolum": [f"{no} · {e} {t}" for e, no, t, *_ in bolumler()], "kaynak": "FORUM/_yeni_konu.py (uzun konu) özeti"}
-json.dump(VERI, open(os.path.join(OUT, "konu.json"), "w", encoding="utf-8"), ensure_ascii=False)
-open(os.path.join(OUT, "KISA_KONU_bbcode.txt"), "w", encoding="utf-8").write(BASLIK + "\n\n" + BB + "\n")
-open(os.path.join(OUT, "KISA_KONU_markdown.md"), "w", encoding="utf-8").write("# " + BASLIK + "\n\n" + MD + "\n")
-open(os.path.join(OUT, "KISA_KONU_duz.txt"), "w", encoding="utf-8").write(BASLIK + "\n\n" + DZ + "\n")
+_E = "_en" if EN else ""
+if EN: VERI["kaynak"] = "FORUM/yeni_konu/kisa/ceviri_en.json (= Turkish short topic, translated)"
+json.dump(VERI, open(os.path.join(OUT, f"konu{_E}.json"), "w", encoding="utf-8"), ensure_ascii=False)
+open(os.path.join(OUT, f"KISA_KONU_bbcode{_E}.txt"), "w", encoding="utf-8").write(BASLIK + "\n\n" + BB + "\n")
+open(os.path.join(OUT, f"KISA_KONU_markdown{_E}.md"), "w", encoding="utf-8").write("# " + BASLIK + "\n\n" + MD + "\n")
+open(os.path.join(OUT, f"KISA_KONU_duz{_E}.txt"), "w", encoding="utf-8").write(BASLIK + "\n\n" + DZ + "\n")
+if not EN:                                               # 13 Eki: EN sablonu icin TR yazilar (_konu_en.py sablon kisa)
+    _B = ([("h", e, t) for e, t in Y.BASLIKLAR] + [("p", v[1]) for v in K.values() if v[1]] + [("liste", [a for i, a, u in v[2]]) for v in K.values()]
+          + [("p", BAS1), ("p", ALT1), ("p", SON1)])
+    json.dump({"baslik": BASLIK, "B": _B, "RES": {k: (d, Y.RESIM[k[1:]][1] if k.startswith("K") else a, u) for k, (d, a, u) in RES.items()}},
+              open(os.path.join(OUT, "bloklar.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=0)
 print("KISA: bölüm", len(K), "· resim", len(res), "· link", LINK, "· bbcode", len(BB), "· başlık", len(BASLIK), "karakter · gömülü", sum(x["kb"] or 0 for x in res), "KB")

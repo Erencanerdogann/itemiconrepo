@@ -313,6 +313,21 @@ FLARUM = {"SEXYKO_TANITIM_bbcode_flarum.txt": (BASLIK, flarum(BB))}
 for k, yol in [("yeni", "yeni_konu/YENI_KONU_bbcode_flarum.txt"), ("kisa", "yeni_konu/kisa/KISA_KONU_bbcode_flarum.txt"), ("skill", "skill_master/SKILL_KONU_bbcode_flarum.txt"),
                ("odul", "odul/ODUL_KONU_bbcode_flarum.txt"), ("sezon", "sezon/SEZON_KONU_bbcode_flarum.txt"), ("mining", "mining/MINING_KONU_bbcode_flarum.txt"), ("genie", "genie/GENIE_KONU_bbcode_flarum.txt"), ("yayinci", "yayinci/YAYINCI_KONU_bbcode_flarum.txt"), ("pus", "pus_kupon/PUS_KONU_bbcode_flarum.txt"), ("teamspeak", "teamspeak/TS_KONU_bbcode_flarum.txt")]:
     if VERI.get(k): FLARUM[yol] = (VERI[k]["baslik"], flarum(VERI[k]["bbcode"], VERI[k]["resimler"]))
+# 13 Eki PATRON "tr tiklicam eng tiklicam degisecek": EN konu verisi (<klasor>/konu_en.json, uretici --en) -> sayfada TR/EN dugmesi (_dil.py)
+EN_KLASOR = {"yeni": "yeni_konu", "kisa": "yeni_konu/kisa", "skill": "skill_master", "odul": "odul", "sezon": "sezon", "mining": "mining",
+             "teamspeak": "teamspeak", "pus": "pus_kupon", "yayinci": "yayinci", "genie": "genie"}
+VERI_EN = {}
+for k, kl in EN_KLASOR.items():
+    _p = os.path.join(KOK, *kl.split("/"), "konu_en.json")
+    if os.path.exists(_p):
+        VERI_EN[k] = json.load(open(_p, encoding="utf-8"))
+        _ad = {"pus": "PUS", "teamspeak": "TS"}.get(k, k.upper())
+        FLARUM[f"{kl}/{_ad}_KONU_bbcode_flarum_en.txt"] = (VERI_EN[k]["baslik"], flarum(VERI_EN[k]["bbcode"], VERI_EN[k]["resimler"]))
+import _tanitim_en; _te = _tanitim_en.uret(BASLIK, BB, RES, FORUMLAR)   # 13 Eki aksam: tanitim (Ko-Yardim) EN — sozluk tam ise (sayfada kok veriye kopyalanir, _dil.DIL_V)
+if _te:
+    VERI_EN["tanitim"] = _te
+    open(os.path.join(KOK, "SEXYKO_TANITIM_bbcode_en.txt"), "w", encoding="utf-8").write(_te["baslik"] + "\n\n" + _te["bbcode"] + "\n")
+print("EN konu:", len(VERI_EN), sorted(VERI_EN))
 for yol, (bas_, bb_) in FLARUM.items():
     open(os.path.join(KOK, *yol.split("/")), "w", encoding="utf-8").write(bas_ + "\n\n" + bb_ + "\n")
 print("flarum bbcode:", len(FLARUM), "dosya ·", ", ".join(f"{y.split('/')[-1]} {len(b)}" for y, (_, b) in FLARUM.items()))
@@ -320,10 +335,17 @@ print("flarum bbcode:", len(FLARUM), "dosya ·", ", ".join(f"{y.split('/')[-1]} 
 # --- sayfa
 sab = open(os.path.join(KOK, "_konu_sablon.html"), encoding="utf-8").read()
 import _forum_sekme; sab = _forum_sekme.ekle(sab, VERI)   # 8 Eki PATRON: forumdaki konular da ayni sekmelerle (once python _forum_bbcode.py)
+import _forum_en; _fen = _forum_en.hepsi(VERI); VERI_EN.update(_fen)   # 13 Eki aksam PATRON "ENG MI BU": cevirisi tam forum konulari EN
+print("EN forum konusu:", len(_fen), sorted(_fen))
 import _konu_premium; sab = _konu_premium.uygula(sab)    # 8 Eki PATRON: alanlara gore sol menu + duzenleme ("premium bir sayfa olsun")
+import _dil                                              # 13 Eki aksam PATRON "ayri html yap gitsin": TR + EN iki dosya (kosede obur dosyaya link)
 gom =json.dumps(VERI, ensure_ascii=False).replace("</", "<\\/")
 CIK = os.path.join(os.path.dirname(KOK), "HTML", "FORUM_KONU.html")
-open(CIK, "w", encoding="utf-8").write(sab.replace("/*__VERI__*/null", gom))
+CIK_EN = os.path.join(os.path.dirname(KOK), "HTML", "FORUM_KONU_EN.html")
+gom_en = json.dumps(VERI_EN, ensure_ascii=False).replace("</", "<\\/")
+for _dl, _yol in (("tr", CIK), ("en", CIK_EN)):
+    open(_yol, "w", encoding="utf-8").write(_dil.uygula(sab, _dl).replace("/*__VERI__*/null", gom).replace("/*__VERI_EN__*/null", gom_en if _dl == "en" else "null"))   # TR'de EN verisi kullanilmaz
+print("EN sayfa:", CIK_EN)
 print("baslik:", BASLIK, f"({len(BASLIK)} karakter)")
 print("bbcode", len(BB), "· markdown", len(MD), "· duz", len(DZ), "· resim", len(RES), "· forum", len(FORUMLAR))
 print("link [URL]:", BB.count("[URL="), "· [IMG]:", BB.count("[IMG]"), "· ko-yardim.com metinde:", BB.count("ko-yardim.com/konu"), "· yazildi:", CIK)

@@ -110,6 +110,7 @@ KONTROL = [
 
 L, NO = KB.basliklar(B)
 BB, HT, MD, DZ = KB.bb(B), KB.onizleme(B), KB.md(B), KB.duz(B, RES)
+KB.kaydet(OUT, B, RES, BASLIK)                       # 13 Eki: EN icin bloklar (_konu_en.py)
 KB.denetle(BB, RES)
 for s in [*V.GIRIS, V.PANEL_GIRIS, *[x for _, _, L_ in V.PANEL for x in L_], *V.ANA, *[x for _, _, _, L_ in V.SKILL for x in L_], *V.SCROLL[1], *V.HP[1:], *V.MP[1:],
           *V.MOB[1:], *[b for _, b in V.MOB_L], *V.MOB_SON, *V.MISC[1:], *[x for _, _, L_ in V.TAKIP for x in L_], *V.MINOR[2], V.RANGE[1], *[b for _, b in V.RANGE_L],

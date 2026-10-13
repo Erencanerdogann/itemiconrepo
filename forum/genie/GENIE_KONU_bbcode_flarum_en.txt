@@ -1,0 +1,156 @@
+⚙️ SEXYKO GENIE SYSTEM | Start · Stop · 8+8+8 Skills · HP/MP Potions · Mob List · Attack Range
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/resim/2_logo.3a3f29a4.png[/IMG][/CENTER]
+
+[CENTER][SIZE=26][B][COLOR=#c8a253]SEXYKO ADVANCED GENIE SYSTEM[/COLOR][/B][/SIZE]
+[SIZE=18][COLOR=#a89f91]Start • Stop • See Your Remaining Time • Manage Your Settings From One Panel[/COLOR][/SIZE][/CENTER]
+
+[CENTER][SIZE=18][B][COLOR=#c8a253]📑 CONTENTS[/COLOR][/B][/SIZE]
+[SIZE=18][COLOR=#c8a253]01[/COLOR] · ⚙️ AT A GLANCE
+[COLOR=#c8a253]02[/COLOR] · ▶️ GENIE QUICK CONTROL PANEL
+[COLOR=#c8a253]03[/COLOR] · ⚔️ GENIE MAIN SETTINGS
+[COLOR=#c8a253]04[/COLOR] · ❤️ HP / MP POTION SETTINGS
+[COLOR=#c8a253]05[/COLOR] · 🎯 CHOOSE THE MONSTERS TO ATTACK
+[COLOR=#c8a253]06[/COLOR] · 👥 PARTY HP · OWN HP · ATTACK RANGE
+[COLOR=#c8a253]07[/COLOR] · 🧩 MISC / ADVANCED SETTINGS
+[COLOR=#c8a253]08[/COLOR] · 🔒 THE SKILL BAR IS LOCKED WHILE GENIE IS ACTIVE
+[COLOR=#c8a253]09[/COLOR] · 🚀 HOW TO SET UP GENIE?
+[COLOR=#c8a253]10[/COLOR] · ✅ IN SHORT
+[COLOR=#c8a253]11[/COLOR] · 🔗 LINKS[/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]⚙️ 01 · AT A GLANCE[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/genie/resim_en/G00_ozet.9a182574.jpg[/IMG][/CENTER]
+
+[SIZE=18]The SexyKO Genie system is an advanced automation system that makes your character attack, use skills, manage HP/MP and run the farm automatically according to the rules you set.[/SIZE]
+
+[SIZE=18][B][COLOR=#e6c46a]With the new Genie interface, using and controlling the system is much more practical.[/COLOR][/B][/SIZE]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]▶️ 02 · GENIE QUICK CONTROL PANEL[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/genie/resim_en/G01_panel.f88193d8.jpg[/IMG][/CENTER]
+
+[SIZE=18]You can quickly control the system from the Genie control panel on the game screen.[/SIZE]
+
+[SIZE=18]▶️ [B][COLOR=#e6c46a]START[/COLOR][/B] — Activates the Genie system. Your character starts working automatically based on the skill, potion, mob and other settings you created earlier.[/SIZE]
+
+[SIZE=18]⏹️ [B][COLOR=#e6c46a]STOP[/COLOR][/B] — Stops the active Genie system. Use this when you want to end the farm or control your character manually.[/SIZE]
+
+[SIZE=18]⏳ [B][COLOR=#e6c46a]REMAINING GENIE TIME[/COLOR][/B] — Track your current Genie time live on the panel. So you don't need to open another window to see how much Genie time you have left.[/SIZE]
+
+[SIZE=18]⚙️ [B][COLOR=#e6c46a]SETTINGS[/COLOR][/B] — Click the Settings button to open Genie's detailed control panel. Skill order, potion use, the monsters to attack and other automation settings are set here.[/SIZE]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]⚔️ 03 · GENIE MAIN SETTINGS[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/genie/resim_en/G02_ana.700f3b4c.jpg[/IMG][/CENTER]
+
+[SIZE=18]When you open the Genie settings, you see the main panel where you decide how your character behaves while farming. From skill use to potion percentages, many details are completely under your control.[/SIZE]
+
+[SIZE=18]⚔️ [B][COLOR=#e6c46a]ATTACK SKILLS — 8 ATTACK SKILL SLOTS[/COLOR][/B] · Place the skills your character will use while attacking in this area. Genie uses the skills you place here in the order you set. This way you can build a different farm skill layout for each job.[/SIZE]
+
+[SIZE=18]🟢 [B][COLOR=#e6c46a]SELF SKILLS — 8 SELF SKILL SLOTS[/COLOR][/B] · Place the skills your character will use on itself in this area. Buffs, class-specific support skills and abilities that must be used on yourself are managed here.[/SIZE]
+
+[SIZE=18]👥 [B][COLOR=#e6c46a]PARTY SKILLS — 8 PARTY SKILL SLOTS[/COLOR][/B] · Made for support skills to be used on party members. Very useful especially for party-support characters like Priests.[/SIZE]
+
+[SIZE=18]📜 [B][COLOR=#e6c46a]SKILL & SCROLL AREAS[/COLOR][/B] — Besides skill use, Genie also has helper scroll areas. You can assign suitable scrolls and helper items you want used while farming to the Genie system. So your farm setup isn't just attack skills.[/SIZE]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]❤️ 04 · HP / MP POTION SETTINGS[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/genie/resim_en/G03_pot.a54a586c.jpg[/IMG][/CENTER]
+
+[SIZE=18]❤️ [B][COLOR=#e6c46a]HP POTION SETTINGS[/COLOR][/B] — Genie can track your character's HP automatically. You decide at which HP percentage the potion is used. For example, if set to [B][COLOR=#e6c46a]HP 60%[/COLOR][/B], Genie uses an HP potion automatically when your health reaches that level. You can change this rate depending on how hard your farm zone is.[/SIZE]
+
+[SIZE=18]💙 [B][COLOR=#e6c46a]MP POTION SETTINGS[/COLOR][/B] — The MP potion system works the same way. You decide at which percentage of mana the potion is used. For example, if set to [B][COLOR=#e6c46a]MP 40%[/COLOR][/B], Genie uses an MP potion automatically when mana drops to that level. Especially important for characters that use skills constantly.[/SIZE]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]🎯 05 · CHOOSE THE MONSTERS TO ATTACK[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/genie/resim_en/G04_mob.a41f70d6.jpg[/IMG][/CENTER]
+
+[SIZE=18]At the bottom right of the Genie screen there is a special target list where you choose which monsters your character attacks. With this system you can stop Genie from attacking every monster around.[/SIZE]
+
+[SIZE=18][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Add Mob[/COLOR][/B] — Add the monster you want to farm to the list.
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Save Mob Name[/COLOR][/B] — The names of the monsters you choose are saved and shown in your target list.
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Remove Mob[/COLOR][/B] — Remove a monster you no longer want to attack from the list.[/SIZE]
+
+[SIZE=18]This feature is a big advantage especially in zones with several kinds of monsters at the same spot.[/SIZE]
+
+[SIZE=18][COLOR=#3ecf8e]💡 [B][COLOR=#e6c46a]Pick only the monster you want, and Genie goes only for those targets.[/COLOR][/B][/COLOR][/SIZE]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]👥 06 · PARTY HP · OWN HP · ATTACK RANGE[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/genie/resim_en/G05_esik_range.debe1333.jpg[/IMG][/CENTER]
+
+[SIZE=18]👥 [B][COLOR=#e6c46a]PARTY HP TRACKING[/COLOR][/B] — Genie can track the HP of the players in your party. The support skills you set can be used according to party members' health levels. Useful especially for Priests to automate party support.[/SIZE]
+
+[SIZE=18]❤️ [B][COLOR=#e6c46a]TRACK YOUR OWN HP[/COLOR][/B] — Makes your character constantly track its own health. Actions you set in Genie can be done automatically based on your HP level.[/SIZE]
+
+[SIZE=18]📏 [B][COLOR=#e6c46a]ATTACK RANGE[/COLOR][/B] — The Attack Range setting decides how far from your character Genie will attack monsters.[/SIZE]
+
+[SIZE=18][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Low Range:[/COLOR][/B] Your character stays in a smaller farm area.
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]High Range:[/COLOR][/B] It can target monsters in a wider area.[/SIZE]
+
+[SIZE=18]If you farm at a fixed spot, it's important to set Attack Range to fit your farm area so your character doesn't wander off for no reason.[/SIZE]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]🧩 07 · MISC / ADVANCED SETTINGS[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/genie/resim_en/G06_misc.2ec48928.jpg[/IMG][/CENTER]
+
+[SIZE=18]The Misc section in Genie lets you personalize the automatic farm system in more detail. This section has very useful extra options especially for characters like Priests and Rogues.[/SIZE]
+
+[SIZE=18]🩹 [B][COLOR=#e6c46a]MINOR USAGE[/COLOR][/B] — For Rogue / Assassin characters you can control Minor Healing through Genie. Minor use can be automated based on your character's HP. This way you can use the HP Potion + Minor combo more carefully while farming.[/SIZE]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]🔒 08 · THE SKILL BAR IS LOCKED WHILE GENIE IS ACTIVE[/COLOR][/B][/SIZE][/CENTER]
+
+[SIZE=18]When Genie is activated, your normal skill bar is locked. During this time you can't use skills manually. Your character only uses the skills and automation settings you placed in Genie.[/SIZE]
+
+[SIZE=18][COLOR=#3ecf8e]💡 [B][COLOR=#e6c46a]When you stop Genie, you can go back to manual play.[/COLOR][/B][/COLOR][/SIZE]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]🚀 09 · HOW TO SET UP GENIE?[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/genie/resim_en/G07_kurulum.94a56d78.jpg[/IMG][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]✅ 10 · IN SHORT[/COLOR][/B][/SIZE][/CENTER]
+
+[SIZE=18][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]You can start and stop Genie with one button.[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]You can see your remaining time.[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]You can use 8 Attack Skills.[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]You can set 8 Self Skills.[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]You can set 8 Party Skills.[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]You can set HP and MP potion percentages.[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]You can choose the monsters to attack.[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]You can have it track Party HP and your own HP.[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]You can automate Minor usage.[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]You can set the Attack Range yourself.[/COLOR][/B][/SIZE]
+
+[SIZE=18]🔥 [B][COLOR=#e6c46a]Set your skills • Set your potion rate • Pick your monster • Adjust your range[/COLOR][/B][/SIZE]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]🔗 11 · LINKS[/COLOR][/B][/SIZE][/CENTER]
+
+[SIZE=18][COLOR=#c8a253]◆[/COLOR] 🌐 Web: [URL=https://www.sexyko.com]www.sexyko.com[/URL]
+[COLOR=#c8a253]◆[/COLOR] 💬 Discord: [URL=https://discord.gg/sexyko]discord.gg/sexyko[/URL] · Forum: [URL=https://forum.sexyko.com]forum.sexyko.com[/URL][/SIZE]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#d14841]🚀 HIT START AND LEAVE THE REST TO GENIE! 🚀[/COLOR][/B][/SIZE][/CENTER]

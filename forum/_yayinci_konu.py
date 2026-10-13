@@ -102,6 +102,7 @@ KONTROL = [
 
 L, NO = KB.basliklar(B)
 BB, HT, MD, DZ = KB.bb(B), KB.onizleme(B), KB.md(B), KB.duz(B, RES)
+KB.kaydet(OUT, B, RES, BASLIK)                       # 13 Eki: EN icin bloklar (_konu_en.py)
 KB.denetle(BB, RES)
 for s in [V.GIRIS[0], V.B01[1], *V.B01_L, *V.B02_L, *V.DESTEK[1], *V.FORM_L, V.NASIL_SON, *V.DIKKAT_L, *[m for _, _, m, _ in V.SART]]: assert s in BB, s[:60]
 assert "sağlam" not in BB and "İÇERİK ÜRETİCİLERİYLE" in BB and len(BASLIK) <= 100, len(BASLIK)

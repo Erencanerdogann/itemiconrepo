@@ -1,0 +1,451 @@
+📘 SEXYKO GAME GUIDE | All Systems, Shortcuts and Events in One Topic | HYPER 16.10 BETA 🔥
+
+[CENTER][IMG]{{R01}}[/IMG][/CENTER]
+
+[CENTER][SIZE=7][B][COLOR=#c8a253]SEXYKO GAME GUIDE[/COLOR][/B][/SIZE]
+[SIZE=5][COLOR=#a89f91]For the newcomer and the 16-year veteran alike — everything you need to know in one topic, with in-game screenshots.[/COLOR][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#c8a253]📑 CONTENTS[/COLOR][/B][/SIZE]
+[SIZE=5][COLOR=#c8a253]01[/COLOR] · 📖 THE GUIDE INSIDE THE GAME
+[COLOR=#c8a253]02[/COLOR] · ⌨️ SHORTCUTS AND INTERFACE
+[COLOR=#c8a253]03[/COLOR] · 🎁 STARTER PACK
+[COLOR=#c8a253]04[/COLOR] · 🧞 ADVANCED GENIE
+[COLOR=#c8a253]05[/COLOR] · ⚙️ F10 SETTINGS — 11 TABS
+[COLOR=#c8a253]06[/COLOR] · ⚔️ SKILL PRESET & QUICK SLOT
+[COLOR=#c8a253]07[/COLOR] · 👥 PARTY SETTINGS
+[COLOR=#c8a253]08[/COLOR] · 🖱️ THE RIGHT-CLICK ERA — NO MORE RUNNING TO NPCS
+[COLOR=#c8a253]09[/COLOR] · 🦸 SOLO CAPE
+[COLOR=#c8a253]10[/COLOR] · 💎 GEM & FRAGMENT · NARKI · PUS EXCHANGE
+[COLOR=#c8a253]11[/COLOR] · 🎯 DROP INFO · DROP SEARCH
+[COLOR=#c8a253]12[/COLOR] · 🌀 SLOT TELEPORT
+[COLOR=#c8a253]13[/COLOR] · 📊 GRIND TRACKER
+[COLOR=#c8a253]14[/COLOR] · ⛏️ AUTO MINING — MINING INN
+[COLOR=#c8a253]15[/COLOR] · 🛒 POWER UP STORE + COUPON
+[COLOR=#c8a253]16[/COLOR] · 🎡 WHEEL OF FORTUNE
+[COLOR=#c8a253]17[/COLOR] · 📅 DAILY QUESTS
+[COLOR=#c8a253]18[/COLOR] · ⏳ EVENT CALENDAR
+[COLOR=#c8a253]19[/COLOR] · 🏆 EVENT RULES
+[COLOR=#c8a253]20[/COLOR] · 🐉 DRAKI'S TOWER
+[COLOR=#c8a253]21[/COLOR] · 🔨 UPGRADE RATES
+[COLOR=#c8a253]22[/COLOR] · ⭐ REBIRTH
+[COLOR=#c8a253]23[/COLOR] · 👁️ EQUIPMENT VIEW
+[COLOR=#c8a253]24[/COLOR] · 🔗 LINKS[/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#c8a253]📖 01 · THE GUIDE INSIDE THE GAME[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5]Click the [B][COLOR=#e6c46a]📖 book[/COLOR][/B] icon at the top left and the guide opens inside the game. The upgrade rates, conversion and mining pages are fed [B][COLOR=#e6c46a]live from the server[/COLOR][/B]. The same guide is also open on the web: [URL=https://sexyko.com/guide/book]sexyko.com/guide[/URL][/SIZE][/CENTER]
+
+[CENTER][URL=https://sexyko.com/guide/book][IMG]{{R02}}[/IMG][/URL]
+[SIZE=5][COLOR=#a89f91]▲ In-game Guide — 14 tabs: Game Guide, Monster List, Quests, Upgrade, Drop Search, Gem & Fragment, Cross Trade, Shozin, Narki, PUS Exchange, Mining, Daily Quests, Event Rewards[/COLOR][/SIZE]
+[SIZE=5][URL=https://sexyko.com/guide/book][B][COLOR=#4fa3ff]📘 Open in guide: The full guide ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]305 monsters[/COLOR][/B] — spawn point + drop list with percentages
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]998 quests[/COLOR][/B] — NPC, requirement and reward
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]380 Shozin recipes[/COLOR][/B] — materials + success rate
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]139 cross trades[/COLOR][/B] · [B][COLOR=#e6c46a]45 PUS packs[/COLOR][/B] · [B][COLOR=#e6c46a]1,893 items[/COLOR][/B] that can be given to Narki
+[COLOR=#c8a253]◆[/COLOR] Search the guide with [B][COLOR=#e6c46a]Ctrl + K[/COLOR][/B] — no need to type Turkish characters[/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#c8a253]⌨️ 02 · SHORTCUTS AND INTERFACE[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]F10[/COLOR][/B] — Settings (11 tabs)
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]K[/COLOR][/B] — Skill · Preset · Save Quickslot
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]U[/COLOR][/B] — Character Info · Perks · Rebirth · Stat Preset
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]H[/COLOR][/B] — Commands · Solo Cape · Streamer
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]I[/COLOR][/B] — Inventory
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Ctrl + D[/COLOR][/B] (on an item) — which monsters drop the item and at what percentage
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Shift + C[/COLOR][/B] — hide the interface
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]⏳ Hourglass[/COLOR][/B] (top right) — event calendar · [B][COLOR=#e6c46a]⏱[/COLOR][/B] (top left) — Grind Tracker
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]🛒[/COLOR][/B] (bottom left) — Power Up Store · [B][COLOR=#e6c46a]🎡[/COLOR][/B] (bottom left) — Wheel of Fortune
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Genie bar[/COLOR][/B] (top right) — ▶ start · ■ stop · ⬇ settings · remaining time[/SIZE][/CENTER]
+
+[CENTER][IMG]{{R16}}[/IMG] [IMG]{{R19}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ H — Command list · I — Inventory[/COLOR][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#c8a253]🎁 03 · STARTER PACK[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5]When you create your character, [B][COLOR=#e6c46a]starter equipment for the job you chose[/COLOR][/B] comes ready.[/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] 3-day [B][COLOR=#e6c46a]EXP Premium[/COLOR][/B] · 3-day [B][COLOR=#e6c46a]Valkyrie Set[/COLOR][/B] · 3-day [B][COLOR=#e6c46a]Pathos (2x)[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] 3-day [B][COLOR=#e6c46a]Wings[/COLOR][/B] · 3-day [B][COLOR=#e6c46a]Magic Bag[/COLOR][/B] · 3-day [B][COLOR=#e6c46a]War Tattoo[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]5,000 HP + 5,000 MP[/COLOR][/B] potions · [B][COLOR=#e6c46a]24-hour Genie[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][IMG]{{F53_4}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Warrior starter equipment[/COLOR][/SIZE][/CENTER]
+
+[CENTER][IMG]{{F53_1}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Rogue starter equipment[/COLOR][/SIZE][/CENTER]
+
+[CENTER][IMG]{{F53_2}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Mage starter equipment[/COLOR][/SIZE][/CENTER]
+
+[CENTER][IMG]{{F53_3}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Priest starter equipment[/COLOR][/SIZE][/CENTER]
+
+[CENTER][IMG]{{F53_5}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Kurian starter equipment[/COLOR][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#e6c46a]📋 Starting values for each job[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Level 83[/COLOR][/B] · [B][COLOR=#e6c46a]1,000,000,000 coins[/COLOR][/B] · [B][COLOR=#e6c46a]1,000 NP[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]302 bonus stats[/COLOR][/B] · [B][COLOR=#e6c46a]148 free skill points[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Warrior[/COLOR][/B] — STR 65 · STA 65 · DEX 60 · INT 50 · CHA 50
+[COLOR=#c8a253]◆[/COLOR] Thigh Bone · Warrior Earring ×2 · Warrior Pendant · Mercenary Ring ×2 · Body Belt[/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Rogue[/COLOR][/B] — STR 60 · STA 60 · DEX 70 · INT 50 · CHA 50
+[COLOR=#c8a253]◆[/COLOR] Skeleton Rib ×2 · Clarence's Training Bow · 500 Arrow · Assassin Earring ×2 · Warrior Pendant · Assassin Ring ×2 · Body Belt[/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Mage[/COLOR][/B] — STR 50 · STA 60 · DEX 60 · INT 70 · CHA 50
+[COLOR=#c8a253]◆[/COLOR] Eerie Skull Cane ×3 · Priest Earring ×2 · Cleric Pendant · Priest Ring ×2 · Body Belt[/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Priest[/COLOR][/B] — STR 50 · STA 60 · DEX 60 · INT 70 · CHA 50
+[COLOR=#c8a253]◆[/COLOR] Bone Breaker · Wolf Slayer Shield · Priest Earring ×2 · Cleric Pendant · Priest Ring ×2 · Body Belt[/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Kurian[/COLOR][/B] — STR 65 · STA 65 · DEX 60 · INT 50 · CHA 50
+[COLOR=#c8a253]◆[/COLOR] Thigh Bone · Warrior Earring ×2 · Warrior Pendant · Mercenary Ring ×2 · Body Belt[/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Every job gets:[/COLOR][/B] War Helmet · War Pauldron · War Pad · War Gauntlet · War Boots
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]In the bag:[/COLOR][/B] 1,000 Holy Water of Grace · 1,000 Spirit Potion · 30 Scroll of 1500HP Up · 30 Scroll of Armor 300 · 30 Scroll of Attack · Speed Up Rice Cake (Priest 30, others 3)[/SIZE][/CENTER]
+
+[CENTER][SIZE=5][URL=https://sexyko.com/guide/beginner-items][B][COLOR=#4fa3ff]📘 Open in guide: Starter Items ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#c8a253]🧞 04 · ADVANCED GENIE[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]8 Attack + 8 Buff/Self + 8 Party[/COLOR][/B] skill slots — each row can be turned on / off separately
+[COLOR=#c8a253]◆[/COLOR] Set HP and MP potions [B][COLOR=#e6c46a]by percentage[/COLOR][/B] (Smart Auto Use)
+[COLOR=#c8a253]◆[/COLOR] Party heal and self heal thresholds · [B][COLOR=#e6c46a]Attack range[/COLOR][/B] slider
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Monster List to Attack[/COLOR][/B] — Add Target / Remove / Clear All: Genie only hits the monsters on the list[/SIZE][/CENTER]
+
+[CENTER][IMG]{{R03}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Knight Genie — Main tab[/COLOR][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Combat:[/COLOR][/B] attack with R · go to the target · return to the hunting center
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Maintenance:[/COLOR][/B] repair with a hammer · keep the premium flash bonus · feed the pet
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Return to town:[/COLOR][/B] when the party breaks up · when the party dies · when arrows run out[/SIZE][/CENTER]
+
+[CENTER][IMG]{{R04}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Knight Genie — Misc tab[/COLOR][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#3ecf8e]💡 While Genie is on, the skill bar is locked; stop it to go back to manual play.[/COLOR][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#c8a253]⚙️ 05 · F10 SETTINGS — 11 TABS[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#e6c46a]Game · Sound · Display · Graphics · Advanced Graphics · Effects · Controls · Loot · Notifications · Font · Security[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Game:[/COLOR][/B] camera · quest tracker window · weather and time of day
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Sound:[/COLOR][/B] music, ambient, character & NPC, kill announcements — each separately
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Display:[/COLOR][/B] window mode · resolution · FPS limit · [B][COLOR=#e6c46a]interface scale 1x / 1.25x / 1.5x / 2x[/COLOR][/B] · HP/MP bar
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Graphics:[/COLOR][/B] shadow, terrain, HDR, Bloom, ACES, MSAA / SMAA, AMD FSR 1[/SIZE][/CENTER]
+
+[CENTER][IMG]{{R05}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ F10 — Game · Sound · Display · Graphics[/COLOR][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Advanced Graphics:[/COLOR][/B] contrast, saturation, temperature, tint + preset color profiles
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Effects:[/COLOR][/B] turn off other players' skills and damage text in CZ
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Controls:[/COLOR][/B] gamepad + movement keys — changes are saved instantly
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Loot:[/COLOR][/B] filter by grade (Magic / Rare / Craft / Unique / Upgrade), upgrade, type and coin value[/SIZE][/CENTER]
+
+[CENTER][IMG]{{R17}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ F10 — Advanced Graphics · Effects · Controls · Loot[/COLOR][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Notifications:[/COLOR][/B] system tips · slave merchant sales · critical supplies · repair · death notice
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Font:[/COLOR][/B] chat, system, nick, clan, tag and item count text sizes[/SIZE][/CENTER]
+
+[CENTER][IMG]{{R18}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ F10 — Notifications · Font[/COLOR][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#e6c46a]🔐 Security — 2nd Password (Pattern)[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5]When the pattern is on, it's asked at every login. [B][COLOR=#e6c46a]F10 → Security → Change Pattern[/COLOR][/B].[/SIZE][/CENTER]
+
+[CENTER][IMG]{{R06}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ F10 — Security[/COLOR][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#c8a253]⚔️ 06 · SKILL PRESET & QUICK SLOT[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5]Open with [B][COLOR=#e6c46a]K[/COLOR][/B]. [B][COLOR=#e6c46a]Preset[/COLOR][/B] saves your skill point distribution, [B][COLOR=#e6c46a]Save Quickslot[/COLOR][/B] saves your skill bar layout — [B][COLOR=#e6c46a]4 separate Quick Slots[/COLOR][/B], name them however you like. Switch quickly between PK, farm, party and event setups.[/SIZE][/CENTER]
+
+[CENTER][IMG]{{R07}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Skill window (K)[/COLOR][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#c8a253]👥 07 · PARTY SETTINGS[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5]From the party panel settings, turn party members' [B][COLOR=#e6c46a]HP · MP · Buff · Damage[/COLOR][/B] info on / off separately — set up the party screen to fit your play style.[/SIZE][/CENTER]
+
+[CENTER][IMG]{{F11_2}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Party Settings — HP · MP · Buff · Damage[/COLOR][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#c8a253]🖱️ 08 · THE RIGHT-CLICK ERA — NO MORE RUNNING TO NPCS[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][IMG]{{F10_1}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Right-click exchange[/COLOR][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]KC · Dragon Wing · Gem · Fragment · Chest:[/COLOR][/B] right-click the item and exchange it without going to an NPC
+[COLOR=#c8a253]◆[/COLOR] When you open a Gem / Fragment / Chest: [B][COLOR=#e6c46a]Sell Directly[/COLOR][/B] or [B][COLOR=#e6c46a]Take to Inventory[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][IMG]{{F10_5}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Right-click the KC item → exchange it directly[/COLOR][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#e6c46a]♻️ Chaotic Generator — Single / Bulk Exchange[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Exchange One[/COLOR][/B] — one by one · [B][COLOR=#e6c46a]Exchange All[/COLOR][/B] — in bulk, up to your empty inventory slots
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Right-click to darken[/COLOR][/B] the rewards you don't want → [B][COLOR=#e6c46a]Sell[/COLOR][/B] (sell) · [B][COLOR=#e6c46a]Storage[/COLOR][/B] (to the bank) · [B][COLOR=#e6c46a]Trash[/COLOR][/B] (delete, gives no coins)[/SIZE][/CENTER]
+
+[CENTER][IMG]{{F43_1}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Chaotic Generator window[/COLOR][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#e6c46a]🏷️ Tag Name — Make Over — Nick — Job Changer[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Tag Name:[/COLOR][/B] right-click → type your name → pick its color with [B][COLOR=#e6c46a]RGB[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Make Over Coupon:[/COLOR][/B] right-click → hair and face
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Scroll of Identity:[/COLOR][/B] right-click → new nick
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Job Changer:[/COLOR][/B] first remove all items you're wearing, then right-click → choose a job[/SIZE][/CENTER]
+
+[CENTER][IMG]{{F30_2}}[/IMG] [IMG]{{F30_3}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Tag Name settings window · above the character[/COLOR][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#c8a253]🦸 09 · SOLO CAPE[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] A cape without joining a clan — buy it from PUS → right-click → pick a design → [B][COLOR=#e6c46a]Purchase[/COLOR][/B] → [B][COLOR=#e6c46a]Confirm[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]15 days[/COLOR][/B] · [B][COLOR=#e6c46a]250 HP · 250 MP · 25 DEF · 3% AP[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] Football club capes: [B][COLOR=#e6c46a]Beşiktaş · Galatasaray · Fenerbahçe · Trabzonspor[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] Change it later: the [B][COLOR=#e6c46a]H → Solo Cape[/COLOR][/B] tab · cape effect [B][COLOR=#e6c46a]500 KC[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][IMG]{{F44_2}}[/IMG] [IMG]{{F44_3}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Solo Cape selection screen · bonuses[/COLOR][/SIZE][/CENTER]
+
+[CENTER][IMG]{{F44_4}}[/IMG] [IMG]{{F44_5}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Beşiktaş · Galatasaray capes[/COLOR][/SIZE][/CENTER]
+
+[CENTER][IMG]{{F44_6}}[/IMG] [IMG]{{F44_7}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Fenerbahçe · Trabzonspor capes[/COLOR][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#c8a253]💎 10 · GEM & FRAGMENT · NARKI · PUS EXCHANGE[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5]Whatever you exchange — [B][COLOR=#e6c46a]what comes out and at what percentage[/COLOR][/B] — it's all in the guide.[/SIZE][/CENTER]
+
+[CENTER][URL=https://sexyko.com/guide/fragment][IMG]{{R21}}[/IMG][/URL]
+[SIZE=5][URL=https://sexyko.com/guide/fragment][B][COLOR=#4fa3ff]📘 Open in guide: Gem & Fragment ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Narki:[/COLOR][/B] the item you give disappears and [B][COLOR=#e6c46a]one reward[/COLOR][/B] is drawn in return; the item you give decides the pool
+[COLOR=#c8a253]◆[/COLOR] 4 pools: [B][COLOR=#e6c46a]Special weapons · Weapons and armor · Old accessories · Accessories[/COLOR][/B] — 1,893 items accepted
+[COLOR=#c8a253]◆[/COLOR] Bound, rented, sealed or timed items can't be given · an exchange can't be undone[/SIZE][/CENTER]
+
+[CENTER][URL=https://sexyko.com/guide/narki][IMG]{{R22}}[/IMG][/URL]
+[SIZE=5][URL=https://sexyko.com/guide/narki][B][COLOR=#4fa3ff]📘 Open in guide: Narki Exchange ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#e6c46a]PUS Exchange:[/COLOR][/B] everything that comes out of the 45 packs — e.g. [B][COLOR=#e6c46a]VIP Package[/COLOR][/B] → all 20 items at once.[/SIZE][/CENTER]
+
+[CENTER][URL=https://sexyko.com/guide/pus-crash][IMG]{{R23}}[/IMG][/URL]
+[SIZE=5][URL=https://sexyko.com/guide/pus-crash][B][COLOR=#4fa3ff]📘 Open in guide: PUS Exchange ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#c8a253]🎯 11 · DROP INFO · DROP SEARCH[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] Click a monster → the [B][COLOR=#e6c46a]Drop Info[/COLOR][/B] box below: dropped items and their percentages
+[COLOR=#c8a253]◆[/COLOR] Type the [B][COLOR=#e6c46a]item name[/COLOR][/B] in the search above → which monsters drop it and at what percentage[/SIZE][/CENTER]
+
+[CENTER][IMG]{{F34_2}}[/IMG] [IMG]{{F34_3}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Drop Info — monster view · item search[/COLOR][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Right-click[/COLOR][/B] an item in the list → it darkens → [B][COLOR=#e6c46a]Auto Loot won't pick it up[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] If you blocked it by mistake, remove it from the [B][COLOR=#e6c46a]Blocked[/COLOR][/B] list
+[COLOR=#c8a253]◆[/COLOR] If [B][COLOR=#e6c46a]CTRL + D[/COLOR][/B] is shown at the bottom of an item's description → press it to see the drop source[/SIZE][/CENTER]
+
+[CENTER][IMG]{{F34_4}}[/IMG] [IMG]{{F50_1}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Blocked list · Drop Search (Ctrl + D)[/COLOR][/SIZE][/CENTER]
+
+[CENTER][URL=https://sexyko.com/guide/monsters][IMG]{{R14}}[/IMG][/URL]
+[SIZE=5][URL=https://sexyko.com/guide/monsters][B][COLOR=#4fa3ff]📘 Open in guide: Monster List ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#c8a253]🌀 12 · SLOT TELEPORT[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5]Go to the [B][COLOR=#e6c46a][Teleport] Portal[/COLOR][/B] NPC → choose the monster → teleport straight to its spot for [B][COLOR=#e6c46a]250,000 coins[/COLOR][/B]. [B][COLOR=#e6c46a]Luferson · El Morad Castle · Eslant[/COLOR][/B].[/SIZE][/CENTER]
+
+[CENTER][IMG]{{F52_1}}[/IMG] [IMG]{{F52_2}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ [Teleport] Portal · monster selection[/COLOR][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#c8a253]📊 13 · GRIND TRACKER[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5]The [B][COLOR=#e6c46a]⏱[/COLOR][/B] icon at the top left: farm time, coins collected, [B][COLOR=#e6c46a]average coins per hour[/COLOR][/B], dropped items and [B][COLOR=#e6c46a]items per hour[/COLOR][/B] — compare how efficient spots are, in game.[/SIZE][/CENTER]
+
+[CENTER][IMG]{{F14_2}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Opening the Farm Grind Tracker[/COLOR][/SIZE][/CENTER]
+
+[CENTER][IMG]{{R08}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Grind Tracker window[/COLOR][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#c8a253]⛏️ 14 · AUTO MINING — MINING INN[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] Auto Mining products pile up in the [B][COLOR=#e6c46a]Mining Inn[/COLOR][/B] — click the marked box
+[COLOR=#c8a253]◆[/COLOR] The Mining Inn storage is [B][COLOR=#e6c46a]one-way[/COLOR][/B]: you [B][COLOR=#e6c46a]can withdraw[/COLOR][/B] items, you [B][COLOR=#e6c46a]can't deposit[/COLOR][/B] items[/SIZE][/CENTER]
+
+[CENTER][IMG]{{F24_2}}[/IMG] [IMG]{{F24_3}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Mining Inn entrance · storage[/COLOR][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#c8a253]🛒 15 · POWER UP STORE + COUPON[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] Bulk shopping with the [B][COLOR=#e6c46a]Basket[/COLOR][/B] · [B][COLOR=#e6c46a]Knight Cash[/COLOR][/B] and [B][COLOR=#e6c46a]SexyBalance[/COLOR][/B] balances shown separately
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Coupon field → CHECK:[/COLOR][/B] sponsor streamer discount code — up to 30% during campaigns
+[COLOR=#c8a253]◆[/COLOR] Coupons work on single items and in the Basket · not on [B][COLOR=#e6c46a]VIP[/COLOR][/B] and [B][COLOR=#e6c46a]Farm[/COLOR][/B] packs[/SIZE][/CENTER]
+
+[CENTER][IMG]{{R09}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Power Up Store (in game)[/COLOR][/SIZE][/CENTER]
+
+[CENTER][IMG]{{F27_2}}[/IMG] [IMG]{{F51_1}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Basket · discount code[/COLOR][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#c8a253]🎡 16 · WHEEL OF FORTUNE[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5]Spin as much as you like for [B][COLOR=#e6c46a]350 KC[/COLOR][/B], or stay [B][COLOR=#e6c46a]online for 2 hours[/COLOR][/B] and earn [B][COLOR=#e6c46a]1 free[/COLOR][/B] spin.[/SIZE][/CENTER]
+
+[CENTER][IMG]{{R10}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Wheel of Fortune (Lucky Wheel)[/COLOR][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#c8a253]📅 17 · DAILY QUESTS[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] Click the [B][COLOR=#e6c46a]Daily Quest[/COLOR][/B] section at the bottom left → choose a quest → [B][COLOR=#e6c46a]Detail[/COLOR][/B] → [B][COLOR=#e6c46a]Accept[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] The timer starts when you press Accept — finish before time runs out and the [B][COLOR=#e6c46a]reward comes automatically[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] The guide lists [B][COLOR=#e6c46a]23 daily quests[/COLOR][/B] (Ronark Land) — e.g. [B][COLOR=#e6c46a]Atross & Riote:[/COLOR][/B] 10 Atross + 10 Lyot → [B][COLOR=#e6c46a]500 Knight Cash[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][IMG]{{F33_2}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Daily Quest entrance (bottom left)[/COLOR][/SIZE][/CENTER]
+
+[CENTER][URL=https://sexyko.com/guide/daily-quests][IMG]{{R20}}[/IMG][/URL]
+[SIZE=5][URL=https://sexyko.com/guide/daily-quests][B][COLOR=#4fa3ff]📘 Open in guide: Daily Quests ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#c8a253]⏳ 18 · EVENT CALENDAR[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5]The [B][COLOR=#e6c46a]hourglass[/COLOR][/B] at the top right: hover = live info · click = calendar · [B][COLOR=#e6c46a]Set notification[/COLOR][/B] → a warning 5 minutes before the event.[/SIZE][/CENTER]
+
+[CENTER][IMG]{{F38_2}}[/IMG] [IMG]{{F38_3}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Hourglass — info window · event window[/COLOR][/SIZE][/CENTER]
+
+[CENTER][IMG]{{R11}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Event Calendar (in game)[/COLOR][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Chaos Dungeon[/COLOR][/B] — every day 00:00
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Border Defense War[/COLOR][/B] — every day 01:00 · 15:30 · 19:30
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Juraid Mountain[/COLOR][/B] — every day 02:00 · 18:00
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Chaos Stone War[/COLOR][/B] — every day 18:30
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Rank War[/COLOR][/B] — every day 21:30
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Draki's Tower[/COLOR][/B] — Sunday 00:00
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Castle Siege War[/COLOR][/B] — Sunday 22:00[/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#c8a253]🏆 19 · EVENT RULES[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Knight Chaos:[/COLOR][/B] 18 players, free, 20 minutes — everyone plays the same character with 10,000 HP; most kills and fewest deaths get ahead
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Border Defense War:[/COLOR][/B] 8v8, 30 minutes — carry the altar to your base for 80 points, a kill is 2 points; first to 600 points wins
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Juraid Mountain:[/COLOR][/B] 8v8 PvPvE, 50 minutes, Lv 70+ — the nation that kills Devabird wins
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Forgotten Temple:[/COLOR][/B] 80 players, 100,000 Noah — [Priest] Iris (Moradon 815,921), monsters coming in waves
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Castle Siege War:[/COLOR][/B] clan war for the Delos castle, 60 minutes — sign-up 100,000,000 Noah
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Knight Royale:[/COLOR][/B] 80-player battle royale, everyone starts at level 1
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Under the Castle:[/COLOR][/B] Lv 75+, 4 bosses — your equipment burns when you die, carry a [B][COLOR=#e6c46a]Life Crystal[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][URL=https://sexyko.com/guide/book/chaos][IMG]{{R12}}[/IMG][/URL]
+[SIZE=5][URL=https://sexyko.com/guide/book/chaos][B][COLOR=#4fa3ff]📘 Open in guide: Knight Chaos ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][URL=https://sexyko.com/guide/event-rewards][IMG]{{R25}}[/IMG][/URL]
+[SIZE=5][URL=https://sexyko.com/guide/event-rewards][B][COLOR=#4fa3ff]📘 Open in guide: Event Rewards ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#c8a253]🐉 20 · DRAKI'S TOWER[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] Entrance: El Morad players at [B][COLOR=#e6c46a]El Morad Castle[/COLOR][/B], Karus players at [B][COLOR=#e6c46a]Luferson Castle[/COLOR][/B] — [B][COLOR=#e6c46a]Draki Rift[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]5 stages[/COLOR][/B], each with floors and bosses · final boss [B][COLOR=#e6c46a]Draki El Rasaga[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]3 entries[/COLOR][/B] per day · resets every day at [B][COLOR=#e6c46a]18:00[/COLOR][/B] · a race against time, [B][COLOR=#e6c46a]monthly ranking[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] At the end of stages 1-3: [B][COLOR=#e6c46a][Sundries] Ghost[/COLOR][/B] (repair + potions) and [B][COLOR=#e6c46a][Monster Strategist][/COLOR][/B] (AP · DEF · 1,000 HP boost)[/SIZE][/CENTER]
+
+[CENTER][URL=https://sexyko.com/guide/book/draki][IMG]{{R24}}[/IMG][/URL]
+[SIZE=5][URL=https://sexyko.com/guide/book/draki][B][COLOR=#4fa3ff]📘 Open in guide: Draki's Tower ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#c8a253]🔨 21 · UPGRADE RATES[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5]Rates are shown in the guide and [B][COLOR=#e6c46a]live on the Anvil[/COLOR][/B]; the highest step is [B][COLOR=#e6c46a]+8[/COLOR][/B]. Example — [B][COLOR=#e6c46a]Blessed Upgrade Scroll (High Class):[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] +1 → +2 [B][COLOR=#e6c46a]100%[/COLOR][/B] · +2 → +3 [B][COLOR=#e6c46a]100%[/COLOR][/B] · +3 → +4 [B][COLOR=#e6c46a]95%[/COLOR][/B] · +4 → +5 [B][COLOR=#e6c46a]75%[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] +5 → +6 [B][COLOR=#e6c46a]50%[/COLOR][/B] · +6 → +7 [B][COLOR=#e6c46a]25%[/COLOR][/B] · +7 → +8 [B][COLOR=#e6c46a]4%[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] The rate goes up with [B][COLOR=#e6c46a]Trina's Piece[/COLOR][/B] · cost 120,000 – 360,000 coins[/SIZE][/CENTER]
+
+[CENTER][URL=https://sexyko.com/guide/upgrade][IMG]{{R13}}[/IMG][/URL]
+[SIZE=5][URL=https://sexyko.com/guide/upgrade][B][COLOR=#4fa3ff]📘 Open in guide: Upgrade Rates ↗[/COLOR][/B][/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#c8a253]⭐ 22 · REBIRTH[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][B][COLOR=#e6c46a]Level 83 + 100% EXP + 100,000,000 coins + 10,000 NP[/COLOR][/B] → Rebirth. Each Rebirth level gives [B][COLOR=#e6c46a]+2 stat points[/COLOR][/B]. Check your status in the [B][COLOR=#e6c46a]U → Rebirth[/COLOR][/B] tab.[/SIZE][/CENTER]
+
+[CENTER][IMG]{{F49_1}}[/IMG] [IMG]{{F49_2}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Rebirth requirements · Rebirth process[/COLOR][/SIZE][/CENTER]
+
+[CENTER][IMG]{{R15}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Character Info (U)[/COLOR][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#c8a253]👁️ 23 · EQUIPMENT VIEW[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Right-click a character → Equipment View[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] Equipped items and [B][COLOR=#e6c46a]upgrade levels[/COLOR][/B] · inventory
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Level · HP · MP · SP · STR · DEX · INT[/COLOR][/B] · Attack · Defence
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]6 resistances[/COLOR][/B] (Fire · Ice · Lightning · Magic · Curse · Poison) · active [B][COLOR=#e6c46a]Buff List[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][IMG]{{F46_1}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Opening Equipment View[/COLOR][/SIZE][/CENTER]
+
+[CENTER][IMG]{{F46_2}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Equipment / Ability window[/COLOR][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#c8a253]🔗 24 · LINKS[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][SIZE=5][COLOR=#c8a253]◆[/COLOR] 🌐 Web: [URL=https://sexyko.com]sexyko.com[/URL]
+[COLOR=#c8a253]◆[/COLOR] 📘 Guide: [URL=https://sexyko.com/guide/book]sexyko.com/guide[/URL]
+[COLOR=#c8a253]◆[/COLOR] 💬 Forum: [URL=https://forum.sexyko.com]forum.sexyko.com[/URL]
+[COLOR=#c8a253]◆[/COLOR] 📥 Client: [URL=https://sexyko.com/download]sexyko.com/download[/URL][/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=6][B][COLOR=#d14841]🔥 SEXYKO — WHERE PVP BEGINS 🔥[/COLOR][/B][/SIZE][/CENTER]

@@ -1,0 +1,525 @@
+{
+"baslik": "📘 SEXYKO OYUN REHBERİ (KISA) | 24 Sistem Tek Bakışta, Detayı Rehberde | HYPER 16.10 BETA 🔥",
+"B": [
+[
+"h",
+"📖",
+"OYUNUN İÇİNDEKİ REHBER"
+],
+[
+"h",
+"⌨️",
+"KISAYOLLAR VE ARAYÜZ"
+],
+[
+"h",
+"🎁",
+"BAŞLANGIÇ PAKETİ"
+],
+[
+"h",
+"🧞",
+"GELİŞMİŞ GENIE"
+],
+[
+"h",
+"⚙️",
+"F10 AYARLAR — 11 SEKME"
+],
+[
+"h",
+"⚔️",
+"SKILL PRESET & QUICK SLOT"
+],
+[
+"h",
+"👥",
+"PARTY AYARLARI"
+],
+[
+"h",
+"🖱️",
+"SAĞ TIK DEVRİ — NPC'YE GİTMEYE SON"
+],
+[
+"h",
+"🦸",
+"SOLO PELERİN"
+],
+[
+"h",
+"💎",
+"GEM & FRAGMENT · NARKİ · PUS KIRDIRMA"
+],
+[
+"h",
+"🎯",
+"DROP INFO · DROP SEARCH"
+],
+[
+"h",
+"🌀",
+"SLOT TELEPORT"
+],
+[
+"h",
+"📊",
+"GRIND TRACKER"
+],
+[
+"h",
+"⛏️",
+"AUTO MINING — MINING INN"
+],
+[
+"h",
+"🛒",
+"POWER UP STORE + KUPON"
+],
+[
+"h",
+"🎡",
+"ÇARKIFELEK"
+],
+[
+"h",
+"📅",
+"GÜNLÜK GÖREVLER"
+],
+[
+"h",
+"⏳",
+"ETKİNLİK TAKVİMİ"
+],
+[
+"h",
+"🏆",
+"ETKİNLİK KURALLARI"
+],
+[
+"h",
+"🐉",
+"DRAKI'S TOWER"
+],
+[
+"h",
+"🔨",
+"UPGRADE ORANLARI"
+],
+[
+"h",
+"⭐",
+"REBIRTH"
+],
+[
+"h",
+"👁️",
+"EQUIPMENT VIEW"
+],
+[
+"h",
+"🔗",
+"BAĞLANTILAR"
+],
+[
+"p",
+"Sol üstteki **📖 kitap** → oyunun içinde rehber: **305 monster**, **998 görev**, upgrade oranları, drop arama."
+],
+[
+"p",
+"**F10** ayarlar · **K** skill · **U** karakter · **H** komutlar · **I** envanter · **Ctrl + D** drop kaynağı."
+],
+[
+"p",
+"**Level 83** · **1.000.000.000 coin** · 3 günlük EXP Premium, Valkyrie Set, Pathos, Kanat, Magic Bag, War Tattoo · **24 saat Genie**."
+],
+[
+"p",
+"**8 Attack + 8 Buff + 8 Party** skill slotu · yüzdeyle HP/MP · sadece listedeki moblara vurur."
+],
+[
+"p",
+"Grafik, efekt, **loot filtresi**, font ve **2. şifre** — 11 sekme."
+],
+[
+"p",
+"**K** → **4 ayrı Quick Slot** — PK, farm, party, event düzenleri arasında hızlı geç."
+],
+[
+"p",
+"Party üyelerinin **HP · MP · Buff · Damage** bilgisini ayrı ayrı aç / kapat."
+],
+[
+"p",
+"KC, Gem, Fragment, Chest: **sağ tıkla kırdır** · Tag Name, Make Over, Nick, Job Changer da sağ tıkla."
+],
+[
+"p",
+"Clana girmeden pelerin: **15 gün · 250 HP · 250 MP · 25 DEF · %3 AP** · takım pelerinleri."
+],
+[
+"p",
+"Neyi kırdırırsan **ne çıkar, yüzde kaç** — hepsi rehberde."
+],
+[
+"p",
+"Moba tıkla → **drop yüzdeleri** · item üstünde **Ctrl + D** → hangi mobdan düşer."
+],
+[
+"p",
+"**[Teleport] Portal** → mobu seç → **250.000 coin** ile slotuna ışınlan."
+],
+[
+"p",
+"Sol üst **⏱** → farm süresi, **saatlik coin** ve **saatlik item** — slot verimini karşılaştır."
+],
+[
+"p",
+"Auto Mining ürünleri **Mining Inn**'de birikir · depo tek yönlü: sadece çekilir."
+],
+[
+"p",
+"**Basket** ile toplu alışveriş · sponsor yayıncı kodu ile **%30'a varan** indirim."
+],
+[
+"p",
+"**350 KC** ile çevir ya da **2 saat online** kal, **1 ücretsiz** hak."
+],
+[
+"p",
+"Sol alt **Daily Quest** → görev seç → **Accept** → süre dolmadan bitir, ödül otomatik."
+],
+[
+"p",
+"Sağ üst **kum saati** → takvim · **Bildirim kur** → etkinlikten 5 dakika önce uyarı."
+],
+[
+"p",
+"Knight Chaos, Border Defense War, Juraid, Forgotten Temple, Castle Siege, Knight Royale, Under the Castle — kurallar ve ödüller."
+],
+[
+"p",
+"**5 bölüm** · günde **3 giriş** · sıfırlama **18:00** · aylık sıralama."
+],
+[
+"p",
+"Oranlar rehberde ve **Anvil'de canlı** · en yüksek **+8** · **Trina's Piece** oranı artırır."
+],
+[
+"p",
+"**83 Lv + %100 EXP + 100.000.000 coin + 10.000 NP** → Rebirth · her seviye **+2 stat**."
+],
+[
+"p",
+"Karaktere **sağ tık → Equipment View**: ekipman, upgrade, stat, resistance, buff listesi."
+],
+[
+"liste",
+[
+"Rehberin tamamı",
+"Rehber Sistemi"
+]
+],
+[
+"liste",
+[
+"Rehber"
+]
+],
+[
+"liste",
+[
+"Başlangıç Eşyaları",
+"Başlangıç Paketi"
+]
+],
+[
+"liste",
+[
+"Genie Sistemi"
+]
+],
+[
+"liste",
+[
+"F10 Oyun Ayarları"
+]
+],
+[
+"liste",
+[
+"Skill Preset & Quick Slot"
+]
+],
+[
+"liste",
+[
+"Party Sistemi"
+]
+],
+[
+"liste",
+[
+"Kırdırma",
+"Chaotic Generator",
+"Tag Name",
+"Make Over",
+"Nick",
+"Job Changer"
+]
+],
+[
+"liste",
+[
+"Solo Pelerin",
+"Solo Cape"
+]
+],
+[
+"liste",
+[
+"Gem & Fragment",
+"Narki",
+"PUS Kırdırma"
+]
+],
+[
+"liste",
+[
+"Drop Info",
+"Drop Search",
+"Monster Listesi"
+]
+],
+[
+"liste",
+[
+"Slot Teleport"
+]
+],
+[
+"liste",
+[
+"Farm Grind Tracker"
+]
+],
+[
+"liste",
+[
+"Auto Mining — Mining Inn"
+]
+],
+[
+"liste",
+[
+"Power Up Store",
+"PUS İndirim Kodu"
+]
+],
+[
+"liste",
+[
+"Çarkıfelek"
+]
+],
+[
+"liste",
+[
+"Günlük Görevler",
+"Daily Quest"
+]
+],
+[
+"liste",
+[
+"Kum Saati"
+]
+],
+[
+"liste",
+[
+"Knight Chaos",
+"Etkinlik Ödülleri"
+]
+],
+[
+"liste",
+[
+"Draki's Tower",
+"Draki's Tower"
+]
+],
+[
+"liste",
+[
+"Upgrade Oranları",
+"Upgrade Oranları"
+]
+],
+[
+"liste",
+[
+"Karakter Rebirth"
+]
+],
+[
+"liste",
+[
+"Equipment View"
+]
+],
+[
+"liste",
+[
+"sexyko.com",
+"Rehber",
+"Forum",
+"Client"
+]
+],
+[
+"p",
+"SEXYKO OYUN REHBERİ"
+],
+[
+"p",
+"24 başlık, kısa kısa — detay için başlığın altındaki linke tıkla."
+],
+[
+"p",
+"🔥 SEXYKO — PVP'NİN BAŞLADIĞI YER 🔥"
+]
+],
+"RES": {
+"R01": [
+null,
+"SexyKO logo",
+"https://ko-yardim.com/attachments/logo_big-png.20989/"
+],
+"GSAYIM": [
+null,
+"Geri sayım GIF — Hazır Ol! (Ko-Yardım konusundan)",
+"https://ko-yardim.com/attachments/hazir-ol-sexyko-icin-geri-sayim-basladi-_-16-ekim-beta-23-ekim-official-gif.21037/"
+],
+"GTAKVIM": [
+null,
+"Takvim GIF — 16 Ekim Beta · 23 Ekim Official (Ko-Yardım konusundan)",
+"https://ko-yardim.com/attachments/takvimleri-isaretle-_-16-ekim-beta-o-23-ekim-official-gif.21039/"
+],
+"KR02": [
+"KR02.jpg",
+"Oyun içi Rehber penceresi",
+""
+],
+"KR19": [
+"KR19.jpg",
+"Envanter (I)",
+""
+],
+"KF53_4": [
+"KF53_4.jpg",
+"Warrior başlangıç ekipmanı",
+""
+],
+"KR03": [
+"KR03.jpg",
+"Knight Genie — Main",
+""
+],
+"KR05": [
+"KR05.jpg",
+"F10 — Oyun · Ses · Ekran · Grafik",
+""
+],
+"KR07": [
+"KR07.jpg",
+"Skill penceresi (K)",
+""
+],
+"KF11_2": [
+"KF11_2.jpg",
+"Party Settings — HP · MP · Buff · Damage",
+""
+],
+"KF10_5": [
+"KF10_5.jpg",
+"KC itemine sağ tık → direkt kırdır",
+""
+],
+"KF44_2": [
+"KF44_2.jpg",
+"Solo Pelerin seçim ekranı",
+""
+],
+"KR21": [
+"KR21.jpg",
+"Rehber — Gem & Fragment",
+""
+],
+"KF34_2": [
+"KF34_2.jpg",
+"Drop Info — mob görünümü",
+""
+],
+"KF52_2": [
+"KF52_2.jpg",
+"Slot Teleport — mob seçimi",
+""
+],
+"KR08": [
+"KR08.jpg",
+"Grind Tracker penceresi",
+""
+],
+"KF24_2": [
+"KF24_2.jpg",
+"Mining Inn giriş",
+""
+],
+"KR09": [
+"KR09.jpg",
+"Power Up Store",
+""
+],
+"KR10": [
+"KR10.jpg",
+"Çarkıfelek (Lucky Wheel)",
+""
+],
+"KR20": [
+"KR20.jpg",
+"Rehber — Günlük Görevler",
+""
+],
+"KR11": [
+"KR11.jpg",
+"Etkinlik Takvimi",
+""
+],
+"KR12": [
+"KR12.jpg",
+"Rehber — Knight Chaos",
+""
+],
+"KR24": [
+"KR24.jpg",
+"Rehber — Draki's Tower",
+""
+],
+"KR13": [
+"KR13.jpg",
+"Rehber — Upgrade Oranları",
+""
+],
+"KF49_1": [
+"KF49_1.jpg",
+"Rebirth gereksinimleri",
+""
+],
+"KF46_2": [
+"KF46_2.jpg",
+"Equipment / Ability penceresi",
+""
+]
+}
+}

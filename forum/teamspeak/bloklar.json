@@ -1,0 +1,180 @@
+{
+"baslik": "🎙️ SEXYKO'DA ÜCRETSİZ TEAMSPEAK DÖNEMİ BAŞLADI! | Clanına Özel Ses Sunucusu · 3 Adımda Kurulum",
+"B": [
+[
+"banner",
+"R01"
+],
+[
+"baslik",
+"ÜCRETSİZ TEAMSPEAK SİSTEMİ AKTİF",
+"Clanına özel, düşük pingli ses sunucusu — 3 adımda kur"
+],
+[
+"icindekiler"
+],
+[
+"ayrac"
+],
+[
+"h",
+"🎙️",
+"BİR BAKIŞTA"
+],
+[
+"img",
+"Q00",
+""
+],
+[
+"p",
+"SexyKO olarak oyuncularımızın clan içi iletişimini daha hızlı, stabil ve kolay hale getirmek için Ücretsiz TeamSpeak sistemini aktif ettik."
+],
+[
+"p",
+"**Artık ekstra ücret ödemeden, düşük pingli kendi TeamSpeak alanınızı oluşturabilir ve clanınızla birlikte kullanmaya başlayabilirsiniz.**"
+],
+[
+"ayrac"
+],
+[
+"h",
+"🔹",
+"1. ADIM — PANELDEN TEAMSPEAK BÖLÜMÜNE GİRİN"
+],
+[
+"img",
+"Q01",
+""
+],
+[
+"ayrac"
+],
+[
+"h",
+"🔹",
+"2. ADIM — SUNUCU BİLGİLERİNİZİ OLUŞTURUN"
+],
+[
+"img",
+"Q02",
+""
+],
+[
+"p",
+"Açılan ekranda sizden istenen bilgileri doldurun."
+],
+[
+"liste",
+[
+"Sunucu adınızı belirleyin.",
+"Size özel TeamSpeak adresinizi oluşturun.",
+"Gerekli bilgileri eksiksiz şekilde doldurun."
+]
+],
+[
+"p",
+"Bilgileri tamamladıktan sonra TeamSpeak sunucunuzu oluşturabilirsiniz."
+],
+[
+"not",
+"🔑 **İşlem tamamlandığında sistem tarafından size özel bir KEY oluşturulacaktır.** Bu KEY’i mutlaka kaydedin."
+],
+[
+"ayrac"
+],
+[
+"h",
+"🔹",
+"3. ADIM — KEY İLE İLK GİRİŞİNİZİ TAMAMLAYIN"
+],
+[
+"img",
+"Q03",
+""
+],
+[
+"p",
+"✅ **İşlem tamamlandı!** Artık clanınızla birlikte düşük pingli TeamSpeak hizmetinizi tamamen ücretsiz şekilde kullanmaya başlayabilirsiniz."
+],
+[
+"ayrac"
+],
+[
+"h",
+"⚔️",
+"CLANINI TOPLA, İLETİŞİMİNİ KUR!"
+],
+[
+"img",
+"Q04",
+""
+],
+[
+"p",
+"PK, farm, event ve Castle Siege War gibi takım iletişiminin önemli olduğu tüm alanlarda clanınızla çok daha hızlı ve düzenli organize olun."
+],
+[
+"p",
+"SexyKO olarak yalnızca oyun içi sistemlere değil, oyuncularımızın ihtiyaç duyduğu tüm alanlara yatırım yapmaya devam ediyoruz. İhtiyaç duyulan sistemleri hayata geçiriyoruz."
+],
+[
+"p",
+"🔥 **İlklerin Sunucusu SexyKO** — Daha kaliteli oyun. Daha güçlü topluluk."
+],
+[
+"ayrac"
+],
+[
+"h",
+"🔗",
+"BAĞLANTILAR"
+],
+[
+"liste",
+[
+"🌐 Web: [[https://www.sexyko.com|www.sexyko.com]]",
+"💬 Discord: [[https://discord.gg/sexyko|discord.gg/sexyko]] · Forum: [[https://forum.sexyko.com|forum.sexyko.com]]"
+]
+],
+[
+"ayrac"
+],
+[
+"son",
+"🔥 PVP’NİN GEÇMİŞİ DEĞİL, BAŞLANGICI — SEXYKO 🔥"
+]
+],
+"RES": {
+"R01": [
+null,
+"SexyKO logo",
+"https://ko-yardim.com/attachments/logo_big-png.20989/"
+],
+"Q00": [
+"Q00_ozet.jpg",
+"Ücretsiz TeamSpeak — bir bakışta",
+""
+],
+"Q01": [
+"Q01_adim1.jpg",
+"1. adım — panelden TeamSpeak",
+""
+],
+"Q02": [
+"Q02_adim2.jpg",
+"2. adım — sunucu bilgileri + KEY",
+""
+],
+"Q03": [
+"Q03_adim3.jpg",
+"3. adım — KEY ile ilk giriş",
+""
+],
+"Q04": [
+"Q04_clan.jpg",
+"Clanını topla — PK · farm · event · CSW",
+""
+]
+}
+}

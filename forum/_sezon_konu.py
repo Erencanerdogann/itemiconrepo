@@ -88,6 +88,7 @@ KONTROL = [
 
 L, NO = KB.basliklar(B)
 BB, HT, MD, DZ = KB.bb(B), KB.onizleme(B), KB.md(B), KB.duz(B, RES)
+KB.kaydet(OUT, B, RES, BASLIK)                       # 13 Eki: EN icin bloklar (_konu_en.py)
 KB.denetle(BB, RES)
 for z in V.SEZON:
     for d in (z["acilis"], z["birlesim"]): assert V.kisa(d) in BB, V.kisa(d)          # turnuva tarihi grafikte (Z01 + Z05)

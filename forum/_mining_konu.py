@@ -99,6 +99,7 @@ KONTROL = [
 
 L, NO = KB.basliklar(B)
 BB, HT, MD, DZ = KB.bb(B), KB.onizleme(B), KB.md(B), KB.duz(B, RES)
+KB.kaydet(OUT, B, RES, BASLIK)                       # 13 Eki: EN icin bloklar (_konu_en.py)
 KB.denetle(BB, RES)
 for x in V.G24 + V.N24 + V.P24: assert f"{x['ad']}" in BB, x["ad"]
 assert tr(V.TOPLAM_G) in BB and tr(V.TOPLAM_N) in BB and tr(V.TOPLAM_P) in BB and KAT in BB and KAT_P in BB and len(BASLIK) <= 100, len(BASLIK)

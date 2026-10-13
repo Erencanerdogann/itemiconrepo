@@ -2,17 +2,25 @@
 # HYPER BETA ODULLERI GORSELLERI (patron 7 Eki: "skill ve master gibi ... resimli detayli" + Semih "gorselli yaptin ya guzel oldu").
 # Veri: _odul_veri.py (forum.sexyko.com/d/54'e assert'li). Kart stili + buyuk font: _skill_gorsel.py (kart, CSS, buyut_css) — ayni gorunum.
 # CIKTI: odul/resim/O00..O05 (*.jpg, 960 px) -> _odul_konu.py konuya koyar.
+# 13 Eki: `--en` -> Ingilizce (veri _odul_veri_en.py, cikti odul/resim_en/). TR cikti degismez (md5 testi).
 import sys; sys.stdout.reconfigure(encoding="utf-8")
 import os
 from playwright.sync_api import sync_playwright
 import _skill_gorsel as SG
-import _odul_veri as V
 
-RD = os.path.join(V.OD, "resim"); os.makedirs(RD, exist_ok=True)
+EN = "--en" in sys.argv
+if EN:
+    import _odul_veri_en as V
+else:
+    import _odul_veri as V
+L = lambda tr, en: en if EN else tr          # her gorunen yazi: L("turkce", "english")
+
+RD = os.path.join(V.OD, "resim_en" if EN else "resim"); os.makedirs(RD, exist_ok=True)
 A, A2, G, VU = SG.ALTIN, SG.ALTIN2, SG.GRI, SG.VURGU
 TL_R, SB_R = "#3ecf8e", "#4fd1ff"        # nakit yesil, SB mavi (her gorselde ayni anlam)
-ET = "SEXYKO · HYPER BETA ÖDÜLLERİ"
+ET = L("SEXYKO · HYPER BETA ÖDÜLLERİ", "SEXYKO · HYPER BETA REWARDS")
 e = lambda s: SG.e(s).replace("&#x27;", "’")   # kalin yazida duz kesme isareti nokta gibi gorunuyor -> tipografik
+FIN = V.CSW[-1][2]                              # son CSW = final (dilden bagimsiz)
 
 ORTAK = f"""
 .tl{{color:{TL_R};font-weight:900;white-space:nowrap}} .sb{{color:{SB_R};font-weight:900;white-space:nowrap}} .hk{{color:{VU};font-weight:900;white-space:nowrap}}
@@ -28,7 +36,7 @@ def para(x):
     """'20.000 TL' -> yesil, '20.000 SB' -> mavi, digeri (heykel) turuncu."""
     if x.endswith(" TL"): return f'<span class="tl">💵 {e(x)}</span>'
     if x.endswith(" SB"): return f'<span class="sb">💎 {e(x)}</span>'
-    if "Kişi başı" in x: return f'<span class="sb">💎 {e(x)}</span>'
+    if "Kişi başı" in x or "per player" in x: return f'<span class="sb">💎 {e(x)}</span>'
     return f'<span class="hk">🗿 {e(x)}</span>'
 
 
@@ -36,14 +44,18 @@ def o00():
     css = ORTAK + f""".g{{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}}
 .g .kut{{text-align:center;padding:16px 12px}} .g .ic{{font-size:40px;line-height:1}} .g .b{{font-size:16px;font-weight:900;color:{A2};letter-spacing:1px;margin:8px 0 6px}}
 .g .d{{font-size:15px;line-height:1.5}}"""
-    k = [("🏰", "4 BETA CSW", f'<span class="tl">💵 {V.GENEL_TOPLAM[0]}</span><br><span class="sb">💎 {V.GENEL_TOPLAM[1]}</span><br>4 CSW genel toplamı'),
-         ("👑", "CLAN SIRALAMASI", f'<span class="sb">💎 {V.CLAN_TOPLAM}</span><br>ilk 3 Clan · genel Clan NP sıralaması'),
-         ("⚔️", "JOB SIRALAMASI", f'Her Job 1.\'si: <span class="tl">2.500 TL</span> + <span class="sb">2.500 SB</span><br><span class="hk">🗿 30 cm fiziksel heykel</span>'),
-         ("🎁", "100.000+ NP ÇEKİLİŞİ", '<span class="hk">🗿 Job Heykeli</span> + <span class="sb">💎 SB</span><br>100.000 NP ve üzeri kasanlar'),
-         ("📅", "CSW TAKVİMİ", "17 · 18 · 20 · 22 Ekim<br>her gün <b>22:00</b> · 10 dk hazırlık + 60 dk savaş"),
+    k = [("🏰", "4 BETA CSW", f'<span class="tl">💵 {V.GENEL_TOPLAM[0]}</span><br><span class="sb">💎 {V.GENEL_TOPLAM[1]}</span><br>' + L("4 CSW genel toplamı", "4 CSW grand total")),
+         ("👑", L("CLAN SIRALAMASI", "CLAN RANKING"), f'<span class="sb">💎 {V.CLAN_TOPLAM}</span><br>' + L("ilk 3 Clan · genel Clan NP sıralaması", "top 3 Clans · overall Clan NP ranking")),
+         ("⚔️", L("JOB SIRALAMASI", "JOB RANKING"), L(f'Her Job 1.\'si: <span class="tl">2.500 TL</span> + <span class="sb">2.500 SB</span><br><span class="hk">🗿 30 cm fiziksel heykel</span>',
+                                                       f'Each Job’s 1st: <span class="tl">2,500 TL</span> + <span class="sb">2,500 SB</span><br><span class="hk">🗿 30 cm physical statue</span>')),
+         ("🎁", L("100.000+ NP ÇEKİLİŞİ", "100,000+ NP RAFFLE"), L('<span class="hk">🗿 Job Heykeli</span> + <span class="sb">💎 SB</span><br>100.000 NP ve üzeri kasanlar',
+                                                                   '<span class="hk">🗿 Job Statue</span> + <span class="sb">💎 SB</span><br>players earning 100,000+ NP')),
+         ("📅", L("CSW TAKVİMİ", "CSW SCHEDULE"), L("17 · 18 · 20 · 22 Ekim<br>her gün <b>22:00</b> · 10 dk hazırlık + 60 dk savaş",
+                                                   "17 · 18 · 20 · 22 October<br>every day <b>22:00</b> · 10 min prep + 60 min battle")),
          ("🚀", "HYPER OFFICIAL", f'<b>{V.OFFICIAL.title().replace("Ekim", "Ekim")}</b><br>www.sexyko.com')]
     g = '<div class="g">' + "".join(f'<div class="kut"><div class="ic">{i}</div><div class="b">{b}</div><div class="d">{d}</div></div>' for i, b, d in k) + "</div>"
-    return SG.kart(g, "🏆 HYPER BETA ÖDÜLLERİ", f"Beta <b>{V.BETA[0]} · {V.BETA[1]}</b> — rekabet ilk günden başlıyor", ET, css)
+    return SG.kart(g, L("🏆 HYPER BETA ÖDÜLLERİ", "🏆 HYPER BETA REWARDS"),
+                   L(f"Beta <b>{V.BETA[0]} · {V.BETA[1]}</b> — rekabet ilk günden başlıyor", f"Beta <b>{V.BETA[0]} · {V.BETA[1]}</b> — the competition starts on day one"), ET, css)
 
 
 def o01():
@@ -55,14 +67,19 @@ def o01():
 .yol{{display:flex;align-items:center;justify-content:space-between;margin:6px 4px 16px;font-size:14px;color:{G}}}
 .yol .n{{text-align:center;flex:none}} .yol .n b{{display:block;color:#e8dcc8;font-size:15px}} .yol .c{{flex:1;height:3px;background:#6b5426;margin:0 8px}}
 .yol .bt b{{color:{TL_R}}} .yol .of b{{color:{VU}}}"""
-    yol = ('<div class="yol"><div class="n bt"><b>16 Ekim</b>Beta açılış</div><div class="c"></div>'
-           + '<div class="c"></div>'.join(f'<div class="n"><b>{t.split()[0]} Ekim</b>{"Final CSW" if "FİNAL" in a else a.split()[0] + " CSW"}</div>' for t, g, a, k in V.CSW)
-           + '<div class="c"></div><div class="n of"><b>23 Ekim</b>Official</div></div>')
-    kartlar = "".join(f'<div class="kut{" fn" if "FİNAL" in a else ""}"><div class="gn">{t.split()[0]}</div><div class="ay">EKİM 2026</div><div class="dy">{e(g.title().replace("İ", "i") if False else g)}</div>'
-                      f'<div class="ad">{"👑" if "FİNAL" in a else "🏰"} {e(a)}</div><div class="sa">🕙 22:00</div><div class="su">⏳ 10 dk hazırlık<br>⚔️ 60 dk savaş</div></div>' for t, g, a, k in V.CSW)
-    nt = (f'<div class="not">🕙 <b>22:00</b>\'de CSW hazırlık süreci başlar · ilk <b>10 dakika</b> hazırlık · ardından savaş, en fazla <b>60 dakika</b>.<br>'
-          f'👑 <b>Beta Final CSW</b> — Official açılıştan yalnızca 1 gün önce, Beta döneminin son Castle Siege War\'ı.</div>')
-    return SG.kart(yol + f'<div class="cs">{kartlar}</div>' + nt, "📅 BETA CSW TAKVİMİ", "4 büyük Castle Siege War · hepsi saat <b>22:00</b>", ET, css)
+    ay = L("Ekim", "Oct")
+    yol = (f'<div class="yol"><div class="n bt"><b>16 {ay}</b>' + L("Beta açılış", "Beta launch") + '</div><div class="c"></div>'
+           + '<div class="c"></div>'.join(f'<div class="n"><b>{t.split()[0]} {ay}</b>{"Final CSW" if a == FIN else a.split()[0] + " CSW"}</div>' for t, g, a, k in V.CSW)
+           + f'<div class="c"></div><div class="n of"><b>23 {ay}</b>Official</div></div>')
+    kartlar = "".join(f'<div class="kut{" fn" if a == FIN else ""}"><div class="gn">{t.split()[0]}</div><div class="ay">' + L("EKİM 2026", "OCTOBER 2026") + f'</div><div class="dy">{e(g)}</div>'
+                      f'<div class="ad">{"👑" if a == FIN else "🏰"} {e(a)}</div><div class="sa">🕙 22:00</div><div class="su">'
+                      + L("⏳ 10 dk hazırlık<br>⚔️ 60 dk savaş", "⏳ 10 min preparation<br>⚔️ 60 min battle") + '</div></div>' for t, g, a, k in V.CSW)
+    nt = L(f'<div class="not">🕙 <b>22:00</b>\'de CSW hazırlık süreci başlar · ilk <b>10 dakika</b> hazırlık · ardından savaş, en fazla <b>60 dakika</b>.<br>'
+           f'👑 <b>Beta Final CSW</b> — Official açılıştan yalnızca 1 gün önce, Beta döneminin son Castle Siege War\'ı.</div>',
+           '<div class="not">🕙 CSW preparation starts at <b>22:00</b> · first <b>10 minutes</b> preparation · then the battle, up to <b>60 minutes</b>.<br>'
+           '👑 <b>Beta Final CSW</b> — just 1 day before the Official launch, the last Castle Siege War of the Beta period.</div>')
+    return SG.kart(yol + f'<div class="cs">{kartlar}</div>' + nt, L("📅 BETA CSW TAKVİMİ", "📅 BETA CSW SCHEDULE"),
+                   L("4 büyük Castle Siege War · hepsi saat <b>22:00</b>", "4 big Castle Siege Wars · all at <b>22:00</b>"), ET, css)
 
 
 def o02():
@@ -72,9 +89,9 @@ def o02():
     kt = '<div class="kt">' + "".join(f'<div class="kut"><div class="ic">{i}</div><div class="ad">{e(a)}</div><div class="m">{para(tl) + "<br>" if tl else ""}{para(sb)}</div></div>'
                                       for i, a, tl, sb in V.CSW_ODUL) + "</div>"
     # 12 Eki: her-CSW toplami yeni tabloda yok -> sadece 4 CSW toplami
-    top = f'<div class="top"><div class="kut" style="border-color:{A}"><div class="t1">4 CSW GENEL TOPLAMI</div><div class="t2">{para(V.GENEL_TOPLAM[0])} · {para(V.GENEL_TOPLAM[1])}</div></div></div>'
-    kural = '<div class="not">⚠️ <b>CSW ÖDÜL KURALI</b><br>' + "<br>".join(f"◆ {e(x)}" for x in V.CSW_KURAL) + "</div>"
-    return SG.kart(kt + top + kural, "🏰 CSW ÖDÜLLERİ", "4 CSW'nin <b>her birinde</b> aynı ödüller dağıtılır", ET, css)
+    top = f'<div class="top"><div class="kut" style="border-color:{A}"><div class="t1">' + L("4 CSW GENEL TOPLAMI", "4 CSW GRAND TOTAL") + f'</div><div class="t2">{para(V.GENEL_TOPLAM[0])} · {para(V.GENEL_TOPLAM[1])}</div></div></div>'
+    kural = '<div class="not">⚠️ <b>' + L("CSW ÖDÜL KURALI", "CSW REWARD RULE") + '</b><br>' + "<br>".join(f"◆ {e(x)}" for x in V.CSW_KURAL) + "</div>"
+    return SG.kart(kt + top + kural, L("🏰 CSW ÖDÜLLERİ", "🏰 CSW REWARDS"), L("4 CSW'nin <b>her birinde</b> aynı ödüller dağıtılır", "The same rewards in <b>each</b> of the 4 CSWs"), ET, css)
 
 
 def o03():
@@ -86,9 +103,10 @@ def o03():
     s = {1: V.CLAN[0], 2: V.CLAN[1], 3: V.CLAN[2]}
     pd = '<div class="pd">' + "".join(f'<div class="s s{n}"><div class="ic">{s[n][0]}</div><div class="ad">{e(s[n][1])}</div><div class="m">{para(s[n][2])}</div>'
                                       f'<div class="bl"><span>{n}</span></div></div>' for n in (2, 1, 3)) + "</div>"
-    top = f'<div class="top"><div class="kut" style="border-color:{A}"><div class="t1">TOPLAM</div><div class="t2">{para(V.CLAN_TOPLAM)}</div></div></div>'
+    top = f'<div class="top"><div class="kut" style="border-color:{A}"><div class="t1">' + L("TOPLAM", "TOTAL") + f'</div><div class="t2">{para(V.CLAN_TOPLAM)}</div></div></div>'
     nt = '<div class="not">👑 ' + "<br>".join(e(x) for x in V.CLAN_NOT) + "</div>"
-    return SG.kart(pd + top + nt, "👑 CLAN SIRALAMA ÖDÜLLERİ", "Beta sonunda <b>genel Clan NP sıralaması</b>", ET, css)
+    return SG.kart(pd + top + nt, L("👑 CLAN SIRALAMA ÖDÜLLERİ", "👑 CLAN RANKING REWARDS"),
+                   L("Beta sonunda <b>genel Clan NP sıralaması</b>", "<b>Overall Clan NP ranking</b> at the end of the Beta"), ET, css)
 
 
 def o04():
@@ -101,7 +119,7 @@ def o04():
     sr = "".join(f'<div class="sr{" b1" if i == 0 else ""}"><div class="kut"><div class="ic">{ic}</div><div class="ad">{e(a)}</div><div class="m">'
                  + "".join(f"<span>{para(x)}</span>" for x in od) + "</div></div></div>" for i, (ic, a, od) in enumerate(V.JOB_ODUL))
     nt = f'<div class="not">⚔️ {e(V.JOB_NOT)}</div>'          # 12 Eki: 5.-10. sira tabloda yok
-    return SG.kart(jb + sr + nt, "⚔️ JOB SIRALAMA ÖDÜLLERİ", "5 job — <b>her job kendi içinde</b> ayrı sıralama", ET, css)
+    return SG.kart(jb + sr + nt, L("⚔️ JOB SIRALAMA ÖDÜLLERİ", "⚔️ JOB RANKING REWARDS"), L("5 job — <b>her job kendi içinde</b> ayrı sıralama", "5 jobs — <b>each job</b> is ranked separately"), ET, css)
 
 
 def o05():
@@ -109,10 +127,12 @@ def o05():
 .sr .ic{{font-size:40px;flex:none;width:52px;text-align:center}} .sr .ad{{font-size:19px;font-weight:900;color:{A2};width:250px;flex:none}}
 .sr .m{{font-size:21px;display:flex;flex-wrap:wrap;gap:6px 18px}} .sr.b1 .kut{{border:2px solid {A};background:linear-gradient(90deg,#3a2c14,#1d1712)}}
 .sart{{text-align:center;font-size:20px;font-weight:800;color:#e8dcc8;margin:0 0 14px}} .sart b{{color:{VU};font-size:24px}}"""
-    sart = '<div class="sart">Beta boyunca <b>100.000 NP</b> ve üzeri kas → çekilişe katılma hakkı</div>'
+    sart = L('<div class="sart">Beta boyunca <b>100.000 NP</b> ve üzeri kas → çekilişe katılma hakkı</div>',
+             '<div class="sart">Earn <b>100,000 NP</b> or more during the Beta → enter the raffle</div>')
     sr = "".join(f'<div class="sr{" b1" if i == 0 else ""}"><div class="kut"><div class="ic">{ic}</div><div class="ad">{e(a)}</div><div class="m">'
                  + "".join(f"<span>{para(x)}</span>" for x in od) + "</div></div></div>" for i, (ic, a, od) in enumerate(V.NP))
-    return SG.kart(sart + sr, "🎁 100.000+ NP BETA ÇEKİLİŞİ", "Özel Beta çekilişi — <b>1.’den 10.’ya</b> ödül", ET, css)
+    return SG.kart(sart + sr, L("🎁 100.000+ NP BETA ÇEKİLİŞİ", "🎁 100,000+ NP BETA RAFFLE"),
+                   L("Özel Beta çekilişi — <b>1.’den 10.’ya</b> ödül", "Special Beta raffle — rewards from <b>1st to 10th</b>"), ET, css)
 
 
 KARTLAR = [("O00_ozet.jpg", o00), ("O01_takvim.jpg", o01), ("O02_csw_odul.jpg", o02), ("O03_clan.jpg", o03), ("O04_job.jpg", o04), ("O05_np_cekilis.jpg", o05)]
@@ -122,7 +142,12 @@ if __name__ == "__main__":
         b = p.chromium.launch()
         pg = b.new_page(viewport={"width": 1000, "height": 800}, device_scale_factor=1)
         for ad, f in KARTLAR:
-            pg.set_content(f(), wait_until="load")
+            html = f()
+            if EN:                                                                 # Ingilizce resimde Turkce harf kalmasin
+                import re as _re
+                gorunen = _re.sub(r"<[^>]+>|<style>.*?</style>", " ", _re.sub(r"<style>.*?</style>", "", html, flags=_re.S))
+                assert not _re.search(r"[çğıöşüÇĞİÖŞÜ]", gorunen), (ad, _re.findall(r"\S*[çğıöşüÇĞİÖŞÜ]\S*", gorunen)[:5])
+            pg.set_content(html, wait_until="load")
             tas = pg.evaluate("(()=>{const k=document.querySelector('#kart'),kr=k.getBoundingClientRect().right;let m=0;k.querySelectorAll('*').forEach(e=>{m=Math.max(m,e.getBoundingClientRect().right)});return [kr,m,k.scrollWidth,k.clientWidth]})()")
             assert tas[1] <= tas[0] + 1 and tas[2] <= tas[3] + 1, (ad, "yazi kartin disina tasiyor", tas)
             pg.locator("#kart").screenshot(path=os.path.join(RD, ad), type="jpeg", quality=90)

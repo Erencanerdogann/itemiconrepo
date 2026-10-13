@@ -11,7 +11,7 @@ HEDEF = os.path.join(RR.REPO_KLASOR, "forum")
 HTML = os.path.join(os.path.dirname(KOK), "HTML", "FORUM_KONU.html")
 DISLA_KLASOR = {"rehber", "kaynak", "__pycache__"}
 # .gitignore: Sexyko'nunku /resim/'i disliyor -> repoda resimler commit disi kaliyordu (7 Eki)
-DISLA_DOSYA = {".gitignore", "AJAN_KOYARDIM_GOREV.md", "_skill_rehber_admin.py", "_skill_rehber_taslak.py", "_renk_aday.png",
+DISLA_DOSYA = {".gitignore", "AJAN_KOYARDIM_GOREV.md", "GM_CROSS_FORUM_AJANI.md", "_skill_rehber_admin.py", "_skill_rehber_taslak.py", "_renk_aday.png",
                "skill_master/admin_state.json", "skill_master/REHBER_SAYFA_TASLAK.md"}
 GIZLI = re.compile(r"gh[pousr]_[A-Za-z0-9]{20,}|xf_session|xf_csrf|_xfToken|bearer\s+[A-Za-z0-9._-]{20,}|api[_-]?key\s*[=:]|"
                    r"password\s*[=:]\s*\S|parola\s*[=:]\s*\S|@gmail\.com|@hotmail\.com|sa_password", re.I)
@@ -31,6 +31,9 @@ _bb = os.path.join(os.path.dirname(HTML), "FORUM_BBCODE.html")          # 8 Eki:
 if os.path.exists(_bb): kopya.append((_bb, os.path.join(HEDEF, "FORUM_BBCODE.html"), "FORUM_BBCODE.html"))
 # 7 Eki: konularin kullandigi her resmin ICERIK OZETLI kopyasi (link bu ada gider; eski adli dosya da kalir, eski forum linkleri bozulmaz)
 KONULAR = ["konu.json", "yeni_konu/konu.json", "yeni_konu/kisa/konu.json", "skill_master/konu.json", "odul/konu.json", "sezon/konu.json", "mining/konu.json", "genie/konu.json", "forum_kart/konu.json", "yayinci/konu.json", "pus_kupon/konu.json", "teamspeak/konu.json"]
+# 13 Eki aksam PATRON "go et": FORUM_KONU_EN.html resimleri (EN kartlar + resim_en/) — linkleri icerik ozetli ada gider
+KONULAR += ["forum_kart_en/konu.json", "odul/konu_en.json", "sezon/konu_en.json", "mining/konu_en.json", "genie/konu_en.json", "yayinci/konu_en.json",
+            "pus_kupon/konu_en.json", "teamspeak/konu_en.json", "skill_master/konu_en.json", "yeni_konu/konu_en.json", "yeni_konu/kisa/konu_en.json"]
 _ozet = {}
 for k in KONULAR:
     for x in json.load(open(os.path.join(KOK, *k.split("/")), encoding="utf-8"))["resimler"]:

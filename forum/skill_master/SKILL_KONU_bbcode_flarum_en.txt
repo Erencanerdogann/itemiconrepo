@@ -1,0 +1,166 @@
+⚔️ SEXYKO SKILL & MASTER GUIDE | All Jobs: Master, 70-80 Skills, Required Items | HYPER 16.10 🔥
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/resim/2_logo.3a3f29a4.png[/IMG][/CENTER]
+
+[CENTER][SIZE=26][B][COLOR=#c8a253]SKILL & MASTER GUIDE[/COLOR][/B][/SIZE]
+[SIZE=18][COLOR=#a89f91]Which job, which NPC, which item — from Master up to your 80 skill, step by step, all jobs in one topic.[/COLOR][/SIZE][/CENTER]
+
+[CENTER][SIZE=18][B][COLOR=#c8a253]📑 CONTENTS[/COLOR][/B][/SIZE]
+[SIZE=18][COLOR=#c8a253]01[/COLOR] · 🧭 ROADMAP IN 4 STEPS
+[COLOR=#c8a253]02[/COLOR] · 1️⃣ 1ST JOB CHANGE
+[COLOR=#c8a253]03[/COLOR] · ⌨️ SKILL WINDOW (K)
+[COLOR=#c8a253]04[/COLOR] · 📍 MASTER & SKILL NPCS — NAMES AND LOCATIONS
+[COLOR=#c8a253]05[/COLOR] · ⚔️ MASTER QUEST (2ND JOB) — ALL JOBS
+[COLOR=#c8a253]06[/COLOR] · 💎 WHERE DO MASTER ITEMS DROP
+[COLOR=#c8a253]07[/COLOR] · 📜 70 – 80 SKILL QUESTS
+[COLOR=#c8a253]08[/COLOR] · 💠 WHERE TO GET SPELL STONE POWDER?
+[COLOR=#c8a253]09[/COLOR] · 💡 TIPS
+[COLOR=#c8a253]10[/COLOR] · 🔗 LINKS[/SIZE][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]🧭 01 · ROADMAP IN 4 STEPS[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim_en/S00_yol_haritasi.f6553584.jpg[/IMG][/CENTER]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]1️⃣ 02 · 1ST JOB CHANGE[/COLOR][/B][/SIZE][/CENTER]
+
+[SIZE=18]If your character hasn't taken the 1st job yet: [B][COLOR=#e6c46a]Level 10+[/COLOR][/B] → [B][COLOR=#e6c46a][Grand Merchant] Kaishan[/COLOR][/B] in Moradon (816,703) → [B][COLOR=#e6c46a]3,000 coins[/COLOR][/B] → job change.[/SIZE]
+
+[SIZE=18][URL=https://sexyko.com/guide/quests/406][B][COLOR=#4fa3ff]📘 Open in guide: 1st job change ↗[/COLOR][/B][/URL][/SIZE]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]⌨️ 03 · SKILL WINDOW (K)[/COLOR][/B][/SIZE][/CENTER]
+
+[SIZE=18][B][COLOR=#e6c46a]K[/COLOR][/B] → Skill window. Every job has [B][COLOR=#e6c46a]4 tabs[/COLOR][/B], the last one is [B][COLOR=#e6c46a]Master[/COLOR][/B]. You assign points with the [B][COLOR=#e6c46a]▲[/COLOR][/B] next to the tab counter.[/SIZE]
+
+[SIZE=18][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Warrior[/COLOR][/B] — Attack · Defence · Passion · Master
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Rogue[/COLOR][/B] — Archery · Assassinate · Search · Master
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Mage[/COLOR][/B] — Fire · Ice · Lightning · Master
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Priest[/COLOR][/B] — Heal · Aura · Spirit · Master
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Kurian[/COLOR][/B] and [B][COLOR=#e6c46a]Porutu[/COLOR][/B] — Attack · Defence · Devil · Master[/SIZE]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/yeni_konu/resim/R07_skill.7cf15901.jpg[/IMG]
+[SIZE=18][COLOR=#a89f91]▲ Rogue example: Assassinate 80 + Search 48 + Master 20 = 148 points[/COLOR][/SIZE][/CENTER]
+
+[SIZE=18][COLOR=#3ecf8e]💡 To put points into the Master tab, first finish the [B][COLOR=#e6c46a]Master quest[/COLOR][/B].[/COLOR][/SIZE]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]📍 04 · MASTER & SKILL NPCS — NAMES AND LOCATIONS[/COLOR][/B][/SIZE][/CENTER]
+
+[SIZE=18]Every job has [B][COLOR=#e6c46a]its own NPC[/COLOR][/B]. There is [B][COLOR=#e6c46a]no[/COLOR][/B] separate skill NPC: [B][COLOR=#e6c46a]the same NPC gives both the master quest and the 70 – 80 skill quests.[/COLOR][/B] The NPCs are on the main map of their own nation:[/SIZE]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim_en/S08_npc.bbcb010b.jpg[/IMG][/CENTER]
+
+[SIZE=18][B][COLOR=#e6c46a]Karus[/COLOR][/B] → [B][COLOR=#e6c46a]Luferson Castle[/COLOR][/B] map:[/SIZE]
+
+[SIZE=18][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Warrior[/COLOR][/B] → [B][COLOR=#e6c46a][Warrior Master] Skaki[/COLOR][/B] · 387,1741
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Rogue[/COLOR][/B] → [B][COLOR=#e6c46a][Secret Agent] Clarence[/COLOR][/B] · 430,709
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Mage[/COLOR][/B] → [B][COLOR=#e6c46a][Archmage] Drake[/COLOR][/B] · 1696,806
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Priest[/COLOR][/B] → [B][COLOR=#e6c46a][Priest] Minerva[/COLOR][/B] · 381,1744
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Kurian[/COLOR][/B] → [B][COLOR=#e6c46a][Grand Elder] Morbor[/COLOR][/B] · 405,1728[/SIZE]
+
+[SIZE=18][B][COLOR=#e6c46a]El Morad[/COLOR][/B] → [B][COLOR=#e6c46a]El Morad Castle[/COLOR][/B] map:[/SIZE]
+
+[SIZE=18][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Warrior[/COLOR][/B] → [B][COLOR=#e6c46a][Warrior Master] Skaki[/COLOR][/B] · 1661,322
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Rogue[/COLOR][/B] → [B][COLOR=#e6c46a][Secret Agent] Clarence[/COLOR][/B] · 1632,1331
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Mage[/COLOR][/B] → [B][COLOR=#e6c46a][Archmage] Drake[/COLOR][/B] · 372,1226
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Priest[/COLOR][/B] → [B][COLOR=#e6c46a][Priest] Minerva[/COLOR][/B] · 1657,326
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Porutu[/COLOR][/B] → [B][COLOR=#e6c46a][Grand Elder] Atlas[/COLOR][/B] · 1650,331[/SIZE]
+
+[SIZE=18][COLOR=#3ecf8e]💡 The Warrior, Priest and Kurian / Porutu NPCs stand [B][COLOR=#e6c46a]side by side[/COLOR][/B]; the Rogue and Mage NPCs are elsewhere on the map.[/COLOR][/SIZE]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]⚔️ 05 · MASTER QUEST (2ND JOB) — ALL JOBS[/COLOR][/B][/SIZE][/CENTER]
+
+[SIZE=18][B][COLOR=#e6c46a]Level 60+[/COLOR][/B] · everyone collects [B][COLOR=#e6c46a]1 Unstable Kentaraus' Heart[/COLOR][/B] + [B][COLOR=#e6c46a]2 Essences[/COLOR][/B] specific to their job and brings them to the master NPC → you become [B][COLOR=#e6c46a]Master[/COLOR][/B].[/SIZE]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim_en/S01_master_tablo.527743f0.jpg[/IMG][/CENTER]
+
+[SIZE=18][B][COLOR=#e6c46a]How to do it — step by step:[/COLOR][/B][/SIZE]
+
+[SIZE=18][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]1 ·[/COLOR][/B] Go to your job's NPC (section 04) → talk → take the [B][COLOR=#e6c46a]master quest[/COLOR][/B] — the quest name is *2nd job change* (Kurian: *Second* · Porutu: *2nd job*)
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]2 ·[/COLOR][/B] Kill [B][COLOR=#e6c46a]Centaurs[/COLOR][/B] → [B][COLOR=#e6c46a]Unstable Kentaraus' Heart[/COLOR][/B] drops (50%) — purple dots on the map
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]3 ·[/COLOR][/B] Kill your job's [B][COLOR=#e6c46a]2 field bosses[/COLOR][/B] → [B][COLOR=#e6c46a]2 Essences[/COLOR][/B] drop (100%) — which boss: section 06
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]4 ·[/COLOR][/B] Go back to the NPC with the 3 items → hand in the quest → you're [B][COLOR=#e6c46a]Master[/COLOR][/B], and the [B][COLOR=#e6c46a]Master[/COLOR][/B] tab opens in the [B][COLOR=#e6c46a]K[/COLOR][/B] window[/SIZE]
+
+[SIZE=18]📘 Open in guide: [URL=https://sexyko.com/guide/quests/408]Warrior[/URL] · [URL=https://sexyko.com/guide/quests/409]Rogue[/URL] · [URL=https://sexyko.com/guide/quests/410]Mage[/URL] · [URL=https://sexyko.com/guide/quests/411]Priest[/URL] · [URL=https://sexyko.com/guide/quests/784]Kurian[/URL] · [URL=https://sexyko.com/guide/quests/781]Porutu[/URL][/SIZE]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]💎 06 · WHERE DO MASTER ITEMS DROP[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim_en/S02_master_item.acaf9744.jpg[/IMG][/CENTER]
+
+[SIZE=18][COLOR=#3ecf8e]💡 Names are as in the game: item [B][COLOR=#e6c46a]Urkthron's[/COLOR][/B] → boss [B][COLOR=#e6c46a]Urukthrone[/COLOR][/B] · item [B][COLOR=#e6c46a]Colmicola's[/COLOR][/B] → boss [B][COLOR=#e6c46a]Kamicollo[/COLOR][/B] · item [B][COLOR=#e6c46a]Trethonz's[/COLOR][/B] → boss [B][COLOR=#e6c46a]Trethorns[/COLOR][/B].[/COLOR][/SIZE]
+
+[SIZE=18]Field bosses and Centaurs are on [B][COLOR=#e6c46a]the main maps of both nations[/COLOR][/B] — kill them on your own side:[/SIZE]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim_en/S03_harita_karus.c3a886dd.jpg[/IMG][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim_en/S04_harita_elmorad.b299ada3.jpg[/IMG][/CENTER]
+
+[SIZE=18][URL=https://sexyko.com/guide/monsters][B][COLOR=#4fa3ff]📘 Open in guide: Monster List ↗[/COLOR][/B][/URL][/SIZE]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]📜 07 · 70 – 80 SKILL QUESTS[/COLOR][/B][/SIZE][/CENTER]
+
+[SIZE=18]After you become Master, [B][COLOR=#e6c46a]the same master NPC[/COLOR][/B] teaches the hidden skills. Each quest asks for [B][COLOR=#e6c46a]Spell Stone Powder[/COLOR][/B], and the reward is [B][COLOR=#e6c46a]that level's skill[/COLOR][/B].[/SIZE]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim_en/S05_skill_gorev.1a8fcf1c.jpg[/IMG][/CENTER]
+
+[SIZE=18][B][COLOR=#e6c46a]How to do it — step by step:[/COLOR][/B][/SIZE]
+
+[SIZE=18][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]1 ·[/COLOR][/B] First become [B][COLOR=#e6c46a]Master[/COLOR][/B] (section 05)
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]2 ·[/COLOR][/B] Collect as much [B][COLOR=#e6c46a]Spell Stone Powder[/COLOR][/B] as your job's total — where from: section 08
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]3 ·[/COLOR][/B] Go to the same NPC → take the [B][COLOR=#e6c46a]70Lv skill[/COLOR][/B] quest → hand in the powder → that skill unlocks
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]4 ·[/COLOR][/B] Then the others for your job: 72Lv · 74Lv · 75Lv … [B][COLOR=#e6c46a]80Lv skill[/COLOR][/B] — at Level 83 you can take them all on the same day[/SIZE]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]💠 08 · WHERE TO GET SPELL STONE POWDER?[/COLOR][/B][/SIZE][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim_en/S06_spell_stone.343a1aa3.jpg[/IMG][/CENTER]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim_en/S07_harita_ronark.9730e23f.jpg[/IMG][/CENTER]
+
+[SIZE=18][B][COLOR=#e6c46a]♻️ Spell Stone Powder with Narki[/COLOR][/B] — turn accessories you don't use into Spell Stone:[/SIZE]
+
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/skill_master/resim_en/S09_narki.295970ca.jpg[/IMG][/CENTER]
+
+[SIZE=18][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Where:[/COLOR][/B] Moradon · [B][COLOR=#e6c46a][Mysterious] Narki[/COLOR][/B] (4 of them, all the same) — 849,660 · 780,660 · 680,538 · 825,620
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]How:[/COLOR][/B] talk to Narki → give your accessory ([B][COLOR=#e6c46a]one at a time[/COLOR][/B]) → the accessory [B][COLOR=#e6c46a]disappears[/COLOR][/B] → [B][COLOR=#e6c46a]1 reward[/COLOR][/B] is drawn in return
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Old accessories[/COLOR][/B] pool (Old … accessories, 64 kinds) → 1 – 5 Spell Stones, average [B][COLOR=#e6c46a]≈ 2.4[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Accessories[/COLOR][/B] pool (normal accessories, 926 kinds) → 1 – 5 Spell Stones, average [B][COLOR=#e6c46a]≈ 1.6[/COLOR][/B] · 23.17% chance of a Forgotten Accessory Box
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Not allowed:[/COLOR][/B] bound, rented, sealed or timed items can't be given · an exchange can't be undone · you need free space in your inventory[/SIZE]
+
+[SIZE=18][URL=https://sexyko.com/guide/narki][B][COLOR=#4fa3ff]📘 Open in guide: Narki Exchange (search which pool your accessory falls into) ↗[/COLOR][/B][/URL][/SIZE]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]💡 09 · TIPS[/COLOR][/B][/SIZE][/CENTER]
+
+[SIZE=18][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Skill Preset:[/COLOR][/B] save your point distribution and switch between PK / farm / event with one click · [B][COLOR=#e6c46a]Save Quickslot:[/COLOR][/B] 4 separate skill bars — 💬 [URL=https://forum.sexyko.com/d/42]forum.sexyko.com/d/42[/URL]
+[COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Job Changer:[/COLOR][/B] right-click the item → choose a job, no NPC needed · first [B][COLOR=#e6c46a]remove all items you're wearing[/COLOR][/B] — 💬 [URL=https://forum.sexyko.com/d/28]forum.sexyko.com/d/28[/URL]
+[COLOR=#c8a253]◆[/COLOR] Careful: when you change job with the Job Changer [B][COLOR=#e6c46a]your skills are lost and everything resets[/COLOR][/B] — but [B][COLOR=#e6c46a]your master and 70 – 80 skill quests are not reset[/COLOR][/B]
+[COLOR=#c8a253]◆[/COLOR] If you don't know where an item drops from: [B][COLOR=#e6c46a]Ctrl + D[/COLOR][/B] on the item[/SIZE]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#c8a253]🔗 10 · LINKS[/COLOR][/B][/SIZE][/CENTER]
+
+[SIZE=18][COLOR=#c8a253]◆[/COLOR] 📘 Quests: [URL=https://sexyko.com/guide/quests]sexyko.com/guide/quests[/URL]
+[COLOR=#c8a253]◆[/COLOR] 👹 Monster List: [URL=https://sexyko.com/guide/monsters]sexyko.com/guide/monsters[/URL]
+[COLOR=#c8a253]◆[/COLOR] ♻️ Narki: [URL=https://sexyko.com/guide/narki]sexyko.com/guide/narki[/URL]
+[COLOR=#c8a253]◆[/COLOR] 💬 Forum: [URL=https://forum.sexyko.com]forum.sexyko.com[/URL]
+[COLOR=#c8a253]◆[/COLOR] 🌐 Web: [URL=https://sexyko.com]sexyko.com[/URL][/SIZE]
+
+[CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
+
+[CENTER][SIZE=22][B][COLOR=#d14841]🔥 SEXYKO — WHERE PVP BEGINS 🔥[/COLOR][/B][/SIZE][/CENTER]

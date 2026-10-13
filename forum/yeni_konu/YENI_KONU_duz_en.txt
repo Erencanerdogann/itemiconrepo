@@ -1,0 +1,413 @@
+📘 SEXYKO GAME GUIDE | All Systems, Shortcuts and Events in One Topic | HYPER 16.10 BETA 🔥
+
+[IMAGE R01]
+
+SEXYKO GAME GUIDE
+For the newcomer and the 16-year veteran alike — everything you need to know in one topic, with in-game screenshots.
+
+CONTENTS
+01 · 📖 THE GUIDE INSIDE THE GAME
+02 · ⌨️ SHORTCUTS AND INTERFACE
+03 · 🎁 STARTER PACK
+04 · 🧞 ADVANCED GENIE
+05 · ⚙️ F10 SETTINGS — 11 TABS
+06 · ⚔️ SKILL PRESET & QUICK SLOT
+07 · 👥 PARTY SETTINGS
+08 · 🖱️ THE RIGHT-CLICK ERA — NO MORE RUNNING TO NPCS
+09 · 🦸 SOLO CAPE
+10 · 💎 GEM & FRAGMENT · NARKI · PUS EXCHANGE
+11 · 🎯 DROP INFO · DROP SEARCH
+12 · 🌀 SLOT TELEPORT
+13 · 📊 GRIND TRACKER
+14 · ⛏️ AUTO MINING — MINING INN
+15 · 🛒 POWER UP STORE + COUPON
+16 · 🎡 WHEEL OF FORTUNE
+17 · 📅 DAILY QUESTS
+18 · ⏳ EVENT CALENDAR
+19 · 🏆 EVENT RULES
+20 · 🐉 DRAKI'S TOWER
+21 · 🔨 UPGRADE RATES
+22 · ⭐ REBIRTH
+23 · 👁️ EQUIPMENT VIEW
+24 · 🔗 LINKS
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📖 01 · THE GUIDE INSIDE THE GAME
+
+Click the 📖 book icon at the top left and the guide opens inside the game. The upgrade rates, conversion and mining pages are fed live from the server. The same guide is also open on the web: sexyko.com/guide (https://sexyko.com/guide/book)
+
+[IMAGE R02: In-game Guide — 14 tabs: Game Guide, Monster List, Quests, Upgrade, Drop Search, Gem & Fragment, Cross Trade, Shozin, Narki, PUS Exchange, Mining, Daily Quests, Event Rewards]
+📘 Open in guide: The full guide → https://sexyko.com/guide/book
+
+◆ 305 monsters — spawn point + drop list with percentages
+◆ 998 quests — NPC, requirement and reward
+◆ 380 Shozin recipes — materials + success rate
+◆ 139 cross trades · 45 PUS packs · 1,893 items that can be given to Narki
+◆ Search the guide with Ctrl + K — no need to type Turkish characters
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⌨️ 02 · SHORTCUTS AND INTERFACE
+
+◆ F10 — Settings (11 tabs)
+◆ K — Skill · Preset · Save Quickslot
+◆ U — Character Info · Perks · Rebirth · Stat Preset
+◆ H — Commands · Solo Cape · Streamer
+◆ I — Inventory
+◆ Ctrl + D (on an item) — which monsters drop the item and at what percentage
+◆ Shift + C — hide the interface
+◆ ⏳ Hourglass (top right) — event calendar · ⏱ (top left) — Grind Tracker
+◆ 🛒 (bottom left) — Power Up Store · 🎡 (bottom left) — Wheel of Fortune
+◆ Genie bar (top right) — ▶ start · ■ stop · ⬇ settings · remaining time
+
+[IMAGE R16 + R19: H — Command list · I — Inventory]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎁 03 · STARTER PACK
+
+When you create your character, starter equipment for the job you chose comes ready.
+
+◆ 3-day EXP Premium · 3-day Valkyrie Set · 3-day Pathos (2x)
+◆ 3-day Wings · 3-day Magic Bag · 3-day War Tattoo
+◆ 5,000 HP + 5,000 MP potions · 24-hour Genie
+
+[IMAGE F53_4: Warrior starter equipment]
+
+[IMAGE F53_1: Rogue starter equipment]
+
+[IMAGE F53_2: Mage starter equipment]
+
+[IMAGE F53_3: Priest starter equipment]
+
+[IMAGE F53_5: Kurian starter equipment]
+
+📋 Starting values for each job
+
+◆ Level 83 · 1,000,000,000 coins · 1,000 NP
+◆ 302 bonus stats · 148 free skill points
+
+◆ Warrior — STR 65 · STA 65 · DEX 60 · INT 50 · CHA 50
+◆ Thigh Bone · Warrior Earring ×2 · Warrior Pendant · Mercenary Ring ×2 · Body Belt
+
+◆ Rogue — STR 60 · STA 60 · DEX 70 · INT 50 · CHA 50
+◆ Skeleton Rib ×2 · Clarence's Training Bow · 500 Arrow · Assassin Earring ×2 · Warrior Pendant · Assassin Ring ×2 · Body Belt
+
+◆ Mage — STR 50 · STA 60 · DEX 60 · INT 70 · CHA 50
+◆ Eerie Skull Cane ×3 · Priest Earring ×2 · Cleric Pendant · Priest Ring ×2 · Body Belt
+
+◆ Priest — STR 50 · STA 60 · DEX 60 · INT 70 · CHA 50
+◆ Bone Breaker · Wolf Slayer Shield · Priest Earring ×2 · Cleric Pendant · Priest Ring ×2 · Body Belt
+
+◆ Kurian — STR 65 · STA 65 · DEX 60 · INT 50 · CHA 50
+◆ Thigh Bone · Warrior Earring ×2 · Warrior Pendant · Mercenary Ring ×2 · Body Belt
+
+◆ Every job gets: War Helmet · War Pauldron · War Pad · War Gauntlet · War Boots
+◆ In the bag: 1,000 Holy Water of Grace · 1,000 Spirit Potion · 30 Scroll of 1500HP Up · 30 Scroll of Armor 300 · 30 Scroll of Attack · Speed Up Rice Cake (Priest 30, others 3)
+
+📘 Open in guide: Starter Items → https://sexyko.com/guide/beginner-items
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🧞 04 · ADVANCED GENIE
+
+◆ 8 Attack + 8 Buff/Self + 8 Party skill slots — each row can be turned on / off separately
+◆ Set HP and MP potions by percentage (Smart Auto Use)
+◆ Party heal and self heal thresholds · Attack range slider
+◆ Monster List to Attack — Add Target / Remove / Clear All: Genie only hits the monsters on the list
+
+[IMAGE R03: Knight Genie — Main tab]
+
+◆ Combat: attack with R · go to the target · return to the hunting center
+◆ Maintenance: repair with a hammer · keep the premium flash bonus · feed the pet
+◆ Return to town: when the party breaks up · when the party dies · when arrows run out
+
+[IMAGE R04: Knight Genie — Misc tab]
+
+💡 While Genie is on, the skill bar is locked; stop it to go back to manual play.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚙️ 05 · F10 SETTINGS — 11 TABS
+
+Game · Sound · Display · Graphics · Advanced Graphics · Effects · Controls · Loot · Notifications · Font · Security
+
+◆ Game: camera · quest tracker window · weather and time of day
+◆ Sound: music, ambient, character & NPC, kill announcements — each separately
+◆ Display: window mode · resolution · FPS limit · interface scale 1x / 1.25x / 1.5x / 2x · HP/MP bar
+◆ Graphics: shadow, terrain, HDR, Bloom, ACES, MSAA / SMAA, AMD FSR 1
+
+[IMAGE R05: F10 — Game · Sound · Display · Graphics]
+
+◆ Advanced Graphics: contrast, saturation, temperature, tint + preset color profiles
+◆ Effects: turn off other players' skills and damage text in CZ
+◆ Controls: gamepad + movement keys — changes are saved instantly
+◆ Loot: filter by grade (Magic / Rare / Craft / Unique / Upgrade), upgrade, type and coin value
+
+[IMAGE R17: F10 — Advanced Graphics · Effects · Controls · Loot]
+
+◆ Notifications: system tips · slave merchant sales · critical supplies · repair · death notice
+◆ Font: chat, system, nick, clan, tag and item count text sizes
+
+[IMAGE R18: F10 — Notifications · Font]
+
+🔐 Security — 2nd Password (Pattern)
+
+When the pattern is on, it's asked at every login. F10 → Security → Change Pattern.
+
+[IMAGE R06: F10 — Security]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚔️ 06 · SKILL PRESET & QUICK SLOT
+
+Open with K. Preset saves your skill point distribution, Save Quickslot saves your skill bar layout — 4 separate Quick Slots, name them however you like. Switch quickly between PK, farm, party and event setups.
+
+[IMAGE R07: Skill window (K)]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+👥 07 · PARTY SETTINGS
+
+From the party panel settings, turn party members' HP · MP · Buff · Damage info on / off separately — set up the party screen to fit your play style.
+
+[IMAGE F11_2: Party Settings — HP · MP · Buff · Damage]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🖱️ 08 · THE RIGHT-CLICK ERA — NO MORE RUNNING TO NPCS
+
+[IMAGE F10_1: Right-click exchange]
+
+◆ KC · Dragon Wing · Gem · Fragment · Chest: right-click the item and exchange it without going to an NPC
+◆ When you open a Gem / Fragment / Chest: Sell Directly or Take to Inventory
+
+[IMAGE F10_5: Right-click the KC item → exchange it directly]
+
+♻️ Chaotic Generator — Single / Bulk Exchange
+
+◆ Exchange One — one by one · Exchange All — in bulk, up to your empty inventory slots
+◆ Right-click to darken the rewards you don't want → Sell (sell) · Storage (to the bank) · Trash (delete, gives no coins)
+
+[IMAGE F43_1: Chaotic Generator window]
+
+🏷️ Tag Name — Make Over — Nick — Job Changer
+
+◆ Tag Name: right-click → type your name → pick its color with RGB
+◆ Make Over Coupon: right-click → hair and face
+◆ Scroll of Identity: right-click → new nick
+◆ Job Changer: first remove all items you're wearing, then right-click → choose a job
+
+[IMAGE F30_2 + F30_3: Tag Name settings window · above the character]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🦸 09 · SOLO CAPE
+
+◆ A cape without joining a clan — buy it from PUS → right-click → pick a design → Purchase → Confirm
+◆ 15 days · 250 HP · 250 MP · 25 DEF · 3% AP
+◆ Football club capes: Beşiktaş · Galatasaray · Fenerbahçe · Trabzonspor
+◆ Change it later: the H → Solo Cape tab · cape effect 500 KC
+
+[IMAGE F44_2 + F44_3: Solo Cape selection screen · bonuses]
+
+[IMAGE F44_4 + F44_5: Beşiktaş · Galatasaray capes]
+
+[IMAGE F44_6 + F44_7: Fenerbahçe · Trabzonspor capes]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💎 10 · GEM & FRAGMENT · NARKI · PUS EXCHANGE
+
+Whatever you exchange — what comes out and at what percentage — it's all in the guide.
+
+[IMAGE R21: Guide — Gem & Fragment: what comes out of chests, gems and fragments]
+📘 Open in guide: Gem & Fragment → https://sexyko.com/guide/fragment
+
+◆ Narki: the item you give disappears and one reward is drawn in return; the item you give decides the pool
+◆ 4 pools: Special weapons · Weapons and armor · Old accessories · Accessories — 1,893 items accepted
+◆ Bound, rented, sealed or timed items can't be given · an exchange can't be undone
+
+[IMAGE R22: Guide — Narki pools and drop rates]
+📘 Open in guide: Narki Exchange → https://sexyko.com/guide/narki
+
+PUS Exchange: everything that comes out of the 45 packs — e.g. VIP Package → all 20 items at once.
+
+[IMAGE R23: Guide — PUS Exchange]
+📘 Open in guide: PUS Exchange → https://sexyko.com/guide/pus-crash
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 11 · DROP INFO · DROP SEARCH
+
+◆ Click a monster → the Drop Info box below: dropped items and their percentages
+◆ Type the item name in the search above → which monsters drop it and at what percentage
+
+[IMAGE F34_2 + F34_3: Drop Info — monster view · item search]
+
+◆ Right-click an item in the list → it darkens → Auto Loot won't pick it up
+◆ If you blocked it by mistake, remove it from the Blocked list
+◆ If CTRL + D is shown at the bottom of an item's description → press it to see the drop source
+
+[IMAGE F34_4 + F50_1: Blocked list · Drop Search (Ctrl + D)]
+
+[IMAGE R14: Guide — Monster List]
+📘 Open in guide: Monster List → https://sexyko.com/guide/monsters
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌀 12 · SLOT TELEPORT
+
+Go to the [Teleport] Portal NPC → choose the monster → teleport straight to its spot for 250,000 coins. Luferson · El Morad Castle · Eslant.
+
+[IMAGE F52_1 + F52_2: [Teleport] Portal · monster selection]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 13 · GRIND TRACKER
+
+The ⏱ icon at the top left: farm time, coins collected, average coins per hour, dropped items and items per hour — compare how efficient spots are, in game.
+
+[IMAGE F14_2: Opening the Farm Grind Tracker]
+
+[IMAGE R08: Grind Tracker window]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⛏️ 14 · AUTO MINING — MINING INN
+
+◆ Auto Mining products pile up in the Mining Inn — click the marked box
+◆ The Mining Inn storage is one-way: you can withdraw items, you can't deposit items
+
+[IMAGE F24_2 + F24_3: Mining Inn entrance · storage]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛒 15 · POWER UP STORE + COUPON
+
+◆ Bulk shopping with the Basket · Knight Cash and SexyBalance balances shown separately
+◆ Coupon field → CHECK: sponsor streamer discount code — up to 30% during campaigns
+◆ Coupons work on single items and in the Basket · not on VIP and Farm packs
+
+[IMAGE R09: Power Up Store (in game)]
+
+[IMAGE F27_2 + F51_1: Basket · discount code]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎡 16 · WHEEL OF FORTUNE
+
+Spin as much as you like for 350 KC, or stay online for 2 hours and earn 1 free spin.
+
+[IMAGE R10: Wheel of Fortune (Lucky Wheel)]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📅 17 · DAILY QUESTS
+
+◆ Click the Daily Quest section at the bottom left → choose a quest → Detail → Accept
+◆ The timer starts when you press Accept — finish before time runs out and the reward comes automatically
+◆ The guide lists 23 daily quests (Ronark Land) — e.g. Atross & Riote: 10 Atross + 10 Lyot → 500 Knight Cash
+
+[IMAGE F33_2: Daily Quest entrance (bottom left)]
+
+[IMAGE R20: Guide — Daily Quests]
+📘 Open in guide: Daily Quests → https://sexyko.com/guide/daily-quests
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⏳ 18 · EVENT CALENDAR
+
+The hourglass at the top right: hover = live info · click = calendar · Set notification → a warning 5 minutes before the event.
+
+[IMAGE F38_2 + F38_3: Hourglass — info window · event window]
+
+[IMAGE R11: Event Calendar (in game)]
+
+◆ Chaos Dungeon — every day 00:00
+◆ Border Defense War — every day 01:00 · 15:30 · 19:30
+◆ Juraid Mountain — every day 02:00 · 18:00
+◆ Chaos Stone War — every day 18:30
+◆ Rank War — every day 21:30
+◆ Draki's Tower — Sunday 00:00
+◆ Castle Siege War — Sunday 22:00
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 19 · EVENT RULES
+
+◆ Knight Chaos: 18 players, free, 20 minutes — everyone plays the same character with 10,000 HP; most kills and fewest deaths get ahead
+◆ Border Defense War: 8v8, 30 minutes — carry the altar to your base for 80 points, a kill is 2 points; first to 600 points wins
+◆ Juraid Mountain: 8v8 PvPvE, 50 minutes, Lv 70+ — the nation that kills Devabird wins
+◆ Forgotten Temple: 80 players, 100,000 Noah — [Priest] Iris (Moradon 815,921), monsters coming in waves
+◆ Castle Siege War: clan war for the Delos castle, 60 minutes — sign-up 100,000,000 Noah
+◆ Knight Royale: 80-player battle royale, everyone starts at level 1
+◆ Under the Castle: Lv 75+, 4 bosses — your equipment burns when you die, carry a Life Crystal
+
+[IMAGE R12: Guide — Knight Chaos rules and rewards]
+📘 Open in guide: Knight Chaos → https://sexyko.com/guide/book/chaos
+
+[IMAGE R25: Guide — Event Rewards (17 events)]
+📘 Open in guide: Event Rewards → https://sexyko.com/guide/event-rewards
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🐉 20 · DRAKI'S TOWER
+
+◆ Entrance: El Morad players at El Morad Castle, Karus players at Luferson Castle — Draki Rift
+◆ 5 stages, each with floors and bosses · final boss Draki El Rasaga
+◆ 3 entries per day · resets every day at 18:00 · a race against time, monthly ranking
+◆ At the end of stages 1-3: [Sundries] Ghost (repair + potions) and [Monster Strategist] (AP · DEF · 1,000 HP boost)
+
+[IMAGE R24: Guide — Draki's Tower]
+📘 Open in guide: Draki's Tower → https://sexyko.com/guide/book/draki
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔨 21 · UPGRADE RATES
+
+Rates are shown in the guide and live on the Anvil; the highest step is +8. Example — Blessed Upgrade Scroll (High Class):
+
+◆ +1 → +2 100% · +2 → +3 100% · +3 → +4 95% · +4 → +5 75%
+◆ +5 → +6 50% · +6 → +7 25% · +7 → +8 4%
+◆ The rate goes up with Trina's Piece · cost 120,000 – 360,000 coins
+
+[IMAGE R13: Guide — Upgrade Rates]
+📘 Open in guide: Upgrade Rates → https://sexyko.com/guide/upgrade
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ 22 · REBIRTH
+
+Level 83 + 100% EXP + 100,000,000 coins + 10,000 NP → Rebirth. Each Rebirth level gives +2 stat points. Check your status in the U → Rebirth tab.
+
+[IMAGE F49_1 + F49_2: Rebirth requirements · Rebirth process]
+
+[IMAGE R15: Character Info (U)]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+👁️ 23 · EQUIPMENT VIEW
+
+◆ Right-click a character → Equipment View
+◆ Equipped items and upgrade levels · inventory
+◆ Level · HP · MP · SP · STR · DEX · INT · Attack · Defence
+◆ 6 resistances (Fire · Ice · Lightning · Magic · Curse · Poison) · active Buff List
+
+[IMAGE F46_1: Opening Equipment View]
+
+[IMAGE F46_2: Equipment / Ability window]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔗 24 · LINKS
+
+◆ 🌐 Web: sexyko.com (https://sexyko.com)
+◆ 📘 Guide: sexyko.com/guide (https://sexyko.com/guide/book)
+◆ 💬 Forum: forum.sexyko.com (https://forum.sexyko.com)
+◆ 📥 Client: sexyko.com/download (https://sexyko.com/download)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔥 SEXYKO — WHERE PVP BEGINS 🔥

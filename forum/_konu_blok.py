@@ -10,6 +10,9 @@ A, A2, G, YE, K, M = Y.ALTIN, Y.ALTIN2, Y.GRI, Y.YESIL, Y.KIRMIZI, Y.MAVI
 PX = Y.PX
 CIZGI = "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 sat = Y.satir
+DIL = "tr"                                    # 13 Eki: EN surum -> uretici KB.DIL = "en" yapar (TR cikti degismez)
+_EN = {"İÇİNDEKİLER": "CONTENTS", "RESİM": "IMAGE", "İçindekiler": "Contents"}
+def _t(s): return _EN.get(s, s) if DIL == "en" else s
 
 
 def basliklar(B):
@@ -23,7 +26,7 @@ def bb(B):
         k = b[0]
         if k in ("banner", "afis"): o.append(f"[CENTER][IMG]{{{{{b[1]}}}}}[/IMG][/CENTER]")
         elif k == "baslik": o.append(f"[CENTER][SIZE=7][B][COLOR={A}]{b[1]}[/COLOR][/B][/SIZE]\n[SIZE=4][COLOR={G}]{b[2]}[/COLOR][/SIZE][/CENTER]")
-        elif k == "icindekiler": o.append(f"[CENTER][SIZE=5][B][COLOR={A}]📑 İÇİNDEKİLER[/COLOR][/B][/SIZE]\n[SIZE=4]" + "\n".join(f"[COLOR={A}]{NO[x]}[/COLOR] · {x[0]} {x[1]}" for x in L) + "[/SIZE][/CENTER]")
+        elif k == "icindekiler": o.append(f"[CENTER][SIZE=5][B][COLOR={A}]📑 {_t('İÇİNDEKİLER')}[/COLOR][/B][/SIZE]\n[SIZE=4]" + "\n".join(f"[COLOR={A}]{NO[x]}[/COLOR] · {x[0]} {x[1]}" for x in L) + "[/SIZE][/CENTER]")
         elif k == "ayrac": o.append(f"[CENTER][COLOR={A}]{CIZGI}[/COLOR][/CENTER]")
         elif k == "h": o.append(f"[CENTER][SIZE=6][B][COLOR={A}]{b[1]} {NO[(b[1], b[2])]} · {b[2]}[/COLOR][/B][/SIZE][/CENTER]")
         elif k == "p": o.append(f"[SIZE=4]{sat(b[1], 'bb')}[/SIZE]")
@@ -48,7 +51,7 @@ def onizleme(B):
         if k == "banner": o.append(c(f'<img src="{{{{{b[1]}}}}}" alt="" style="max-width:100%;width:520px">'))
         elif k == "afis": o.append(c(f'<img src="{{{{{b[1]}}}}}" alt="" style="max-width:100%">'))
         elif k == "baslik": o.append(c(f'<span style="font-size:{PX[7]}px;color:{A}"><b>{html.escape(b[1])}</b></span><br><span style="font-size:{PX[4]}px;color:{G}">{html.escape(b[2])}</span>'))
-        elif k == "icindekiler": o.append(c(f'<span style="font-size:{PX[5]}px;color:{A}"><b>📑 İÇİNDEKİLER</b></span><br><span style="font-size:{PX[4]}px">'
+        elif k == "icindekiler": o.append(c(f'<span style="font-size:{PX[5]}px;color:{A}"><b>📑 {_t("İÇİNDEKİLER")}</b></span><br><span style="font-size:{PX[4]}px">'
                                            + "<br>".join(f'<span style="color:{A}">{NO[x]}</span> · {html.escape(x[0])} {html.escape(x[1])}' for x in L) + "</span>"))
         elif k == "ayrac": o.append(c(f'<span style="color:{A}">{CIZGI}</span>'))
         elif k == "h": o.append(c(f'<span style="font-size:{PX[6]}px;color:{A}"><b>{b[1]} {NO[(b[1], b[2])]} · {html.escape(b[2])}</b></span>'))
@@ -70,7 +73,7 @@ def md(B):
         k = b[0]
         if k in ("banner", "afis"): o.append(f"![]({{{{{b[1]}}}}})")
         elif k == "baslik": o.append(f"# {b[1]}\n\n*{b[2]}*")
-        elif k == "icindekiler": o.append("## 📑 İçindekiler\n\n" + "\n".join(f"{NO[x]} · {x[0]} {x[1]}  " for x in L))
+        elif k == "icindekiler": o.append(f"## 📑 {_t('İçindekiler')}\n\n" +"\n".join(f"{NO[x]} · {x[0]} {x[1]}  " for x in L))
         elif k == "ayrac": o.append("---")
         elif k == "h": o.append(f"## {b[1]} {NO[(b[1], b[2])]} · {b[2]}")
         elif k in ("p", "not"): o.append(("💡 " if k == "not" else "") + sat(b[1], "md"))
@@ -87,10 +90,10 @@ def duz(B, RES):
     L, NO = basliklar(B); o = []
     for b in B:
         k = b[0]
-        if k in ("banner", "afis"): o.append(f"[RESİM {b[1]}]")
-        elif k == "img": o.append(f"[RESİM {b[1]}: {b[2] or RES[b[1]][1]}]")
+        if k in ("banner", "afis"): o.append(f"[{_t('RESİM')} {b[1]}]")
+        elif k == "img": o.append(f"[{_t('RESİM')} {b[1]}: {b[2] or RES[b[1]][1]}]")
         elif k == "baslik": o.append(f"{b[1]}\n{b[2]}")
-        elif k == "icindekiler": o.append("İÇİNDEKİLER\n" + "\n".join(f"{NO[x]} · {x[0]} {x[1]}" for x in L))
+        elif k == "icindekiler": o.append(_t("İÇİNDEKİLER") + "\n" + "\n".join(f"{NO[x]} · {x[0]} {x[1]}" for x in L))
         elif k == "ayrac": o.append(CIZGI)
         elif k == "h": o.append(f"{b[1]} {NO[(b[1], b[2])]} · {b[2]}")
         elif k == "son": o.append(b[1])
@@ -108,3 +111,9 @@ def denetle(BB, RES):
     assert jeton == set(RES), (jeton ^ set(RES))
     for a, z in [("[B]", "[/B]"), ("[CENTER]", "[/CENTER]"), ("[SIZE=", "[/SIZE]"), ("[COLOR=", "[/COLOR]"), ("[URL=", "[/URL]")]:
         assert BB.count(a) == BB.count(z), a
+
+
+def kaydet(out, B, RES, baslik):
+    """13 Eki: EN uretimi (_konu_en.py) icin TR bloklari -> <out>/bloklar.json. TR ciktiyi degistirmez."""
+    import json, os
+    json.dump({"baslik": baslik, "B": B, "RES": RES}, open(os.path.join(out, "bloklar.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=0)

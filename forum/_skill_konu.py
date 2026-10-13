@@ -9,6 +9,9 @@ import os, re, json, html, base64
 from PIL import Image
 import _yeni_konu as Y   # uzun konuyu da yeniden uretir (ayni cikti) — satir(), renkler, R01 logo, GIF linkleri oradan
 import _skill_veri as V
+EN = __name__ == "__main__" and "--en" in sys.argv     # 13 Eki aksam PATRON "ENG MI BU": python _skill_konu.py --en -> konu_en.json (ceviri skill_master/ceviri_en.json, resimler resim_en/)
+TT = lambda tr, en: en if EN else tr
+RA, RS = TT("Rehberde aç", "Open in guide"), TT("RESİM", "IMAGE")
 
 OUT = V.SM; RD = os.path.join(OUT, "resim")
 BASLIK = "⚔️ SEXYKO SKILL & MASTER REHBERİ | Tüm Joblar: Master, 70-80 Skill, Gereken İtemler | HYPER 16.10 🔥"
@@ -141,6 +144,15 @@ KONTROL = [
     "Tüm araştırma, kaynaklar, çelişkiler: `FORUM/skill_master/SKILL_MASTER.md`.",
 ]
 
+if EN:                                                   # TR bloklar -> EN (sozluk); Turkce yazili 2 GIF EN'de yok
+    import _konu_en as KE
+    _S = json.load(open(os.path.join(OUT, "ceviri_en.json"), encoding="utf-8")); _M = _S["metin"]
+    B = KE.cevir_bloklar([b for b in B if not (b[0] in ("afis", "banner", "img") and b[1] in KE.TR_GIF)], _M)
+    RES = {k: (d, KE.T(a, _M), u) for k, (d, a, u) in RES.items() if k not in KE.TR_GIF}
+    BASLIK = _S["baslik"]
+    KONTROL = ["**English version (13 Oct):** same structure as the Turkish topic — every text translated (`FORUM/skill_master/ceviri_en.json`), numbers, coordinates and links unchanged.",
+               "**Images S00–S09** redrawn in English (`FORUM/skill_master/resim_en/`, same layout). R07 (skill window) is the in-game screenshot. The Turkish countdown / calendar GIFs are not in the English version."]
+
 # ---------- cizim (_yeni_konu.py ile ayni gorunum)
 BASLIKLAR = [(b[1], b[2]) for b in B if b[0] == "h"]
 NO = {x: f"{i:02d}" for i, x in enumerate(BASLIKLAR, 1)}
@@ -153,14 +165,14 @@ def bb():
         k = b[0]
         if k in ("banner", "afis"): o.append(f"[CENTER][IMG]{{{{{b[1]}}}}}[/IMG][/CENTER]")
         elif k == "baslik": o.append(f"[CENTER][SIZE=7][B][COLOR={A}]{b[1]}[/COLOR][/B][/SIZE]\n[SIZE=4][COLOR={G}]{b[2]}[/COLOR][/SIZE][/CENTER]")
-        elif k == "icindekiler": o.append(f"[CENTER][SIZE=5][B][COLOR={A}]📑 İÇİNDEKİLER[/COLOR][/B][/SIZE]\n[SIZE=4]" + "\n".join(f"[COLOR={A}]{NO[x]}[/COLOR] · {x[0]} {x[1]}" for x in BASLIKLAR) + "[/SIZE][/CENTER]")
+        elif k == "icindekiler": o.append(f"[CENTER][SIZE=5][B][COLOR={A}]📑 {TT('İÇİNDEKİLER', 'CONTENTS')}[/COLOR][/B][/SIZE]\n[SIZE=4]" + "\n".join(f"[COLOR={A}]{NO[x]}[/COLOR] · {x[0]} {x[1]}" for x in BASLIKLAR) + "[/SIZE][/CENTER]")
         elif k == "ayrac": o.append(f"[CENTER][COLOR={A}]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]")
         elif k == "h": o.append(f"[CENTER][SIZE=6][B][COLOR={A}]{b[1]} {NO[(b[1], b[2])]} · {b[2]}[/COLOR][/B][/SIZE][/CENTER]")
         elif k == "p": o.append(f"[SIZE=4]{sat(b[1], 'bb')}[/SIZE]")
         elif k == "liste": o.append("[SIZE=4]" + "\n".join(f"[COLOR={A}]◆[/COLOR] {sat(x, 'bb')}" for x in b[1]) + "[/SIZE]")
         elif k == "img": o.append(f"[CENTER][IMG]{{{{{b[1]}}}}}[/IMG]" + (f"\n[SIZE=3][COLOR={G}]▲ {b[2]}[/COLOR][/SIZE]" if b[2] else "") + "[/CENTER]")
         elif k == "not": o.append(f"[SIZE=4][COLOR={YE}]💡 {sat(b[1], 'bb')}[/COLOR][/SIZE]")
-        elif k == "rlink": o.append(f"[SIZE=4][URL={V.REH}{b[2]}][B][COLOR={M}]📘 Rehberde aç: {b[1]} ↗[/COLOR][/B][/URL][/SIZE]")
+        elif k == "rlink": o.append(f"[SIZE=4][URL={V.REH}{b[2]}][B][COLOR={M}]📘 {RA}: {b[1]} ↗[/COLOR][/B][/URL][/SIZE]")
         elif k == "son": o.append(f"[CENTER][SIZE=6][B][COLOR={K}]{b[1]}[/COLOR][/B][/SIZE][/CENTER]")
     return "\n\n".join(o)
 
@@ -174,7 +186,7 @@ def onizleme():
         if k == "banner": o.append(c(f'<img src="{{{{{b[1]}}}}}" alt="" style="max-width:100%;width:520px">'))
         elif k == "afis": o.append(c(f'<img src="{{{{{b[1]}}}}}" alt="" style="max-width:100%">'))
         elif k == "baslik": o.append(c(f'<span style="font-size:{PX[7]}px;color:{A}"><b>{html.escape(b[1])}</b></span><br><span style="font-size:{PX[4]}px;color:{G}">{html.escape(b[2])}</span>'))
-        elif k == "icindekiler": o.append(c(f'<span style="font-size:{PX[5]}px;color:{A}"><b>📑 İÇİNDEKİLER</b></span><br><span style="font-size:{PX[4]}px">'
+        elif k == "icindekiler": o.append(c(f'<span style="font-size:{PX[5]}px;color:{A}"><b>📑 {TT("İÇİNDEKİLER", "CONTENTS")}</b></span><br><span style="font-size:{PX[4]}px">'
                                            + "<br>".join(f'<span style="color:{A}">{NO[x]}</span> · {html.escape(x[0])} {html.escape(x[1])}' for x in BASLIKLAR) + "</span>"))
         elif k == "ayrac": o.append(c(f'<span style="color:{A}">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>'))
         elif k == "h": o.append(c(f'<span style="font-size:{PX[6]}px;color:{A}"><b>{b[1]} {NO[(b[1], b[2])]} · {html.escape(b[2])}</b></span>'))
@@ -183,7 +195,7 @@ def onizleme():
         elif k == "img": o.append(c(f'<img src="{{{{{b[1]}}}}}" alt="{html.escape(b[2])}" style="max-width:100%">'
                                     + (f'<br><span style="font-size:{PX[3]}px;color:{G}">▲ {html.escape(b[2])}</span>' if b[2] else "")))
         elif k == "not": o.append(sl(f'<span style="font-size:{PX[4]}px;color:{YE}">💡 {sat(b[1], "html")}</span>'))
-        elif k == "rlink": o.append(sl(f'<a href="{V.REH}{b[2]}" target="_blank" rel="noopener" style="font-size:{PX[4]}px;color:{M};font-weight:700;text-decoration:none">📘 Rehberde aç: {html.escape(b[1])} ↗</a>'))
+        elif k == "rlink": o.append(sl(f'<a href="{V.REH}{b[2]}" target="_blank" rel="noopener" style="font-size:{PX[4]}px;color:{M};font-weight:700;text-decoration:none">📘 {RA}: {html.escape(b[1])} ↗</a>'))
         elif k == "son": o.append(c(f'<span style="font-size:{PX[6]}px;color:{K}"><b>{html.escape(b[1])}</b></span>'))
     return "<br>".join(o)
 
@@ -194,13 +206,13 @@ def md():
         k = b[0]
         if k in ("banner", "afis"): o.append(f"![]({{{{{b[1]}}}}})")
         elif k == "baslik": o.append(f"# {b[1]}\n\n*{b[2]}*")
-        elif k == "icindekiler": o.append("## 📑 İçindekiler\n\n" + "\n".join(f"{NO[x]} · {x[0]} {x[1]}  " for x in BASLIKLAR))
+        elif k == "icindekiler": o.append("## 📑 " + TT("İçindekiler", "Contents") + "\n\n" + "\n".join(f"{NO[x]} · {x[0]} {x[1]}  " for x in BASLIKLAR))
         elif k == "ayrac": o.append("---")
         elif k == "h": o.append(f"## {b[1]} {NO[(b[1], b[2])]} · {b[2]}")
         elif k in ("p", "not"): o.append(("💡 " if k == "not" else "") + sat(b[1], "md"))
         elif k == "liste": o.append("\n".join(f"- {sat(x, 'md')}" for x in b[1]))
         elif k == "img": o.append(f"![{b[2]}]({{{{{b[1]}}}}})" + (f"\n▲ *{b[2]}*" if b[2] else ""))
-        elif k == "rlink": o.append(f"**[📘 Rehberde aç: {b[1]} ↗]({V.REH}{b[2]})**")
+        elif k == "rlink": o.append(f"**[📘 {RA}: {b[1]} ↗]({V.REH}{b[2]})**")
         elif k == "son": o.append(f"**{b[1]}**")
     return "\n\n".join(o)
 
@@ -209,16 +221,16 @@ def duz():
     o = []
     for b in B:
         k = b[0]
-        if k in ("banner", "afis"): o.append(f"[RESİM {b[1]}]")
-        elif k == "img": o.append(f"[RESİM {b[1]}: {b[2] or RES[b[1]][1]}]")
+        if k in ("banner", "afis"): o.append(f"[{RS} {b[1]}]")
+        elif k == "img": o.append(f"[{RS} {b[1]}: {b[2] or RES[b[1]][1]}]")
         elif k == "baslik": o.append(f"{b[1]}\n{b[2]}")
-        elif k == "icindekiler": o.append("İÇİNDEKİLER\n" + "\n".join(f"{NO[x]} · {x[0]} {x[1]}" for x in BASLIKLAR))
+        elif k == "icindekiler": o.append(TT("İÇİNDEKİLER", "CONTENTS") + "\n" + "\n".join(f"{NO[x]} · {x[0]} {x[1]}" for x in BASLIKLAR))
         elif k == "ayrac": o.append("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         elif k == "h": o.append(f"{b[1]} {NO[(b[1], b[2])]} · {b[2]}")
         elif k == "son": o.append(b[1])
         elif k in ("p", "not"): o.append(("💡 " if k == "not" else "") + sat(b[1], "duz"))
         elif k == "liste": o.append("\n".join(f"◆ {sat(x, 'duz')}" for x in b[1]))
-        elif k == "rlink": o.append(f"📘 Rehberde aç: {b[1]} → {V.REH}{b[2]}")
+        elif k == "rlink": o.append(f"📘 {RA}: {b[1]} → {V.REH}{b[2]}")
     return "\n\n".join(o)
 
 
@@ -234,11 +246,11 @@ for j in V.JOB:                                    # her job metinde: ad + NPC +
 for gerekli in ("S00", "S01", "S02", "S05", "S08", "S09"):     # tabloyu tasiyan gorseller konuda
     assert "{{" + gerekli + "}}" in BB, gerekli
 res = []
-for rid in ["R01", "S00", "S01", "S02", "S03", "S04", "S05", "S06", "S07", "S08", "S09", "R07", "GSAYIM", "GTAKVIM"]:
+for rid in [x for x in ["R01", "S00", "S01", "S02", "S03", "S04", "S05", "S06", "S07", "S08", "S09", "R07", "GSAYIM", "GTAKVIM"] if x in RES]:
     dosya, acik, url = RES[rid]
-    d = {"id": rid, "aciklama": acik, "varsayilan_url": url, "dosya": None, "data": None, "kb": None, "boyut": None, "kaynak": "oyun/rehber"}
+    d = {"id": rid, "aciklama": acik, "varsayilan_url": url, "dosya": None, "data": None, "kb": None, "boyut": None, "kaynak": TT("oyun/rehber", "game/guide")}
     if dosya:
-        klasor, rel = (Y.RD, "FORUM/yeni_konu/resim/") if rid == "R07" else (RD, "FORUM/skill_master/resim/")
+        klasor, rel = (Y.RD, "FORUM/yeni_konu/resim/") if rid == "R07" else ((os.path.join(OUT, "resim_en"), "FORUM/skill_master/resim_en/") if EN else (RD, "FORUM/skill_master/resim/"))
         p = os.path.join(klasor, dosya); raw = open(p, "rb").read()
         with Image.open(p) as im:
             d["boyut"] = f"{im.width}x{im.height}"
@@ -248,9 +260,13 @@ assert len(res) == len(RES)
 import _repo_resim; _repo_resim.uygula(res)                       # 7 Eki: itemiconrepo linkli
 VERI = {"baslik": BASLIK, "bbcode": BB, "html": HT, "markdown": MD, "duz": DZ, "resimler": res, "kontrol": KONTROL,
         "bolum": [f"{NO[x]} · {x[0]} {x[1]}" for x in BASLIKLAR], "kaynak": "FORUM/skill_master/SKILL_MASTER.md + _skill_veri.py (sexyko.com/guide canlı, 6 Eki)"}
-json.dump(VERI, open(os.path.join(OUT, "konu.json"), "w", encoding="utf-8"), ensure_ascii=False)
-open(os.path.join(OUT, "SKILL_KONU_bbcode.txt"), "w", encoding="utf-8").write(BASLIK + "\n\n" + BB + "\n")
-open(os.path.join(OUT, "SKILL_KONU_markdown.md"), "w", encoding="utf-8").write("# " + BASLIK + "\n\n" + MD + "\n")
-open(os.path.join(OUT, "SKILL_KONU_duz.txt"), "w", encoding="utf-8").write(BASLIK + "\n\n" + DZ + "\n")
+_E = "_en" if EN else ""
+if EN: VERI["kaynak"] = "FORUM/skill_master/ceviri_en.json (= Turkish topic, translated)"
+json.dump(VERI, open(os.path.join(OUT, f"konu{_E}.json"), "w", encoding="utf-8"), ensure_ascii=False)
+open(os.path.join(OUT, f"SKILL_KONU_bbcode{_E}.txt"), "w", encoding="utf-8").write(BASLIK + "\n\n" + BB + "\n")
+open(os.path.join(OUT, f"SKILL_KONU_markdown{_E}.md"), "w", encoding="utf-8").write("# " + BASLIK + "\n\n" + MD + "\n")
+open(os.path.join(OUT, f"SKILL_KONU_duz{_E}.txt"), "w", encoding="utf-8").write(BASLIK + "\n\n" + DZ + "\n")
+if not EN:                                               # 13 Eki: EN icin TR bloklar (_konu_en.py sablon skill)
+    json.dump({"baslik": BASLIK, "B": B, "RES": RES}, open(os.path.join(OUT, "bloklar.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=0)
 print("SKILL: bölüm", len(BASLIKLAR), "· blok", len(B), "· resim", len(res), "· [IMG]", BB.count("[IMG]"), "· [URL]", BB.count("[URL="),
       "· bbcode", len(BB), "· başlık", len(BASLIK), "karakter · gömülü", sum(x["kb"] or 0 for x in res), "KB")

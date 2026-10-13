@@ -100,6 +100,7 @@ KONTROL = [
 
 L, NO = KB.basliklar(B)
 BB, HT, MD, DZ = KB.bb(B), KB.onizleme(B), KB.md(B), KB.duz(B, RES)
+KB.kaydet(OUT, B, RES, BASLIK)                       # 13 Eki: EN icin bloklar (_konu_en.py)
 KB.denetle(BB, RES)
 for s in [V.NASIL[0], *V.TEKLI, *V.SEPET, *V.PAKET, V.PAKET_NEDEN[0], *V.SPONSOR, *V.TAKIP, *V.OZEL, *V.OZEL_L, V.OZEL_SON]: assert s in BB, s
 assert len(BASLIK) <= 100 and "̇" not in BB, len(BASLIK)       # Turkce harf donusumu bozulmasin (birlesik nokta)
