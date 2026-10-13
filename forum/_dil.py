@@ -12,6 +12,7 @@ import _dil_en as D
 
 ORTAK_ANAHTAR = ["forum_tur_v1", "forum_zemin_v1", "forum_son_konu_v1", "forum_konu_acildi_v1", "forum_dil_v1"]   # iki dilde ortak (gorunum / secim)
 ICERIK = "textarea,script,style,.onz,pre,.rs,[id$=\"rsl\"],ul[id$=\"kl\"],#ftb,#dilsec"
+ICERIK_M = "textarea,script,style,.onz,pre,ul[id$=\"kl\"],#ftb,#dilsec"   # 13 Eki: yazi dugumu cevirisi resim listelerine de (hazir link / Indir ...) — HTML degismez
 
 CSS = """
 #dilsec{position:fixed;top:10px;right:14px;z-index:9999;display:flex;gap:0;border:1px solid #6b5426;border-radius:8px;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0,.5)}
@@ -30,7 +31,7 @@ var V_EN=/*__VERI_EN__*/null;
   S.getItem=function(x){return g.call(this,k(x))}; S.setItem=function(x,v){return s.call(this,k(x),v)}; S.removeItem=function(x){return r.call(this,k(x))};
 })();
 function DIL_V(T){ if(DIL!=="en"||!T||!V_EN) return T; for(var x in V_EN){ if(V_EN[x]){ T[x]=V_EN[x]; T[x]._en=1; } }
-  if(V_EN.tanitim){ ["baslik","bbcode","html","markdown","duz","resimler"].forEach(function(f){ T[f]=V_EN.tanitim[f]; }); }   // 13 Eki: tanitim verisi sayfanin kokunde
+  if(V_EN.tanitim){ ["baslik","bbcode","html","markdown","duz","resimler","forumlar"].forEach(function(f){ T[f]=V_EN.tanitim[f]; }); }   // 13 Eki: tanitim verisi sayfanin kokunde
   return T; }
 """
 
@@ -43,7 +44,7 @@ SON_JS = """
   if(DIL!=="en") return;
   var BLOK=__BLOK__, METIN=__METIN__, BASLIK=__BASLIK__, BUYUK=__BUYUK__, UI=__UI__;
   var KURAL=__KURAL__.map(function(k){return [new RegExp(k[0]),k[1]]});
-  var ICERIK='__ICERIK__';
+  var ICERIK='__ICERIK__', ICERIK_M='__ICERIK_M__';
   function norm(s){return s.replace(/\\s+/g," ").trim()}
   var EMO=/^((?:\\p{Extended_Pictographic}|\\uFE0F|\\u200D|\\s)*)(.*?)((?:\\s*⚠)?)$/u;
   function baslik(t){ if(BUYUK[t]) return BUYUK[t]; var m=t.match(EMO); if(!m) return null; var c=m[2];
@@ -58,7 +59,7 @@ SON_JS = """
     el.forEach(function(e){ if(!e.firstElementChild||e.closest(ICERIK)||!guvenli(e)) return; var h=norm(e.innerHTML);
       var y=BLOK[h]; if(!y){ var kk=kural(h); if(kk&&kk!==h) y=kk; } if(y) e.innerHTML=y; }); }
   function metin(kok){ var w=document.createTreeWalker(kok,NodeFilter.SHOW_TEXT), n, L=[]; while(n=w.nextNode()) L.push(n);
-    L.forEach(function(n){ var p=n.parentElement; if(!p||p.closest(ICERIK)) return; var v=n.nodeValue, t=norm(v); var y=cevir(t);
+    L.forEach(function(n){ var p=n.parentElement; if(!p||p.closest(ICERIK_M)) return; var v=n.nodeValue, t=norm(v); var y=cevir(t);
       if(y&&y!==t){ var b=v.match(/^\\s*/)[0], s=v.match(/\\s*$/)[0]; n.nodeValue=b+y+s; } });
     (kok.querySelectorAll?kok:document).querySelectorAll("[placeholder],[title]").forEach(function(e){ ["placeholder","title"].forEach(function(a){
       var v=e.getAttribute(a); var y=v&&cevir(norm(v)); if(y) e.setAttribute(a,y); }); }); }
@@ -90,7 +91,7 @@ def uygula(sab, dil):
     sab = sab.replace(a, "var V=DIL_V(/*__VERI__*/null);", 1)
     kural = [[re.sub(r"\(\?P<", "(?<", k), v] for k, v in D.KURAL]          # python regex -> JS (ayni sozdizimi)
     son = (SON_JS.replace("__BLOK__", _js(D.BLOK)).replace("__METIN__", _js(D.METIN)).replace("__BASLIK__", _js(D.BASLIK)).replace("__BUYUK__", _js(D.BUYUK))
-           .replace("__UI__", _js(D.UI_EN)).replace("__KURAL__", _js(kural)).replace("__ICERIK__", ICERIK.replace("'", "\\'")))
+           .replace("__UI__", _js(D.UI_EN)).replace("__KURAL__", _js(kural)).replace("__ICERIK__", ICERIK.replace("'", "\\'")).replace("__ICERIK_M__", ICERIK_M.replace("'", "\\'")))
     assert sab.count("</body>") == 1
     sab = sab.replace("</body>", "<script>" + son + "</script>\n</body>", 1).replace("</head>", "<style>" + CSS + "</style>\n</head>", 1)
     assert "/*__VERI_EN__*/null" in sab and "DIL_V(/*__VERI__*/null)" in sab

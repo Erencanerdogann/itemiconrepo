@@ -239,6 +239,7 @@ def kart(sec):
                         try: h_ = FK.cizim(kt)
                         finally: FK._ss = asil_ss
                         print(f"   d/{k['id']} {kt['id']}: kaynak 404 -> TR kartindan kirpildi")
+                    h_ = h_.replace("SEXYKO · — ", "SEXYKO · ")   # 13 Eki: konu adi "SexyKo — ..." ise ust etikette cift ayrac kaliyordu (d/25)
                     pg.set_content(h_, wait_until="load")
                     tas = pg.evaluate("(()=>{const k=document.querySelector('#kart'),kr=k.getBoundingClientRect().right;let m=0;k.querySelectorAll('*').forEach(e=>{m=Math.max(m,e.getBoundingClientRect().right)});return [kr,m,k.scrollWidth,k.clientWidth]})()")
                     assert tas[1] <= tas[0] + 1 and tas[2] <= tas[3] + 1, ("tasma", tas)

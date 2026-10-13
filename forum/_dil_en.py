@@ -77,6 +77,10 @@ BLOK = {
 
 # --- 2) KURAL: kalipli metin (38 forum konusu satirlari, sayaclar). (regex, js-yerine-koyma) — hem blok ic HTML'ine hem metin dugumune uygulanir.
 KURAL = [
+    # 13 Eki aksam: yayin oncesi kontrol — resim satirlari (JS sablonu) EN sayfada Turkce kalmisti
+    (r"^\(forum\.sexyko\.com görseli\)(.*)$", "(forum.sexyko.com image)$1"),
+    (r"^(.*) · konuda genişlik: tam$", "$1 · width in topic: full"),
+    (r"^(.*) · konuda genişlik: (.*)$", "$1 · width in topic: $2"),
     (r"^<b>🖼 Resimler</b> forumdaki linkleriyle \((\d+)\)(.*)$", "<b>🖼 Images</b> with their forum links ($1)$2"),
     (r"— <b>⚠ (\d+) kırık resim çıkarıldı</b>\.$", "— <b>⚠ $1 broken image(s) removed</b>."),
     (r"^forum\.sexyko\.com/d/(\d+) → <b>Düzenle</b> → <b>BBCode kopyala</b> → yapıştır\. Eski hali: <b>📜 Forumdaki hali</b>\.$",
@@ -100,6 +104,7 @@ KURAL = [
 
 # --- 3) METIN: tek metin dugumu / attribute (trim'li birebir)
 METIN = {
+    "✔ hazır link": "✔ ready link", "İndir": "Download", "Resmi aç / kaydet": "Open / save image", "büyük dosya": "large file",   # 13 Eki aksam
     "🌙 Koyu": "🌙 Dark", "☀️ Beyaz": "☀️ Light", "Forum zemini:": "Forum background:", "Forum türü:": "Forum type:", "Varsayılan": "Default",
     "Yapıştıracağın forumun mesaj zemini hangisiyse onu seç — BBCode renkleri ve önizleme ona göre değişir.":
         "Pick the post background of the forum you will paste into — BBCode colors and the preview adapt to it.",

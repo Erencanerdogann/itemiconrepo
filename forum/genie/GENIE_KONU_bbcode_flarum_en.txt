@@ -48,7 +48,7 @@
 
 [CENTER][SIZE=22][B][COLOR=#c8a253]⚔️ 03 · GENIE MAIN SETTINGS[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/genie/resim_en/G02_ana.700f3b4c.jpg[/IMG][/CENTER]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/genie/resim_en/G02_ana.bdb24877.jpg[/IMG][/CENTER]
 
 [SIZE=18]When you open the Genie settings, you see the main panel where you decide how your character behaves while farming. From skill use to potion percentages, many details are completely under your control.[/SIZE]
 
@@ -74,7 +74,7 @@
 
 [CENTER][SIZE=22][B][COLOR=#c8a253]🎯 05 · CHOOSE THE MONSTERS TO ATTACK[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/genie/resim_en/G04_mob.a41f70d6.jpg[/IMG][/CENTER]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/genie/resim_en/G04_mob.ec78db5f.jpg[/IMG][/CENTER]
 
 [SIZE=18]At the bottom right of the Genie screen there is a special target list where you choose which monsters your character attacks. With this system you can stop Genie from attacking every monster around.[/SIZE]
 
@@ -107,7 +107,7 @@
 
 [CENTER][SIZE=22][B][COLOR=#c8a253]🧩 07 · MISC / ADVANCED SETTINGS[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/genie/resim_en/G06_misc.2ec48928.jpg[/IMG][/CENTER]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/genie/resim_en/G06_misc.d5b28a43.jpg[/IMG][/CENTER]
 
 [SIZE=18]The Misc section in Genie lets you personalize the automatic farm system in more detail. This section has very useful extra options especially for characters like Priests and Rogues.[/SIZE]
 
@@ -125,7 +125,7 @@
 
 [CENTER][SIZE=22][B][COLOR=#c8a253]🚀 09 · HOW TO SET UP GENIE?[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/genie/resim_en/G07_kurulum.94a56d78.jpg[/IMG][/CENTER]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/genie/resim_en/G07_kurulum.81c9bb3e.jpg[/IMG][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 

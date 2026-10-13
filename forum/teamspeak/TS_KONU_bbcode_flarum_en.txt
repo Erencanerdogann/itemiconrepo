@@ -17,7 +17,7 @@
 
 [CENTER][SIZE=22][B][COLOR=#c8a253]🎙️ 01 · AT A GLANCE[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/teamspeak/resim_en/Q00_ozet.528e0345.jpg[/IMG][/CENTER]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/teamspeak/resim_en/Q00_ozet.b41cc1c7.jpg[/IMG][/CENTER]
 
 [SIZE=18]At SexyKO we've activated the Free TeamSpeak system to make our players' in-clan communication faster, more stable and easier.[/SIZE]
 
@@ -33,7 +33,7 @@
 
 [CENTER][SIZE=22][B][COLOR=#c8a253]🔹 03 · STEP 2 — CREATE YOUR SERVER DETAILS[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/teamspeak/resim_en/Q02_adim2.72831777.jpg[/IMG][/CENTER]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/teamspeak/resim_en/Q02_adim2.f2689a38.jpg[/IMG][/CENTER]
 
 [SIZE=18]Fill in the information requested on the screen that opens.[/SIZE]
 
@@ -49,7 +49,7 @@
 
 [CENTER][SIZE=22][B][COLOR=#c8a253]🔹 04 · STEP 3 — COMPLETE YOUR FIRST LOGIN WITH THE KEY[/COLOR][/B][/SIZE][/CENTER]
 
-[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/teamspeak/resim_en/Q03_adim3.581e928a.jpg[/IMG][/CENTER]
+[CENTER][IMG]https://cdn.jsdelivr.net/gh/Erencanerdogann/itemiconrepo@main/forum/teamspeak/resim_en/Q03_adim3.57d0ad62.jpg[/IMG][/CENTER]
 
 [SIZE=18]✅ [B][COLOR=#e6c46a]Done![/COLOR][/B] You can now start using your low-ping TeamSpeak service with your clan completely free.[/SIZE]
 

@@ -60,6 +60,29 @@ def _duz(bb):
     return re.sub(r"\n{3,}", "\n\n", s).strip()
 
 
+FORUM_AD = {"FrmTR — Knight Online bölümü": "FrmTR — Knight Online section", "Kocuce — KO PvP Serverlar Tanıtımı (forum)": "Kocuce — KO PvP Server Promotion (forum)",
+            "SroTurk — KO PvP Serverler tanıtım forumu": "SroTurk — KO PvP server promo forum"}
+FORUM_NOT = [(r"son paylaşım bugün", "last post today"), (r"son paylaşım dün", "last post yesterday"), (r"son paylaşım (\d+) gün önce", r"last post \1 days ago"),
+             (r"30 günde (\d+)", r"\1 in 30 days"), (r"Chrome ile ölçüldü", "measured with Chrome"),
+             (r"Reklam Alanları / Sponsorluklar \(ana sayfadaki bağlantı\)", "Ad Spaces / Sponsorships (link on the home page)"),
+             (r"Üst Sabit Reklam Alanı", "Top Fixed Ad Space"), (r"Reklam Alanları", "Ad Spaces"), (r"Reklam fiyatları / iletişim", "Ad prices / contact"),
+             (r"Reklam Paketleri", "Ad Packages"), (r"Reklam / İletişim", "Ads / Contact"), (r"Reklam Ver / Premium Sponsor", "Advertise / Premium Sponsor"),
+             (r"Reklam ve İletişim", "Ads and Contact"), (r"💰 Reklam\b", "💰 Ads"), (r"#(\d{1,3}(?:\.\d{3})+)", lambda m: "#" + m.group(1).replace(".", ","))]
+
+
+def forumlar_en(forumlar):
+    """13 Eki: forum listesi (REKLAM/DURUM.md notlari) EN — grup, ad, not. Kalan Turkce harf = ASSERT."""
+    out = []
+    for f in forumlar:
+        n = f["not"]
+        for a, b in FORUM_NOT: n = re.sub(a, b, n)
+        g = {"Forum": "Forum", "Tanıtım sitesi": "Promo site"}[f["grup"]]
+        e = dict(f, grup=g, ad=FORUM_AD.get(f["ad"], f["ad"]), **{"not": n})
+        assert not re.search(r"[ğüşıöçĞÜŞİÖÇ]", e["ad"] + e["not"]), (e["ad"], e["not"])
+        out.append(e)
+    return out
+
+
 def uret(baslik, bb, RES, forumlar):
     if not os.path.exists(SOZ): return None
     S = json.load(open(SOZ, encoding="utf-8")); M = S["metin"]
@@ -70,7 +93,7 @@ def uret(baslik, bb, RES, forumlar):
     assert not kalan, ("tanitim EN'de Turkce harf", kalan[:5])
     res = [dict(r) for r in RES if r["ad"] not in GIF]
     return {"baslik": S["baslik"], "bbcode": BB, "html": _tanitim_duzen.onizleme(BB), "markdown": _md(BB), "duz": _duz(BB),
-            "resimler": res, "forumlar": forumlar, "kaynak": "FORUM/tanitim_en.json (= Ko-Yardım promo topic, translated)"}
+            "resimler": res, "forumlar": forumlar_en(forumlar), "kaynak":"FORUM/tanitim_en.json (= Ko-Yardım promo topic, translated)"}
 
 
 def _tr_bb():
