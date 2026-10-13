@@ -15,7 +15,7 @@ Bossları Avla • Stamp Topla • Castellan Silahını Ürettir
 
 ⚔️ 01 · CASTELLAN NEDİR?
 
-[RESİM C00: Castellan bölgesi — çöl kalıntıları + kristal kaidesi]
+[RESİM C00: Castellan bölgesi — çöl kalıntıları]
 
 Castellan, SexyKO'nun en prestijli silah serilerinden biridir — ölmüş bir kale muhafızının (Castellan) mirasıdır.
 
@@ -38,13 +38,17 @@ Castellan silahına ulaşmak 3 aşamalı bir yoldur: anahtarı al, stamp topla, 
 
 [RESİM C06: [Shaman] Samaran — 5 Tarantula Tooth → Castellan's key]
 
+[RESİM C07: [Shaman] Samaran görev penceresi — 5 Tarantula Tooth topla]
+
+[RESİM C08: Görev ödülü — Castellan's key x1]
+
 2. ADIM — Castellan's Stamp Topla
 
 ◆ 4 Castellan bossunu (Wandering Knight Ghost, Mage Ghost, Wife of Castellan, Castellan Ghost) avla.
 ◆ Her boss Castellan's stamp düşürür; silah üretimi için 30 adet gerekir.
 ◆ En verimli boss Castellan Ghost — tek ölümden 9 stamp'e kadar.
 
-[RESİM C13: Ateşli ejder bossu + mor portal]
+[RESİM C11: Room of Dark Dragon — boss alanı (yeşil sunak + örümcekler)]
 
 3. ADIM — Castellan Silahını Ürettir
 
@@ -52,7 +56,7 @@ Castellan silahına ulaşmak 3 aşamalı bir yoldur: anahtarı al, stamp topla, 
 ◆ Topla: 30x Castellan's stamp + Blooded fantasy cube + Gold peels.
 ◆ Ödül: Stern castellan's sword + Smart castellan's sword, ayrıca Castellan's dignity + teachings ve Book of wisdom (Fire / Ice / Lightning).
 
-[RESİM C14: [Pontifex] Scardy — Castellan silah üretim görevi (Stern/Smart sword)]
+[RESİM C10: [Pontifex] Scardy — silah üretim NPC'si (Find a weapon of Dead Castle Owner)]
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -60,7 +64,7 @@ Castellan silahına ulaşmak 3 aşamalı bir yoldur: anahtarı al, stamp topla, 
 
 Kaleyi alan klan, Room of Dark Dragon bölgesinde 4 Castellan bossunu avlayabilir. Bosslar Castellan's stamp ve Blessed Upgrade Scroll düşürür. Boss ne kadar güçlüyse o kadar çok stamp verir — ana boss Castellan Ghost, diğerlerinin iki katından fazla drop bırakır.
 
-[RESİM C11: Room of Dark Dragon — yeşil sunak + örümcekler]
+[RESİM C13: Castellan bossu — ateşli ejder]
 
 ◆ Wandering Knight Ghost (ID 9254) — 417.232 HP · ortalama 2,25 eşya · Giriş bossu — stamp + Blessed Upgrade Scrolls
 ◆ Mage Ghost (ID 9255) — 577.232 HP · ortalama 2,30 eşya · Orta boss — stamp + Blessed Upgrade Scrolls
@@ -77,7 +81,9 @@ BOSS DROPLARI
 
 🗡️ 04 · CASTELLAN SİLAHLARI
 
-[RESİM C15: [Pontifex] Scardy — dignity + teachings + Book of wisdom ödülleri]
+[RESİM C14: [Pontifex] Scardy — silah üretim görevi (30 stamp → Stern/Smart sword)]
+
+[RESİM C15: Üretim ödülleri — dignity + teachings + Book of wisdom]
 
 Castellan silahları, her sınıfın kullanabileceği farklı tiplerde gelir. Hepsi Unique eşyadır ve +1'den +30'a kadar yükseltilebilir. Sınıfına uygun olanı ürettirirsin:
 
@@ -105,23 +111,19 @@ Castellan silahları, her sınıfın kullanabileceği farklı tiplerde gelir. He
 
 Room of Dark Dragon ve Castellan içeriğinden kareler.
 
+[RESİM C01: Castellan bölgesi — kale kalıntıları]
+
 [RESİM C02: Castellan bölgesi — kristal]
 
-[RESİM C03: Castellan bölgesi manzara]
+[RESİM C03: Castellan bölgesi — Delos manzara]
 
-[RESİM C04: Castellan bölgesi — manzara]
+[RESİM C04: [Sorcerer] Maria — Room of Dark Dragon'a giriş NPC'si]
 
-[RESİM C05: Castellan bölgesi — manzara 2]
+[RESİM C05: Room of Dark Dragon — mağara içi]
 
-[RESİM C07: Room of Dark Dragon 2]
+[RESİM C09: Işınlanma / portal efekti]
 
-[RESİM C08: Room of Dark Dragon 3]
-
-[RESİM C09: Portal ışınlanma efekti]
-
-[RESİM C10: Mağara geçidi]
-
-[RESİM C12: Mağara içi 2]
+[RESİM C12: [Unknown Tombstone] — ışınlanma noktası]
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

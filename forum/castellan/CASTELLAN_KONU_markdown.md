@@ -17,8 +17,8 @@
 
 ## ⚔️ 01 · CASTELLAN NEDİR?
 
-![Castellan bölgesi — çöl kalıntıları + kristal kaidesi]({{C00}})
-▲ *Castellan bölgesi — çöl kalıntıları + kristal kaidesi*
+![Castellan bölgesi — çöl kalıntıları]({{C00}})
+▲ *Castellan bölgesi — çöl kalıntıları*
 
 Castellan, SexyKO'nun en prestijli silah serilerinden biridir — ölmüş bir kale muhafızının (Castellan) mirasıdır.
 
@@ -42,14 +42,20 @@ Castellan silahına ulaşmak 3 aşamalı bir yoldur: anahtarı al, stamp topla, 
 ![[Shaman] Samaran — 5 Tarantula Tooth → Castellan's key]({{C06}})
 ▲ *[Shaman] Samaran — 5 Tarantula Tooth → Castellan's key*
 
+![[Shaman] Samaran görev penceresi — 5 Tarantula Tooth topla]({{C07}})
+▲ *[Shaman] Samaran görev penceresi — 5 Tarantula Tooth topla*
+
+![Görev ödülü — Castellan's key x1]({{C08}})
+▲ *Görev ödülü — Castellan's key x1*
+
 **2. ADIM — Castellan's Stamp Topla**
 
 - 4 Castellan bossunu (Wandering Knight Ghost, Mage Ghost, Wife of Castellan, Castellan Ghost) avla.
 - Her boss **Castellan's stamp** düşürür; silah üretimi için **30 adet** gerekir.
 - En verimli boss **Castellan Ghost** — tek ölümden 9 stamp'e kadar.
 
-![Ateşli ejder bossu + mor portal]({{C13}})
-▲ *Ateşli ejder bossu + mor portal*
+![Room of Dark Dragon — boss alanı (yeşil sunak + örümcekler)]({{C11}})
+▲ *Room of Dark Dragon — boss alanı (yeşil sunak + örümcekler)*
 
 **3. ADIM — Castellan Silahını Ürettir**
 
@@ -57,8 +63,8 @@ Castellan silahına ulaşmak 3 aşamalı bir yoldur: anahtarı al, stamp topla, 
 - Topla: **30x Castellan's stamp + Blooded fantasy cube + Gold peels**.
 - Ödül: **Stern castellan's sword + Smart castellan's sword**, ayrıca **Castellan's dignity + teachings** ve **Book of wisdom (Fire / Ice / Lightning)**.
 
-![[Pontifex] Scardy — Castellan silah üretim görevi (Stern/Smart sword)]({{C14}})
-▲ *[Pontifex] Scardy — Castellan silah üretim görevi (Stern/Smart sword)*
+![[Pontifex] Scardy — silah üretim NPC'si (Find a weapon of Dead Castle Owner)]({{C10}})
+▲ *[Pontifex] Scardy — silah üretim NPC'si (Find a weapon of Dead Castle Owner)*
 
 ---
 
@@ -66,8 +72,8 @@ Castellan silahına ulaşmak 3 aşamalı bir yoldur: anahtarı al, stamp topla, 
 
 Kaleyi alan klan, Room of Dark Dragon bölgesinde 4 Castellan bossunu avlayabilir. Bosslar Castellan's stamp ve Blessed Upgrade Scroll düşürür. Boss ne kadar güçlüyse o kadar çok stamp verir — ana boss Castellan Ghost, diğerlerinin iki katından fazla drop bırakır.
 
-![Room of Dark Dragon — yeşil sunak + örümcekler]({{C11}})
-▲ *Room of Dark Dragon — yeşil sunak + örümcekler*
+![Castellan bossu — ateşli ejder]({{C13}})
+▲ *Castellan bossu — ateşli ejder*
 
 - **Wandering Knight Ghost** (ID 9254) — 417.232 HP · ortalama 2,25 eşya · Giriş bossu — stamp + Blessed Upgrade Scrolls
 - **Mage Ghost** (ID 9255) — 577.232 HP · ortalama 2,30 eşya · Orta boss — stamp + Blessed Upgrade Scrolls
@@ -84,8 +90,11 @@ Kaleyi alan klan, Room of Dark Dragon bölgesinde 4 Castellan bossunu avlayabili
 
 ## 🗡️ 04 · CASTELLAN SİLAHLARI
 
-![[Pontifex] Scardy — dignity + teachings + Book of wisdom ödülleri]({{C15}})
-▲ *[Pontifex] Scardy — dignity + teachings + Book of wisdom ödülleri*
+![[Pontifex] Scardy — silah üretim görevi (30 stamp → Stern/Smart sword)]({{C14}})
+▲ *[Pontifex] Scardy — silah üretim görevi (30 stamp → Stern/Smart sword)*
+
+![Üretim ödülleri — dignity + teachings + Book of wisdom]({{C15}})
+▲ *Üretim ödülleri — dignity + teachings + Book of wisdom*
 
 Castellan silahları, her sınıfın kullanabileceği farklı tiplerde gelir. Hepsi **Unique** eşyadır ve **+1'den +30'a** kadar yükseltilebilir. Sınıfına uygun olanı ürettirirsin:
 
@@ -113,32 +122,26 @@ Castellan silahları, her sınıfın kullanabileceği farklı tiplerde gelir. He
 
 Room of Dark Dragon ve Castellan içeriğinden kareler.
 
+![Castellan bölgesi — kale kalıntıları]({{C01}})
+▲ *Castellan bölgesi — kale kalıntıları*
+
 ![Castellan bölgesi — kristal]({{C02}})
 ▲ *Castellan bölgesi — kristal*
 
-![Castellan bölgesi manzara]({{C03}})
-▲ *Castellan bölgesi manzara*
+![Castellan bölgesi — Delos manzara]({{C03}})
+▲ *Castellan bölgesi — Delos manzara*
 
-![Castellan bölgesi — manzara]({{C04}})
-▲ *Castellan bölgesi — manzara*
+![[Sorcerer] Maria — Room of Dark Dragon'a giriş NPC'si]({{C04}})
+▲ *[Sorcerer] Maria — Room of Dark Dragon'a giriş NPC'si*
 
-![Castellan bölgesi — manzara 2]({{C05}})
-▲ *Castellan bölgesi — manzara 2*
+![Room of Dark Dragon — mağara içi]({{C05}})
+▲ *Room of Dark Dragon — mağara içi*
 
-![Room of Dark Dragon 2]({{C07}})
-▲ *Room of Dark Dragon 2*
+![Işınlanma / portal efekti]({{C09}})
+▲ *Işınlanma / portal efekti*
 
-![Room of Dark Dragon 3]({{C08}})
-▲ *Room of Dark Dragon 3*
-
-![Portal ışınlanma efekti]({{C09}})
-▲ *Portal ışınlanma efekti*
-
-![Mağara geçidi]({{C10}})
-▲ *Mağara geçidi*
-
-![Mağara içi 2]({{C12}})
-▲ *Mağara içi 2*
+![[Unknown Tombstone] — ışınlanma noktası]({{C12}})
+▲ *[Unknown Tombstone] — ışınlanma noktası*
 
 ---
 

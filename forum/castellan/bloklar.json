@@ -20,7 +20,7 @@
 [
 "img",
 "C00",
-"Castellan bölgesi — çöl kalıntıları + kristal kaidesi"
+"Castellan bölgesi — çöl kalıntıları"
 ],
 [
 "p",
@@ -65,6 +65,16 @@
 "[Shaman] Samaran — 5 Tarantula Tooth → Castellan's key"
 ],
 [
+"img",
+"C07",
+"[Shaman] Samaran görev penceresi — 5 Tarantula Tooth topla"
+],
+[
+"img",
+"C08",
+"Görev ödülü — Castellan's key x1"
+],
+[
 "p",
 "**2. ADIM — Castellan's Stamp Topla**"
 ],
@@ -78,8 +88,8 @@
 ],
 [
 "img",
-"C13",
-"Ateşli ejder bossu + mor portal"
+"C11",
+"Room of Dark Dragon — boss alanı (yeşil sunak + örümcekler)"
 ],
 [
 "p",
@@ -95,8 +105,8 @@
 ],
 [
 "img",
-"C14",
-"[Pontifex] Scardy — Castellan silah üretim görevi (Stern/Smart sword)"
+"C10",
+"[Pontifex] Scardy — silah üretim NPC'si (Find a weapon of Dead Castle Owner)"
 ],
 [
 "ayrac"
@@ -112,8 +122,8 @@
 ],
 [
 "img",
-"C11",
-"Room of Dark Dragon — yeşil sunak + örümcekler"
+"C13",
+"Castellan bossu — ateşli ejder"
 ],
 [
 "liste",
@@ -146,8 +156,13 @@
 ],
 [
 "img",
+"C14",
+"[Pontifex] Scardy — silah üretim görevi (30 stamp → Stern/Smart sword)"
+],
+[
+"img",
 "C15",
-"[Pontifex] Scardy — dignity + teachings + Book of wisdom ödülleri"
+"Üretim ödülleri — dignity + teachings + Book of wisdom"
 ],
 [
 "p",
@@ -199,48 +214,38 @@
 ],
 [
 "img",
+"C01",
+"Castellan bölgesi — kale kalıntıları"
+],
+[
+"img",
 "C02",
 "Castellan bölgesi — kristal"
 ],
 [
 "img",
 "C03",
-"Castellan bölgesi manzara"
+"Castellan bölgesi — Delos manzara"
 ],
 [
 "img",
 "C04",
-"Castellan bölgesi — manzara"
+"[Sorcerer] Maria — Room of Dark Dragon'a giriş NPC'si"
 ],
 [
 "img",
 "C05",
-"Castellan bölgesi — manzara 2"
-],
-[
-"img",
-"C07",
-"Room of Dark Dragon 2"
-],
-[
-"img",
-"C08",
-"Room of Dark Dragon 3"
+"Room of Dark Dragon — mağara içi"
 ],
 [
 "img",
 "C09",
-"Portal ışınlanma efekti"
-],
-[
-"img",
-"C10",
-"Mağara geçidi"
+"Işınlanma / portal efekti"
 ],
 [
 "img",
 "C12",
-"Mağara içi 2"
+"[Unknown Tombstone] — ışınlanma noktası"
 ],
 [
 "ayrac"
@@ -257,7 +262,7 @@
 "RES": {
 "C00": [
 "C00.jpg",
-"Castellan bölgesi — çöl kalıntıları + kristal kaidesi"
+"Castellan bölgesi — çöl kalıntıları"
 ],
 "C01": [
 "C01.jpg",
@@ -269,15 +274,15 @@
 ],
 "C03": [
 "C03.jpg",
-"Castellan bölgesi manzara"
+"Castellan bölgesi — Delos manzara"
 ],
 "C04": [
 "C04.jpg",
-"Castellan bölgesi — manzara"
+"[Sorcerer] Maria — Room of Dark Dragon'a giriş NPC'si"
 ],
 "C05": [
 "C05.jpg",
-"Castellan bölgesi — manzara 2"
+"Room of Dark Dragon — mağara içi"
 ],
 "C06": [
 "C06.jpg",
@@ -285,39 +290,39 @@
 ],
 "C07": [
 "C07.jpg",
-"Room of Dark Dragon 2"
+"[Shaman] Samaran görev penceresi — 5 Tarantula Tooth topla"
 ],
 "C08": [
 "C08.jpg",
-"Room of Dark Dragon 3"
+"Görev ödülü — Castellan's key x1"
 ],
 "C09": [
 "C09.jpg",
-"Portal ışınlanma efekti"
+"Işınlanma / portal efekti"
 ],
 "C10": [
 "C10.jpg",
-"Mağara geçidi"
+"[Pontifex] Scardy — silah üretim NPC'si (Find a weapon of Dead Castle Owner)"
 ],
 "C11": [
 "C11.jpg",
-"Room of Dark Dragon — yeşil sunak + örümcekler"
+"Room of Dark Dragon — boss alanı (yeşil sunak + örümcekler)"
 ],
 "C12": [
 "C12.jpg",
-"Mağara içi 2"
+"[Unknown Tombstone] — ışınlanma noktası"
 ],
 "C13": [
 "C13.jpg",
-"Ateşli ejder bossu + mor portal"
+"Castellan bossu — ateşli ejder"
 ],
 "C14": [
 "C14.jpg",
-"[Pontifex] Scardy — Castellan silah üretim görevi (Stern/Smart sword)"
+"[Pontifex] Scardy — silah üretim görevi (30 stamp → Stern/Smart sword)"
 ],
 "C15": [
 "C15.jpg",
-"[Pontifex] Scardy — dignity + teachings + Book of wisdom ödülleri"
+"Üretim ödülleri — dignity + teachings + Book of wisdom"
 ]
 }
 }

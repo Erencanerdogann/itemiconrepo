@@ -16,7 +16,7 @@
 [CENTER][SIZE=6][B][COLOR=#c8a253]⚔️ 01 · CASTELLAN NEDİR?[/COLOR][/B][/SIZE][/CENTER]
 
 [CENTER][IMG]{{C00}}[/IMG]
-[SIZE=5][COLOR=#a89f91]▲ Castellan bölgesi — çöl kalıntıları + kristal kaidesi[/COLOR][/SIZE][/CENTER]
+[SIZE=5][COLOR=#a89f91]▲ Castellan bölgesi — çöl kalıntıları[/COLOR][/SIZE][/CENTER]
 
 [SIZE=5]Castellan, SexyKO'nun en prestijli silah serilerinden biridir — ölmüş bir kale muhafızının (Castellan) mirasıdır.[/SIZE]
 
@@ -40,14 +40,20 @@
 [CENTER][IMG]{{C06}}[/IMG]
 [SIZE=5][COLOR=#a89f91]▲ [Shaman] Samaran — 5 Tarantula Tooth → Castellan's key[/COLOR][/SIZE][/CENTER]
 
+[CENTER][IMG]{{C07}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ [Shaman] Samaran görev penceresi — 5 Tarantula Tooth topla[/COLOR][/SIZE][/CENTER]
+
+[CENTER][IMG]{{C08}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Görev ödülü — Castellan's key x1[/COLOR][/SIZE][/CENTER]
+
 [SIZE=5][B][COLOR=#e6c46a]2. ADIM — Castellan's Stamp Topla[/COLOR][/B][/SIZE]
 
 [SIZE=5][COLOR=#c8a253]◆[/COLOR] 4 Castellan bossunu (Wandering Knight Ghost, Mage Ghost, Wife of Castellan, Castellan Ghost) avla.
 [COLOR=#c8a253]◆[/COLOR] Her boss [B][COLOR=#e6c46a]Castellan's stamp[/COLOR][/B] düşürür; silah üretimi için [B][COLOR=#e6c46a]30 adet[/COLOR][/B] gerekir.
 [COLOR=#c8a253]◆[/COLOR] En verimli boss [B][COLOR=#e6c46a]Castellan Ghost[/COLOR][/B] — tek ölümden 9 stamp'e kadar.[/SIZE]
 
-[CENTER][IMG]{{C13}}[/IMG]
-[SIZE=5][COLOR=#a89f91]▲ Ateşli ejder bossu + mor portal[/COLOR][/SIZE][/CENTER]
+[CENTER][IMG]{{C11}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Room of Dark Dragon — boss alanı (yeşil sunak + örümcekler)[/COLOR][/SIZE][/CENTER]
 
 [SIZE=5][B][COLOR=#e6c46a]3. ADIM — Castellan Silahını Ürettir[/COLOR][/B][/SIZE]
 
@@ -55,8 +61,8 @@
 [COLOR=#c8a253]◆[/COLOR] Topla: [B][COLOR=#e6c46a]30x Castellan's stamp + Blooded fantasy cube + Gold peels[/COLOR][/B].
 [COLOR=#c8a253]◆[/COLOR] Ödül: [B][COLOR=#e6c46a]Stern castellan's sword + Smart castellan's sword[/COLOR][/B], ayrıca [B][COLOR=#e6c46a]Castellan's dignity + teachings[/COLOR][/B] ve [B][COLOR=#e6c46a]Book of wisdom (Fire / Ice / Lightning)[/COLOR][/B].[/SIZE]
 
-[CENTER][IMG]{{C14}}[/IMG]
-[SIZE=5][COLOR=#a89f91]▲ [Pontifex] Scardy — Castellan silah üretim görevi (Stern/Smart sword)[/COLOR][/SIZE][/CENTER]
+[CENTER][IMG]{{C10}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ [Pontifex] Scardy — silah üretim NPC'si (Find a weapon of Dead Castle Owner)[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
@@ -64,8 +70,8 @@
 
 [SIZE=5]Kaleyi alan klan, Room of Dark Dragon bölgesinde 4 Castellan bossunu avlayabilir. Bosslar Castellan's stamp ve Blessed Upgrade Scroll düşürür. Boss ne kadar güçlüyse o kadar çok stamp verir — ana boss Castellan Ghost, diğerlerinin iki katından fazla drop bırakır.[/SIZE]
 
-[CENTER][IMG]{{C11}}[/IMG]
-[SIZE=5][COLOR=#a89f91]▲ Room of Dark Dragon — yeşil sunak + örümcekler[/COLOR][/SIZE][/CENTER]
+[CENTER][IMG]{{C13}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Castellan bossu — ateşli ejder[/COLOR][/SIZE][/CENTER]
 
 [SIZE=5][COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Wandering Knight Ghost[/COLOR][/B] (ID 9254) — 417.232 HP · ortalama 2,25 eşya · Giriş bossu — stamp + Blessed Upgrade Scrolls
 [COLOR=#c8a253]◆[/COLOR] [B][COLOR=#e6c46a]Mage Ghost[/COLOR][/B] (ID 9255) — 577.232 HP · ortalama 2,30 eşya · Orta boss — stamp + Blessed Upgrade Scrolls
@@ -82,8 +88,11 @@
 
 [CENTER][SIZE=6][B][COLOR=#c8a253]🗡️ 04 · CASTELLAN SİLAHLARI[/COLOR][/B][/SIZE][/CENTER]
 
+[CENTER][IMG]{{C14}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ [Pontifex] Scardy — silah üretim görevi (30 stamp → Stern/Smart sword)[/COLOR][/SIZE][/CENTER]
+
 [CENTER][IMG]{{C15}}[/IMG]
-[SIZE=5][COLOR=#a89f91]▲ [Pontifex] Scardy — dignity + teachings + Book of wisdom ödülleri[/COLOR][/SIZE][/CENTER]
+[SIZE=5][COLOR=#a89f91]▲ Üretim ödülleri — dignity + teachings + Book of wisdom[/COLOR][/SIZE][/CENTER]
 
 [SIZE=5]Castellan silahları, her sınıfın kullanabileceği farklı tiplerde gelir. Hepsi [B][COLOR=#e6c46a]Unique[/COLOR][/B] eşyadır ve [B][COLOR=#e6c46a]+1'den +30'a[/COLOR][/B] kadar yükseltilebilir. Sınıfına uygun olanı ürettirirsin:[/SIZE]
 
@@ -111,32 +120,26 @@
 
 [SIZE=5]Room of Dark Dragon ve Castellan içeriğinden kareler.[/SIZE]
 
+[CENTER][IMG]{{C01}}[/IMG]
+[SIZE=5][COLOR=#a89f91]▲ Castellan bölgesi — kale kalıntıları[/COLOR][/SIZE][/CENTER]
+
 [CENTER][IMG]{{C02}}[/IMG]
 [SIZE=5][COLOR=#a89f91]▲ Castellan bölgesi — kristal[/COLOR][/SIZE][/CENTER]
 
 [CENTER][IMG]{{C03}}[/IMG]
-[SIZE=5][COLOR=#a89f91]▲ Castellan bölgesi manzara[/COLOR][/SIZE][/CENTER]
+[SIZE=5][COLOR=#a89f91]▲ Castellan bölgesi — Delos manzara[/COLOR][/SIZE][/CENTER]
 
 [CENTER][IMG]{{C04}}[/IMG]
-[SIZE=5][COLOR=#a89f91]▲ Castellan bölgesi — manzara[/COLOR][/SIZE][/CENTER]
+[SIZE=5][COLOR=#a89f91]▲ [Sorcerer] Maria — Room of Dark Dragon'a giriş NPC'si[/COLOR][/SIZE][/CENTER]
 
 [CENTER][IMG]{{C05}}[/IMG]
-[SIZE=5][COLOR=#a89f91]▲ Castellan bölgesi — manzara 2[/COLOR][/SIZE][/CENTER]
-
-[CENTER][IMG]{{C07}}[/IMG]
-[SIZE=5][COLOR=#a89f91]▲ Room of Dark Dragon 2[/COLOR][/SIZE][/CENTER]
-
-[CENTER][IMG]{{C08}}[/IMG]
-[SIZE=5][COLOR=#a89f91]▲ Room of Dark Dragon 3[/COLOR][/SIZE][/CENTER]
+[SIZE=5][COLOR=#a89f91]▲ Room of Dark Dragon — mağara içi[/COLOR][/SIZE][/CENTER]
 
 [CENTER][IMG]{{C09}}[/IMG]
-[SIZE=5][COLOR=#a89f91]▲ Portal ışınlanma efekti[/COLOR][/SIZE][/CENTER]
-
-[CENTER][IMG]{{C10}}[/IMG]
-[SIZE=5][COLOR=#a89f91]▲ Mağara geçidi[/COLOR][/SIZE][/CENTER]
+[SIZE=5][COLOR=#a89f91]▲ Işınlanma / portal efekti[/COLOR][/SIZE][/CENTER]
 
 [CENTER][IMG]{{C12}}[/IMG]
-[SIZE=5][COLOR=#a89f91]▲ Mağara içi 2[/COLOR][/SIZE][/CENTER]
+[SIZE=5][COLOR=#a89f91]▲ [Unknown Tombstone] — ışınlanma noktası[/COLOR][/SIZE][/CENTER]
 
 [CENTER][COLOR=#c8a253]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/COLOR][/CENTER]
 
